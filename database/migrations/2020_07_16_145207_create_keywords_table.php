@@ -17,7 +17,6 @@ class CreateKeywordsTable extends Migration
             $table->id();
             $table->timestamps();
             $table->string('name');
-            $table->unsignedBigInteger('entry_id')->nullable();
         });
     }
 

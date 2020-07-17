@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'ReportsController@index')->name('index');
+Route::get('/create', 'ReportsController@create')->name('create');

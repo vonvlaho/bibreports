@@ -26,8 +26,7 @@ class CreateEntriesTable extends Migration
             $table->integer('startingYear')->nullable();
             $table->integer('finishingYear')->nullable();
             $table->string('abstract')->nullable();
-            $table->unsignedBigInteger('author_id');
-            $table->unsignedBigInteger('entry_id')->nullable();
+            $table->foreignId('report_id')->nullable();
         });
     }
 
