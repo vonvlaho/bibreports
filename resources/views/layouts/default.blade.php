@@ -6,7 +6,7 @@
 
     <title>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto Mono" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
 </head>

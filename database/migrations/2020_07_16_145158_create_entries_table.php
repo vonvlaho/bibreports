@@ -25,9 +25,10 @@ class CreateEntriesTable extends Migration
             $table->string('place')->nullable();
             $table->integer('startingYear')->nullable();
             $table->integer('finishingYear')->nullable();
-            $table->string('abstract')->nullable();
-            $table->foreignId('report_id')->nullable();
+            $table->text('abstract')->nullable();
+            $table->foreignId('report_id');
         });
+        Schema::enableForeignKeyConstraints();
     }
 
     /**

@@ -6,6 +6,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Entry extends Model
 {
+    protected $fillable = ['entryNo', 'title', 'report_id', 'type', 'seriesTitle', 'issue',
+            'publicationYear', 'place', 'startingYear', 'finishingYear', 'abstract'];
+
     public  function report()
     {
         return $this->belongsTo(Report::Class);

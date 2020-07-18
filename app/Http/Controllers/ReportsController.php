@@ -17,33 +17,38 @@ class ReportsController extends Controller
         $xml = file_get_contents('../database/data/test.xml');
         $sourceData = XmlToArray::convert($xml);
 
-        $report = new Report();
-        $report->title = $sourceData['title'];
-        $report->editor = $sourceData['editor'];
-        $report->publisher = $sourceData['publisher'];
-        $report->year = $sourceData['year'];
-        $report->save();
+        $report = Report::updateOrCreate(
+            ['year' => $sourceData['year']],
+            [
+                'title' => $sourceData['title'],
+                'editor' => $sourceData['editor'] ?? NULL,
+                'publisher' => $sourceData['publisher'] ?? NULL
+            ]
+        );
 
         foreach ($sourceData['entry'] as $sourceEntry) {
-            $author = new Author();
-            $author->familyName = $sourceEntry['author']['familyName'];
-            $author->givenName = $sourceEntry['author']['givenName'];
-            $author->gender = $sourceEntry['author']['gender'];
-            $author->save();
-
-            $entry = new Entry();
-            $entry->entryNo = $sourceEntry['entryNo'];
-            $entry->type = $sourceEntry['type'];
-            $entry->title = $sourceEntry['title'];
-            $entry->seriesTitle = $sourceEntry['seriesTitle'];
-            $entry->issue = $sourceEntry['issue'];
-            $entry->publicationYear = $sourceEntry['publicationYear'];
-            $entry->place = $sourceEntry['place'];
-            $entry->startingYear = $sourceEntry['startingYear'];
-            $entry->finishingYear = $sourceEntry['finishingYear'];
-            $entry->abstract = $sourceEntry['abstract'];
-            $entry->report_id->associate($report);
-            $entry->save();
+            $author = Author::updateOrCreate(
+                [
+                    'familyName' => $sourceEntry['author']['familyName'],
+                    'givenName' => $sourceEntry['author']['givenName']
+                ],
+                ['gender' => $sourceEntry['author']['gender'] ?? NULL]
+            );
+            $entry = Entry::updateOrCreate(
+                ['entryNo' => $sourceEntry['entryNo']],
+                [
+                    'type' => $sourceEntry['type'] ?? NULL,
+                    'title' => $sourceEntry['title'],
+                    'seriesTitle' => $sourceEntry['seriesTitle'] ?? NULL,
+                    'issue' => $sourceEntry['issue'] ?? NULL,
+                    'publicationYear' => $sourceEntry['publicationYear'] ?? NULL,
+                    'place' => $sourceEntry['place'] ?? NULL,
+                    'startingYear' => $sourceEntry['startingYear'] ?? NULL,
+                    'finishingYear' => $sourceEntry['finishingYear'] ?? NULL,
+                    'abstract' => $sourceEntry['abstract'] ?? NULL,
+                    'report_id' => $report->id
+                ]
+            );
         }
     }
 }
