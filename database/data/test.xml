@@ -47,4 +47,33 @@
         <finishingYear>1971</finishingYear>
         <abstract>Siehe unter 4.</abstract>
     </entry>
+    <entry>
+        <entryNo>F 4</entryNo>
+        <authors>
+            <author>
+                <familyName>Parnikoll</familyName>
+                <givenName>Klaus C.</givenName>
+            </author>
+        </authors>
+        <title>Finalproblem im Opernschaffen der DDR (Kollektivpromotion mit Hans-Jürgen Schneider).</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
+        <startingYear>1971</startingYear>
+        <abstract>Grundlage der Untersuchung bilden ca. zwölf entwicklungsgeschichtlich bedeutsame Werke des DDR-Opernschaffens. Nach einer Begriffsdefinition wird anhand historischer Beispiele die besondere Bedeutung des Finalproblems in Hinblick auf ihre Verwendbarkeit oder ihren Modellcharakter im Opernschaffen der DDR bei Literaturopern und Opern ohne  literarische Vorlage untersucht.</abstract>
+    </entry>
+    <keyword>
+        <name>Theaterzettelsammlungen</name><entryNo>F 1</entryNo>
+    </keyword>
+    <keyword>
+        <name>Eisler, Hanns</name><entryNo>F 2</entryNo>
+    </keyword>
+    <keyword>
+        <name>Schauspielmusik</name><entryNo>F 2</entryNo>
+    </keyword>
+    <keyword>
+        <name>Musikschaffen</name><entryNo>F 4</entryNo>
+    </keyword>
+    <keyword>
+        <name>Oper, zeitgenössische</name><entryNo>F 4</entryNo>
+    </keyword>
 </record>

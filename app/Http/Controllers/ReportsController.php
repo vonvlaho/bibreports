@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Keyword;
 use Illuminate\Http\Request;
 use Mtownsend\XmlToArray\XmlToArray;
 use App\Report;
@@ -55,6 +56,15 @@ class ReportsController extends Controller
                 if (!$author->entries->contains($entry)) {
                     $author->entries()->attach($entry);
                 }
+            }
+        }
+
+        foreach ($sourceData['keyword'] as $sourceKeyword) {
+            $keyword = Keyword::updateOrCreate(
+                ['name' => $sourceKeyword['name']]
+            );
+            if (!$entry->keywords->contains($keyword)) {
+                $entry->keywords()->attach($keyword);
             }
         }
     }
