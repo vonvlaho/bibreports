@@ -13,7 +13,7 @@ class CreateEntryAuthorPivotTable extends Migration
      */
     public function up()
     {
-        Schema::create('entry_author', function (Blueprint $table) {
+        Schema::create('author_entry', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('entry_id');
             $table->unsignedBigInteger('author_id');

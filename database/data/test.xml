@@ -5,10 +5,12 @@
     <year>1971</year>
     <entry>
         <entryNo>F 1</entryNo>
-        <author>
-            <familyName>Ahnsel</familyName>
-            <givenName>Peter</givenName>
-        </author>
+        <authors>
+            <author>
+                <familyName>Ahnsel</familyName>
+                <givenName>Peter</givenName>
+            </author>
+        </authors>
         <title>Die historischen Theaterzettelsammlungen in der DDR und ihre musikwissenschaftlichen Aspekte.</title>
         <place>Rostock</place>
         <type>Phil. Diss.</type>
@@ -17,10 +19,12 @@
     </entry>
     <entry>
         <entryNo>F 2</entryNo>
-        <author>
-            <familyName>Allihn</familyName>
-            <givenName>Ingeborg</givenName>
-        </author>
+        <authors>
+            <author>
+                <familyName>Allihn</familyName>
+                <givenName>Ingeborg</givenName>
+            </author>
+        </authors>
         <title>Die Bühnenmusik Hanns Eislers</title>
         <place>Berlin</place>
         <type>Phil. Diss.</type>
@@ -30,10 +34,12 @@
     </entry>
     <entry>
         <entryNo>F 3</entryNo>
-        <author>
-            <familyName>Baethge</familyName>
-            <givenName>Wilhelm</givenName>
-        </author>
+        <authors>
+            <author>
+                <familyName>Baethge</familyName>
+                <givenName>Wilhelm</givenName>
+            </author>
+        </authors>
         <title>Philosonhisch-ästhetische Untersuchungen zur Opernreform Christoph Willibald Glucks unter Berücksichtiguna musikästhetischer Aspekte.</title>
         <place>Halle</place>
         <type>Phil. Diss.</type>

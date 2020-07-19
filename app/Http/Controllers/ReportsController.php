@@ -27,15 +27,11 @@ class ReportsController extends Controller
         );
 
         foreach ($sourceData['entry'] as $sourceEntry) {
-            $author = Author::updateOrCreate(
-                [
-                    'familyName' => $sourceEntry['author']['familyName'],
-                    'givenName' => $sourceEntry['author']['givenName']
-                ],
-                ['gender' => $sourceEntry['author']['gender'] ?? NULL]
-            );
             $entry = Entry::updateOrCreate(
-                ['entryNo' => $sourceEntry['entryNo']],
+                [
+                    'entryNo' => $sourceEntry['entryNo'],
+                    'report_id' => $report->id
+                ],
                 [
                     'type' => $sourceEntry['type'] ?? NULL,
                     'title' => $sourceEntry['title'],
@@ -45,10 +41,21 @@ class ReportsController extends Controller
                     'place' => $sourceEntry['place'] ?? NULL,
                     'startingYear' => $sourceEntry['startingYear'] ?? NULL,
                     'finishingYear' => $sourceEntry['finishingYear'] ?? NULL,
-                    'abstract' => $sourceEntry['abstract'] ?? NULL,
-                    'report_id' => $report->id
+                    'abstract' => $sourceEntry['abstract'] ?? NULL
                 ]
             );
+            foreach ($sourceEntry['authors'] as $sourceAuthor) {
+                $author = Author::updateOrCreate(
+                    [
+                        'familyName' => $sourceAuthor['familyName'],
+                        'givenName' => $sourceAuthor['givenName']
+                    ],
+                    ['gender' => $sourceAuthor['gender'] ?? NULL]
+                );
+                if (!$author->entries->contains($entry)) {
+                    $author->entries()->attach($entry);
+                }
+            }
         }
     }
 }
