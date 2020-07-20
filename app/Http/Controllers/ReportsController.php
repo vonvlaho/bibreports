@@ -11,8 +11,11 @@ use App\Author;
 
 class ReportsController extends Controller
 {
-    public function index() {
-        return view('pages.index');
+    public function store() {
+        return view('reports.store', ['reports' => Report::all()]);
+    }
+    public function show($id) {
+        return view('reports.show', ['report' => Report::findOrFail($id)]);
     }
     public function create() {
         $xml = file_get_contents('../database/data/test.xml');

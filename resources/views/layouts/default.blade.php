@@ -4,14 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto Mono" rel="stylesheet">
+    <title>Musikwissenschaftliche Forschung in der DDR 1966–1975: Digitale Reproduktion der F-Teile aus den Jahresbibliographien Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.</title>
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
 </head>
 <body>
-<main class="container">
+<main>
     @yield('content')
 </main>
 </body>
