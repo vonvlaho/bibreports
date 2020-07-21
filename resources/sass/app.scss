@@ -10,6 +10,8 @@ $title-family: $family-monospace;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
+$content-heading-weight: 300;
+
 // Import only what you need from Bulma
 @import "../../node_modules/bulma/sass/utilities/_all.sass";
 @import "../../node_modules/bulma/sass/base/_all.sass";

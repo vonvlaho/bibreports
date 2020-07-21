@@ -19,3 +19,5 @@ Route::get('/', function () {
 Route::get('/reports', 'ReportsController@store')->name('reports.store');
 Route::get('/reports/create', 'ReportsController@create')->name('reports.create');
 Route::get('/reports/{report}', 'ReportsController@show')->name('reports.show');
+
+Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
