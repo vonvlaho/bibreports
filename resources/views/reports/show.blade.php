@@ -15,7 +15,7 @@
     @if ($report->entries)
         <ul>
         @foreach($report->entries as $entry)
-                <li><a href="{{ route('entries.show', $entry) }}">@include('includes.title', ['entry' => $entry])</a></li>
+                <li class="my-2"><a href="{{ route('entries.show', $entry) }}">@include('includes.title', ['entry' => $entry])</a></li>
         @endforeach
         </ul>
     @endif

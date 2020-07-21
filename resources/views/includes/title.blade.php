@@ -1,5 +1,4 @@
 @spaceless
-{{ $entry->entryNo }}
 @if( $entry->authors )
 @foreach( $entry->authors as $author) {{ $author->familyName }}, {{ $author->givenName }}@endforeach:
 @endif

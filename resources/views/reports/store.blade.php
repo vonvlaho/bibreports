@@ -2,10 +2,6 @@
 @section('content')
 <section class="hero container">
     <div class="hero-body">
-        <h1 class="title is-4">
-            Musikwissenschaftliche Forschung in der DDR 1966–1975
-        </h1>
-        <h2 class="subtitle is-6">Digitale Reproduktion der F-Teile aus den Jahresbibliographien <a href="#Hintergrund"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.</h2>
         <nav>
             <ul>
                 @foreach ($reports as $report)
