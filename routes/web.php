@@ -17,5 +17,5 @@ Route::get('/', function () {
     return redirect('reports');
 });
 Route::get('/reports', 'ReportsController@store')->name('reports.store');
-Route::post('/reports/create', 'ReportsController@create')->name('reports.create');
+Route::get('/reports/create', 'ReportsController@create')->name('reports.create');
 Route::get('/reports/{report}', 'ReportsController@show')->name('reports.show');

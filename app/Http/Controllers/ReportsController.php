@@ -45,6 +45,7 @@ class ReportsController extends Controller
                     'place' => $sourceEntry['place'] ?? NULL,
                     'startingYear' => $sourceEntry['startingYear'] ?? NULL,
                     'finishingYear' => $sourceEntry['finishingYear'] ?? NULL,
+                    'finishedYear' => $sourceEntry['finishedYear'] ?? NULL,
                     'abstract' => $sourceEntry['abstract'] ?? NULL
                 ]
             );

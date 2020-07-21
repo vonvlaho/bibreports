@@ -11,9 +11,13 @@
         <h3 class="subtitle is-6">{{ $report->publisher }}</h3>
     @endif
 </section>
-<section class="section container">
-    @foreach($report->entries as $entry)
-
-    @endforeach
+<section class="section container content">
+    @if ($report->entries)
+        <ul>
+        @foreach($report->entries as $entry)
+            <li>@include('reports.includes.shortEntry', ['entry' => $entry])</li>
+        @endforeach
+        </ul>
+    @endif
 </section>
 @stop
