@@ -21,3 +21,6 @@ Route::get('/reports/create', 'ReportsController@create')->name('reports.create'
 Route::get('/reports/{report}', 'ReportsController@show')->name('reports.show');
 
 Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
+
+Route::get('/keywords', 'KeywordsController@store')->name('keywords.store');
+Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.show');

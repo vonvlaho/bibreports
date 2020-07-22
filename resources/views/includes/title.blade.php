@@ -1,25 +1,25 @@
 @spaceless
-@if( $entry->authors )
+@isset( $entry->authors )
 @foreach( $entry->authors as $author) {{ $author->familyName }}, {{ $author->givenName }}@endforeach:
-@endif
+@endisset
  {{ $entry->title }}
-@if( $entry->place )
+@isset( $entry->place )
 – {{ $entry->place }}
-@endif
-@if( $entry->type )
+@endisset
+@isset( $entry->type )
 . {{ $entry->type }}
-@endif
-@if( $entry->startingYear )
+@endisset
+@isset( $entry->startingYear )
 , Beginn: {{ $entry->startingYear }}
-@endif
-@if( $entry->finishingYear )
+@endisset
+@isset( $entry->finishingYear )
 , Abschluss: {{ $entry->finishingYear }}
-@endif
-@if( $entry->finishedYear )
+@endisset
+@isset( $entry->finishedYear )
 , {{ $entry->finishedYear }} abgeschlossen
-@endif
-@if( $entry->publicationYear )
+@endisset
+@isset( $entry->publicationYear )
 , {{ $entry->publicationYear }}
-@endif
+@endisset
 .
 @endspaceless

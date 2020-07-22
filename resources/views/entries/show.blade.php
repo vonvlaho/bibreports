@@ -4,17 +4,24 @@
     <h1 class="title is-4">
         {{ $entry->report->title }} {{ $entry->report->year }}
     </h1>
-    @if ($entry->report->editor)
+    @isset($entry->report->editor)
         <h2 class="subtitle is-6">Herausgegeben vom {{ $entry->report->editor }}</h2>
-    @endif
-    @if ($entry->report->publisher)
+    @endisset
+    @isset($entry->report->publisher)
         <h3 class="subtitle is-6">{{ $entry->report->publisher }}</h3>
-    @endif
+    @endisset
 </section>
 <section class="section container content">
-    <h5>@include('includes.title', ['entry' => $entry])</h5>
-    @if( $entry->abstract )
+    @isset( $entry->keywords )
+        <p>
+            @foreach( $entry->keywords as $keyword)
+                <a href="{{ route('keywords.show', ['keyword' => $keyword]) }}"><span class="tag is-link is-normal">{{ $keyword->name }}</span></a>
+            @endforeach
+        </p>
+    @endisset
+    <h5><strong>{{ $entry->entryNo }}</strong> @include('includes.title', ['entry' => $entry])</h5>
+    @isset( $entry->abstract )
         <p>{{ $entry->abstract }}</p>
-    @endif
+    @endisset
 </section>
 @stop

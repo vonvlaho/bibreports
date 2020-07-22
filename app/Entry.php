@@ -5,27 +5,27 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 use Laravel\Scout\Searchable;
 
-class Entry extends model
+class Entry extends Model
 {
-    use searchable;
+    use Searchable;
 
-    protected $fillable = ['entryno', 'title', 'report_id', 'type', 'seriestitle', 'issue',
-            'publicationyear', 'place', 'startingyear', 'finishingyear', 'finishedyear', 'abstract'];
+    protected $fillable = ['entryNo', 'title', 'report_id', 'type', 'seriesTitle', 'issue',
+            'publicationYear', 'place', 'startingYear', 'finishingYear', 'finishedYear', 'abstract'];
 
     public  function report()
     {
-        return $this->belongsto(report::class);
+        return $this->belongsTo(Report::Class);
     }
     public function authors()
     {
-        return $this->belongstomany(author::class);
+        return $this->belongsToMany(Author::class);
     }
     public function entries()
     {
-        return $this->belongstomany(entry::class);
+        return $this->belongsToMany(Entry::class);
     }
     public function keywords()
     {
-        return $this->belongstomany(keyword::class);
+        return $this->belongsToMany(Keyword::Class);
     }
 }

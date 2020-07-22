@@ -8,8 +8,8 @@
 @else
 <nav class="navbar is-light" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-        <a class="is-family-monospace" href="{{ route('reports.store') }}">
-            Musikwissenschaftliche Forschung in der DDR 1966–1975
+        <a class="navbar-item" href="{{ route('reports.store') }}">
+            <h1 class="title is-6">Musikwissenschaftliche Forschung in der DDR 1966–1975</h1>
         </a>
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar">
             <span aria-hidden="true"></span>

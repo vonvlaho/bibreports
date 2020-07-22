@@ -10088,3 +10088,9 @@ a.navbar-item.is-active,
   }
 }
 
+@media (max-width: 769px) {
+  .navbar-brand .navbar-item {
+    max-width: 90%;
+  }
+}
+

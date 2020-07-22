@@ -67,9 +67,12 @@ class ReportsController extends Controller
             $keyword = Keyword::updateOrCreate(
                 ['name' => $sourceKeyword['name']]
             );
-            if (!$entry->keywords->contains($keyword)) {
-                $entry->keywords()->attach($keyword);
-            }
+            foreach ($sourceKeyword['entryNos'] as $sourceEntryNo) {
+                $relatedEntries = Entry::where('entryNo', $sourceEntryNo)->where('report_id', $report->id)->get();
+                if (!$relatedEntries->contains($keyword)) {
+                    $relatedEntries->first()->keywords()->attach($keyword);
+                }
+            };
         }
     }
 }
