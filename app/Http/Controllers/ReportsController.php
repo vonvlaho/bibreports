@@ -26,7 +26,8 @@ class ReportsController extends Controller
             [
                 'title' => $sourceData['title'],
                 'editor' => $sourceData['editor'] ?? NULL,
-                'publisher' => $sourceData['publisher'] ?? NULL
+                'publisher' => $sourceData['publisher'] ?? NULL,
+                'cover' => $sourceData['cover'] ?? NULL
             ]
         );
 

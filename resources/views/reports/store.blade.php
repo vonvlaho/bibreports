@@ -1,14 +1,17 @@
 @extends('layouts.default')
 @section('content')
-<section class="hero container">
-    <div class="hero-body">
-        <nav>
-            <ul>
-                @foreach ($reports as $report)
-                    <li><a href="{{ route('reports.show', $report) }}">{{ $report->title }} {{$report->year}}</a></li>
-                @endforeach
-            </ul>
-        </nav>
+<section class="section container">
+    <div class="tile is-ancestor">
+        @foreach ($reports as $report)
+            <div class="tile is-parent is-4">
+                <article class="tile is-child box">
+                    <figure class="image is-small">
+                        <a href="{{ route('reports.show', $report) }}"><img src="/img/{{ $report->cover }}"></a>
+                    </figure>
+                    <a href="{{ route('reports.show', $report) }}">{{ $report->title }} {{$report->year}}</a>
+                </article>
+            </div>
+        @endforeach
     </div>
 </section>
 <section class="section container content">

@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Report extends Model
 {
-    protected $fillable = ['title', 'year', 'editor', 'publisher'];
+    protected $fillable = ['title', 'year', 'editor', 'publisher', 'cover'];
 
     public function entries ()
     {

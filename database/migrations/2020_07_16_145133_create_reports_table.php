@@ -19,6 +19,7 @@ class CreateReportsTable extends Migration
             $table->string('title');
             $table->string('editor')->nullable();
             $table->string('publisher')->nullable();
+            $table->string('cover')->nullable();
             $table->integer('year');
         });
     }
