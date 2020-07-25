@@ -16,7 +16,8 @@
         "laravel/framework": "^7.0",
         "laravel/scout": "^8.1",
         "laravel/tinker": "^2.0",
-        "mtownsend/xml-to-array": "^1.0"
+        "mtownsend/xml-to-array": "^1.0",
+        "ext-simplexml": "*"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.7",
