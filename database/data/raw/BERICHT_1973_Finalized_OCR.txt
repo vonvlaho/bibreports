@@ -1,7 +1,7 @@
-﻿BERICHT
-über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik
+﻿BERICHT über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik
 1973
 Herausgegeben vom Zentralinstitut für Musikforschung beim Verband der Komponisten und Musikwissenschaftler der DDR
+
 VERLAG NEUE MUSIK BERLIN
 
 ---
@@ -188,7 +188,7 @@ F 37 Geilhufe, Charlotte: Entwicklung der Vokalsinfonik. in der DDR im Zeitraum 
 Ziel: Entwicklung, Funktion und Wirkung dieses Genres soll mit Hilfe von Analysen untersucht werden.
 Methoden: Quellenstudien und musikalische Analysen sollen Aufschluß geben.
 
-F 38 Geißler, William: Untersuchungen zum Lebenswerk von Fritz Reuter. - Halle, Diss. A, Beginn: 1971; Abschluß: 1974. 
+F 38 Geißler, William: Untersuchungen zum Lebenswerk von Fritz Reuter. - Halle, Diss. A, Beginn: 1971; Abschluß: 1974.
 
 F 39 Gerdes, Johannes: Georg Trexler - Leben und Werk. - Halle, Diss. A, Beginn: 1972; Abschluß: 1974.
 
@@ -215,7 +215,7 @@ chen, philosophischen, literarischen, bildkünstlerischen und musikalischen Ersc
 
 F 44 Göhring, Liselotte: Die Stellung der Blockflöte im Musikleben des 20. Jahrhunderts. - Halle, Diss. A, Beginn: 1971; Abschluß: 1974.
 
-Ziel der Arbeit ist es, die Wiederentdeckung der Blockflöte, ihre Wirkungsbereiche sowie die gesellschaftliche Funktion der Blockflötenmusik im heutigen Musikleben zu untersuchen. Methoden: Darstellung historischer Entwicklungslinien und gesellschaftlich-historischer Zusammenhänge; Analyse der im Zeitraum 1930-70 entstandenen Kompositionen für Blockflöte. 
+Ziel der Arbeit ist es, die Wiederentdeckung der Blockflöte, ihre Wirkungsbereiche sowie die gesellschaftliche Funktion der Blockflötenmusik im heutigen Musikleben zu untersuchen. Methoden: Darstellung historischer Entwicklungslinien und gesellschaftlich-historischer Zusammenhänge; Analyse der im Zeitraum 1930-70 entstandenen Kompositionen für Blockflöte.
 Ergebnisse: Voraussetzungen und Auswirkungen der Wiederentdeckung der Blockflöte, ihre Bedeutung für Musikpädagogik, Interpretation historischer Musik und Musiktherapie; Merkmale einer spezifischen, in Bau- und Spielweise des Instruments begründeten Stilistik; Kriterien für das Schaffen instrumentgerechter Blockflötenmusik und deren unterschiedliche Funktionen in antagonistischen sozialen Systemen.
 
 F 45 Goldschmidt , Harry: Dialektische Methoden der musikalischen Inhalts-Erforschung (Syntaktisch-semantische Struktur-Untersuchungen). - Forschungsauftrag, Akademie der Wissenschaften der DDR und Akademie der Künste der DDR, Berlin. Beginn: 1965.
@@ -707,55 +707,55 @@ F 157 Zumpe, Karl: Die Geschichte des Gewandhausorchesters seit 1945 und die Pro
 
 ---
 
-Register
+###Register###
 
 Adlung, Jakob 250
-Akustik 1, 35, F 22, F 47, F 53, F 94, F 137 
-Almenräder, Carl 122 
-Altenburg, Johann Ernst 368 
-Analyse F 45, F 46, F 60 
+Akustik 1, 35, F 22, F 47, F 53, F 94, F 137
+Almenräder, Carl 122
+Altenburg, Johann Ernst 368
+Analyse F 45, F 46, F 60
 Analyse, Methodik 43, 201, 276, 342
-Arbeiterlied 182, 183, 184 
-Arbeiterlied, Geschichte 185 
+Arbeiterlied 182, 183, 184
+Arbeiterlied, Geschichte 185
 Arbeitermusikbewegung 75, 183, 186
 Arbeitersängerbewegung, Geschichte F 23
 Archiv 166, 303
 Arie 355, 359
-Asriel, André 18 
+Asriel, André 18
 Aufführungspraxis 122, 177, F 142
-Aufklärung 64, 102, 104, 177, 251, 283, 323, F 97, F 142 
+Aufklärung 64, 102, 104, 177, 251, 283, 323, F 97, F 142
 Auftragswesen F 105, F 106
 
 Bach, Johann 250
 Bach, Johann Sebastian 10, 124, 312, 316, 317, 318, 319, 323, 329, F 9, F 25, F 147
-Bach-Bibliographie 244 
-Bach-Forschung 124, 244, 250, 267, 316, F 147 
-Bach-Pflege 73, F 124 
-Bach-Rezeption F 55, F 124 
-Balginstrumente F 93 
+Bach-Bibliographie 244
+Bach-Forschung 124, 244, 250, 267, 316, F 147
+Bach-Pflege 73, F 124
+Bach-Rezeption F 55, F 124
+Balginstrumente F 93
 Ballett 47, 49, 5o, 92, 95, 96, 101, 163, 165, 207, 235, 256, 265, 274,357, F 74
 Bartók, Béla 57, F 31
 Beat 77
-Becher, Johannes Robert F 61 
+Becher, Johannes Robert F 61
 Beethoven, Ludwig van 113, 135, 146, 186, 229, 23o, 282, 3o9, 323, F 46, F 66, F 113, F 149, F 152
-Beethoven-Bild 229, 230 
-Beethoven-Rezeption 186 
+Beethoven-Bild 229, 230
+Beethoven-Rezeption 186
 Berg, Alban 332
 Berlin 168, 252, 258, 265, 268, 275, 28o, F 121
-Bertau, Karl Heinrich 277 
+Bertau, Karl Heinrich 277
 Bibliographie 13, 153, 182, F 4
 Bibliothek 166
-Biographie 61, 62 
+Biographie 61, 62
 Blockflöte F 44
-Borodin, Alexander 278 
-Brahms, Johannes 323, F 143 
+Borodin, Alexander 278
+Brahms, Johannes 323, F 143
 Brecht, Bertolt 136, 137, 201
 Bredemeyer, Reiner 346
-Britten, Benjamin 301 
+Britten, Benjamin 301
 Budapest 337
 Bühnenmusik, siehe Schauspielmusik
 Bülow, Hans von F 130
-Bush, Alan Dudley 324 
+Bush, Alan Dudley 324
 Butting, Max 25, 36, 170, F 11
 Buttstädt, Johann Heinrich 250
 Buzko, Juri 238
@@ -784,22 +784,22 @@ Drehorgel, Geschichte 363
 Dresden 19, 2o, 32, 337, 348, 355, F 17
 Dvořák, Antonin 342
 
-Edition 66,	67, 68, 100, 107, 113, 161, 187, 198, 199, 2o9, 212, 316, 317, 318, 319, 338, 352, F 25, F 26, F 27, F 57, F	66, F 133, F 138, F 151	
-Editionswesen F 116	
+Edition 66,	67, 68, 100, 107, 113, 161, 187, 198, 199, 2o9, 212, 316, 317, 318, 319, 338, 352, F 25, F 26, F 27, F 57, F	66, F 133, F 138, F 151
+Editionswesen F 116
 Eisenach F 110
 Eisler, Hanns 3, 4, 55, 56, 59, 97, 98, 99, 100, 136, 152, 153, 155, 201, 209, 211, 212, 213, 240, 276 298, 303, 304, 323, 335, 343, 369, F 2, F 60, F 70, F 127
 Eisler-Pflege 303
 Erbekonzeption F 135
-Erberezeption 75, 93, 228, 243, 271, 272, 281, 282, 288, 289, 3o9, 312, 313, 331, 344, 361, F 5, F 48, F 135		
-Erfurt 250,	F 16	
+Erberezeption 75, 93, 228, 243, 271, 272, 281, 282, 288, 289, 3o9, 312, 313, 331, 344, 361, F 5, F 48, F 135
+Erfurt 250,	F 16
 
-Fagott 122		
-Fernsehen F	51	
-Fidelio 282		
+Fagott 122
+Fernsehen F	51
+Fidelio 282
 Filmmusik 346, F 52
 Filmmusik, Dokumentarfilm 346
 Filmmusik, Fernsehen F 145
-Filmmusik, Geschichte F 145 
+Filmmusik, Geschichte F 145
 Finale F 3
 Florenz 355
 Forest, Jean Kurt 72, 259
@@ -818,35 +818,35 @@ Goethe, Johann Wolfgang von 281
 
 ---
 
-Goldmann, Friedrich 93, 228 
+Goldmann, Friedrich 93, 228
 Grabs, Manfred 297
 Grétry, André Ernest Modeste 104
 
 Halle 285, 331
 Händel, Georg Friedrich 68, 282, 283, 323, 324, 329, 331, 333, 354, 357, 359, F 4, F 133, F 138, F 142, F 151
-Händel-Forschung F 138 
-Händel-Pflege 285, 331, 333 
+Händel-Forschung F 138
+Händel-Pflege 285, 331, 333
 Halévy, Jacques Fromental 356
-Hartmann, Karl Amadeus 302 
-Hasse, Johann Adolph 355 
-Hasse, Nicolaus F 27, F 57 
-Hauptmann, Moritz F 24 
+Hartmann, Karl Amadeus 302
+Hasse, Johann Adolph 355
+Hasse, Nicolaus F 27, F 57
+Hauptmann, Moritz F 24
 Haydn, Joseph 323
 Hegel, Georg Wilhelm Friedrich 201
-Heidegger, Martin 246 
-Heine, Heinrich 281 
-Heinrich von Morungen 279 
+Heidegger, Martin 246
+Heine, Heinrich 281
+Heinrich von Morungen 279
 Herder, Johann Gottfried von 281
 Herrmann, Peter 202
-Hertel, Johann Wilhelm F 19 
-Hertel, Thomas 324 
-Hindemith, Paul 302 
+Hertel, Johann Wilhelm F 19
+Hertel, Thomas 324
+Hindemith, Paul 302
 Härspielmusik 7
-Hübschmann, Werner F 96 
-Husserl, Edmund 246 
+Hübschmann, Werner F 96
+Husserl, Edmund 246
 Hymnologie 2
 
-Ikonographie 354 
+Ikonographie 354
 Improvisation 312, F 87
 Information u. Dokumentation 166
 Informationstheorie 144, 312
@@ -877,58 +877,58 @@ Klaviersonate 345
 
 ---
 
-Kocohan, Günter 259, 290 
-Kocor, Korla Awgust 263, 264 
+Kocohan, Günter 259, 290
+Kocor, Korla Awgust 263, 264
 Koály, Zoltán 221
-Köhler, Siegfried 23, 28 
-Kommunikation 234 
+Köhler, Siegfried 23, 28
+Kommunikation 234
 Kommunikationsforschung 108, 12o, 222, 340, F 51
 Konzert 286
 Krieger, Johann Philipp F 107
 Kulturpolitik, sozialistische 45, 46, 70, 76, 110, 128, 168, 178, 210, 217, 222, 243, 262, 275, 291, 294, 299, 3o5, 326, 336, 362
 Kulturtheorie, sozialistische 212
 Kunad, Rainer 24
-Kunst, Bildende 353, 354 
-Kunstlied 64, 276, F 101 
+Kunst, Bildende 353, 354
+Kunstlied 64, 276, F 101
 Kurzbach, Paul 259, 296
 
-Lomnitzer, Helmut 277 
+Lomnitzer, Helmut 277
 Legrenzi, Giovanni 359
 Leimert, Volkmar 150
 Leipzig 3, 21, 73, 117, 278, 279, F 116, F 157
 Leo, Leonardo 360
 Lesser, Wolfgang 294
-Lied 75, 118, 226, 297 
+Lied 75, 118, 226, 297
 Lied, politisches 14, 54, 180, 181, 335, 1365
 Lied, 19. Jh. F 49
-Lischka, Rainer 31 
+Lischka, Rainer 31
 Liszt, Franz 62, 63, 345, F 118
 Lohse, Fred 254
 Lortzing, Albert 151, 173, 257, 272, 306
 Lully, Jean-Baptiste 354, 357
 
 Magdeburg F 63
-Manierismus 353, 354 
+Manierismus 353, 354
 Maqam 58
 Marsch F 34
-Massenlied 118, 123, 298 
+Massenlied 118, 123, 298
 Massenlied, sowjetisches 134, 231
-Massenmedien 172, F 51 
+Massenmedien 172, F 51
 Matthus, Siegfried 86, 207, 259, 300
-Medek, Tilo 235, 256 
-Meiningen F 108 
+Medek, Tilo 235, 256
+Meiningen F 108
 Melodieregel 277
 Melodram 6, 75
 Mendelssohn Bartholdy, Felix 73, 74, 116, 161, 205, 232, 233, 280, 289, 309, 322, 345, 352, I 18, F 43
-Mendelssohn-Rezeption F 143 
+Mendelssohn-Rezeption F 143
 Meyer, Ernst Hermann 13, 94, 154, 204, 215, 287, 323, 324
-Meyerbeer, Giacomo 271 
-Minnesang 277, 279 
-Mizler, Lorenz 226 
-Monteverdi, Claudio 355 
+Meyerbeer, Giacomo 271
+Minnesang 277, 279
+Mizler, Lorenz 226
+Monteverdi, Claudio 355
 Morus, Thomas 283
 Mozart, Wolfgang Amadeus 107, 174, 175, 281, 323, 361, F 120
-Mozart-Rezeption 174, 175 
+Mozart-Rezeption 174, 175
 Musical 31
 Musik, sorbische 263
 
@@ -974,16 +974,16 @@ Musikgeschichte, 17. Jh. 353, F 41, F 85, F 92
 Musikgeschichte, 17./18. Jh. 41, 216, 271, 283, 355, 357
 Musikgeschichte, 18. Jh. 64, 102, 177, 187, 226, 251, 267, 361, 368, F 4, F 19, F 25, F 26, F 69, F 95, F 142
 Musikgeschichte, 18./19. Jh. 41, 104, 146, 216, F 68, F 117
-Musikgeschichte, 19. Jh. 41, 62, 63, 73, 114,,193, 216, 263, 278, 281, 342, 345, 347, 356, 358, F 5, F 18, F 43, F 69, F 118, F 143 
+Musikgeschichte, 19. Jh. 41, 62, 63, 73, 114,,193, 216, 263, 278, 281, 342, 345, 347, 356, 358, F 5, F 18, F 43, F 69, F 118, F 143
 Musikgeschichte, 19./20. Jh. 224, 241, 248, 266, F 42, F 71, F 75, F 102, F 124, F 135
 Musikgeschichte, 20.Jh. 194, 259, F 36, F 69, F 153
 Musikgeschichtsforschung, lokale 133, 250, F 92
 Musikhistoriographie, Geschichte 42
 Musikhistoriographie, Methodologie 41, 42, 216, 282, F 102
-Musikhören F 84 
+Musikhören F 84
 Musikinstrument 285
 Musikkongreß DDR, zweiter 70, 128, 138, 156, 172, 178, 206, 217, 222, 234, 314, 330, 335
-Musikkultur, DDR 45, 110, 184, 210, 222, 229, 258, 262, 275, 291, 298, 299, 303, 305, 313, F 21, F 40, F 48, F 157	
+Musikkultur, DDR 45, 110, 184, 210, 222, 229, 258, 262, 275, 291, 298, 299, 303, 305, 313, F 21, F 40, F 48, F 157
 Musikkultur, Mongolei 207
 Musikkultur, sorbische 197, 263
 Musikkultur, Sowjetunion 167, 210
@@ -992,7 +992,7 @@ Musikkultur, 19. Jh. 356, F 18
 
 ---
 
-Musikleben, DDR 3, 4, 5, 9,	155, 156, 157, 158, 159, 16, 19, 20, 21, 32, 34, 160, 163, 165, 169, 170, 47, 54, 55, 56, 70, 72, 176, 179, 180, 190, 191, 117, 128, 136, 138, 156, 202, 204, 206, 208, 227, 171, 172, 178, 180, 181, 228, 235, 236, 239, 240, 203, 206, 210, 211, 217, 242, 247, 249, 254, 256, 222, 234, 238, 241, 245, 259, 270, 274, 286, 287, 288, 324, 326, 330, 348, 290, 292, 295, 296, 297, 349, F 44, F 139, F 157	
+Musikleben, DDR 3, 4, 5, 9,	155, 156, 157, 158, 159, 16, 19, 20, 21, 32, 34, 160, 163, 165, 169, 170, 47, 54, 55, 56, 70, 72, 176, 179, 180, 190, 191, 117, 128, 136, 138, 156, 202, 204, 206, 208, 227, 171, 172, 178, 180, 181, 228, 235, 236, 239, 240, 203, 206, 210, 211, 217, 242, 247, 249, 254, 256, 222, 234, 238, 241, 245, 259, 270, 274, 286, 287, 288, 324, 326, 330, 348, 290, 292, 295, 296, 297, 349, F 44, F 139, F 157
 Musikleben, Geschichte 61, 74, 268, 278, 280, 356, F 18, F 44, F 63, F 69, F 86, F 108, F 110, F 121, F 130, F 135, F 152
 Musikleben, Kambodscha 140
 Musikleben, Mongolei 207
@@ -1014,24 +1014,24 @@ Musiktheater 22, 47, 75, 89, 105, 106, 135, 136, 137, 151, 164, 173, 175, 176, 1
 
 Musiktheater, DDR 65
 Musiktheater, Dokumentation 51
-Musiktheater, heiteres 31 
+Musiktheater, heiteres 31
 Musiktheater, Öffentlichkeitsarbeit 9
-Musiktheorie 60, 99, 212, F 24, F 50, F 129 
+Musiktheorie 60, 99, 212, F 24, F 50, F 129
 Musiktheorie, Antike 269, 364
-Musiktherapie 91, 253, 315 
-Musikwissenschaft 311 
+Musiktherapie 91, 253, 315
+Musikwissenschaft 311
 Musikwissenschaft, DDR 3, 19, 154, 291
 Musikwissenschaft, Systematisierung 339, 340
 Musikwissenschaft, Ungarn 221
 Mussorgski, Modest 114, 257
 
-Neefe, Christian Gottlob 146 
-Neidhard von Reuenthal 277 
-Nikisch, Arthur 278 
+Neefe, Christian Gottlob 146
+Neidhard von Reuenthal 277
+Nikisch, Arthur 278
 Nourrit, Adolphe 356
 
-Oettingen, Arthur von F 24 
-Oistrach, David 167, 237 
+Oettingen, Arthur von F 24
+Oistrach, David 167, 237
 Oper 22, 47, 75, 105, 106, 135, 136, 137, 151, 173, 174, 175, 176, 187, 190, 191, 207, 208, 238, 239, 270, 272, 292, 295, 300, 306, 332, 333, 341, 360, F 48, F 134, F 142, F 153
 Oper, Geschichte 259, 271, 275, 288
 Oper, Geschichte 16. Jh. 353, 354
@@ -1052,7 +1052,7 @@ Pallavicini, Carlo 359
 Paris 356
 Petrow, Andrej 85
 Pohle, David F 41
-Populärwissenschaft 42 
+Populärwissenschaft 42
 Prokofjew, Sergej 95, 323, 324, F 150
 
 Quellen 125, 142, 161, 197, 198, 199, 212, 317, 318, 319, 338, 352
@@ -1063,9 +1063,9 @@ Quellenforschung 66, 67, 68, 107, 113, 124, 187, 263, 269, 277, 279, 316, 337, F
 Rachmaninow, Sergej 284
 Realismus, sozialistischer 37, 43, 75, 217, 247, 310, 323, 328, 343, F 56, F 61, F 88, F 131
 Reger, Max 21, 194, 224, 241, 248, 266, F 102, F 125
-Reger-Rezeption F 125 
+Reger-Rezeption F 125
 Reichardt, Johann Friedrich 251
-Reuter, Fritz F 38 
+Reuter, Fritz F 38
 Rezeptionsforschung 17, 103, 178, F 29, F 51, F 64, F 89, F 100, F 106, F 111, F 113, F 125, F 145
 
 Rhaw, Georg 337
@@ -1077,11 +1077,11 @@ Rostock F 92
 
 Sachsen F 68
 Sattler, Heinrich 347
-Schaljapin, Fjodor F 61 
-Schallplatte 108 
-Schauspielmusik F 2, F 79 
-Schauspielmusik, Antike 269 
-Schlager 130, F 53 
+Schaljapin, Fjodor F 61
+Schallplatte 108
+Schauspielmusik F 2, F 79
+Schauspielmusik, Antike 269
+Schlager 130, F 53
 Schostakowitsch, Dmitri 84, 323, 341, F 33, F 109
 Schumann, Clara F 10
 Schumann, Robert 193, 345, F 5, F 101, F 104
@@ -1089,26 +1089,26 @@ Schütz, Heinrich 19, 142, 338, F 85
 Semiotik 144, F 45, F 46, F 134
 Sinfonik 15, 16, 26, 30, 34, 36, 37, 75, 80, 81, 83, 84, 87, 88, 143, 149, 159, 179, 194, 284, 286, 287, 290, 296, 325, F 33, F 76, F 81, F 82, F 149
 Singebewegung 54, 75, 1o3, 129, 180, 181, 335, 365, F 139
-Singefähigkeit 90 
-Singspiel 146, F 97 
+Singefähigkeit 90
+Singspiel 146, F 97
 Solokonzert 23, 24, 27, 29, 72, 86, 87, 94, 167, 179, 237, 284, 286, 287, 325, F 7, F 15, F 150
-Sonate F 41 
-Sonatenform F 31 
-Spieltechnik F 65 
-Spies, Leo 240 
-Sprecherziehung F 8 
-Staatskapelle Berlin 268 
-Staatskapelle Dresden 32, 348 
-Stählin, Jakob von 316 
-Stevens, Bernard 324 
-Stimmuntersuchung 35, 90 
-Stockhausen, Karlheinz 246 
-Stoltzer, Thomas 337 
+Sonate F 41
+Sonatenform F 31
+Spieltechnik F 65
+Spies, Leo 240
+Sprecherziehung F 8
+Staatskapelle Berlin 268
+Staatskapelle Dresden 32, 348
+Stählin, Jakob von 316
+Stevens, Bernard 324
+Stimmuntersuchung 35, 90
+Stockhausen, Karlheinz 246
+Stoltzer, Thomas 337
 Straube, Karl 21
 Strauß, Wolfgang 15, 158, 159
-Streichquartett 150, 158, 204, 249, 309, F 109, F 131 
-Stschedrin, Rodion 87 
-Sturm und Drang F 97 
+Streichquartett 150, 158, 204, 249, 309, F 109, F 131
+Stschedrin, Rodion 87
+Sturm und Drang F 97
 Suite F 99
 Süverkrüp, Dieter 14
 
@@ -1126,17 +1126,17 @@ Thurm, Joachim 80
 Tierpsychologie F 136 Tonalität 60, 201
 Trexler, Georg F 39
 Variantenprinzip 277
-Variation F 71, F 75, F 154 
+Variation F 71, F 75, F 154
 Venedig 355, 359
 Verdi, Giuseppe 192, 323
-Verdi-Rezeption 192 
-Verhaltensforschung F 136 
-Verlagswesen F 116 
+Verdi-Rezeption 192
+Verhaltensforschung F 136
+Verlagswesen F 116
 Verlagswesen, Geschichte 42
-Vivaldi, Antonio F 26 
+Vivaldi, Antonio F 26
 Vivaldi-Forschung F 26
-Voigtländer, Lothar 351 
-Vokalmusik, englische F 117 
+Voigtländer, Lothar 351
+Vokalmusik, englische F 117
 Vokalschaffen 75, 138, 276, F 49, F 61, F 70, F 91, F 101
 Vokalsinfonik 6, 75, 112, 310, 329, 331, 334, F 37
 Volkskunstschaffen, DDR 111, 138
@@ -1159,7 +1159,7 @@ Werner, Johannes 157
 Werttheorie 145, 147, 148, 328
 Werzlau, Joachim 160, 169
 Wittenberg 337
-Wohlgemuth, Gerhard 324 
+Wohlgemuth, Gerhard 324
 Wort-impetus 277
 
 Young, Percy M. 324

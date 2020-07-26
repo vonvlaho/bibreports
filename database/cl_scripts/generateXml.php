@@ -1,13 +1,12 @@
 <?php
-$xml = new SimpleXMLElement('<xml/>');
 
 $rawData = file($argv[1]);
-$pos = 0;
 
-$xml->addChild('xml');
-$xml->xml->addChild('report');
+$xml = new SimpleXMLElement('<xml/>');
+$xml->addAttribute('encoding', 'UTF-8');
+$xml->addChild('report');
 
-$root = $xml->xml->report;
+$root = $xml->report;
 
 $title = $root->addChild('title', $rawData[0] ?? '');
 $year = $root->addChild('year', $rawData[1] ?? '');
@@ -15,8 +14,27 @@ $publisher = $root->addChild('publisher', str_replace('Herausgegeben vom ', '', 
 $editor = $root->addChild('editor', $rawData[5] ?? '');
 $cover = $root->addChild('cover', 'BERICHT_' . $year . '.jpg' ?? '');
 
+$entry = [];
+$currentEntryNo = '';
+$registerMode = false;
+
 foreach($rawData as $key => $value) {
-    if (preg_match("/(F\s\d+)\s/", $value)) {
+    if (preg_match("/(###Register###)/", $value) > 0) {
+        $registerMode = true;
+    } else if ($registerMode === true && preg_match("/(F\s\d*)/", $value) > 0) {
+        $keyword = $root->addChild('keyword');
+        $entryNos = $keyword->addChild('entryNos');
+
+        //extract entryNos
+        preg_match_all("/(F\s\d*)/", $value, $matches);
+        foreach ($matches[1] as $entryNo) {
+            $keyword->entryNos->addChild('entryNo', $entryNo);
+        }
+
+        //extract entry name
+        preg_match("/(.*?)(\d+)|(.*?)(F\s\d+)/", $value, $matches);
+        $keyword->entryNos->addChild('name', $matches[1]);
+    } else if (preg_match("/(F\s\d+)\s/", $value) > 0) {
 
         $entry = $root->addChild('entry');
 
@@ -25,23 +43,28 @@ foreach($rawData as $key => $value) {
         preg_match($pattern, $value, $matches);
 
         //extract entryNo = Capturing Group #1
-        if ($matches[1]) {
-            $entryNo = $entry->addChild('entryNo', $matches[1]);
+        if ($matches) {
+            $currentEntryNo = $matches[1];
+            $entryNo = $entry->addChild('entryNo', $currentEntryNo);
         }
 
         //extract authors = Capturing Group #2
-        if ($matches[2]) {
+        if ($matches) {
             $authors = $entry->addChild('authors');
-            $rawNames = preg_split('/(u.)/', $matches[2]);
+            $rawNames = preg_split('/(u\.)/', $matches[2]);
             foreach ($rawNames as $rawName) {
                 $author = $authors->addChild('author');
-                $familyName = $author->addChild('familyName', preg_split('/,/', $rawName)[0]);
-                $givenName = $author->addChild('givenName', preg_split('/,/', $rawName)[1]);
+                if (preg_match("/(,)/", $rawName) > 0) {
+                    $familyName = $author->addChild('familyName', preg_split('/(,)/', $rawName)[0]);
+                    $givenName = $author->addChild('givenName', preg_split('/(,)/', $rawName)[1]);
+                } else {
+                    $author->addChild('REST', $rawName);
+                }
             }
         }
 
         //extract title = Capturing Group #3
-        if ($matches[3]) {
+        if ($matches) {
             $title = $entry->addChild('title', $matches[3]);
         }
 
@@ -49,40 +72,57 @@ foreach($rawData as $key => $value) {
         $rest = preg_replace($pattern, '', $value);
 
         //look for a place
-        preg_match("/Berlin|Greifswald|Halle|Jena|Leipzig|Rostock/", $rest, $matches);
-        if ($matches[1]) {
-            $place = $entry->addChild('place', $matches[1]);
+        preg_match("/(Berlin)|(Greifswald)|(Halle)|(Jena)|(Leipzig)|(Rostock)/", $rest, $matches);
+        if ($matches) {
+            $place = $entry->addChild('place', $matches[0]);
+            $rest = preg_replace("/(Berlin)|(Greifswald)|(Halle)|(Jena)|(Leipzig)|(Rostock)/", '', $rest);
         }
-        $rest = preg_replace("/Berlin|Greifswald|Halle|Jena|Leipzig|Rostock/", '', $rest);
 
         //look for a startingYear
-        preg_match("/Beginn:\s(\d+)/", $rest, $matches);
-        if ($matches[1]) {
-            $startingYear = $entry->addChild('startingYear', $matches[1]);
+        preg_match("/(Beginn:\s)(\d+)/", $rest, $matches);
+        if ($matches) {
+            $startingYear = $entry->addChild('startingYear', $matches[2]);
+            $rest = preg_replace("/(Beginn:\s)(\d+)/", '', $rest);
         }
-        $rest = preg_replace("/Beginn:\s(\d+)/", '', $rest);
 
         //look for a finishingYear
-        preg_match("/Abschluß:\s(\d+)/", $rest, $matches);
-        if ($matches[1]) {
-            $finishingYear = $entry->addChild('finishingYear', $matches[1]);
+        preg_match("/(Abschluß:\s)(\d+)/", $rest, $matches);
+        if ($matches) {
+            $finishingYear = $entry->addChild('finishingYear', $matches[2]);
+            $rest = preg_replace("/(Abschluß:\s)(\d+)/", '', $rest);
         }
-        $rest = preg_replace("/Abschluß:\s(\d+)/", '', $rest);
 
         //look for a finishedYear
-        preg_match("(\d+)\sabgeschlossen/", $rest, $matches);
-        if ($matches[1]) {
+        preg_match("/(\d+\s)(abgeschlossen)/", $rest, $matches);
+        if ($matches) {
             $finishedYear = $entry->addChild('finishingYear', $matches[1]);
+            $rest = preg_replace("/(\d+\s)(abgeschlossen)/", '', $rest);
         }
-        $rest = preg_replace("/(\d+)\sabgeschlossen/", '', $rest);
 
-        var_dump($entry);
-        var_dump($rest);
+        //look for type
+        preg_match("/(Forschungsarbeit)|(Phil.\sDiss.)|(Diss.\sA)/", $rest, $matches);
+        if ($matches) {
+            $type = $entry->addChild('type', $matches[0]);
+            $rest = preg_replace("/(Forschungsarbeit)|(Phil.\sDiss.)|(Diss.\sA)/", '', $rest);
+        }
 
-        /*$seriesTitle = $entry->addChild('seriesTitle');
-        $issue = $entry->addChild('issue');
-        $publicationYear = $entry->addChild('publicationYear');
-
-        $abstract = $entry->addChild('abstract');*/
+        if ($rest != '') {
+            $entry->addChild('REST', $rest);
+        }
+    } else if ($currentEntryNo != '' && $value != '') {
+        if (isset($entry->abstract)) {
+            $entry->abstract .= $value;
+        } else  {
+            $entry->addChild('abstract', $value);
+        }
     }
+
+    /*
+     * $seriesTitle = $entry->addChild('seriesTitle');
+     * $issue = $entry->addChild('issue');
+     * $publicationYear = $entry->addChild('publicationYear');
+     *
+     */
 }
+$xml = html_entity_decode($xml->asXML(), ENT_NOQUOTES, 'UTF-8');
+file_put_contents($argv[2] . '.xml', $xml);
