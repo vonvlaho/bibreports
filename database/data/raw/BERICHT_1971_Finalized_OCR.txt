@@ -43,7 +43,7 @@ F 8 Brennecke, Dietrich: Das Lebenswerk Max Buttings. - Forschungsauftrag der Dt
 Ziel und Methoden: Die vergleichende Betrachtung und die Analyse seines Lebenswerkes (106 opera) soll verschiedene Entwicklungskriterien und Maxime der neueren Musik festhalten und in besonderem Maße die Einwirkung der Zeitgeschichte, der Ereignisse von 1918-1955 auf das, stilistische Wachstum der Musik Buttings verdeutlichen, d.h. die
 ursächliche Beziehung der künstlerischen Arbeit zum Leben und Erleben unter bestimmten gesellschaftlichen Verhältnissen am konkreten Beispiel erläutern die Gesamtdarstellung basiert auf der ständigen Diskussion mit dem Komponisten.
 
-F 10 Brok Hella und Kollektiv mehrerer Wissenschaftler: Methodik der Musikerziehung. - Forschungsauftrag der Akademie der Pädagogischen Wissenschaften Berlin. Beginn: 1971; Abschluss: 1973.
+F 10 Brok, Hella und Kollektiv mehrerer Wissenschaftler: Methodik der Musikerziehung. - Forschungsauftrag der Akademie der Pädagogischen Wissenschaften Berlin. Beginn: 1971; Abschluss: 1973.
 
 Ziel: Das Buch soll insbesondere die Musiklehrer der allgemeinbildenden Schulen befähigen, auf der Grundlage des neuen Lehrplanwerkes und unter Berücksichtigung der Entiwcklungstenenzen auf schulpolitischem und kulturpolitischem Gebiet die ideologisch-ästhetische Wirksamkeit des Musikunterrichts zu erhöhen.
 Methoden: Es wurde eine Gliederung erarbeitet und die einzelnen Abschnitte wurden unter Berücksichtigung der Forschungsprojekte einzelner Einrichtungen wie der speziellen Qualifikation einzelner Wissenschaftler den Bearbeitern zugteilt.
@@ -75,8 +75,7 @@ F 15 Dittrich, Kurt: Didaktisch-methodische Untersuchungen zur Vorbereitung und 
 
 Auf der zusammenfassenden Darstellung des Unterrichtsprozesses im Lichte der Arbeiten bürgerlicher Pädagogen werden zeitgenössische Arbeiten der allgemeinen Pädagogik zum Unterrichtsprozeß unter besonderer Berücksichtigung der Hinweise für die Planung und Vorbereitung und der speziellen Probleme des Musikunterrichts untersucht. Darstellung der Ergebnisse bei der Planung und Vorbereitung für eine rationelle Unterrichtsgestaltung im Fach Musik. Planung des Unterrichtsprozesses, Vorbereitung auf den Unterricht, Aufzeichnung der Planungsergebnisse, Auswertung der Unterrichtsarbeit. Zusammenstellung von Materialien für die Planung und Vorbereitung. Anlagen zur Stundenvorbereitung: Lehrervortrag (Lied- und Werkenstehung, zum Leben des Komponisten, Zitate), Tafelbilder, Arbeitsblätter, Notenabschriften, Anschauungstafeln, Programmtonbänder.
 
-F 16
-Donath, Paul W.: Akustische Untersuchungen der Vibration bei Gesangsstimmen und ihre Bedeutung für den Informationswert beim Musikhören. - Halle, Phil. Diss., Beginn: 1966; Abschluß: 1972.
+F 16 Donath, Paul W.: Akustische Untersuchungen der Vibration bei Gesangsstimmen und ihre Bedeutung für den Informationswert beim Musikhören. - Halle, Phil. Diss., Beginn: 1966; Abschluß: 1972.
 
 Ziel: Untersuchungen zum Vibrato.
 Methoden: Tonbandaufnahmen von verschiedenen Solosängern und Laiensängern. Elektrooptische Messungen und Aufzeichnung der Meßergebnisse der Tonbandaufnahmen.
@@ -580,7 +579,7 @@ Außerdem soll die Stellung der Solokonzerte im Gesamtschaffen Schostakowitschs 
 F 127 Zumpe, Karl: Die Entwicklung des Gewandhausorchesters seit 1945 und seine weitere Arbeit (Arbeitsthema). - Leipzig, Phil. Diss., Beginn: 1971; Abschluß: 1974.
 
 
-Register
+###Register###
 
 Akkordeon F 70
 Analyse F 38, F 39

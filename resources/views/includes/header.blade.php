@@ -1,9 +1,9 @@
 @if( Route::current()->uri === 'reports')
-    <header class="section has-text-centered">
-        <h1 class="title is-4">
+    <header class="section container">
+        <h1 class="title">
             Musikwissenschaftliche Forschung in der DDR 1966–1975
         </h1>
-        <h2 class="subtitle is-6">Digitale Reproduktion der F-Teile aus den Jahresbibliographien <a href="#Hintergrund"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.</h2>
+        <h2 class="subtitle">Digitale Reproduktion der F-Teile aus den Jahresbibliographien <a href="#Hintergrund"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.</h2>
         <nav>
             <a href="{{ route('keywords.store') }}" class="is-family-monospace">
                 Gesamtregister

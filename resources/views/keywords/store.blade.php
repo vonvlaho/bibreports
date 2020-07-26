@@ -10,12 +10,12 @@
                     <dt><strong>{{ $keyword->name }}</strong></dt>
                     <dd>
                         @foreach( $keyword->entries->groupBy('report.year') as $year => $entryCollection )
-                        {{ $year }}:
+                        <dd>{{ $year }}:
                             @foreach( $entryCollection as $entry )
                                 <a href="{{ route('entries.show', $entry) }}">{{ $entry->entryNo }}</a>{{ $loop->last ? '.' : ', ' }}
                             @endforeach
+                        </dd>
                         @endforeach
-                    </dd>
                 @endisset
             @endforeach
         </dl>

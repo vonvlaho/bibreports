@@ -18,67 +18,46 @@ class ReportsController extends Controller
         return view('reports.show', ['report' => Report::findOrFail($id)]);
     }
     public function create() {
-        $xml = file_get_contents('../database/data/BERICHT_1973.xml');
+        $files = [
+            '../database/data/BERICHT_1971.xml',
+            '../database/data/BERICHT_1973.xml'
+        ];
+        foreach ($files as $file) {
+            $this->importXml($file);
+        }
+    }
+    private function importXml($file) {
+
+        $xml = file_get_contents($file);
         $sourceData = XmlToArray::convert($xml);
 
-        function extractXmlValue ($array, $key)
-        {
-            $value = NULL;
-            if (array_key_exists($key, $array)) {
-                if (is_string($array[$key])) {
-                    $value = $array[$key];
-                }
-            }
-            return $value;
-        }
-
-        function updateAuthor ($sourceAuthor, $entry) {
-            $author = Author::updateOrCreate(
-                [
-                    'familyName' => $sourceAuthor['familyName'],
-                    'givenName' => $sourceAuthor['givenName']
-                ],
-                ['gender' => $sourceAuthor['gender'] ?? NULL]
-            );
-            if (!$author->entries->contains($entry)) {
-                $author->entries()->attach($entry);
-            }
-        }
-
-        function updateKeyword ($sourceEntryNo, $report, $keyword) {
-            $relatedEntries = Entry::where('entryNo', $sourceEntryNo)->where('report_id', $report->id)->get();
-            if (!$relatedEntries->contains($keyword)) {
-                $relatedEntries->first()->keywords()->attach($keyword);
-            }
-        }
-
         $report = Report::updateOrCreate(
-            ['year' => extractXmlValue($sourceData, 'year')],
+            ['year' => $this->extractXmlValue($sourceData, 'year')],
             [
-                'title' => extractXmlValue($sourceData, 'title'),
-                'editor' => extractXmlValue($sourceData, 'editor'),
-                'publisher' => extractXmlValue($sourceData, 'publisher'),
-                'cover' => extractXmlValue($sourceData, 'cover')
+                'title' => $this->extractXmlValue($sourceData, 'title'),
+                'editor' => $this->extractXmlValue($sourceData, 'editor'),
+                'publisher' => $this->extractXmlValue($sourceData, 'publisher'),
+                'cover' => $this->extractXmlValue($sourceData, 'cover')
             ]
         );
 
         foreach ($sourceData['entry'] as $sourceEntry) {
             $entry = Entry::updateOrCreate(
                 [
-                    'entryNo' => extractXmlValue($sourceEntry, 'entryNo'),
+                    'entryNo' => $this->extractXmlValue($sourceEntry, 'entryNo'),
                     'report_id' => $report->id
                 ],
                 [
-                    'type' => extractXmlValue($sourceEntry, 'type'),
-                    'title' => extractXmlValue($sourceEntry, 'title'),
-                    'seriesTitle' => extractXmlValue($sourceEntry, 'seriesTitle'),
-                    'issue' => extractXmlValue($sourceEntry, 'issue'),
-                    'publicationYear' => extractXmlValue($sourceEntry, 'publicationYear'),
-                    'place' => extractXmlValue($sourceEntry, 'place'),
-                    'startingYear' => extractXmlValue($sourceEntry, 'startingYear'),
-                    'finishingYear' => extractXmlValue($sourceEntry, 'finishingYear'),
-                    'finishedYear' => extractXmlValue($sourceEntry, 'finishedYear'),
-                    'abstract' => extractXmlValue($sourceEntry, 'abstract')
+                    'type' => $this->extractXmlValue($sourceEntry, 'type'),
+                    'title' => $this->extractXmlValue($sourceEntry, 'title'),
+                    'seriesTitle' => $this->extractXmlValue($sourceEntry, 'seriesTitle'),
+                    'issue' => $this->extractXmlValue($sourceEntry, 'issue'),
+                    'publicationYear' => $this->extractXmlValue($sourceEntry, 'publicationYear'),
+                    'place' => $this->extractXmlValue($sourceEntry, 'place'),
+                    'startingYear' => $this->extractXmlValue($sourceEntry, 'startingYear'),
+                    'finishingYear' => $this->extractXmlValue($sourceEntry, 'finishingYear'),
+                    'finishedYear' => $this->extractXmlValue($sourceEntry, 'finishedYear'),
+                    'abstract' => $this->extractXmlValue($sourceEntry, 'abstract')
                 ]
             );
 
@@ -86,10 +65,10 @@ class ReportsController extends Controller
                 foreach ($sourceEntry['authors'] as $sourceAuthor) {
 
                     if (array_key_exists('familyName', $sourceAuthor)) {
-                        updateAuthor ($sourceAuthor, $entry);
+                        $this->updateAuthor ($sourceAuthor, $entry);
                     } else if (is_array($sourceAuthor)) {
                         foreach ($sourceAuthor as $item) {
-                            updateAuthor ($item, $entry);
+                            $this->updateAuthor ($item, $entry);
                         }
                     } else {
                         echo $sourceAuthor . " is not an author";
@@ -100,19 +79,47 @@ class ReportsController extends Controller
 
         foreach ($sourceData['keyword'] as $sourceKeyword) {
             $keyword = Keyword::updateOrCreate(
-                ['name' => extractXmlValue($sourceKeyword, 'name')]
+                ['name' => $this->extractXmlValue($sourceKeyword, 'name')]
             );
             foreach ($sourceKeyword['entryNos'] as $sourceEntryNo) {
                 if (is_array($sourceEntryNo)) {
                     foreach ($sourceEntryNo as $item) {
-                        updateKeyword ($item, $report, $keyword);
+                        $this->updateKeyword ($item, $report, $keyword);
                     }
                 } else if (is_string($sourceEntryNo)) {
-                        updateKeyword ($sourceEntryNo, $report, $keyword);
+                        $this->updateKeyword ($sourceEntryNo, $report, $keyword);
                 } else {
                     break;
                 }
             }
+        }
+    }
+    private function extractXmlValue ($array, $key)
+    {
+        $value = NULL;
+        if (array_key_exists($key, $array)) {
+            if (is_string($array[$key])) {
+                $value = $array[$key];
+            }
+        }
+        return $value;
+    }
+    private function updateAuthor ($sourceAuthor, $entry) {
+        $author = Author::updateOrCreate(
+            [
+                'familyName' => $sourceAuthor['familyName'],
+                'givenName' => $sourceAuthor['givenName']
+            ],
+            ['gender' => $sourceAuthor['gender'] ?? NULL]
+        );
+        if (!$author->entries->contains($entry)) {
+            $author->entries()->attach($entry);
+        }
+    }
+    private function updateKeyword ($sourceEntryNo, $report, $keyword) {
+        $relatedEntries = Entry::where('entryNo', $sourceEntryNo)->where('report_id', $report->id)->get();
+        if (!$relatedEntries->contains($keyword)) {
+            $relatedEntries->first()->keywords()->attach($keyword);
         }
     }
 }

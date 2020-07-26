@@ -12,6 +12,15 @@ use App\Author;
 class EntriesController extends Controller
 {
     public function show($id) {
-        return view('entries.show', ['entry' => Entry::findOrFail($id)]);
+
+        $entry = Entry::findOrFail($id);
+        $previous = Entry::where('id', '<', $entry->id)->max('id');
+        $next = Entry::where('id', '>', $entry->id)->min('id');
+
+        return view('entries.show', [
+            'entry' => $entry,
+            'previous' => $previous,
+            'next' => $next
+        ]);
     }
 }
