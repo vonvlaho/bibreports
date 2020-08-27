@@ -3,11 +3,9 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use Laravel\Scout\Searchable;
 
 class Entry extends Model
 {
-    use Searchable;
 
     protected $fillable = ['entryNo', 'title', 'report_id', 'type', 'seriesTitle', 'issue',
             'publicationYear', 'place', 'startingYear', 'finishingYear', 'finishedYear', 'abstract'];
