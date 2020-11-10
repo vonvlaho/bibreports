@@ -24,3 +24,5 @@ Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
 
 Route::get('/keywords', 'KeywordsController@store')->name('keywords.store');
 Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.show');
+
+Route::get('/people', 'PeopleController@store')->name('people.store');

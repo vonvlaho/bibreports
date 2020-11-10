@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Mtownsend\XmlToArray\XmlToArray;
 use App\Report;
 use App\Entry;
-use App\Author;
+use App\Person;
 
 class ReportsController extends Controller
 {
@@ -62,16 +62,16 @@ class ReportsController extends Controller
             );
 
             if (array_key_exists('authors', $sourceEntry)) {
-                foreach ($sourceEntry['authors'] as $sourceAuthor) {
+                foreach ($sourceEntry['authors'] as $sourcePerson) {
 
-                    if (array_key_exists('familyName', $sourceAuthor)) {
-                        $this->updateAuthor ($sourceAuthor, $entry);
-                    } else if (is_array($sourceAuthor)) {
-                        foreach ($sourceAuthor as $item) {
-                            $this->updateAuthor ($item, $entry);
+                    if (array_key_exists('familyName', $sourcePerson)) {
+                        $this->updatePerson ($sourcePerson, $entry);
+                    } else if (is_array($sourcePerson)) {
+                        foreach ($sourcePerson as $item) {
+                            $this->updatePerson ($item, $entry);
                         }
                     } else {
-                        echo $sourceAuthor . " is not an author";
+                        echo $sourcePerson . " is not an person";
                     }
                 }
             }
@@ -104,16 +104,16 @@ class ReportsController extends Controller
         }
         return $value;
     }
-    private function updateAuthor ($sourceAuthor, $entry) {
-        $author = Author::updateOrCreate(
+    private function updatePerson ($sourcePerson, $entry) {
+        $person = Person::updateOrCreate(
             [
-                'familyName' => $sourceAuthor['familyName'],
-                'givenName' => $sourceAuthor['givenName']
+                'familyName' => $sourcePerson['familyName'],
+                'givenName' => $sourcePerson['givenName']
             ],
-            ['gender' => $sourceAuthor['gender'] ?? NULL]
+            ['gender' => $sourcePerson['gender'] ?? NULL]
         );
-        if (!$author->entries->contains($entry)) {
-            $author->entries()->attach($entry);
+        if (!$person->entries->contains($entry)) {
+            $person->entries()->attach($entry);
         }
     }
     private function updateKeyword ($sourceEntryNo, $report, $keyword) {

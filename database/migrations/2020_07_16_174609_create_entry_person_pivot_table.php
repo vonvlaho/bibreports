@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateEntryAuthorPivotTable extends Migration
+class CreateEntryPersonPivotTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,11 @@ class CreateEntryAuthorPivotTable extends Migration
      */
     public function up()
     {
-        Schema::create('author_entry', function (Blueprint $table) {
+        Schema::create('entry_person', function (Blueprint $table) {
             $table->id();
+            $table->unsignedBigInteger('person_id');
             $table->unsignedBigInteger('entry_id');
-            $table->unsignedBigInteger('author_id');
+            $table->string('role')->nullable();
             $table->timestamps();
         });
     }
@@ -28,6 +29,6 @@ class CreateEntryAuthorPivotTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('entry_author');
+        Schema::dropIfExists('entry_person');
     }
 }

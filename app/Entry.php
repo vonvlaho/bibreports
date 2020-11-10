@@ -14,9 +14,9 @@ class Entry extends Model
     {
         return $this->belongsTo(Report::Class);
     }
-    public function authors()
+    public function people()
     {
-        return $this->belongsToMany(Author::class);
+        return $this->belongsToMany(Person::class);
     }
     public function entries()
     {

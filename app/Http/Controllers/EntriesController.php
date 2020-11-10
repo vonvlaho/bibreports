@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Mtownsend\XmlToArray\XmlToArray;
 use App\Report;
 use App\Entry;
-use App\Author;
+use App\Person;
 
 class EntriesController extends Controller
 {
