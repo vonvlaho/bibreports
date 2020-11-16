@@ -19,8 +19,8 @@ class ReportsController extends Controller
     }
     public function create() {
         $files = [
-            '../database/data/BERICHT_1971.xml',
-            '../database/data/BERICHT_1973.xml'
+            '../database/data/1971.xml',
+            '../database/data/1973.xml'
         ];
         foreach ($files as $file) {
             $this->importXml($file);
@@ -62,13 +62,12 @@ class ReportsController extends Controller
             );
 
             if (array_key_exists('authors', $sourceEntry)) {
-                foreach ($sourceEntry['authors'] as $sourcePerson) {
-
+                foreach ($sourceEntry['authors'] as $role => $sourcePerson) {
                     if (array_key_exists('familyName', $sourcePerson)) {
-                        $this->updatePerson ($sourcePerson, $entry);
+                        $this->updatePerson ($sourcePerson, $entry, $role);
                     } else if (is_array($sourcePerson)) {
                         foreach ($sourcePerson as $item) {
-                            $this->updatePerson ($item, $entry);
+                            $this->updatePerson ($item, $entry, $role);
                         }
                     } else {
                         echo $sourcePerson . " is not an person";
@@ -104,7 +103,7 @@ class ReportsController extends Controller
         }
         return $value;
     }
-    private function updatePerson ($sourcePerson, $entry) {
+    private function updatePerson ($sourcePerson, $entry, $role) {
         $person = Person::updateOrCreate(
             [
                 'familyName' => $sourcePerson['familyName'],
@@ -113,7 +112,7 @@ class ReportsController extends Controller
             ['gender' => $sourcePerson['gender'] ?? NULL]
         );
         if (!$person->entries->contains($entry)) {
-            $person->entries()->attach($entry);
+            $person->entries()->attach($entry, ['role' => $role]);
         }
     }
     private function updateKeyword ($sourceEntryNo, $report, $keyword) {

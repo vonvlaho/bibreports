@@ -10,7 +10,7 @@ class Person extends Model
 
     public function entries ()
     {
-        return $this->belongsToMany(Entry::class);
+        return $this->belongsToMany(Entry::class)->withPivot('role');
     }
 
 }

@@ -16,7 +16,7 @@ class Entry extends Model
     }
     public function people()
     {
-        return $this->belongsToMany(Person::class);
+        return $this->belongsToMany(Person::class)->withPivot('role');
     }
     public function entries()
     {

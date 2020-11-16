@@ -10,4 +10,13 @@ class PeopleController extends Controller
     public function store() {
         return view('people.store', ['people' => Person::all()]);
     }
+    public function show($id) {
+        $person = Person::findOrFail($id);
+        $entriesCollection = $person->entries->groupBy('pivot.role');
+        return view('people.show', [
+                'person' => $person,
+                'entriesCollection' => $entriesCollection
+            ]
+        );
+    }
 }
