@@ -6,7 +6,10 @@
         <h2 class="subtitle">Digitale Reproduktion der F-Teile aus den Jahresbibliographien <a href="#Hintergrund"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.</h2>
         <nav>
             <a href="{{ route('keywords.store') }}" class="is-family-monospace">
-                Gesamtregister
+                Register
+            </a>
+            <a href="{{ route('people.store') }}" class="is-family-monospace">
+                Personenverzeichnis
             </a>
         </nav>
     </header>
@@ -31,7 +34,12 @@
             </div>
             <div class="navbar-item">
                 <a href="{{ route('keywords.store') }}" class="is-family-monospace">
-                    Gesamtregister
+                    Register
+                </a>
+            </div>
+            <div class="navbar-item">
+                <a href="{{ route('people.store') }}" class="is-family-monospace">
+                    Personenverzeichnis
                 </a>
             </div>
             <div class="navbar-item">

@@ -480,6 +480,10 @@
                 <familyName>Besseler</familyName>
                 <givenName>Heinrich u. Peter Gülke</givenName>
             </author>
+            <author>
+                <familyName>Gülke</familyName>
+                <givenName>Peter</givenName>
+            </author>
         </people>
         <title>Schriftbild der mehrstimmigen Musik</title>
         <sameAs>Musikgeschichte in Bildern. (Musik des Mittelalters und der Renaissance.) Bd 3, Lfg
@@ -818,7 +822,11 @@
         <people>
             <author>
                 <familyName>Brennecke</familyName>
-                <givenName>Dietrich u. Hilmar Schmalenberg</givenName>
+                <givenName>Dietrich</givenName>
+            </author>
+            <author>
+                <familyName>Schmalenberg</familyName>
+                <givenName>Hilmar</givenName>
             </author>
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
@@ -892,7 +900,11 @@
         <people>
             <author>
                 <familyName>Brock</familyName>
-                <givenName>Hella u. Herbert Zimpel</givenName>
+                <givenName>Hella</givenName>
+            </author>
+            <author>
+                <familyName>Zimpel</familyName>
+                <givenName>Herbert</givenName>
             </author>
         </people>
         <title>Unterrichtshilfen Musik 7. und 8. Klasse</title>
@@ -937,7 +949,11 @@
         <people>
             <author>
                 <familyName>Bust</familyName>
-                <givenName>Günther u. Günter Dörr</givenName>
+                <givenName>Günther</givenName>
+            </author>
+            <author>
+                <familyName>Dörr</familyName>
+                <givenName>Günter</givenName>
             </author>
         </people>
         <title>20 Jahre Georg-Philipp-Telemann-Musikschule</title>
@@ -1034,7 +1050,11 @@
         <people>
             <author>
                 <familyName>Dörr</familyName>
-                <givenName>Günther u. Günter Bust</givenName>
+                <givenName>Günter</givenName>
+            </author>
+            <author>
+                <familyName>Bust</familyName>
+                <givenName>Günther</givenName>
             </author>
         </people>
         <title>20 Jahre Georg-Philipp-Telemann-Musikschule</title>
@@ -1198,10 +1218,14 @@
             Erinnerungen und Musikkritiken. (2. veränd. Aufl.) - Leipzig: Reclam 1974. 262 S. =
             Reclams Universal-Bibliothek. (Musik u. Musiktheater.) Bd 554.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Fahlbusch</familyName>
-                <givenName>Lothar u. Richard Petzoldt (Hrsg.)</givenName>
-            </author>
+                <givenName>Lothar</givenName>
+            </editor>
+            <editor>
+                <familyName>Petzoldt</familyName>
+                <givenName>Richard</givenName>
+            </editor>
         </people>
         <title>Tschaikowski, Peter Iljitsch</title>
         <sameAs>Reclams Universal-Bibliothek. (Musik u. Musiktheater.) Bd 554.</sameAs>
@@ -1242,7 +1266,11 @@
         <people>
             <author>
                 <familyName>Felsenstein</familyName>
-                <givenName>Walter u. Stephan Stompor</givenName>
+                <givenName>Walter</givenName>
+            </author>
+            <author>
+                <familyName>Stompor</familyName>
+                <givenName>Stephan</givenName>
             </author>
         </people>
         <title>Walter Felsenstein über Musiktheater. Ausw., Zsstellg u. Einl. v. Stephan
@@ -1324,10 +1352,10 @@
             Flöten, Oboe, Violine, Streicher u. B.c. - Leipzig: VEB Edition Peters 1973. = Edition
             Peters Nr. 9411.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Fleischhauer</familyName>
-                <givenName>Günter (Hrsg.)</givenName>
-            </author>
+                <givenName>Günter</givenName>
+            </editor>
         </people>
         <title>Telemann, Georg Philipp: Konzert B-Dur für 2 Flöten, Oboe, Violine, Streicher u.
             B.c</title>
@@ -1385,7 +1413,11 @@
         <people>
             <author>
                 <familyName>Flügel</familyName>
-                <givenName>Siegfried u. Eberhard Klingbeil</givenName>
+                <givenName>Siegfried</givenName>
+            </author>
+            <author>
+                <familyName>Klingbeil</familyName>
+                <givenName>Eberhard</givenName>
             </author>
         </people>
         <title>Persönlichkeitsbildende Potenzen in der Arbeitsgemeinschaft Musik</title>
@@ -1403,7 +1435,11 @@
         <people>
             <author>
                 <familyName>Flügel</familyName>
-                <givenName>Siegfried u. Joachim Thorbeck</givenName>
+                <givenName>Siegfried</givenName>
+            </author>
+            <author>
+                <familyName>Thorbeck</familyName>
+                <givenName>Joachim</givenName>
             </author>
         </people>
         <title>Neues Jugendgesetz und musikalische Bildung</title>
@@ -2197,7 +2233,11 @@
         <people>
             <author>
                 <familyName>Gülke</familyName>
-                <givenName>Peter u. Heinrich Besseler</givenName>
+                <givenName>Peter</givenName>
+            </author>
+            <author>
+                <familyName>Besseler</familyName>
+                <givenName>Heinrich</givenName>
             </author>
         </people>
         <title>Schriftbild der mehrstimmigen Musik</title>
@@ -2409,6 +2449,10 @@
                 <familyName>Heinrich</familyName>
                 <givenName>Rudolf u. Joachim Herz</givenName>
             </author>
+            <author>
+                <familyName>Herz</familyName>
+                <givenName>Joachim</givenName>
+            </author>
         </people>
         <title>Entwurf einer 'Rosenkavalier'-Inszenierung: In: Musikbühne 74</title>
         <extent>Berlin: Henschelverlag 1974. S. 107-117.</extent>
@@ -2424,10 +2468,10 @@
             aus den Jahrbüchern der Musikbibliothek Peters. (Fotomechan. Nachdr. d. Orig.-Ausg.
             Leipzig 1911.) - Leipzig: Edition Peters 1973. S. I-IX. = Peters Reprints.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Heller</familyName>
-                <givenName>Karl (Hrsg.)</givenName>
-            </author>
+                <givenName>Karl</givenName>
+            </editor>
         </people>
         <title>Nachwort</title>
         <sameAs>Peters Reprints.</sameAs>
@@ -2584,7 +2628,11 @@
         <people>
             <author>
                 <familyName>Herz</familyName>
-                <givenName>Joachim u. Stephan Stompor</givenName>
+                <givenName>Joachim</givenName>
+            </author>
+            <author>
+                <familyName>Stompor</familyName>
+                <givenName>Stephan</givenName>
             </author>
         </people>
         <title>Joachim Herz über Musiktheater. Ausw., Zsstellg u. Einl. von Stephan Stompor</title>
@@ -2602,7 +2650,11 @@
         <people>
             <author>
                 <familyName>Herz</familyName>
-                <givenName>Joachim u. Rudolf Heinrich</givenName>
+                <givenName>Joachim</givenName>
+            </author>
+            <author>
+                <familyName>Heinrich</familyName>
+                <givenName>Rudolf</givenName>
             </author>
         </people>
         <title>Entwurf einer 'Rosenkavalier' - Inszenierung: In: Musikbühne 74</title>
@@ -3007,7 +3059,15 @@
         <people>
             <author>
                 <familyName>John</familyName>
-                <givenName>Erhard, Eberhard Lippold u. Michael Rammler</givenName>
+                <givenName>Erhard</givenName>
+            </author>
+            <author>
+                <familyName>Lippold</familyName>
+                <givenName>Eberhard</givenName>
+            </author>
+            <author>
+                <familyName>Rammler</familyName>
+                <givenName>Michael</givenName>
             </author>
         </people>
         <title>Kunst und sozialistische Bewußtseinsbildung. [Kap. 2.] - Berlin</title>
@@ -3180,6 +3240,10 @@
             <author>
                 <familyName>Klingbeil</familyName>
                 <givenName>Eberhard u. Siegfried Flügel</givenName>
+            </author>
+            <author>
+                <familyName>Flügel</familyName>
+                <givenName>Siegfried</givenName>
             </author>
         </people>
         <title>Persönlichkeitsbildende Potenzen in der Arbeitsgemeinschaft Musik</title>
@@ -4040,7 +4104,7 @@
             29 (1974) 8, S. 40-41.</fullTitle>
         <people>
             <author>
-                <familyName>(Lattmann</familyName>
+                <familyName>Lattmann</familyName>
                 <givenName>Gunhild</givenName>
             </author>
         </people>
@@ -4163,7 +4227,15 @@
         <people>
             <author>
                 <familyName>Lippold</familyName>
-                <givenName>Eberhard, Erhard John u. Michael Rammler</givenName>
+                <givenName>Eberhard</givenName>
+            </author>
+            <author>
+                <familyName>John</familyName>
+                <givenName>Erhard</givenName>
+            </author>
+            <author>
+                <familyName>Rammler</familyName>
+                <givenName>Michael</givenName>
             </author>
         </people>
         <title>Kunst und sozialistische Bewußtseinsbildung. [Kap. 2.] - Berlin</title>
@@ -4870,7 +4942,15 @@
         <people>
             <author>
                 <familyName>Molkenbur</familyName>
-                <givenName>Norbert, Kurt Petermann u. Jo Schulz</givenName>
+                <givenName>Norbert</givenName>
+            </author>
+            <author>
+                <familyName>Petermann</familyName>
+                <givenName>Kurt</givenName>
+            </author>
+            <author>
+                <familyName>Schulz</familyName>
+                <givenName>Jo</givenName>
             </author>
         </people>
         <title>Vom Hoppelrei zum Beat. Tanzimpressionen aus zwei Jahrtausenden</title>
@@ -5470,7 +5550,15 @@
         <people>
             <author>
                 <familyName>Paul</familyName>
-                <givenName>Eckard, Jochen Lesching u. Paul Rahner</givenName>
+                <givenName>Eckard</givenName>
+            </author>
+            <author>
+                <familyName>Lesching</familyName>
+                <givenName>Jochen</givenName>
+            </author>
+            <author>
+                <familyName>Paul</familyName>
+                <givenName>Rahner</givenName>
             </author>
         </people>
         <title>Erfahrungen im Liedschaffen für die X. Weltfestspiele</title>
@@ -5493,7 +5581,11 @@
         <people>
             <author>
                 <familyName>Petermann</familyName>
-                <givenName>Kurt, Norbert Molkenbur</givenName>
+                <givenName>Kurt</givenName>
+            </author>
+            <author>
+                <familyName>Molkenbur</familyName>
+                <givenName>Norbert</givenName>
             </author>
             <author>
                 <familyName>Schulz</familyName>
@@ -5512,10 +5604,14 @@
             Erinnerungen und Musikkritiken. (2., unveränd. Aufl.) - Leipzig: Reclam 1974. 262 S. =
             Reclams Universal-Bibliothek. (Musik u. Musiktheater.) Bd 554.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Petzoldt</familyName>
-                <givenName>Richard u. Lothar Fahlbusch (Hrsg.)</givenName>
-            </author>
+                <givenName>Richard</givenName>
+            </editor>
+            <editor>
+                <familyName>Fahlbusch</familyName>
+                <givenName>Lothar</givenName>
+            </editor>
         </people>
         <title>Tschaikowski, Peter Iljitsch</title>
         <sameAs>Reclams Universal-Bibliothek. (Musik u. Musiktheater.) Bd 554.</sameAs>
@@ -5631,7 +5727,15 @@
         <people>
             <author>
                 <familyName>Rahner</familyName>
-                <givenName>Paul, Eckard Paul u. Jochen Lesching</givenName>
+                <givenName>Paul</givenName>
+            </author>
+            <author>
+                <familyName>Paul</familyName>
+                <givenName>Eckard</givenName>
+            </author>
+            <author>
+                <familyName>Lesching</familyName>
+                <givenName>Jochen</givenName>
             </author>
         </people>
         <title>Erfahrungen im Liedschaffen für die X. Weltfestspiele</title>
@@ -5653,7 +5757,11 @@
         <people>
             <author>
                 <familyName>Rammler</familyName>
-                <givenName>Michael, Eberhard Lippold</givenName>
+                <givenName>Michael</givenName>
+            </author>
+            <author>
+                <familyName>Lippold</familyName>
+                <givenName>Eberhard</givenName>
             </author>
             <author>
                 <familyName>John</familyName>
@@ -5753,10 +5861,10 @@
             lebendigen Frieden". - (Berlin:) Verband der Theaterschaffenden der DDR 1974. 57 S. =
             Material zum Theater. 44. [Umschlagt.]</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Rebling</familyName>
-                <givenName>Eberhard (Hrsg.)</givenName>
-            </author>
+                <givenName>Eberhard</givenName>
+            </editor>
         </people>
         <title>Zum Wechselverhältnis von Musik und Tanz. Eine Podiumsdiskussion ergänzt durch ein
             Arbeitsgespräch über "Wir aber nennen Liebe lebendigen Frieden"</title>
@@ -5859,10 +5967,10 @@
         <fullTitle>Reich, Wolfgang (Hrsg.): Westhoff, Johann Paul: Sechs Suiten für Violine solo
             Dresden 1696. (Neudr.) - Leipzig: VEB Edition Peters 1974. 3 Bl., 30, XII S.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Reich</familyName>
-                <givenName>Wolfgang (Hrsg.)</givenName>
-            </author>
+                <givenName>Wolfgang</givenName>
+            </editor>
         </people>
         <title>Westhoff, Johann Paul</title>
         <extent>Sechs Suiten für Violine solo Dresden 1696. (Neudr.) - Leipzig: VEB Edition Peters
@@ -6092,13 +6200,11 @@
                 <familyName>Rienäcker</familyName>
                 <givenName>Gerd</givenName>
             </author>
-            <author>
-                <familyName>Musiktheater</familyName>
-                <givenName>Notizen zur Gattung</givenName>
-            </author>
         </people>
-        <title>In</title>
-        <extent>Weimarer Beiträge. 20 (1974) 4, S. 78-95.</extent>
+        <title>Notizen zur Gattung Musiktheater</title>
+        <journal>Weimarer Beiträge</journal>
+        <publicationYear>1974</publicationYear>
+        <extent>S. 78-95.</extent>
         <abstract> Ausgehend von der gesellschaftlichen Repräsentanz des Musiktheaters in der
             sozialistischen Gesellschaft wird versucht, eine Reihe von Ausgangspunkten zum Begreifen
             des Musiktheaterspezifischen zu finden. Einstieg bildet das Ensemble von
@@ -6479,7 +6585,11 @@
         <people>
             <author>
                 <familyName>Schmalenberg</familyName>
-                <givenName>Hilmar u. Dietrich Brennecke</givenName>
+                <givenName>Hilmar</givenName>
+            </author>
+            <author>
+                <familyName>Brennecke</familyName>
+                <givenName>Dietrich</givenName>
             </author>
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
@@ -6833,7 +6943,11 @@
         <people>
             <author>
                 <familyName>Schulz</familyName>
-                <givenName>Jo, Norbert Molkenbur</givenName>
+                <givenName>Jo</givenName>
+            </author>
+            <author>
+                <familyName>Molkenbur</familyName>
+                <givenName>Norbert</givenName>
             </author>
             <author>
                 <familyName>Petermann</familyName>
@@ -6970,13 +7084,20 @@
             Seeger u. Ulrich Bökel. - Leipzig: VEB Deutscher Verlag für Musik (1974). 179 S., mit 48
             Bildtaf.</fullTitle>
         <people>
-            <author>
+            <editor>
                 <familyName>Seeger</familyName>
-                <givenName>Horst u. Ulrich Bökel (Hrsg.)</givenName>
-            </author>
+                <givenName>Horst</givenName>
+            </editor>
+            <editor>
+                <familyName>Bökel</familyName>
+                <givenName>Ulrich</givenName>
+            </editor>
         </people>
-        <title>Musikstadt Berlin. Vorgest. von Horst Seeger u. Ulrich Bökel</title>
-        <extent>Leipzig: VEB Deutscher Verlag für Musik (1974). 179 S., mit 48 Bildtaf.</extent>
+        <title>Musikstadt Berlin</title>
+        <place>Leipzig</place>
+        <publisher>VEB Deutscher Verlag für Musik</publisher>
+        <publicationYear>1974</publicationYear>
+        <extent>179 S., mit 48 Bildtaf.</extent>
         <abstract> Die Darstellung des Musiklebens in Berlin umfaßt den Zeitraum der frühen Anfänge
             im Jahr 1542, die Gründung der brandenburgischen Hofkapelle 1572, die Entwicklung im 18.
             und 19. Jahrhundert bis zur Mitte des 20. Jahrhunderts. Ein ausführliches Kapitel
@@ -7421,7 +7542,11 @@
         <people>
             <author>
                 <familyName>Stompor</familyName>
-                <givenName>Stephan u. Walter Felsenstein</givenName>
+                <givenName>Stephan</givenName>
+            </author>
+            <author>
+                <familyName>Felsenstein</familyName>
+                <givenName>Walter</givenName>
             </author>
         </people>
         <title>Walter Felsenstein über Musiktheater. Ausw., Zsstellg u. Einl. v. Stephan
@@ -7445,7 +7570,11 @@
         <people>
             <author>
                 <familyName>Stompor</familyName>
-                <givenName>Stephan u. Joachim Herz</givenName>
+                <givenName>Stephan</givenName>
+            </author>
+            <author>
+                <familyName>Herz</familyName>
+                <givenName>Joachim</givenName>
             </author>
         </people>
         <title>Joachim Herz über Musiktheater. Ausw., Zsstellg u. Einl. von Stephan Stompor</title>
@@ -7486,8 +7615,7 @@
             Maertens.) - Magdeburg 1973. 86 S. = Magdeburger Telemann-Studien. 4.</fullTitle>
         <people>
             <editor>
-                <familyName>Arbeitskreis "Georg Philipp Telemann" Magdeburg im Kulturbund d. DDR mit Unterstützung
-            d. Rates d. Bezirkes Magdeburg.</familyName>
+                <familyName>Arbeitskreis "Georg Philipp Telemann" Magdeburg im Kulturbund d. DDR</familyName>
             </editor>
             <contributor>
                 <familyName>Fleischhauer</familyName>
@@ -7725,7 +7853,11 @@
         <people>
             <author>
                 <familyName>Thorbeck</familyName>
-                <givenName>Joachim u. Siegfried Flügel</givenName>
+                <givenName>Joachim</givenName>
+            </author>
+            <author>
+                <familyName>Flügel</familyName>
+                <givenName>Siegfried</givenName>
             </author>
         </people>
         <title>Neues Jugendgesetz und musikalische Bildung</title>
@@ -7749,7 +7881,11 @@
         <people>
             <author>
                 <familyName>Tosch</familyName>
-                <givenName>Heinz u. Lothar Schubert</givenName>
+                <givenName>Heinz</givenName>
+            </author>
+            <author>
+                <familyName>Schubert</familyName>
+                <givenName>Lothar</givenName>
             </author>
         </people>
         <title>Zur musikalischen Bildung und Erziehung der Arbeiterjugend: In: Forum: Musik in der
@@ -7770,13 +7906,21 @@
             151-166.</fullTitle>
         <people>
             <author>
-                <familyName>Traditionslinien. Ein Beitrag zur DDR-Musikgeschichte.
-                    (Autorenkollektiv</familyName>
-                <givenName>Red.</givenName>
+                <familyName>Autorenkollektiv</familyName>
             </author>
+            <contributor>
+                <familyName>Knepler</familyName>
+                <givenName>Georg</givenName>
+            </contributor>
+            <contributor>
+                <familyName>Mainka</familyName>
+                <givenName>Jürgen</givenName>
+            </contributor>
         </people>
-        <title>Georg Knepler u. Jürgen Mainka.) - In</title>
-        <extent>Beiträge zur Musikwissenschaft. 15 (1974), S. 151-166.</extent>
+        <title>Traditionslinien. Ein Beitrag zur DDR-Musikgeschichte.</title>
+        <journal>Beiträge zur Musikwissenschaft</journal>
+        <publicationYear>1974</publicationYear>
+        <extent>S. 151-166.</extent>
         <abstract> In der Auswahl von drei verschiedenen Komponistengenerationen der DDR, die
             wesentlich an der Entstehung der sozialistischen Musikkultur und Musiksprache beteiligt
             sind, wird der Traditionsbezug dargestellt. Die Differenzierung liegt in der
@@ -7887,14 +8031,19 @@
             Bibliotheksverb. d. Dt. Demokratischen Republik. Red.: Karl-Heinz Köhler.) - Berlin
             1974. 121 S.</fullTitle>
         <people>
-            <author>
-                <familyName>Weimarer Tage für Musikbibliothekare</familyName>
-                <givenName>8. bis 12. Oktober 1973. Berichte. Referate (Hrsg. von d. Ländergruppe
-                    DDR in d. Internat. Vereinigung d. Musikbibliotheken u. d. Bibliotheksverb. d.
-                    Dt. Demokratischen Republik. Red.</givenName>
-            </author>
+            <editor>
+                <familyName>Ländergruppe DDR in d. Internat. Vereinigung d. Musikbibliotheken u. d.
+            Bibliotheksverb. d. Dt. Demokratischen Republik</familyName>
+            </editor>
+            <contributor>
+                <familyName>Köhler</familyName>
+                <givenName>Karl-Heinz</givenName>
+            </contributor>
         </people>
-        <title>Karl-Heinz Köhler.) - Berlin 1974. 121 S.</title>
+        <place>Berlin</place>
+        <publicationYear>1974</publicationYear>
+        <extent>121 S.</extent>
+        <title>Weimarer Tage für Musikbibliothekare, 8. bis 12. Oktober 1973. Berichte. Referate</title>
         <abstract> Enthält: Vorbemerkung; Johanna Rudolph, Unsere Beziehungen zum musikalischen
             Erbe; Lilian Nikolajewa, Die Entwicklung der Bulgarischen Musik; Karol Musiol, Die
             Entwicklung der Polnischen Musik; Karl-Heinz Köhler, Max Reger - Größe und Vermächtnis
@@ -8098,7 +8247,11 @@
         <people>
             <author>
                 <familyName>Zimpel</familyName>
-                <givenName>Herbert u. Hella Brock</givenName>
+                <givenName>Herbert</givenName>
+            </author>
+            <author>
+                <familyName>Brock</familyName>
+                <givenName>Hella</givenName>
             </author>
         </people>
         <title>Unterrichtshilfen Musik 7. und 8. Klasse</title>
@@ -8115,7 +8268,7 @@
             2, S. 103-113. = Gesellschafts- u. sprachwissenschaftliche Reihe.</fullTitle>
         <people>
             <author>
-                <familyName>(Autorenkollektiv)</familyName>
+                <familyName>Autorenkollektiv</familyName>
             </author>
         </people>
         <title>Zu einigen Fragen der Wechselbeziehung der Künste.</title>
@@ -8314,7 +8467,11 @@
         <people>
             <author>
                 <familyName>Barnikol</familyName>
-                <givenName>Klaus C. u. Hans-Jürgen Schneider</givenName>
+                <givenName>Klaus C.</givenName>
+            </author>
+            <author>
+                <familyName>Schneider</familyName>
+                <givenName>Hans-Jürgen</givenName>
             </author>
         </people>
         <title>Das Finalproblem im Opernschaffen der DDR</title>
@@ -8573,7 +8730,7 @@
                 <givenName>Hella</givenName>
             </author>
             <author>
-                <familyName>Kollektiv mehrerer Wissenschaftler</familyName>
+                <familyName>Autorenkollektiv</familyName>
             </author>
         </people>
         <title>Methodik der Musikerziehung</title>
@@ -8712,7 +8869,11 @@
         <people>
             <author>
                 <familyName>Damm</familyName>
-                <givenName>Andreas u. Andreas Göpfert</givenName>
+                <givenName>Andreas</givenName>
+            </author>
+            <author>
+                <familyName>Göpfert</familyName>
+                <givenName>Andreas</givenName>
             </author>
         </people>
         <title>Untersuchungen zum bürgerlichen Mendelssohnbild und den kulturellen und
@@ -8740,7 +8901,11 @@
         <people>
             <author>
                 <familyName>Deptuller</familyName>
-                <givenName>Ulrich u. Juliane Erxleben</givenName>
+                <givenName>Ulrich</givenName>
+            </author>
+            <author>
+                <familyName>Erxleben</familyName>
+                <givenName>Juliane</givenName>
             </author>
         </people>
         <title>Systematische Lenkung und Gestaltung des Unterrichtsprozesses an der Spezialschule
@@ -8943,7 +9108,11 @@
         <people>
             <author>
                 <familyName>Eller</familyName>
-                <givenName>Rudolf u. Karl Heller</givenName>
+                <givenName>Rudolf</givenName>
+            </author>
+            <author>
+                <familyName>Heller</familyName>
+                <givenName>Karl</givenName>
             </author>
         </people>
         <title>Mecklenburgische Regional-Musikgeschichtsforschung</title>
@@ -8983,7 +9152,11 @@
         <people>
             <author>
                 <familyName>Erxleben</familyName>
-                <givenName>Juliane u. Ulrich Deptuller</givenName>
+                <givenName>Juliane</givenName>
+            </author>
+            <author>
+                <familyName>Deptuller</familyName>
+                <givenName>Ulrich</givenName>
             </author>
         </people>
         <title>Systematische Lenkung und Gestaltung des Unterrichtsprozesses an der Spezialschule
@@ -9292,7 +9465,11 @@
         <people>
             <author>
                 <familyName>Göpfert</familyName>
-                <givenName>Andreas u. Andreas Damm</givenName>
+                <givenName>Andreas</givenName>
+            </author>
+            <author>
+                <familyName>Damm</familyName>
+                <givenName>Andreas</givenName>
             </author>
         </people>
         <title>Untersuchungen zum bürgerlichen Mendelssohnbild und den kulturellen und
@@ -9683,7 +9860,11 @@
         <people>
             <author>
                 <familyName>Heller</familyName>
-                <givenName>Karl u. Rudolf Eller</givenName>
+                <givenName>Karl</givenName>
+            </author>
+            <author>
+                <familyName>Eller</familyName>
+                <givenName>Rudolf</givenName>
             </author>
         </people>
         <title>Mecklenburgische Regional-Musikgeschichtsforschung</title>
@@ -9770,8 +9951,12 @@
             Rostock. Beginn: 1974.</fullTitle>
         <people>
             <author>
+                <familyName>Daebeler</familyName>
+                <givenName>Hans-Jürgen</givenName>
+            </author>
+            <author>
                 <familyName>Hingst</familyName>
-                <givenName>Alfred u. Hans-Jürgen Daebeler</givenName>
+                <givenName>Alfred</givenName>
             </author>
         </people>
         <title>Katalog der Musikhandschriften des 17. und 18. Jahrhunderts in der
@@ -9942,7 +10127,11 @@
         <people>
             <author>
                 <familyName>Ismer</familyName>
-                <givenName>Ursula u. Hanna John</givenName>
+                <givenName>Ursula</givenName>
+            </author>
+            <author>
+                <familyName>John</familyName>
+                <givenName>Hanna</givenName>
             </author>
         </people>
         <title>Untersuchungen zur Geschichte der Variation seit Beethoven</title>
@@ -10018,7 +10207,11 @@
         <people>
             <author>
                 <familyName>John</familyName>
-                <givenName>Hanna u. Ursula Ismer</givenName>
+                <givenName>Hanna</givenName>
+            </author>
+            <author>
+                <familyName>Ismer</familyName>
+                <givenName>Ursula</givenName>
             </author>
         </people>
         <title>Untersuchungen zur Geschichte der Variation seit Beethoven</title>
@@ -10130,7 +10323,11 @@
         <people>
             <author>
                 <familyName>Kneipel</familyName>
-                <givenName>Eberhard u. Hansjürgen Schmidt</givenName>
+                <givenName>Eberhard</givenName>
+            </author>
+            <author>
+                <familyName>Schmidt</familyName>
+                <givenName>Hansjürgen</givenName>
             </author>
         </people>
         <title>Die Kompositionstechnik Witold Lutoslawskis</title>
@@ -11062,7 +11259,11 @@
         <people>
             <author>
                 <familyName>Schmidt</familyName>
-                <givenName>Hansjürgen u. Eberhard Kneipel</givenName>
+                <givenName>Hansjürgen</givenName>
+            </author>
+            <author>
+                <familyName>Kneipel</familyName>
+                <givenName>Eberhard</givenName>
             </author>
         </people>
         <title>Die Kompositionstechnik Witold Lutoslawskis</title>

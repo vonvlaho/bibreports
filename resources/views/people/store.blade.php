@@ -9,7 +9,7 @@
     @isset( $people )
         <ul>
             @foreach( $people as $person)
-                <li><a href="{{ route('people.show', $person) }}">{{ $person->familyName }}, {{ $person->givenName }}</a></li>
+                <li><a href="{{ route('people.show', $person) }}">{{ $person->familyName }}@if($person->givenName), {{ $person->givenName }}@endif</a></li>
             @endforeach
         </ul>
     @endisset

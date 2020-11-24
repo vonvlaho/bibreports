@@ -2,12 +2,12 @@
 @section('content')
     <section class="section container content">
         <h2 class="title is-4">
-            {{ $person->familyName }}, {{ $person->givenName }}
+            {{ $person->familyName }}@if($person->givenName), {{ $person->givenName }}@endif
         </h2>
         @isset( $entriesCollection )
         <h3 class="subtitle is-6">Verknüpfte Einträge:</h3>
         @foreach( $entriesCollection as $role => $entries )
-        <h4>{{ $role }}</h4>
+        @include('includes.role',['role' => $role])
         <ul>
             @foreach( $entries as $entry )
                 <li>
