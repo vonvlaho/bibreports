@@ -8683,7 +8683,8 @@
         <title>Das Lebenswerk Max Buttings</title>
         <place>Berlin</place>
         <startingYear>1970</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe: Bericht über die musikwissenschaftlichen Arbeiten in der Deutschen
             Demokratischen Republik 1973 (Nr. 37). </abstract>
@@ -8850,7 +8851,7 @@
         <type>Forschungsauftrag</type>
         <startingYear>1952</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Institut für Denkmalpflege,</org>
+        <org>Institut für Denkmalpflege</org>
         <place>Dresden</place>
         <abstract> Ziel: Erfassung aller denkmalwerten Orgeln in den Bezirken Dresden,
             Karl-Marx-Stadt und Leipzig. Methoden: Untersuchung der Orgeln hinsichtlich Prospekt,
@@ -8882,8 +8883,7 @@
         <place>Halle</place>
         <startingYear>1971</startingYear>
         <finishingYear>1976</finishingYear>
-        <org>Diss,</org>
-        <place>A,</place>
+        <type>Diss. A</type>
         <abstract> Die Arbeit beschäftigt sich mit Erscheinungsformen des bürgerlichen
             Mendelssohnbildes, untersucht deren Zusammenhang mit der
             Interpretations-Rezeptionsbeziehung und exemplifiziert am bürgerlichen Mendelssohnbild
@@ -8912,8 +8912,7 @@
             für Musik in Dresden</title>
         <place>Halle</place>
         <startingYear>1974</startingYear>
-        <org>Diss,</org>
-        <place>A,</place>
+        <type>Diss. A</type>
     </entry>
     <entry>
         <entryNo>F 23</entryNo>
@@ -8985,9 +8984,7 @@
         <place>Halle</place>
         <startingYear>1973</startingYear>
         <finishingYear>1976</finishingYear>
-        <org>Diss.</org>
-        <place>A.</place>
-
+        <type>Diss. A</type>
     </entry>
     <entry>
         <entryNo>F 26</entryNo>
@@ -9141,8 +9138,7 @@
         <place>Potsdam</place>
         <startingYear>1973</startingYear>
         <finishingYear>1977</finishingYear>
-        <org>Diss,</org>
-        <place>A,</place>
+        <type>Diss. A</type>
     </entry>
     <entry>
         <entryNo>F 33</entryNo>
@@ -9197,7 +9193,7 @@
         <type>Forschungsauftrag u</type>
         <startingYear>1967</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Diss. B,</org>
+        <type>Diss. B</type>
         <place>Halle</place>
     </entry>
     <entry>
@@ -9214,7 +9210,7 @@
         <place>Rostock</place>
         <startingYear>1968</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Diss. A</org>
+        <type>Diss. A</type>
         <abstract> Ziel: Die Arbeit soll den Bedeutungswandel der tradierten Sonatensatzform im
             Verlauf von Bartóks Schaffen erhellen. Methoden: Werk- und Stilanalysen. Ergebnisse: Ein
             Festhalten am klassischen Formbild und an der - wenn auch neu verstandenen - Tonalität
@@ -9240,7 +9236,8 @@
             entspringenden Traditionslinien zur sozialistischen Musikerziehung</title>
         <place>Halle</place>
         <startingYear>1970</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 70. </abstract>
     </entry>
@@ -9257,7 +9254,8 @@
         <title>Untersuchungen zur ideellen Programmatik in der Sinfonik von Dmitri
             Schostakowitsch</title>
         <place>Halle</place>
-        <startingYear>1967: Abschluß: 1975</startingYear>
+        <startingYear>1967</startingYear>
+        <finishingYear>1975</finishingYear>
 <type>Diss. A</type>
         <abstract> Ziel: Erarbeitung charakteristischer Methoden der Gestaltung der programmatischen
             Aussage in der Sinfonik Schostakowitschs. Methoden: 1. Analyse der Sinfonien 5-10. 2.
@@ -9318,7 +9316,8 @@
             Deutschen Demokratischen Republik</title>
         <place>Halle</place>
         <startingYear>1968</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 78. </abstract>
     </entry>
@@ -9376,7 +9375,8 @@
             Musikwissenschaftler zum Wegbereiter für eine sozialistische Schulmusikpädagogik</title>
         <place>Halle</place>
         <startingYear>1971</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 80. </abstract>
     </entry>
@@ -9436,7 +9436,8 @@
             des 17. Jahrhunderts</title>
         <place>Halle</place>
         <startingYear>1972</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 89. </abstract>
     </entry>
@@ -9501,7 +9502,8 @@
         <title>Die Stellung der Blockflöte im Musikleben des 20. Jahrhunderts</title>
         <place>Halle</place>
         <startingYear>1971</startingYear>
-        <org>Diss. A, 1974</org>
+        <type>Diss. A</type>
+        <finishedYear>1974</finishedYear>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 91. </abstract>
     </entry>
@@ -9521,7 +9523,7 @@
             Struktur-Untersuchungen)</title>
         <type>Forschungsauftrag</type>
         <startingYear>1965</startingYear>
-        <org>Akademie der Wissenschaften der DDR und Akademie der Künste der DDR,</org>
+        <org>Akademie der Wissenschaften der DDR und Akademie der Künste der DDR</org>
         <place>Berlin</place>
         <abstract> Musik wird als ein Kommunikations-System sui generis im Sinne der
             Informationstheorie verstanden. Im Rahmen einer semiotischen Sprechtheorie wird sie als
@@ -9551,7 +9553,7 @@
         <title>Konzeptionelle Strukturuntersuchungen an einigen Werken Beethovens</title>
         <type>Forschungsauftrag</type>
         <startingYear>1967</startingYear>
-        <org>Akademie der Wissenschaften der DDR und Akademie der Künste der DDR,</org>
+        <org>Akademie der Wissenschaften der DDR und Akademie der Künste der DDR</org>
         <place>Berlin</place>
         <abstract> Im Rahmen der syntaktisch-semantischen Untersuchungen des allgemeinen
             Forschungsprogramms (s. F. 50) wurden die Methoden der musikalischen Inhaltserforschung
@@ -9577,7 +9579,8 @@
             für die Bauweise der gemischten Register</title>
         <place>Rostock</place>
         <startingYear>1967</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 95. </abstract>
     </entry>
@@ -9691,8 +9694,7 @@
         <type>Forschungsauftrag des DEFA-Studios für Spielfilme</type>
         <startingYear>1972</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Berlin u.</org>
-        <place>Potsdam-Babelsberg</place>
+        <place>Berlin u. Potsdam-Babelsberg</place>
         <abstract> Ziel der Arbeit ist es, die Funktion des Gestaltungsmittels Musik im Prozeß der
             filmgeschichtlichen Entwicklung seit 1946 in der DEFA zu analysieren und zu werten. Die
             Untersuchung basiert auf detaillierten Filmanalysen. </abstract>
@@ -10048,7 +10050,8 @@
             Republik. Hauptkonzeption, Untersuchungen und Studien</title>
         <place>Halle</place>
         <startingYear>1972</startingYear>
-        <org>Diss. A, 1973</org>
+        <finishedYear>1973</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter N 1. [129] </abstract>
     </entry>
@@ -10196,7 +10199,8 @@
             Jahrhundert</title>
         <place>Halle</place>
         <startingYear>1967</startingYear>
-        <org>Diss. B, 1973</org>
+        <finishedYear>1973</finishedYear>
+        <type>Diss. B</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 135. </abstract>
     </entry>
@@ -10296,7 +10300,8 @@
             Realismus-Problem in der Instrumentalmusik</title>
         <place>Jena</place>
         <startingYear>1967</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter 146. </abstract>
     </entry>
@@ -10313,7 +10318,7 @@
         <title>Die Kategorie "Zeit" im Musikdenken der Gegenwart</title>
         <type>Forschungsauftrag u</type>
         <startingYear>1974</startingYear>
-        <org>Diss. B,</org>
+        <type>Diss. B</type>
         <place>Halle</place>
     </entry>
     <entry>
@@ -10385,8 +10390,8 @@
             Anmerkungen zum Persönlichkeitsbild des Komponisten und zur Entwicklung seines
             Gesamtschaffens</title>
         <place>Halle</place>
-        <org>Diss. B, 1974</org>
-        <place>abgeschlossen</place>
+        <type>Diss. B</type>
+        <finishedYear>1974</finishedYear>
         <abstract> Siehe unter 160. </abstract>
     </entry>
     <entry>
@@ -10591,8 +10596,7 @@
         <place>Greifswald</place>
         <startingYear>1966</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Diss.</org>
-        <place>A.</place>
+        <type>Diss. A</type>
     </entry>
     <entry>
         <entryNo>F 103</entryNo>
@@ -10608,8 +10612,7 @@
         <place>Halle</place>
         <startingYear>1966</startingYear>
         <finishingYear>1975</finishingYear>
-        <org>Diss.</org>
-        <place>B.</place>
+        <type>Diss. B</type>
         <abstract>Teil 1. Intonation in Theorie und Praxis. Intonationssystem und die
             mathematisch-physikalischen Grundlagen der europäischen Musik werden bei Intonierung in
             Instrumentalmusik, im Orchester, auf Streichinstrumenten untersucht sowie der Charakter
@@ -10770,8 +10773,7 @@
         <place>Halle</place>
         <startingYear>1972</startingYear>
         <finishingYear>1976</finishingYear>
-        <org>Diss,</org>
-        <place>A,</place>
+        <type>Diss. A</type>
         <abstract> Eine historische Sichtung der bisherigen Darstellungen zumLeben und Werk Max
             Regers führt in die Problemstellung ein und weist die bewußt tendenziösen Ausdeutungen
             nach. Im weiteren Verlauf der Untersuchung wird z. T. mit bisher unbekannten Quellen
@@ -10796,7 +10798,8 @@
             Musikhörens im Musikunterricht der allgemeinbildenden sozialistischen Schule</title>
         <place>Berlin</place>
         <startingYear>1969</startingYear>
-        <org>Diss. A, Arschluß:</org>
+        <finishingYear>1975</finishingYear>
+        <type>Diss. A</type>
         <place>1975</place>
         <abstract> Die Arbeit untersucht die Entwicklung des Musikhörens in der allgemeinbildenden
             Schule, den Wandel der damit verbundenen Bildungs- und Erziehungsziele. Zunächst wurde
@@ -10906,7 +10909,8 @@
         <title>Die Meininger Hof- und Landeskapelle in den Jahren 1880 bis 1945</title>
         <place>Halle</place>
         <startingYear>1968</startingYear>
-        <org>Diss. A, 1974</org>
+        <finishedYear>1974</finishedYear>
+        <type>Diss. A</type>
         <place>abgeschlossen</place>
         <abstract> Siehe unter N 2. </abstract>
     </entry>
@@ -11248,8 +11252,9 @@
         <title>Fortschritt und Reaktion in der deutschen Musikerziehung der ersten Hälfte des 19.
             Jahrhunderts</title>
         <place>Halle</place>
-        <org>Diss: B, 1973. 217</org>
-        <place>S</place>
+        <type>Diss. B</type>
+        <publicationYear>1973</publicationYear>
+        <extent>217 S.</extent>
         <abstract> Siehe unter N 3. </abstract>
     </entry>
     <entry>
@@ -11290,9 +11295,7 @@
         <place>Leipzig</place>
         <startingYear>1973</startingYear>
         <finishingYear>1976</finishingYear>
-        <org>Diss.</org>
-        <place>B.</place>
-        <abstract> </abstract>
+        <type>Diss. B</type>
     </entry>
     <entry>
         <entryNo>F 135</entryNo>
@@ -11381,7 +11384,7 @@
         <title>Händels Orgelkonzerte op. 7</title>
         <place>Halle</place>
         <startingYear>1972</startingYear>
-        <org>Diss. A,</org>
+        <type>Diss. A</type>
         <place>Abschluß:</place>
         <abstract> 1975. </abstract>
     </entry>
@@ -11557,8 +11560,8 @@
         </people>
         <title>Persönlichkeitsentwicklung junger Musiker</title>
         <place>Halle</place>
-        <org>Diss. B, Beginn;</org>
-        <place>1974</place>
+        <type>Diss. B</type>
+        <startingYear>1974</startingYear>
     </entry>
     <entry>
         <entryNo>F 146</entryNo>
