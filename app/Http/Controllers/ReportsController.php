@@ -19,8 +19,9 @@ class ReportsController extends Controller
     }
     public function create() {
         $files = [
-            '../database/data/1971.xml',
-            '../database/data/1973.xml'
+            '../database/data/1974.xml',
+            //'../database/data/1971.xml',
+            //'../database/data/1973.xml'
         ];
         foreach ($files as $file) {
             $this->importXml($file);
@@ -49,6 +50,7 @@ class ReportsController extends Controller
                 ],
                 [
                     'type' => $this->extractXmlValue($sourceEntry, 'type'),
+                    'fullTitle' => $this->extractXmlValue($sourceEntry, 'fullTitle'),
                     'title' => $this->extractXmlValue($sourceEntry, 'title'),
                     'seriesTitle' => $this->extractXmlValue($sourceEntry, 'seriesTitle'),
                     'issue' => $this->extractXmlValue($sourceEntry, 'issue'),
@@ -61,13 +63,13 @@ class ReportsController extends Controller
                 ]
             );
 
-            if (array_key_exists('authors', $sourceEntry)) {
-                foreach ($sourceEntry['authors'] as $role => $sourcePerson) {
+            if (array_key_exists('people', $sourceEntry)) {
+                foreach ($sourceEntry['people'] as $role => $sourcePerson) {
                     if (array_key_exists('familyName', $sourcePerson)) {
                         $this->updatePerson ($sourcePerson, $entry, $role);
                     } else if (is_array($sourcePerson)) {
                         foreach ($sourcePerson as $item) {
-                            $this->updatePerson ($item, $entry, $role);
+                         $this->updatePerson ($item, $entry, $role);
                         }
                     } else {
                         echo $sourcePerson . " is not an person";
@@ -76,20 +78,20 @@ class ReportsController extends Controller
             }
         }
 
-        foreach ($sourceData['keyword'] as $sourceKeyword) {
-            $keyword = Keyword::updateOrCreate(
-                ['name' => $this->extractXmlValue($sourceKeyword, 'name')]
-            );
-            foreach ($sourceKeyword['entryNos'] as $sourceEntryNo) {
-                if (is_array($sourceEntryNo)) {
-                    foreach ($sourceEntryNo as $item) {
-                        $this->updateKeyword ($item, $report, $keyword);
-                    }
-                } else if (is_string($sourceEntryNo)) {
-                        $this->updateKeyword ($sourceEntryNo, $report, $keyword);
-                } else {
-                    break;
+        foreach ($sourceData['register']['registerEntry'] as $sourceKeyword) {
+
+            $keyword = Keyword::updateOrCreate(['name' => $this->extractXmlValue($sourceKeyword, 'item')]);
+
+            if (!array_key_exists('ref', $sourceKeyword)) {
+                dump($sourceKeyword);
+            } else if (is_array($sourceKeyword['ref'])) {
+                foreach ($sourceKeyword['ref'] as $sourceEntryNo) {
+                    $this->updateKeyword ($sourceEntryNo, $report, $keyword);
                 }
+            } else if (is_string($sourceKeyword['ref'])) {
+                $this->updateKeyword ($sourceKeyword['ref'], $report, $keyword);
+            } else {
+                break;
             }
         }
     }
@@ -107,7 +109,7 @@ class ReportsController extends Controller
         $person = Person::updateOrCreate(
             [
                 'familyName' => $sourcePerson['familyName'],
-                'givenName' => $sourcePerson['givenName']
+                'givenName' => $sourcePerson['givenName'] ?? NULL
             ],
             ['gender' => $sourcePerson['gender'] ?? NULL]
         );
@@ -116,9 +118,14 @@ class ReportsController extends Controller
         }
     }
     private function updateKeyword ($sourceEntryNo, $report, $keyword) {
+
         $relatedEntries = Entry::where('entryNo', $sourceEntryNo)->where('report_id', $report->id)->get();
         if (!$relatedEntries->contains($keyword)) {
-            $relatedEntries->first()->keywords()->attach($keyword);
+            if (is_null($relatedEntries->first())) {
+                dump($sourceEntryNo);
+            } else {
+                $relatedEntries->first()->keywords()->attach($keyword);
+            }
         }
     }
 }

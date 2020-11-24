@@ -17,7 +17,7 @@
         @foreach($report->entries as $entry)
                 <li class="my-4">
                     <a href="{{ route('entries.show', $entry) }}">
-                        <strong>{{ $entry->entryNo }}</strong> @include('includes.title', ['entry' => $entry])
+                        <strong>{{ $entry->entryNo }}</strong> {{ $entry->fullTitle }}
                     </a>
                 </li>
         @endforeach
