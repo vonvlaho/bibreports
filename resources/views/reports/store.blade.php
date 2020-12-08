@@ -1,18 +1,22 @@
 @extends('layouts.default')
 @section('content')
 <section class="section container">
-    <div class="tile is-ancestor">
-        @foreach ($reports as $report)
-            <div class="tile is-parent is-4">
-                <article class="tile is-child box">
-                    <figure class="image is-small">
-                        <a href="{{ route('reports.show', $report) }}"><img src="/img/{{ $report->cover }}"></a>
-                    </figure>
-                    <a href="{{ route('reports.show', $report) }}">{{ $report->title }} {{$report->year}}</a>
-                </article>
+    @foreach ($reports as $report)
+        @if($loop->first || $loop->iteration % 3 === 1)
+            <div class="tile is-ancestor">
+        @endif
+                <div class="tile is-parent is-4">
+                    <article class="tile is-child box">
+                        <figure class="image is-small">
+                            <a href="{{ route('reports.show', $report) }}"><img src="/img/{{ $report->cover }}"></a>
+                        </figure>
+                        <a href="{{ route('reports.show', $report) }}">{{ $report->title }} {{$report->year}}</a>
+                    </article>
+                </div>
+        @if($loop->iteration % 3 === 0 || $loop->last)
             </div>
-        @endforeach
-    </div>
+        @endif
+    @endforeach
 </section>
 <section class="section container content">
     <h2 class="title is-5" id="Hintergrund">Hintergrund</h2>

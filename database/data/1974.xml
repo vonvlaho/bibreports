@@ -478,7 +478,7 @@
         <people>
             <author>
                 <familyName>Besseler</familyName>
-                <givenName>Heinrich u. Peter Gülke</givenName>
+                <givenName>Heinrich</givenName>
             </author>
             <author>
                 <familyName>Gülke</familyName>
@@ -2447,7 +2447,7 @@
         <people>
             <author>
                 <familyName>Heinrich</familyName>
-                <givenName>Rudolf u. Joachim Herz</givenName>
+                <givenName>Rudolf</givenName>
             </author>
             <author>
                 <familyName>Herz</familyName>
@@ -3239,7 +3239,7 @@
         <people>
             <author>
                 <familyName>Klingbeil</familyName>
-                <givenName>Eberhard u. Siegfried Flügel</givenName>
+                <givenName>Eberhard</givenName>
             </author>
             <author>
                 <familyName>Flügel</familyName>
@@ -9948,13 +9948,13 @@
     </entry>
     <entry>
         <entryNo>F 70</entryNo>
-        <fullTitle>Hingst, Alfred u. Hans-Jürgen Daebeler: Katalog der Musikhandschriften des 17.
+        <fullTitle>Hingst, Alfred u. Hans Jürgen Daebeler: Katalog der Musikhandschriften des 17.
             und 18. Jahrhunderts in der Universitätsbibliothek Rostock. - Forschungsauftrag,
             Rostock. Beginn: 1974.</fullTitle>
         <people>
             <author>
                 <familyName>Daebeler</familyName>
-                <givenName>Hans-Jürgen</givenName>
+                <givenName>Hans Jürgen</givenName>
             </author>
             <author>
                 <familyName>Hingst</familyName>
@@ -12409,8 +12409,8 @@
             <ref>F 80 </ref>
         </registerEntry>
         <registerEntry>
-            <item>Fasch, Johann Friedrich N </item>
-            <ref>4 </ref>
+            <item>Fasch, Johann Friedrich</item>
+            <ref>N 4</ref>
         </registerEntry>
         <registerEntry>
             <item>Fernsehmusik </item>
@@ -12764,12 +12764,12 @@
             <ref>F 159 </ref>
         </registerEntry>
         <registerEntry>
-            <item>Krebs, Johann Ludwig N </item>
-            <ref>4 </ref>
+            <item>Krebs, Johann Ludwig</item>
+            <ref>N 4</ref>
         </registerEntry>
         <registerEntry>
-            <item>Krebs, Johann Tobias N </item>
-            <ref>4 </ref>
+            <item>Krebs, Johann Tobias</item>
+            <ref>N 4</ref>
         </registerEntry>
         <registerEntry>
             <item>Kretzschmar, Hermann </item>
@@ -12915,12 +12915,12 @@
             <ref>20 </ref>
         </registerEntry>
         <registerEntry>
-            <item>Meiningen N </item>
-            <ref>2 </ref>
+            <item>Meiningen</item>
+            <ref>N 2</ref>
         </registerEntry>
         <registerEntry>
-            <item>Meiningen, Hof- u. Landeskapelle N </item>
-            <ref>2 </ref>
+            <item>Meiningen, Hof- u. Landeskapelle</item>
+            <ref>N 2</ref>
         </registerEntry>
         <registerEntry>
             <item>Mendelssohn Bartholdy, Felix </item>
@@ -12949,8 +12949,8 @@
             <ref>361</ref>
         </registerEntry>
         <registerEntry>
-            <item>Michelangelo Buonarroti N </item>
-            <ref>1</ref>
+            <item>Michelangelo Buonarroti</item>
+            <ref>N 1</ref>
         </registerEntry>
         <registerEntry>
             <item>Mittelalter </item>
@@ -14237,8 +14237,8 @@
             <ref>89 </ref>
         </registerEntry>
         <registerEntry>
-            <item>Populärwissenschaft N </item>
-            <ref>1 </ref>
+            <item>Populärwissenschaft</item>
+            <ref>N 1</ref>
         </registerEntry>
         <registerEntry>
             <item>Programmatik </item>

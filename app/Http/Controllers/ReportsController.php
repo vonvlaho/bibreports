@@ -19,7 +19,9 @@ class ReportsController extends Controller
     }
     public function create() {
         $files = [
+            '../database/data/1966.xml',
             '../database/data/1967.xml',
+            '../database/data/1968.xml',
             '../database/data/1974.xml',
             //'../database/data/1971.xml',
             //'../database/data/1973.xml'
