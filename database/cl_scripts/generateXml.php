@@ -21,25 +21,25 @@ $registerMode = false;
 foreach($rawData as $key => $value) {
     if (preg_match("/(###Register###)/", $value) > 0) {
         $registerMode = true;
-    } else if ($registerMode === true && preg_match("/(N\s\d*)/", $value) > 0) {
-        $keyword = $root->addChild('keyword');
-        $entryNos = $keyword->addChild('entryNos');
-
-        //extract entryNos
-        preg_match_all("/(N\s\d*)/", $value, $matches);
-        foreach ($matches[1] as $entryNo) {
-            $keyword->entryNos->addChild('entryNo', $entryNo);
-        }
+    } else if ($registerMode === true && preg_match("/(F\s\d+)|(\d+)/", $value) > 0) {
+        $keyword = $root->addChild('registerEntry');
+        // $entryNos = $keyword->addChild('entryNos');
 
         //extract entry name
-        preg_match("/(.*?)(\d+)|(.*?)(N\s\d+)/", $value, $matches);
-        $keyword->entryNos->addChild('name', $matches[1]);
-    } else if (preg_match("/(N\s\d+)\s/", $value) > 0) {
+        preg_match("/(.*?)(\d+)|(.*?)(F\s\d+)/", $value, $matches);
+        $keyword->addChild('item', $matches[1]);
+
+        //extract entryNos
+        preg_match_all("/(F\s\d+)|(\d+)/", $value, $matches);
+        foreach ($matches[0] as $entryNo) {
+            $keyword->addChild('ref', $entryNo);
+        }
+    } else if (preg_match("/(F\s\d+)\s/", $value) > 0) {
 
         $entry = $root->addChild('entry');
 
         //matches up to end of title with capturing groups entryNo, Authors, Title
-        $pattern = "/(N\s\d+)\s(.*):\s(.*)(?:.\s-|,\s-)/";
+        $pattern = "/(F\s\d+)\s(.*):\s(.*)(?:.\s-|,\s-)/";
         preg_match($pattern, $value, $matches);
 
         //extract entryNo = Capturing Group #1
@@ -125,5 +125,4 @@ foreach($rawData as $key => $value) {
      */
 }
 $xml = html_entity_decode($xml->asXML(), ENT_NOQUOTES, 'UTF-8');
-var_dump($xml);die();
 file_put_contents($argv[2] . '.xml', $xml);

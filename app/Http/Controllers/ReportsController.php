@@ -12,19 +12,23 @@ use App\Person;
 class ReportsController extends Controller
 {
     public function store() {
-        return view('reports.store', ['reports' => Report::all()]);
+        return view('reports.store', ['reports' => Report::all()->sortBy('year')]);
     }
     public function show($id) {
         return view('reports.show', ['report' => Report::findOrFail($id)]);
     }
     public function create() {
         $files = [
-            '../database/data/1966.xml',
-            '../database/data/1967.xml',
-            '../database/data/1968.xml',
-            '../database/data/1974.xml',
-            //'../database/data/1971.xml',
-            //'../database/data/1973.xml'
+//            '../database/data/1966.xml',
+//            '../database/data/1967.xml',
+//            '../database/data/1968.xml',
+//            '../database/data/1969.xml',
+//            '../database/data/1970.xml',
+//            '../database/data/1971.xml',
+//            '../database/data/1972.xml',
+//            '../database/data/1973.xml',
+//            '../database/data/1974.xml',
+            '../database/data/1975.xml'
         ];
         foreach ($files as $file) {
             $this->importXml($file);

@@ -1,0 +1,3303 @@
+<?xml version="1.0"?>
+<xml encoding="UTF-8">
+    <report>
+        <registerEntry>
+            <item>Adaption </item>
+            <ref>20</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Ästhetik </item>
+            <ref>136</ref>
+            <ref>F 27</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Affektenlehre </item>
+            <ref>344</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Agogik </item>
+            <ref>92</ref>
+            <ref>357</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Akademie der Künste der DDR </item>
+            <ref>28</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Akustik </item>
+            <ref>186</ref>
+            <ref>F 46</ref>
+            <ref>F 126</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Analyse </item>
+            <ref>19</ref>
+            <ref>245</ref>
+            <ref>254</ref>
+            <ref>275</ref>
+            <ref>282</ref>
+            <ref>283</ref>
+            <ref>305</ref>
+            <ref>307</ref>
+            <ref>F 38</ref>
+            <ref>F 39</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeiterfestspiele</item>
+            <ref>F 98</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitergesang </item>
+            <ref>137</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeiterlied </item>
+            <ref>48</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeiterlied, Forschung </item>
+            <ref>41</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeiterlied, Geschichte </item>
+            <ref>41</ref>
+            <ref>175</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeiterliedarchiv </item>
+            <ref>41</ref>
+            <ref>267</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitermusik, Geschichte </item>
+            <ref>349</ref>
+            <ref>F 23</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitermusikbewegung </item>
+            <ref>41</ref>
+            <ref>48</ref>
+            <ref>137</ref>
+            <ref>175</ref>
+            <ref>266</ref>
+            <ref>349</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitermusikforschung </item>
+            <ref>175</ref>
+            <ref>177</ref>
+            <ref>267</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitermusikkultur </item>
+            <ref>49</ref>
+            <ref>175</ref>
+            <ref>176</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arbeitersängerbewegung</item>
+            <ref>F 23</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Arie </item>
+            <ref>359</ref>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Asriel, Andre </item>
+            <ref>188</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Aufführungspraxis </item>
+            <ref>63</ref>
+            <ref>151</ref>
+            <ref>191</ref>
+            <ref>241</ref>
+            <ref>306</ref>
+            <ref>326</ref>
+            <ref>339</ref>
+            <ref>363</ref>
+            <ref>364</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Aufklärung </item>
+            <ref>2</ref>
+            <ref>243</ref>
+            <ref>279</ref>
+            <ref>306</ref>
+            <ref>F 89</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Auftragswesen </item>
+            <ref>7</ref>
+            <ref>F 21</ref>
+            <ref>F 22</ref>
+            <ref>F 49</ref>
+            <ref>F 98</ref>
+            <ref>F 99</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bach, Carl Philipp Emanuel</item>
+            <ref>F 104</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bach, Johann Sebastian </item>
+            <ref>2</ref>
+            <ref>9</ref>
+            <ref>10</ref>
+            <ref>39</ref>
+            <ref>40</ref>
+            <ref>44</ref>
+            <ref>58</ref>
+            <ref>123</ref>
+            <ref>126</ref>
+            <ref>130</ref>
+            <ref>155</ref>
+            <ref>156</ref>
+            <ref>189</ref>
+            <ref>229</ref>
+            <ref>231</ref>
+            <ref>232</ref>
+            <ref>280</ref>
+            <ref>281</ref>
+            <ref>287</ref>
+            <ref>290</ref>
+            <ref>291</ref>
+            <ref>292</ref>
+            <ref>311</ref>
+            <ref>341</ref>
+            <ref>F 2</ref>
+            <ref>F 9</ref>
+            <ref>F 128</ref>
+            <ref>F 138</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bach-Bibliographie </item>
+            <ref>58</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bachbild </item>
+            <ref>44</ref>
+            <ref>58</ref>
+            <ref>60</ref>
+            <ref>280</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bachedition </item>
+            <ref>122</ref>
+            <ref>362</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bachehrung </item>
+            <ref>123</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bach-Forschung </item>
+            <ref>8</ref>
+            <ref>60</ref>
+            <ref>91</ref>
+            <ref>122</ref>
+            <ref>123</ref>
+            <ref>219</ref>
+            <ref>231</ref>
+            <ref>290</ref>
+            <ref>291</ref>
+            <ref>292</ref>
+            <ref>F 25</ref>
+            <ref>F 52</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bachpflege </item>
+            <ref>20</ref>
+            <ref>27</ref>
+            <ref>34</ref>
+            <ref>35</ref>
+            <ref>39</ref>
+            <ref>40</ref>
+            <ref>59</ref>
+            <ref>60</ref>
+            <ref>122</ref>
+            <ref>123</ref>
+            <ref>124</ref>
+            <ref>125</ref>
+            <ref>130</ref>
+            <ref>189</ref>
+            <ref>220</ref>
+            <ref>231</ref>
+            <ref>232</ref>
+            <ref>268</ref>
+            <ref>362</ref>
+            <ref>F 72</ref>
+            <ref>F 114</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bach-Rezeption </item>
+            <ref>27</ref>
+            <ref>124</ref>
+            <ref>F 114</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Balázs, Béla </item>
+            <ref>92</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Balginstrumente</item>
+            <ref>F 85</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Ballett </item>
+            <ref>82</ref>
+            <ref>217</ref>
+            <ref>238</ref>
+            <ref>F 65</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Ballettmusik </item>
+            <ref>89</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Balsys, Eduardas </item>
+            <ref>83</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Barték, Béla </item>
+            <ref>65</ref>
+            <ref>F 47</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bauernkrieg </item>
+            <ref>159</ref>
+            <ref>160</ref>
+            <ref>238</ref>
+            <ref>320</ref>
+            <ref>321</ref>
+            <ref>322</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beat </item>
+            <ref>80</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Becher, Johannes Robert</item>
+            <ref>F 55</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beethoven, Ludwig van </item>
+            <ref>30</ref>
+            <ref>141</ref>
+            <ref>69</ref>
+            <ref>88</ref>
+            <ref>89</ref>
+            <ref>109</ref>
+            <ref>153</ref>
+            <ref>233</ref>
+            <ref>304</ref>
+            <ref>F 39</ref>
+            <ref>F 140</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beethoven-Bild </item>
+            <ref>304</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beethoven-Forschung </item>
+            <ref>88</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beethoven-Interpretation </item>
+            <ref>357</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Beethoven-Rezeption</item>
+            <ref>F 46</ref>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Berg, Alban </item>
+            <ref>73</ref>
+            <ref>257</ref>
+            <ref>288</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Berlin </item>
+            <ref>78</ref>
+            <ref>238</ref>
+            <ref>F 111</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Besseler, Heinrich </item>
+            <ref>97</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bibliographie </item>
+            <ref>216</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bildung, musische </item>
+            <ref>141</ref>
+            <ref>289</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bizet, Georges </item>
+            <ref>340</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Black-Box-Methode </item>
+            <ref>146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bobrowski, Johannes </item>
+            <ref>173</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Böhm, Georg </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bongartz, Heinz </item>
+            <ref>224</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bononcini, Antonio </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bononcini, Giovanni </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bordoni, Faustina </item>
+            <ref>338</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bourdon </item>
+            <ref>17</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Brahms, Johannes </item>
+            <ref>224</ref>
+            <ref>233</ref>
+            <ref>F 134</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Braunschweig </item>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Brecht, Bertolt </item>
+            <ref>51</ref>
+            <ref>F 1</ref>
+            <ref>F 119</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bredemeyer, Reiner </item>
+            <ref>249</ref>
+            <ref>264</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Bülow, Hans von </item>
+            <ref>224</ref>
+            <ref>F 120</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Buffooper </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Burney, Charles </item>
+            <ref>338</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Busch, Ernst </item>
+            <ref>48</ref>
+            <ref>50</ref>
+            <ref>55</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Butting, Max </item>
+            <ref>29</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Buxtehude, Dietrich </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Caldara, Antonio </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Carissimi, Giacomo </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Cavalli, Franceso </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Cembalo </item>
+            <ref>241</ref>
+            <ref>F 33</ref>
+            <ref>F 54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Chanson </item>
+            <ref>66</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Cholminow, Alexander </item>
+            <ref>181</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Chopin, Fryderyk </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Chorbewegung</item>
+            <ref>F 80</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Choreographie </item>
+            <ref>217</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Chormusik</item>
+            <ref>F 64</ref>
+            <ref>F 98</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Chormusik, geistliche </item>
+            <ref>326</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Cilenlek, Johann </item>
+            <ref>25</ref>
+            <ref>307</ref>
+            <ref>F 67</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Codierung </item>
+            <ref>145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Collum, Herbert</item>
+            <ref>F 113</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Conti, Francesco Bartolommeo </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Datenverarbeitung, elektronische </item>
+            <ref>145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dessau</item>
+            <ref>F 24</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dessau, Paul </item>
+            <ref>32</ref>
+            <ref>107</ref>
+            <ref>210</ref>
+            <ref>245</ref>
+            <ref>247</ref>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dietrich, Karl </item>
+            <ref>148</ref>
+            <ref>F 33</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dingelstedt, Franz </item>
+            <ref>131</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Diskothek </item>
+            <ref>67</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Domhardt, Gerd </item>
+            <ref>107</ref>
+            <ref>285</ref>
+            <ref>313</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Draghi, Antonio </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Drehorgel </item>
+            <ref>332</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dresden </item>
+            <ref>318</ref>
+            <ref>329</ref>
+            <ref>F 18</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Dynamik </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Edition </item>
+            <ref>354</ref>
+            <ref>F 26</ref>
+            <ref>F 53</ref>
+            <ref>F 123</ref>
+            <ref>F 145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Eisenach </item>
+            <ref>34</ref>
+            <ref>35</ref>
+            <ref>132</ref>
+            <ref>225</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Eisenstein, Sergej </item>
+            <ref>92</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Eisler, Hanns </item>
+            <ref>50</ref>
+            <ref>51</ref>
+            <ref>52</ref>
+            <ref>53</ref>
+            <ref>90</ref>
+            <ref>92</ref>
+            <ref>144</ref>
+            <ref>193</ref>
+            <ref>194</ref>
+            <ref>195</ref>
+            <ref>196</ref>
+            <ref>239</ref>
+            <ref>240</ref>
+            <ref>269</ref>
+            <ref>F 1</ref>
+            <ref>F 117</ref>
+            <ref>F 119</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Elektroakustik</item>
+            <ref>F 46</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Erbekonzeption </item>
+            <ref>253</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Erbepflege </item>
+            <ref>242</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Erberezeption </item>
+            <ref>20</ref>
+            <ref>40</ref>
+            <ref>44</ref>
+            <ref>58</ref>
+            <ref>59</ref>
+            <ref>100</ref>
+            <ref>110</ref>
+            <ref>125</ref>
+            <ref>130</ref>
+            <ref>170</ref>
+            <ref>189</ref>
+            <ref>192</ref>
+            <ref>235</ref>
+        </registerEntry>
+        <registerEntry>
+            <item/>
+            <ref>253</ref>
+            <ref>268</ref>
+            <ref>304</ref>
+            <ref>311</ref>
+            <ref>362</ref>
+            <ref>F 41</ref>
+            <ref>F 72</ref>
+            <ref>F 115</ref>
+            <ref>F 146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Erdmann, Günther </item>
+            <ref>197</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Erfurt</item>
+            <ref>F 17</ref>
+            <ref>F 64</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Eschpai, Andrej </item>
+            <ref>85</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Fauxbourdon </item>
+            <ref>17</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Felsenstein, Walter </item>
+            <ref>325</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Fernsehmusik </item>
+            <ref>331</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Figurenkonzeption </item>
+            <ref>301</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Filmmusik </item>
+            <ref>194</ref>
+            <ref>333</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Filmmusik, Dramaturgie </item>
+            <ref>92</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Filmmusik, Geschichte </item>
+            <ref>92</ref>
+            <ref>331</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Filmmusikschaffen, DDR </item>
+            <ref>92</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Finalproblem</item>
+            <ref>F 3</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Finke, Fidelio</item>
+            <ref>F 103</ref>
+            <ref>261</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Fleming, Paul </item>
+            <ref>127</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Folklore </item>
+            <ref>72</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Forest, Jean Kurt </item>
+            <ref>42</ref>
+            <ref>163</ref>
+            <ref>350</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Forkel, Johann Nikolaus </item>
+            <ref>58</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Form, musikalische </item>
+            <ref>166</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Friderici, Daniel</item>
+            <ref>F 81</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Frühaufklärung</item>
+            <ref>F 127</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Fux, Johann Joseph </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gabriel, Giovanni </item>
+            <ref>158</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gabunja, Nodar </item>
+            <ref>84</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gasparini, Francesco </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gattung, literarische </item>
+            <ref>54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gattung, musikalische </item>
+            <ref>147</ref>
+            <ref>365</ref>
+            <ref>F 32</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gattung, musikalische, Geschichte</item>
+            <ref>F 121</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Geißler, Fritz </item>
+            <ref>62</ref>
+            <ref>75</ref>
+            <ref>213</ref>
+            <ref>261</ref>
+            <ref>273</ref>
+            <ref>275</ref>
+            <ref>282</ref>
+            <ref>283</ref>
+            <ref>286</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gesangsstil </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gestaltungsmittel, musikdramaturgische </item>
+            <ref>245</ref>
+            <ref>247</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gewandhaus</item>
+            <ref>F 152</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Glauchau</item>
+            <ref>F 61</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Goethe, Johann Wolfgang von </item>
+            <ref>252</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Goldmann, Friedrich </item>
+            <ref>249</ref>
+            <ref>264</ref>
+            <ref>277</ref>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Goldschmidt, Harry </item>
+            <ref>149</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gottsched, Johann Christoph </item>
+            <ref>279</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Graun, Carl Heinrich </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Grieg, Edvard </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Gryphius, Andreas </item>
+            <ref>54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hacks, Peter </item>
+            <ref>70</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Händel, Georg Friedrich </item>
+            <ref>14</ref>
+            <ref>323</ref>
+            <ref>360</ref>
+            <ref>F 5</ref>
+            <ref>F 7</ref>
+            <ref>F 123</ref>
+            <ref>F 127</ref>
+            <ref>F 145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Händel-Forschung </item>
+            <ref>14</ref>
+            <ref>F 127</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hamburg </item>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Handschriftenforschung </item>
+            <ref>334</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Handschriftenkatalog </item>
+            <ref>318</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Handschriftenrestauration </item>
+            <ref>155</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hanell, Robert</item>
+            <ref>F 3</ref>
+            <ref>F 122</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hanns-Eisler-Archiv </item>
+            <ref>90</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hasse, Johann Adolf </item>
+            <ref>338</ref>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Haydn, Joseph </item>
+            <ref>154</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Haydn-Forschung </item>
+            <ref>154</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Haydn-Rezeption </item>
+            <ref>154</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hebenstreit, Pantaleon </item>
+            <ref>132</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Helbig, Johann Friedrich </item>
+            <ref>225</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hephaistion</item>
+            <ref>F 96</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Herrmann, Peter </item>
+            <ref>62</ref>
+            <ref>327</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hertel, Johann Christian </item>
+            <ref>225</ref>
+            <ref>F 20</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hertel, Johann Wilhelm</item>
+            <ref>F 20</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hertel, Thomas </item>
+            <ref>107</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Himmel, Friedrich Heinrich </item>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hindemith, Paul </item>
+            <ref>358</ref>
+            <ref>F 103</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hörphysiologie </item>
+            <ref>186</ref>
+            <ref>F 144</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hohensee, Wolfgang </item>
+            <ref>353</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hoffmann, Ernst Theodor </item>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Hübschmann, Werner</item>
+            <ref>F 88</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Improvisation </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Improvisation, instrumentale</item>
+            <ref>F 75</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Informationstheorie </item>
+            <ref>147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Instrumentalmusik </item>
+            <ref>63</ref>
+            <ref>88</ref>
+            <ref>91</ref>
+            <ref>151</ref>
+            <ref>187</ref>
+            <ref>363</ref>
+            <ref>F 5</ref>
+            <ref>F 8</ref>
+            <ref>F 2</ref>
+            <ref>F 26</ref>
+            <ref>F 53</ref>
+            <ref>F 82</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Instrumentenbau </item>
+            <ref>45</ref>
+            <ref>113</ref>
+            <ref>198</ref>
+            <ref>363</ref>
+            <ref>F 85</ref>
+            <ref>F 126</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Instrumentenbau, Geschichte </item>
+            <ref>198</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Instrumentenkunde </item>
+            <ref>45</ref>
+            <ref>114</ref>
+            <ref>F 33</ref>
+            <ref>F 54</ref>
+            <ref>F 85</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Instrumentenkunde, Geschichte </item>
+            <ref>332</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Interpretation </item>
+            <ref>106</ref>
+            <ref>241</ref>
+            <ref>306</ref>
+            <ref>F 140</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Interpretationspraxis </item>
+            <ref>88</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Intonation </item>
+            <ref>186</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Intonationstheorie</item>
+            <ref>F 82</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Introduktion</item>
+            <ref>F 122</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Iwanow, Iwan </item>
+            <ref>190</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Janaček, Leoš</item>
+            <ref>F 124</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Jena</item>
+            <ref>F 74</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Jung, Helge </item>
+            <ref>5</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kabalewski, Dmitri </item>
+            <ref>350</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kammermusik </item>
+            <ref>22</ref>
+            <ref>53</ref>
+            <ref>89</ref>
+            <ref>143</ref>
+            <ref>249</ref>
+            <ref>264</ref>
+            <ref>285</ref>
+            <ref>309</ref>
+            <ref>313</ref>
+            <ref>315</ref>
+            <ref>337</ref>
+            <ref>358</ref>
+            <ref>F 6</ref>
+            <ref>F 101</ref>
+            <ref>F 121</ref>
+            <ref>F 151</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kammersinfonik </item>
+            <ref>5</ref>
+            <ref>12</ref>
+            <ref>26</ref>
+            <ref>81</ref>
+            <ref>103</ref>
+            <ref>196</ref>
+            <ref>239</ref>
+            <ref>285</ref>
+            <ref>327</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kampflied, internationales </item>
+            <ref>317</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kantate </item>
+            <ref>51</ref>
+            <ref>246</ref>
+            <ref>341</ref>
+            <ref>F 128</ref>
+            <ref>F 138</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kantscheli, Gija </item>
+            <ref>84</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Katzer, Georg </item>
+            <ref>217</ref>
+            <ref>238</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Keiser, Reinhard </item>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kellner, Johann Peter </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kirchenmusik </item>
+            <ref>98</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Klavierbau </item>
+            <ref>113</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Klaviermusik </item>
+            <ref>144</ref>
+            <ref>152</ref>
+            <ref>241</ref>
+            <ref>F 37</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Klaviersonate </item>
+            <ref>69</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Koch, Helmut </item>
+            <ref>43</ref>
+            <ref>258</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kochan, Günter </item>
+            <ref>261</ref>
+            <ref>316</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Köhler, Siegfried </item>
+            <ref>24</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kommunikation </item>
+            <ref>67</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kommunikationsforschung </item>
+            <ref>20</ref>
+            <ref>F 147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kommunikationstheorie </item>
+            <ref>133</ref>
+            <ref>F 147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Komplexität </item>
+            <ref>146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Konzertplangestaltung </item>
+            <ref>129</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Krebs, Johann Ludwig </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Krebs, Johann Tobias </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kretzschmar, Hermann </item>
+            <ref>134</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Krieger, Johann Philipp</item>
+            <ref>F 45</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kuhnau, Johann </item>
+            <ref>291</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kultur, sozialistische </item>
+            <ref>21</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kunad, Rainer </item>
+            <ref>74</ref>
+            <ref>173</ref>
+            <ref>250</ref>
+            <ref>260</ref>
+            <ref>275</ref>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kunstästhetik </item>
+            <ref>184</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kunstgeschichte, </item>
+            <ref>16</ref>
+            <ref>17</ref>
+            <ref>54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kunstlied </item>
+            <ref>140</ref>
+            <ref>197</ref>
+            <ref>F 93</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kunstrezeption </item>
+            <ref>184</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kuntzen, Adolf Carl</item>
+            <ref>F 136</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kuntzen, Johann Paul</item>
+            <ref>F 136</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kurzbach, Paul </item>
+            <ref>347</ref>
+            <ref>348</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Kybernetik </item>
+            <ref>146</ref>
+            <ref>147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Laienschaffen, künstlerisches </item>
+            <ref>100</ref>
+            <ref>206</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Legrenzi, Giovanni </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Leibnitz, Gottfried Wilhelm </item>
+            <ref>279</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Leimert, Volkmar </item>
+            <ref>139</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Leipzig </item>
+            <ref>39</ref>
+            <ref>40</ref>
+            <ref>44</ref>
+            <ref>99</ref>
+            <ref>130</ref>
+            <ref>165</ref>
+            <ref>185</ref>
+            <ref>220</ref>
+            <ref>229</ref>
+            <ref>233</ref>
+            <ref>F 128</ref>
+            <ref>F 152</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Leitmotiv </item>
+            <ref>95</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Leo, Leonardo </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Libretto </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lied, politisches </item>
+            <ref>174</ref>
+            <ref>176</ref>
+            <ref>177</ref>
+            <ref>240</ref>
+            <ref>266</ref>
+            <ref>317</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lied, </item>
+            <ref>19</ref>
+            <ref>F 42</ref>
+            <ref>F 93</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lied, </item>
+            <ref>2</ref>
+            <ref>50</ref>
+            <ref>52</ref>
+            <ref>188</ref>
+            <ref>F 119</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lingen, Hermann Ulrich von </item>
+            <ref>225</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Liszt, Franz </item>
+            <ref>131</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Literaturgeschichte, </item>
+            <ref>16</ref>
+            <ref>17</ref>
+            <ref>54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Locatelli, Pietro Antonio </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lohse, Fred </item>
+            <ref>143</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lortzing, Albert </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lotti, Antonio </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Lutoslawski, Witold </item>
+            <ref>256</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Magdeburg</item>
+            <ref>F 57</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mahler, Gustav </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Malige, Fred </item>
+            <ref>356</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>maqām </item>
+            <ref>46</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Marsch</item>
+            <ref>F 32</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Marschner, Heinrich August </item>
+            <ref>233</ref>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Massenlied </item>
+            <ref>261</ref>
+            <ref>266</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mattheson, Johann </item>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Matthus, Siegfried </item>
+            <ref>70</ref>
+            <ref>107</ref>
+            <ref>264</ref>
+            <ref>265</ref>
+            <ref>275</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Medienkonzeption </item>
+            <ref>193</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Meiningen </item>
+            <ref>224</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Melodik </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Melodram </item>
+            <ref>313</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mempell, Johann Nikolaus </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mendelssohn Bartholdy, Felix </item>
+            <ref>157</ref>
+            <ref>233</ref>
+            <ref>252</ref>
+            <ref>F 37</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mendelssohn-Rezeption</item>
+            <ref>F 134</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Metastasio, Pietro </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Metrensystem, griechisches</item>
+            <ref>F 96</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Metrik </item>
+            <ref>357</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Meyer, Ernst Hermann </item>
+            <ref>4</ref>
+            <ref>22</ref>
+            <ref>104</ref>
+            <ref>164</ref>
+            <ref>222</ref>
+            <ref>223</ref>
+            <ref>261</ref>
+            <ref>262</ref>
+            <ref>276</ref>
+            <ref>298</ref>
+            <ref>316</ref>
+            <ref>327</ref>
+            <ref>333</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Meyerbeer, Giacomo </item>
+            <ref>170</ref>
+            <ref>191</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Militärmusik </item>
+            <ref>322</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Minnegesang </item>
+            <ref>94</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mitteilungsdichte </item>
+            <ref>19</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Modellmethode </item>
+            <ref>146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Moltschanow, Kyrill </item>
+            <ref>181</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Monteverdi, Claudio </item>
+            <ref>158</ref>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Motette </item>
+            <ref>98</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Motivarbeit </item>
+            <ref>95</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mozart, Wolfgang Amadeus </item>
+            <ref>110</ref>
+            <ref>172</ref>
+            <ref>242</ref>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mozart-Bild </item>
+            <ref>242</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Mozartforschung </item>
+            <ref>242</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Münnich, Richard</item>
+            <ref>F 40</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musical </item>
+            <ref>13</ref>
+            <ref>72</ref>
+            <ref>228</ref>
+            <ref>365</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikästhetik </item>
+            <ref>19</ref>
+            <ref>65</ref>
+            <ref>88</ref>
+            <ref>107</ref>
+            <ref>116</ref>
+            <ref>141</ref>
+            <ref>151</ref>
+            <ref>167</ref>
+            <ref>172</ref>
+            <ref>184</ref>
+            <ref>242</ref>
+            <ref>245</ref>
+            <ref>301</ref>
+            <ref>305</ref>
+            <ref>323</ref>
+            <ref>331</ref>
+            <ref>341</ref>
+            <ref>344</ref>
+            <ref>F 6</ref>
+            <ref>F 8</ref>
+            <ref>F 14</ref>
+            <ref>F 32</ref>
+            <ref>F 38</ref>
+            <ref>F 39</ref>
+            <ref>F 43</ref>
+            <ref>F 63</ref>
+            <ref>F 66</ref>
+            <ref>F 67</ref>
+            <ref>F 68</ref>
+            <ref>F 71</ref>
+            <ref>F 76</ref>
+            <ref>F 82</ref>
+            <ref>F 93</ref>
+            <ref>F 101</ref>
+            <ref>F 117</ref>
+            <ref>F 121</ref>
+            <ref>F 133</ref>
+            <ref>F 134</ref>
+            <ref>F 142</ref>
+            <ref>F 149</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikästhetik, bürgerliche</item>
+            <ref>F 103</ref>
+            <ref>F 137</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikalienhandel </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikbibliothek </item>
+            <ref>165</ref>
+            <ref>234</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikedition </item>
+            <ref>99</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, allgemein </item>
+            <ref>203</ref>
+            <ref>205</ref>
+            <ref>305</ref>
+            <ref>342</ref>
+            <ref>F 12</ref>
+            <ref>F 27</ref>
+            <ref>F 30</ref>
+            <ref>F 40</ref>
+            <ref>F 48</ref>
+            <ref>F 79</ref>
+            <ref>F 108</ref>
+            <ref>F 112</ref>
+            <ref>F 130</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Begabungsdiagnostik </item>
+            <ref>200</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Berufsausbildung </item>
+            <ref>205</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Chorarbeit </item>
+            <ref>87</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, DDR </item>
+            <ref>11</ref>
+            <ref>15</ref>
+            <ref>16</ref>
+            <ref>32</ref>
+            <ref>36</ref>
+            <ref>56</ref>
+            <ref>57</ref>
+            <ref>64</ref>
+            <ref>66</ref>
+            <ref>67</ref>
+            <ref>77</ref>
+            <ref>79</ref>
+            <ref>87</ref>
+            <ref>101</ref>
+            <ref>105</ref>
+            <ref>106</ref>
+            <ref>117</ref>
+            <ref>118</ref>
+            <ref>119</ref>
+            <ref>120</ref>
+            <ref>121</ref>
+            <ref>137</ref>
+            <ref>138</ref>
+            <ref>141</ref>
+            <ref>178</ref>
+            <ref>179</ref>
+            <ref>180</ref>
+            <ref>200</ref>
+            <ref>204</ref>
+            <ref>206</ref>
+            <ref>209</ref>
+            <ref>214</ref>
+            <ref>221</ref>
+            <ref>227</ref>
+            <ref>244</ref>
+            <ref>251</ref>
+            <ref>263</ref>
+            <ref>293</ref>
+            <ref>302</ref>
+            <ref>311</ref>
+            <ref>319</ref>
+            <ref>328</ref>
+            <ref>335</ref>
+            <ref>336</ref>
+            <ref>337</ref>
+            <ref>345</ref>
+            <ref>346</ref>
+            <ref>F 13</ref>
+            <ref>F 19</ref>
+            <ref>F 28</ref>
+            <ref>F 51</ref>
+            <ref>F 68</ref>
+            <ref>F 72</ref>
+            <ref>F 75</ref>
+            <ref>F 90</ref>
+            <ref>F 95</ref>
+            <ref>F 139</ref>
+            <ref>F 150</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Didaktik </item>
+            <ref>36</ref>
+            <ref>56</ref>
+            <ref>79</ref>
+            <ref>117</ref>
+            <ref>118</ref>
+            <ref>179</ref>
+            <ref>336</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Forschung </item>
+            <ref>200</ref>
+            <ref>202</ref>
+            <ref>203</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Geschichte </item>
+            <ref>134</ref>
+            <ref>289</ref>
+            <ref>305</ref>
+            <ref>F 95</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Information </item>
+            <ref>319</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, instrumentale </item>
+            <ref>346</ref>
+            <ref>F 59</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Lehrerbildung </item>
+            <ref>15</ref>
+            <ref>138</ref>
+            <ref>200</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Lehrplan </item>
+            <ref>64</ref>
+            <ref>79</ref>
+            <ref>105</ref>
+            <ref>119</ref>
+            <ref>138</ref>
+            <ref>221</ref>
+            <ref>251</ref>
+            <ref>302</ref>
+            <ref>F 51</ref>
+            <ref>F 95</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Lehrplanwerk</item>
+            <ref>F 51</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Methodik </item>
+            <ref>36</ref>
+            <ref>79</ref>
+            <ref>87</ref>
+            <ref>118</ref>
+            <ref>120</ref>
+            <ref>221</ref>
+            <ref>345</ref>
+            <ref>F 11</ref>
+            <ref>F 12</ref>
+            <ref>F 19</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>F </item>
+            <ref>F 28</ref>
+            <ref>F 75</ref>
+            <ref>F 95</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Musikhochschule </item>
+            <ref>244</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Musiklehrbuch </item>
+            <ref>105</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Musikschule </item>
+            <ref>15</ref>
+            <ref>200</ref>
+            <ref>201</ref>
+            <ref>204</ref>
+            <ref>346</ref>
+            <ref>F 13</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Musizieren, schulpraktisches </item>
+            <ref>204</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Persönlichkeitsbildung </item>
+            <ref>77</ref>
+            <ref>141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Schulmusik </item>
+            <ref>200</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Stimmbildung </item>
+            <ref>101</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Unterrichtsmittel </item>
+            <ref>15</ref>
+            <ref>319</ref>
+            <ref>335</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, vorschulische </item>
+            <ref>200</ref>
+            <ref>202</ref>
+            <ref>204</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikerziehung, Weiterbildung </item>
+            <ref>77</ref>
+            <ref>106</ref>
+            <ref>119</ref>
+            <ref>121</ref>
+            <ref>138</ref>
+            <ref>200</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikethnologie </item>
+            <ref>45</ref>
+            <ref>46</ref>
+            <ref>47</ref>
+            <ref>320</ref>
+            <ref>321</ref>
+            <ref>322</ref>
+            <ref>F 118</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikfilm</item>
+            <ref>F 78</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, allgemein </item>
+            <ref>183</ref>
+            <ref>F 51</ref>
+            <ref>F 89</ref>
+            <ref>F 117</ref>
+            <ref>F 118</ref>
+            <ref>F 137</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, Antike</item>
+            <ref>F 96</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, BRD</item>
+            <ref>F 15</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, DDR </item>
+            <ref>32</ref>
+            <ref>135</ref>
+            <ref>F 8</ref>
+            <ref>F 34</ref>
+            <ref>F 70</ref>
+            <ref>F 76</ref>
+            <ref>F 84</ref>
+            <ref>F 98</ref>
+            <ref>F 110</ref>
+            <ref>F 121</ref>
+            <ref>F 151</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, Mittelalter </item>
+            <ref>94</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, Niederlande </item>
+            <ref>17</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, römische</item>
+            <ref>F 29</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, UdSSR </item>
+            <ref>84</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>13</ref>
+            <ref>16</ref>
+            <ref>F 43</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>15</ref>
+            <ref>16</ref>
+            <ref>17</ref>
+            <ref>320</ref>
+            <ref>321</ref>
+            <ref>322</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>16</ref>
+            <ref>98</ref>
+            <ref>159</ref>
+            <ref>160</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>16</ref>
+            <ref>17</ref>
+            <ref>235</ref>
+            <ref>F 111</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>17</ref>
+            <ref>8</ref>
+            <ref>158</ref>
+            <ref>166</ref>
+            <ref>310</ref>
+            <ref>326</ref>
+            <ref>F 77</ref>
+            <ref>F 81</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>17</ref>
+            <ref>18</ref>
+            <ref>39</ref>
+            <ref>132</ref>
+            <ref>23</ref>
+            <ref>299</ref>
+            <ref>344</ref>
+            <ref>F 16</ref>
+            <ref>F 45</ref>
+            <ref>F 56</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>18</ref>
+            <ref>44</ref>
+            <ref>63</ref>
+            <ref>91</ref>
+            <ref>122</ref>
+            <ref>154</ref>
+            <ref>187</ref>
+            <ref>242</ref>
+            <ref>306</ref>
+            <ref>338</ref>
+            <ref>341</ref>
+            <ref>F 20</ref>
+            <ref>F 26</ref>
+            <ref>F 53</ref>
+            <ref>F 136</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>18</ref>
+            <ref>19</ref>
+            <ref>3</ref>
+            <ref>88</ref>
+            <ref>89</ref>
+            <ref>324</ref>
+            <ref>F 61</ref>
+            <ref>F 107</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>18</ref>
+            <ref>20</ref>
+            <ref>F 24</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>19</ref>
+            <ref>30</ref>
+            <ref>96</ref>
+            <ref>109</ref>
+            <ref>131</ref>
+            <ref>153</ref>
+            <ref>340</ref>
+            <ref>343</ref>
+            <ref>355</ref>
+            <ref>F 10</ref>
+            <ref>F 134</ref>
+            <ref>F 149</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>19</ref>
+            <ref>20</ref>
+            <ref>161</ref>
+            <ref>F 63</ref>
+            <ref>F 66</ref>
+            <ref>F 94</ref>
+            <ref>F 114</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichte, </item>
+            <ref>20</ref>
+            <ref>31</ref>
+            <ref>84</ref>
+            <ref>257</ref>
+            <ref>269</ref>
+            <ref>F 33</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikgeschichtsforschung, regionale </item>
+            <ref>127</ref>
+            <ref>132</ref>
+            <ref>224</ref>
+            <ref>225</ref>
+            <ref>F 20</ref>
+            <ref>F 24</ref>
+            <ref>F 57</ref>
+            <ref>F 61</ref>
+            <ref>F 81</ref>
+            <ref>F 136</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikhistoriographie, Methodologie</item>
+            <ref>F 94</ref>
+            <ref>F 96</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikhören </item>
+            <ref>56</ref>
+            <ref>77</ref>
+            <ref>167</ref>
+            <ref>178</ref>
+            <ref>179</ref>
+            <ref>180</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikinstrument, Struktur </item>
+            <ref>114</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikinstrumentenmuseum</item>
+            <ref>F 54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikkritik </item>
+            <ref>6</ref>
+            <ref>357</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikkultur, allgemein </item>
+            <ref>47</ref>
+            <ref>305</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikkultur, DDR </item>
+            <ref>4</ref>
+            <ref>6</ref>
+            <ref>7</ref>
+            <ref>16</ref>
+            <ref>18</ref>
+            <ref>27</ref>
+            <ref>41</ref>
+            <ref>43</ref>
+            <ref>59</ref>
+            <ref>62</ref>
+            <ref>78</ref>
+            <ref>90</ref>
+            <ref>104</ref>
+            <ref>115</ref>
+            <ref>116</ref>
+            <ref>122</ref>
+            <ref>124</ref>
+            <ref>126</ref>
+            <ref>129</ref>
+            <ref>135</ref>
+            <ref>136</ref>
+            <ref>137</ref>
+            <ref>164</ref>
+            <ref>185</ref>
+            <ref>193</ref>
+            <ref>206</ref>
+            <ref>222</ref>
+            <ref>223</ref>
+            <ref>232</ref>
+            <ref>262</ref>
+            <ref>266</ref>
+            <ref>349</ref>
+            <ref>F 21</ref>
+            <ref>F 22</ref>
+            <ref>F 49</ref>
+            <ref>F 76</ref>
+            <ref>F 99</ref>
+            <ref>F 147</ref>
+            <ref>F 148</ref>
+            <ref>F 152</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikkultur, sorbische </item>
+            <ref>150</ref>
+            <ref>236</ref>
+            <ref>237</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikkultur, UdSSR </item>
+            <ref>136</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikleben, DDR </item>
+            <ref>27</ref>
+            <ref>39</ref>
+            <ref>40</ref>
+            <ref>43</ref>
+            <ref>48</ref>
+            <ref>49</ref>
+            <ref>50</ref>
+            <ref>51</ref>
+            <ref>52</ref>
+            <ref>62</ref>
+            <ref>78</ref>
+            <ref>123</ref>
+            <ref>124</ref>
+            <ref>125</ref>
+            <ref>126</ref>
+            <ref>159</ref>
+            <ref>189</ref>
+            <ref>206</ref>
+            <ref>210</ref>
+            <ref>222</ref>
+            <ref>228</ref>
+            <ref>238</ref>
+            <ref>258</ref>
+            <ref>F 64</ref>
+            <ref>F 98</ref>
+            <ref>F 129</ref>
+            <ref>F 152</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikleben, Geschichte </item>
+            <ref>8</ref>
+            <ref>131</ref>
+            <ref>230</ref>
+            <ref>F 57</ref>
+            <ref>F 62</ref>
+            <ref>F 64</ref>
+            <ref>F 74</ref>
+            <ref>F 111</ref>
+            <ref>F 120</ref>
+            <ref>F 146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikleben, </item>
+            <ref>18</ref>
+            <ref>20</ref>
+            <ref>F 62</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikperiodika </item>
+            <ref>165</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikpsychologie </item>
+            <ref>86</ref>
+            <ref>201</ref>
+            <ref>296</ref>
+            <ref>345</ref>
+            <ref>346</ref>
+            <ref>F 71</ref>
+            <ref>F 124</ref>
+            <ref>F 125</ref>
+            <ref>F 130</ref>
+            <ref>F 144</ref>
+            <ref>19</ref>
+            <ref>20</ref>
+            <ref>167</ref>
+            <ref>178</ref>
+            <ref>300</ref>
+            <ref>F 27</ref>
+            <ref>F 42</ref>
+            <ref>F 107</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, bürgerliches </item>
+            <ref>73</ref>
+            <ref>358</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, Bulgarien </item>
+            <ref>190</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, ČSSR</item>
+            <ref>F 124</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, DDR </item>
+            <ref>4</ref>
+            <ref>5</ref>
+            <ref>11</ref>
+            <ref>12</ref>
+            <ref>18</ref>
+            <ref>22</ref>
+            <ref>23</ref>
+            <ref>24</ref>
+            <ref>25</ref>
+            <ref>26</ref>
+            <ref>29</ref>
+            <ref>32</ref>
+            <ref>42</ref>
+            <ref>62</ref>
+            <ref>68</ref>
+            <ref>74</ref>
+            <ref>75</ref>
+            <ref>76</ref>
+            <ref>81</ref>
+            <ref>82</ref>
+            <ref>102</ref>
+            <ref>103</ref>
+            <ref>104</ref>
+            <ref>107</ref>
+            <ref>139</ref>
+            <ref>14</ref>
+            <ref>142</ref>
+            <ref>143</ref>
+            <ref>148</ref>
+            <ref>15</ref>
+            <ref>163</ref>
+            <ref>164</ref>
+            <ref>174</ref>
+            <ref>182</ref>
+            <ref>188</ref>
+            <ref>194</ref>
+            <ref>197</ref>
+            <ref>21</ref>
+            <ref>213</ref>
+            <ref>217</ref>
+            <ref>222</ref>
+            <ref>223</ref>
+            <ref>238</ref>
+            <ref>246</ref>
+            <ref>248</ref>
+            <ref>249</ref>
+            <ref>250</ref>
+            <ref>254</ref>
+            <ref>260</ref>
+            <ref>261</ref>
+            <ref>263</ref>
+            <ref>264</ref>
+            <ref>265</ref>
+            <ref>271</ref>
+            <ref>273</ref>
+            <ref>274</ref>
+            <ref>275</ref>
+            <ref>277</ref>
+            <ref>278</ref>
+            <ref>282</ref>
+            <ref>283</ref>
+            <ref>284</ref>
+            <ref>285</ref>
+            <ref>286</ref>
+            <ref>298</ref>
+            <ref>307</ref>
+            <ref>312</ref>
+            <ref>313</ref>
+            <ref>315</ref>
+            <ref>316</ref>
+            <ref>327</ref>
+            <ref>329</ref>
+            <ref>333</ref>
+            <ref>337</ref>
+            <ref>347</ref>
+            <ref>348</ref>
+            <ref>351</ref>
+            <ref>352</ref>
+            <ref>353</ref>
+            <ref>356</ref>
+            <ref>F 1</ref>
+            <ref>F 3</ref>
+            <ref>F 6</ref>
+            <ref>F 8</ref>
+            <ref>F 14</ref>
+            <ref>F 21</ref>
+            <ref>F 34</ref>
+            <ref>F 35</ref>
+            <ref>F 55</ref>
+            <ref>F 67</ref>
+            <ref>F 70</ref>
+            <ref>F 76</ref>
+            <ref>F 84</ref>
+            <ref>F 88</ref>
+            <ref>F 90</ref>
+            <ref>F 91</ref>
+            <ref>F 110</ref>
+            <ref>F 113</ref>
+            <ref>F 121</ref>
+            <ref>F 122</ref>
+            <ref>F 147</ref>
+            <ref>F 15</ref>
+            <ref>F 151</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, Italien </item>
+            <ref>218</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, Norwegen </item>
+            <ref>31</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, Polen </item>
+            <ref>72</ref>
+            <ref>256</ref>
+            <ref>330</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, UdSSR </item>
+            <ref>71</ref>
+            <ref>83</ref>
+            <ref>85</ref>
+            <ref>169</ref>
+            <ref>171</ref>
+            <ref>181</ref>
+            <ref>208</ref>
+            <ref>212</ref>
+            <ref>261</ref>
+            <ref>303</ref>
+            <ref>350</ref>
+            <ref>F 101</ref>
+            <ref>F 133</ref>
+            <ref>F 141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikschaffen, Ungarn </item>
+            <ref>65</ref>
+            <ref>F 47</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiksoziologie </item>
+            <ref>80</ref>
+            <ref>94</ref>
+            <ref>100</ref>
+            <ref>116</ref>
+            <ref>133</ref>
+            <ref>159</ref>
+            <ref>193</ref>
+            <ref>230</ref>
+            <ref>320</ref>
+            <ref>321</ref>
+            <ref>322</ref>
+            <ref>331</ref>
+            <ref>F 147</ref>
+            <ref>F 148</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, allgemein </item>
+            <ref>13</ref>
+            <ref>14</ref>
+            <ref>111</ref>
+            <ref>170</ref>
+            <ref>215</ref>
+            <ref>F 124</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, bürgerliches </item>
+            <ref>73</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, ČSSR</item>
+            <ref>F 124</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, DDR </item>
+            <ref>32</ref>
+            <ref>33</ref>
+            <ref>37</ref>
+            <ref>38</ref>
+            <ref>61</ref>
+            <ref>70</ref>
+            <ref>74</ref>
+            <ref>75</ref>
+            <ref>102</ref>
+            <ref>112</ref>
+            <ref>128</ref>
+            <ref>172</ref>
+            <ref>173</ref>
+            <ref>181</ref>
+            <ref>182</ref>
+            <ref>213</ref>
+            <ref>247</ref>
+            <ref>248</ref>
+            <ref>250</ref>
+            <ref>260</ref>
+            <ref>265</ref>
+            <ref>271</ref>
+            <ref>272</ref>
+            <ref>286</ref>
+            <ref>300</ref>
+            <ref>301</ref>
+            <ref>325</ref>
+            <ref>329</ref>
+            <ref>339</ref>
+            <ref>347</ref>
+            <ref>350</ref>
+            <ref>366</ref>
+            <ref>F 3</ref>
+            <ref>F 76</ref>
+            <ref>F 108</ref>
+            <ref>F 122</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Funktion </item>
+            <ref>61</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Geschichte </item>
+            <ref>3</ref>
+            <ref>243</ref>
+            <ref>299</ref>
+            <ref>324</ref>
+            <ref>340</ref>
+            <ref>344</ref>
+            <ref>349</ref>
+            <ref>F 76</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, heiteres </item>
+            <ref>365</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, für Kinder</item>
+            <ref>F 168</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Öffentlichkeitsarbeit </item>
+            <ref>111</ref>
+            <ref>112</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Polen </item>
+            <ref>330</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Rezeption </item>
+            <ref>112</ref>
+            <ref>128</ref>
+            <ref>F 41</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, Theorie </item>
+            <ref>110</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, UdSSR </item>
+            <ref>71</ref>
+            <ref>169</ref>
+            <ref>171</ref>
+            <ref>181</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, </item>
+            <ref>18</ref>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheater, </item>
+            <ref>19</ref>
+            <ref>191</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheorie </item>
+            <ref>270</ref>
+            <ref>354</ref>
+            <ref>F 43</ref>
+            <ref>F 75</ref>
+            <ref>F 118</ref>
+            <ref>F 142</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktheorie, griechische</item>
+            <ref>F 96</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktherapie </item>
+            <ref>86</ref>
+            <ref>294</ref>
+            <ref>295</ref>
+            <ref>296</ref>
+            <ref>297</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musiktherapie, Methodik </item>
+            <ref>294</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikwissenschaft, DDR </item>
+            <ref>4</ref>
+            <ref>28</ref>
+            <ref>97</ref>
+            <ref>149</ref>
+            <ref>216</ref>
+            <ref>223</ref>
+            <ref>276</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Musikwissenschaft, Geschichte </item>
+            <ref>308</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Nagel, Jean Paul </item>
+            <ref>351</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Neubert, Günter </item>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Neumeister, Erdmann </item>
+            <ref>225</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Nono, Luigi </item>
+            <ref>218</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Notation </item>
+            <ref>354</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Nowka, Dieter </item>
+            <ref>352</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oper </item>
+            <ref>14</ref>
+            <ref>F 41</ref>
+            <ref>F 124</ref>
+            <ref>F 149</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oper, Geschichte </item>
+            <ref>191</ref>
+            <ref>F 76</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oper, venezianische </item>
+            <ref>344</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oper, </item>
+            <ref>18</ref>
+            <ref>242</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>opéra comique </item>
+            <ref>340</ref>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>opera seria </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Operette </item>
+            <ref>72</ref>
+            <ref>343</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Operette, französische</item>
+            <ref>F 39</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Operndramaturgie </item>
+            <ref>110</ref>
+            <ref>112</ref>
+            <ref>128</ref>
+            <ref>170</ref>
+            <ref>172</ref>
+            <ref>247</ref>
+            <ref>301</ref>
+            <ref>323</ref>
+            <ref>339</ref>
+            <ref>F 76</ref>
+            <ref>F 108</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Opitz, Martin </item>
+            <ref>54</ref>
+            <ref>F 77</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oratorium </item>
+            <ref>83</ref>
+            <ref>187</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Opernregie </item>
+            <ref>112</ref>
+            <ref>128</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Oratorium </item>
+            <ref>341</ref>
+            <ref>F 5</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Orgel</item>
+            <ref>F 17</ref>
+            <ref>F 18</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Orgel, Geschichte </item>
+            <ref>287</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Orgelbau </item>
+            <ref>287</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Orgelmusik</item>
+            <ref>F 123</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Palestrina, Giovanni Pierluigi </item>
+            <ref>98</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Penderecki, Krystof </item>
+            <ref>330</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Pergolesi, Giovanni Battista </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Petit, Jean Charles </item>
+            <ref>225</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Pfitzner, Hans </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Pieck, Wilhelm </item>
+            <ref>58</ref>
+            <ref>135</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Pollaro, Carlo </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Polyphonie </item>
+            <ref>358</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Preller, Johann Gottlieb </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Programmierung </item>
+            <ref>145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Prokofjew, Sergej</item>
+            <ref>F 141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Psychologie </item>
+            <ref>295</ref>
+            <ref>297</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Psychotherapie </item>
+            <ref>295</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Quellen</item>
+            <ref>F 16</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Quellenforschung </item>
+            <ref>14</ref>
+            <ref>219</ref>
+            <ref>334</ref>
+            <ref>F 20</ref>
+            <ref>F 52</ref>
+            <ref>F 53</ref>
+            <ref>F 127</ref>
+            <ref>F 145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Raphael, Günter</item>
+            <ref>F 60</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Ravel, Maurice </item>
+            <ref>259</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Realismus, klassischer </item>
+            <ref>304</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Realismus, sozialistischer </item>
+            <ref>107</ref>
+            <ref>136</ref>
+            <ref>142</ref>
+            <ref>184</ref>
+            <ref>208</ref>
+            <ref>212</ref>
+            <ref>223</ref>
+            <ref>245</ref>
+            <ref>248</ref>
+            <ref>282</ref>
+            <ref>283</ref>
+            <ref>305</ref>
+            <ref>309</ref>
+            <ref>337</ref>
+            <ref>F 55</ref>
+            <ref>F 67</ref>
+            <ref>F 76</ref>
+            <ref>F 82</ref>
+            <ref>F 121</ref>
+            <ref>F 141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Reger, Max </item>
+            <ref>224</ref>
+            <ref>226</ref>
+            <ref>F 94</ref>
+            <ref>F 115</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Reger-Forschung </item>
+            <ref>226</ref>
+            <ref>F 94</ref>
+            <ref>F 115</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Reichardt, Johann Friedrich </item>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Renaissance </item>
+            <ref>158</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Restauration, Denkmäler </item>
+            <ref>34</ref>
+            <ref>35</ref>
+            <ref>59</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Revolutionsbewegung, frühbürgerliche </item>
+            <ref>160</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rezeptionsforschung </item>
+            <ref>116</ref>
+            <ref>331</ref>
+            <ref>F 46</ref>
+            <ref>F 78</ref>
+            <ref>F 82</ref>
+            <ref>F 91</ref>
+            <ref>F 139</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rezeptionsforschung, Tanz</item>
+            <ref>F 105</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rezeptionsgefälle </item>
+            <ref>19</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rezitativo secco </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rosenfeld, Gerhard </item>
+            <ref>12</ref>
+            <ref>76</ref>
+            <ref>182</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Rostock</item>
+            <ref>F 81</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Salieri, Antonio </item>
+            <ref>3</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sartorio, Antonio </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Scarlatti, Alessandro </item>
+            <ref>344</ref>
+            <ref>359</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schallplatte </item>
+            <ref>67</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schallplattenedition </item>
+            <ref>168</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schauspielmusik </item>
+            <ref>252</ref>
+            <ref>F 1</ref>
+            <ref>F 84</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schenker, Friedrich </item>
+            <ref>26</ref>
+            <ref>278</ref>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schlager </item>
+            <ref>80</ref>
+            <ref>F 46</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schneider, Max </item>
+            <ref>308</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schönberg, Arnold </item>
+            <ref>192</ref>
+            <ref>207</ref>
+            <ref>211</ref>
+            <ref>F 103</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schoendlinger, Anton </item>
+            <ref>23</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schostakowitsch, Dmitri </item>
+            <ref>169</ref>
+            <ref>208</ref>
+            <ref>212</ref>
+            <ref>309</ref>
+            <ref>F 83</ref>
+            <ref>F 101</ref>
+            <ref>F 133</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schubert, Franz </item>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schubert, Manfred </item>
+            <ref>246</ref>
+            <ref>263</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schürmann, Georg Kaspar </item>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schütz, Heinrich </item>
+            <ref>108</ref>
+            <ref>158</ref>
+            <ref>166</ref>
+            <ref>183</ref>
+            <ref>199</ref>
+            <ref>235</ref>
+            <ref>310</ref>
+            <ref>326</ref>
+            <ref>F 77</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schütz-Forschung </item>
+            <ref>326</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schütz-Rezeption </item>
+            <ref>168</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schumann, Clara</item>
+            <ref>F 10</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schumann, Robert </item>
+            <ref>96</ref>
+            <ref>152</ref>
+            <ref>233</ref>
+            <ref>F 93</ref>
+            <ref>F 97</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Schweitzer, Albert </item>
+            <ref>280</ref>
+            <ref>314</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Seiffert, Max </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Semiotik </item>
+            <ref>88</ref>
+            <ref>F 38</ref>
+            <ref>F 39</ref>
+            <ref>F 124</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Shakespeare, William </item>
+            <ref>252</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Silbermann, Gottfried </item>
+            <ref>287</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sinfonie </item>
+            <ref>89</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sinfonik </item>
+            <ref>24</ref>
+            <ref>25</ref>
+            <ref>29</ref>
+            <ref>96</ref>
+            <ref>139</ref>
+            <ref>142</ref>
+            <ref>148</ref>
+            <ref>194</ref>
+            <ref>212</ref>
+            <ref>223</ref>
+            <ref>239</ref>
+            <ref>245</ref>
+            <ref>255</ref>
+            <ref>256</ref>
+            <ref>277</ref>
+            <ref>278</ref>
+            <ref>282</ref>
+            <ref>283</ref>
+            <ref>285</ref>
+            <ref>298</ref>
+            <ref>309</ref>
+            <ref>312</ref>
+            <ref>316</ref>
+            <ref>337</ref>
+            <ref>352</ref>
+            <ref>353</ref>
+            <ref>F 20</ref>
+            <ref>F 47</ref>
+            <ref>F 67</ref>
+            <ref>F 70</ref>
+            <ref>F 133</ref>
+            <ref>F 136</ref>
+            <ref>F 140</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Singebewegung </item>
+            <ref>317</ref>
+            <ref>F 129</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Singspiel </item>
+            <ref>157</ref>
+            <ref>F 89</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Solokonzert </item>
+            <ref>23</ref>
+            <ref>25</ref>
+            <ref>26</ref>
+            <ref>29</ref>
+            <ref>68</ref>
+            <ref>89</ref>
+            <ref>103</ref>
+            <ref>255</ref>
+            <ref>263</ref>
+            <ref>264</ref>
+            <ref>275</ref>
+            <ref>298</ref>
+            <ref>307</ref>
+            <ref>327</ref>
+            <ref>F 14</ref>
+            <ref>F 123</ref>
+            <ref>F 141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sonate </item>
+            <ref>65</ref>
+            <ref>351</ref>
+            <ref>358</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sozialpsychologie </item>
+            <ref>331</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Soziologie, allgemein </item>
+            <ref>133</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spagna, Arcangelo </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spener, Philipp Jakob </item>
+            <ref>279</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spielplangestaltung </item>
+            <ref>271</ref>
+            <ref>272</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spieltechnik</item>
+            <ref>F 59</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spinett</item>
+            <ref>F 54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Spohr, Louis </item>
+            <ref>233</ref>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Steinbach, Fritz </item>
+            <ref>224</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Stolte, Siegfried </item>
+            <ref>11</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Stradella, Alessandro </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Strauss, Richard </item>
+            <ref>161</ref>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Streichquartett</item>
+            <ref>F 101</ref>
+            <ref>F 121</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Stschedrin, Rodion </item>
+            <ref>71</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Sturm-und-Drang</item>
+            <ref>F 89</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Suite</item>
+            <ref>F 90</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>System, dynamisches </item>
+            <ref>147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Taktakischwili, Otar </item>
+            <ref>84</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tanzmusik </item>
+            <ref>6</ref>
+            <ref>18</ref>
+            <ref>80</ref>
+            <ref>328</ref>
+            <ref>F 27</ref>
+            <ref>F 46</ref>
+            <ref>F 91</ref>
+            <ref>F 92</ref>
+            <ref>F 147</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tanzmusik, Geschichte</item>
+            <ref>F 105</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tanztheater</item>
+            <ref>F 65</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Teilsystem </item>
+            <ref>146</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Telemann, Georg Philipp </item>
+            <ref>63</ref>
+            <ref>132</ref>
+            <ref>187</ref>
+            <ref>225</ref>
+            <ref>323</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Telemann-Bild </item>
+            <ref>187</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Theaterarbeit, DDR </item>
+            <ref>33</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Theaterdokumentation, DDR </item>
+            <ref>37</ref>
+            <ref>38</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Theaterzettelsammlung </item>
+            <ref>1</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Thilman, Johannes Paul </item>
+            <ref>327</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Thomanerchor </item>
+            <ref>185</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Thomasius, Christian </item>
+            <ref>279</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Thurm, Hans Joachim </item>
+            <ref>68</ref>
+            <ref>81</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tierpsychologie</item>
+            <ref>F 125</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tradition, musikalische </item>
+            <ref>47</ref>
+            <ref>142</ref>
+            <ref>282</ref>
+            <ref>F 93</ref>
+            <ref>F 110</ref>
+            <ref>F 121</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Traditionslinien </item>
+            <ref>253</ref>
+            <ref>283</ref>
+            <ref>F 14</ref>
+            <ref>F 141</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Treibmann, Karl Ottomar </item>
+            <ref>62</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Trexler, Georg</item>
+            <ref>F 35</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Trickfilmmusik </item>
+            <ref>342</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Triosonate</item>
+            <ref>F 2</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Tschaikowski, Boris </item>
+            <ref>85</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Unterhaltungsmusik </item>
+            <ref>6</ref>
+            <ref>80</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Variation</item>
+            <ref>F 63</ref>
+            <ref>F 66</ref>
+            <ref>F 150</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Venedig </item>
+            <ref>158</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Verhaltensforschung</item>
+            <ref>F 125</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Verlagswesen </item>
+            <ref>99</ref>
+            <ref>229</ref>
+            <ref>362</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Verlagswesen, Geschichte </item>
+            <ref>122</ref>
+            <ref>233</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vinci, Leonardo </item>
+            <ref>360</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Virginal</item>
+            <ref>F 54</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Violine </item>
+            <ref>198</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vivaldi, Antonio </item>
+            <ref>360</ref>
+            <ref>F 26</ref>
+            <ref>F 53</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vivaldi-Forschung</item>
+            <ref>F 26</ref>
+            <ref>F 53</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vokalmusik, englische</item>
+            <ref>F 107</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vokalschaffen</item>
+            <ref>F 42</ref>
+            <ref>F 55</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vokalschaffen, </item>
+            <ref>20</ref>
+            <ref>53</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Vokalsinfonik </item>
+            <ref>51</ref>
+            <ref>76</ref>
+            <ref>89</ref>
+            <ref>190</ref>
+            <ref>246</ref>
+            <ref>273</ref>
+            <ref>284</ref>
+            <ref>316</ref>
+            <ref>348</ref>
+            <ref>F 34</ref>
+            <ref>F 128</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Volkskunstschaffen </item>
+            <ref>7</ref>
+            <ref>20</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Volkskunstschaffen, DDR </item>
+            <ref>115</ref>
+            <ref>125</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Volkslied </item>
+            <ref>266</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Volksliedforschung, Automatisierung </item>
+            <ref>145</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Volksmusik </item>
+            <ref>242</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wagner, Georg Gottfried </item>
+            <ref>291</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wagner, Richard </item>
+            <ref>95</ref>
+            <ref>355</ref>
+            <ref>F 41</ref>
+            <ref>F 149</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wagner-Régeny, Rudolf </item>
+            <ref>102</ref>
+            <ref>107</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Walther, Johann Gottfried </item>
+            <ref>292</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Weber, Carl Maria von </item>
+            <ref>233</ref>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wefelmeyer, Bernd </item>
+            <ref>82</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Weimar </item>
+            <ref>131</ref>
+            <ref>F 62</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Weimann, Wilhelm </item>
+            <ref>140</ref>
+            <ref>274</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wenzel, Hans-Jürgen </item>
+            <ref>107</ref>
+            <ref>264</ref>
+            <ref>312</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wertästhetik </item>
+            <ref>227</ref>
+            <ref>F 68</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Werttheorie </item>
+            <ref>19</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wien </item>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wilbrandt, Jürgen </item>
+            <ref>188</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Winter, Peter </item>
+            <ref>243</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wolff, Christian </item>
+            <ref>279</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Wolkow, Kyrill </item>
+            <ref>71</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Zechlin, Ruth </item>
+            <ref>315</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Zeno, Apostolo </item>
+            <ref>360</ref>
+            <ref>361</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Ziani, Pietro Andrea </item>
+            <ref>359</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Zimmermann, Udo </item>
+            <ref>284</ref>
+            <ref>285</ref>
+        </registerEntry>
+        <registerEntry>
+            <item>Zumsteeg, Johann Rudolf </item>
+            <ref>243</ref>
+        </registerEntry>
+    </report>
+</xml>
