@@ -1,6 +1,14 @@
 @extends('layouts.default')
 @section('content')
 <section class="section container">
+    <nav>
+        <a href="{{ route('reports.show.keywords', $report) }}" class="is-family-monospace">
+            Register
+        </a>
+        <a href="{{ route('reports.show.people', $report) }}" class="is-family-monospace">
+            Personen
+        </a>
+    </nav>
     <h1 class="title is-4">
         {{ $report->title }} {{ $report->year }}
     </h1>

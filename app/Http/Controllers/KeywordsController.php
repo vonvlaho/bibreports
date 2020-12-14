@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 class KeywordsController extends Controller
 {
     public function store() {
-        return view('keywords.store', ['keywords' => Keyword::all()->sortBy('name')]);
+        return view('keywords.store', ['keywords' => Keyword::has('entries')->get()->sortBy('name')]);
     }
     public function show($id) {
         $keyword = Keyword::findOrFail($id);

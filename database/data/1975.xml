@@ -8721,14 +8721,17 @@
         <people>
             <author>
                 <familyName>Eller</familyName>
-                <givenName>Rudolf u. Karl Heller</givenName>
+                <givenName>Rudolf</givenName>
+            </author>
+            <author>
+                <familyName>Heller</familyName>
+                <givenName>Karl</givenName>
             </author>
         </people>
         <title>Vivaldi-Forschung</title>
         <type>Forschungsauftrag</type>
         <startingYear>1966</startingYear>
-
-        <place>Rostock,</place>
+        <place>Rostock</place>
         <abstract> Ziel: a) Monographie über Vivaldis Instrumentalschaffen, b) Vivaldi-Monographie,
             c) Editionen (gemeinsam mit Karl Heller u. Peter Ahnsehl). Methoden und Ergebnisse:
             Kritische Quellenarbeiten, Werk-und Stilanalysen, biographische und historiographische
@@ -12577,14 +12580,12 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>317</ref>
         </registerEntry>
         <registerEntry>
-            <item>Lied, </item>
-            <ref>19</ref>
+            <item>Lied, 19. Jh.</item>
             <ref>F 42</ref>
             <ref>F 93</ref>
         </registerEntry>
         <registerEntry>
-            <item>Lied, </item>
-            <ref>2</ref>
+            <item>Lied, 20. Jh.</item>
             <ref>50</ref>
             <ref>52</ref>
             <ref>188</ref>
@@ -12599,9 +12600,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>131</ref>
         </registerEntry>
         <registerEntry>
-            <item>Literaturgeschichte, </item>
-            <ref>16</ref>
-            <ref>17</ref>
+            <item>Literaturgeschichte, 16./17. Jh.</item>
             <ref>54</ref>
         </registerEntry>
         <registerEntry>
@@ -13128,37 +13127,29 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>84</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>13</ref>
-            <ref>16</ref>
+            <item>Musikgeschichte, 13.-16. Jh.</item>
             <ref>F 43</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>15</ref>
-            <ref>16</ref>
+            <item>Musikgeschichte, 15./16. Jh.</item>
             <ref>17</ref>
             <ref>320</ref>
             <ref>321</ref>
             <ref>322</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>16</ref>
+            <item>Musikgeschichte, 16. Jh.</item>
             <ref>98</ref>
             <ref>159</ref>
             <ref>160</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>16</ref>
-            <ref>17</ref>
+            <item>Musikgeschichte, 16./17. Jh.</item>
             <ref>235</ref>
             <ref>F 111</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>17</ref>
+            <item>Musikgeschichte, 17. Jh.</item>
             <ref>8</ref>
             <ref>158</ref>
             <ref>166</ref>
@@ -13168,9 +13159,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 81</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>17</ref>
-            <ref>18</ref>
+            <item>Musikgeschichte, 17./18. Jh.</item>
             <ref>39</ref>
             <ref>132</ref>
             <ref>23</ref>
@@ -13181,8 +13170,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 56</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>18</ref>
+            <item>Musikgeschichte, 18. Jh.</item>
             <ref>44</ref>
             <ref>63</ref>
             <ref>91</ref>
@@ -13199,9 +13187,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 136</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>18</ref>
-            <ref>19</ref>
+            <item>Musikgeschichte, 18./19. Jh.</item>
             <ref>3</ref>
             <ref>88</ref>
             <ref>89</ref>
@@ -13210,14 +13196,11 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 107</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>18</ref>
-            <ref>20</ref>
+            <item>Musikgeschichte, 18.-20. Jh.</item>
             <ref>F 24</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>19</ref>
+            <item>Musikgeschichte, 19. Jh.</item>
             <ref>30</ref>
             <ref>96</ref>
             <ref>109</ref>
@@ -13231,9 +13214,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 149</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>19</ref>
-            <ref>20</ref>
+            <item>Musikgeschichte, 19./20. Jh.</item>
             <ref>161</ref>
             <ref>F 63</ref>
             <ref>F 66</ref>
@@ -13241,8 +13222,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 114</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikgeschichte, </item>
-            <ref>20</ref>
+            <item>Musikgeschichte, 20. Jh.</item>
             <ref>31</ref>
             <ref>84</ref>
             <ref>257</ref>
@@ -13391,9 +13371,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 146</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musikleben, </item>
-            <ref>18</ref>
-            <ref>20</ref>
+            <item>Musikleben, 18.-20. Jh.</item>
             <ref>F 62</ref>
         </registerEntry>
         <registerEntry>
@@ -13699,13 +13677,11 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>181</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musiktheater, </item>
-            <ref>18</ref>
+            <item>Musiktheater, 18. Jh.</item>
             <ref>323</ref>
         </registerEntry>
         <registerEntry>
-            <item>Musiktheater, </item>
-            <ref>19</ref>
+            <item>Musiktheater, 19. Jh.</item>
             <ref>191</ref>
         </registerEntry>
         <registerEntry>
@@ -13788,8 +13764,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>344</ref>
         </registerEntry>
         <registerEntry>
-            <item>Oper, </item>
-            <ref>18</ref>
+            <item>Oper, 18. Jh.</item>
             <ref>242</ref>
         </registerEntry>
         <registerEntry>
@@ -14482,8 +14457,7 @@ Die Arbeit wirft die Frage der Gattung im allgemeinen wie im besonderen auf (Mar
             <ref>F 55</ref>
         </registerEntry>
         <registerEntry>
-            <item>Vokalschaffen, </item>
-            <ref>20</ref>
+            <item>Vokalschaffen, 20. Jh.</item>
             <ref>53</ref>
         </registerEntry>
         <registerEntry>
