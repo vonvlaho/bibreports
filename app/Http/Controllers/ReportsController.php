@@ -14,6 +14,13 @@ class ReportsController extends Controller
     public function show($id) {
         return view('reports.show', ['report' => Report::findOrFail($id)]);
     }
+    public function showPlaces($id) {
+        $report = Report::findOrFail($id);
+        return view('reports.showPlaces', [
+            'report' => $report,
+            'places' => $report->entries->sortBy('place')->groupBy('place')
+        ]);
+    }
     public function showKeywords($id) {
         $report = Report::findOrFail($id);
         $keywords = Keyword::whereHas('entries', function($query) use($id) {

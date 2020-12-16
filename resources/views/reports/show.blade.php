@@ -8,6 +8,9 @@
         <a href="{{ route('reports.show.people', $report) }}" class="is-family-monospace">
             Personen
         </a>
+        <a href="{{ route('reports.show.places', $report) }}" class="is-family-monospace">
+            Orte
+        </a>
     </nav>
     <h1 class="title is-4">
         {{ $report->title }} {{ $report->year }}

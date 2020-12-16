@@ -26,11 +26,11 @@ foreach($rawData as $key => $value) {
         // $entryNos = $keyword->addChild('entryNos');
 
         //extract entry name
-        preg_match("/(.*?)(\d+)|(.*?)(F\s\d+)/", $value, $matches);
+        preg_match("/(.*?)(\d++)(?!\.)/", $value, $matches);
         $keyword->addChild('item', $matches[1]);
 
         //extract entryNos
-        preg_match_all("/(F\s\d+)|(\d+)/", $value, $matches);
+        preg_match_all("/(F\s\d++)(?!\.)|(\d++)(?!\.)/", $value, $matches);
         foreach ($matches[0] as $entryNo) {
             $keyword->addChild('ref', $entryNo);
         }
