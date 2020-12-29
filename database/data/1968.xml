@@ -165,6 +165,7 @@
         </people>
         <title>Actus musicus und Historie um 1700 in Mitteldeutschland</title>
         <sameAs>Hallesche Beiträge zur Musikwissenschaft.</sameAs>
+        <place>Halle</place>
         <extent>H. 1, S. 77-103 </extent>
         <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968),</journal>
         <abstract> Die Arbeit unternimmt den Versuch des Nachweises eigenständiger oratorischer
@@ -231,6 +232,7 @@
         <title>Falsche Autornamen in den Handschriften Strasbourg (Vitry) und Montecassino
             (Dufay)</title>
         <extent>S. 201-203.</extent>
+        <place>Basel</place>
         <journal>Acta musicologica. 40 (1968),</journal>
         <abstract> Die Handschrift Strasbourg M 222 C 22, 1870 verbrannt, jedoch teilweise kopiert,
             enthält nachweisbar 5 falsche Autornamen. Die Zuweisung der Motette "Impudenter", Nr. 30
@@ -310,11 +312,16 @@
         <people>
             <author>
                 <familyName>Bimberg</familyName>
-                <givenName>Siegfried u. Wolfgang Köhler</givenName>
+                <givenName>Siegfried</givenName>
+            </author>
+            <author>
+                <familyName>Köhler</familyName>
+                <givenName>Wolfgang</givenName>
             </author>
         </people>
         <title>Zur Methodik von Untersuchungen musikalischer Interessen</title>
         <extent>H. 4, S. 1O7-114.</extent>
+        <place>Halle</place>
         <journal>Wiss. Zschr. d. Univ. Halle. Ges.-Sprachwiss. R. 17 (1968),</journal>
         <abstract> Die Untersuchungen konzentrieren sich auf den Bereich von A-cappella-Werken,
             sinfonischen Werken und kleinen Charakterstücken für Klavier. Hierzu wurden
@@ -337,7 +344,8 @@
         <title>Der Zusammenhang von technischem und ästhetischem Denken als Voraussetzung für den
             Fortschritt In der Musikerziehung</title>
         <extent>S. 444-452.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <abstract> Die Lektüre mancher ästhetischer, insbesondere musikpädagogischer Arbeiten der
             Gegenwart zeigt das Bestreben der Autoren, sich zumindest in der Terminologie, oft aber
             auch im System- oder Modelldenken mathematisch-naturwissenschaftlicher Ausdrucksweise zu
@@ -387,7 +395,8 @@
         </people>
         <title>Neue Aspekte zur Tonalitätsforschung</title>
         <extent>S. 1-3.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Das Nebeneinander stehen verschiedener Tonalitätsbereiche interessiert die
             Musikpsychologie besonders unter dem Aspekt der Systembildung im Melodiebewußtsein.
             Durch experimentelle Untersuchungen, auch durch pädagogische Erfahrungsuntersuchungen
@@ -407,7 +416,8 @@
         </people>
         <title>Entwurf einer Rezeptionslehre für die Musik</title>
         <sameAs>Hallesche Beiträge zur Musikwissenschaft.</sameAs>
-        <extent>H. 1, S. 155-222 </extent>
+        <place>Halle</place>
+        <extent>S. 155-222 </extent>
         <journal>Wiss. Beiträge d. Univ. Helle, Reihe G. 8 (1968),</journal>
         <abstract> Um die spezifischen Prozesse des umfangreichen Gebietes der Rezeption intensiver
             ergründen zu können, wird der Gesamtkomplex in einzelne Bereiche aufgegliedert; 1.
@@ -437,6 +447,7 @@
         </people>
         <title>Zur Konzeption der Musikpolitik im Deutschen Demokratisches Rundfunk</title>
         <extent>S. 676-678.</extent>
+        <place>Berlin</place>
         <journal>Musik u. Gesellschaft. 18 (1968).</journal>
         <abstract> Die Konzeption der Musikpolitik ist abgeleitet aus der Kenntnis der
             kulturpolitischen Prozesse und der Spezifik der Wirkungsweise des Rundfunks. In dem
@@ -459,7 +470,8 @@
         <title>Max Butting - die Musik und die Menschen. Aufsätze, Vorträge und ästhetische
             Überlegungen eines Komponisten</title>
         <extent>S. 1345-1368.</extent>
-        <journal>Sinn u. Form. 20 (1963),</journal>
+        <journal>Sinn u. Form. 20 (1963)</journal>
+        <place>Berlin</place>
         <abstract> Neben seinem kompositorischen Schaffen sind es vor allem seine zahlreichen
             Schriften, in denen das Ringen des Komponisten um künstlerische Wahrheit zum Ausdruck
             kommt. Die Auseinandersetzung mit theoretischen und kompositionstechnischen Novitäten
@@ -482,7 +494,8 @@
         </people>
         <title>Probleme des Kategoriensystems</title>
         <extent>S. 145-157.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <abstract> Behandelt werden Probleme des Kategoriensystems der marxistischen Musikästhetik
             und musikalischen Analytik, und zwar ausgehend von den Erfahrungen der letzten zwölf
             Jahre und im Anschluß an Beratungen über Probleme der musikalischen Analyse (s. Musik u.
@@ -540,7 +553,8 @@
         </people>
         <title>Die Bedeutung der Oktoberrevolution für das Schaffen Hanns Eislers</title>
         <extent>S. 168-172.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Beitrag konzentriert sich auf einen Aspekt des im Thema verzeichneten
             Bezuges: auf die Kriterien gesellschaftlich-kultureller Veränderungen. Diese werden
             erörtert im Hinblick auf die gesellschaftlich-historische Konkretisierung, die Position
@@ -563,7 +577,8 @@
         </people>
         <title>Musikwissenschaft als Leitungswissenschaft</title>
         <extent>S. 747-754.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Aufbau eines einheitlichen Systems der Leitung und Organisation der
             Musikwissenschaft wird erläutert, insbesondere an Hand der neuen Aufgaben, die die
             Musikwissenschaft. bei der Leitung kultureller Entwicklungsprozesse leisten soll.
@@ -582,7 +597,8 @@
         </people>
         <title>Sinfonie singulière. Information über Berwald</title>
         <extent>S. 246–254.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <abstract> Anläßlich des 100. Todestages von Franz Berwald wird über Leben und Werk des
             schwedischen Komponisten berichtet, wobei der Umstand, daß bislang keine
             deutschsprachige Berwald-Literatur zugänglich ist, eine allgemeine Information
@@ -634,7 +650,8 @@
         </people>
         <title>Autobiographische Notizen</title>
         <extent>S. 4-7.</extent>
-        <journal>Mitteilungen der Deutschen Akademie der Künste. 6 (1968), Nr. 5,</journal>
+        <place>Berlin</place>
+        <journal>Mitteilungen der Deutschen Akademie der Künste</journal>
         <abstract> Anläßlich seines 80. Geburtstages berichtet der Komponist aus seinem reichen
             Leben. Er konstatiert entscheidende Zäsuren In seinem Schaffen und erläutert vielfältige
             künstlerische Auseinandersetzungen. Max Butting bekleidete verschiedenste Positionen im
@@ -703,7 +720,8 @@
         </people>
         <title>Die Silbermannorgel in Pfaffroda im Erzgebirge</title>
         <extent>S. 167-169.</extent>
-        <journal>Der Kirchenmusiker. 19 (1968), Nr. 4.</journal>
+        <place>München</place>
+        <journal>Der Kirchenmusiker</journal>
         <abstract> Die Pfaffrodaer ist die zweitälteste der erhalten gebliebenen Orgeln G.
             Silbermanns und unter diesen die einzige einmanualige mit einem fünffachen Cornet.
             Ältere Gehäuseteile haben keine Verwendung gefunden. 1967 sind von Wilhelm Rühle &amp;
@@ -722,7 +740,8 @@
         </people>
         <title>Die Orgellandschaften Sachsens und Thüringens</title>
         <extent>S. 46—62.</extent>
-        <journal>Acta organologica. 1 (1967),</journal>
+        <place>Berlin</place>
+        <journal>Acta organologica</journal>
         <abstract> Gegenstand ist die Orgelgeschichte von Burckhardt Dinstlinger an bis zur
             Gegenwart. Christian Förner aus Wettin und Christoph Junge aus Dobrilugk bauten
             Springladen. Die von Georg Christoph Leube 1676/77 umgebaute Orgel zu St. Jacob in
@@ -764,12 +783,17 @@
         <people>
             <author>
                 <familyName>Dessau</familyName>
-                <givenName>Paul u. Helmut Koch</givenName>
+                <givenName>Paul</givenName>
+            </author>
+            <author>
+                <familyName>Koch</familyName>
+                <givenName>Helmut </givenName>
             </author>
         </people>
         <title>Erinnerungen an Hermann Scherchen</title>
         <extent>S. 1101-1104.</extent>
-        <journal>Sinn u. Form. 20 (1968),</journal>
+        <journal>Sinn u. Form</journal>
+        <place>Berlin</place>
         <abstract> Hermann Scherchen war der erste politisch engagierte Dirigent, der den
             geschichtlichen Auftrag der Arbeiterkulturbewegung verstanden hatte und aktiv für die
             Verwirklichung ihrer Ziele wirkte. Er hat einen neuen Dirigententyp geprägt und schuf
@@ -785,12 +809,17 @@
         <people>
             <author>
                 <familyName>Diezel</familyName>
-                <givenName>Günther u. Karl Büse</givenName>
+                <givenName>Günther</givenName>
+            </author>
+            <author>
+                <familyName>Büse</familyName>
+                <givenName>Karl</givenName>
             </author>
         </people>
         <title>Für einheitliche Begriffssysteme im Musikunterricht</title>
         <extent>S. 353-356.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Zur Erreichung effektiver und rationeller Unterrichtsergebnisse im
             Musikunterricht unserer allgemeinbildenden polytechnischen Oberschulen wird auf die
             Notwendigkeit einer einheitlichen und konsequenten Arbeitsweise beim Bewußtmachen
@@ -816,6 +845,7 @@
         <title>Zur Musikgeschichte von Zwickau</title>
         <extent>Bd. XIV. 1968.</extent>
         <journal>MGG.</journal>
+        <place>Kassel</place>
         <abstract> Der I. Teil des Artikels enthält folgende Abschnitte: Das Zwickauer Musikleben
             von seinen Anfängen bis zum Ende des 19. Jahrhunderts; Schumann und seine Vaterstadt
             Zwickau. Der II. Teil enthält: Die Musikpflege vom Ende des 19. Jahrhunderts bis zur
@@ -833,6 +863,7 @@
         <title>Zani, Andrea</title>
         <extent>Bd. XIV. 1968.</extent>
         <journal>MGG.</journal>
+        <place>Kassel</place>
         <abstract> Der Beitrag enthält die zusammenfassende Darstellung der Biographie Zanis sowie
             eine kurze Würdigung seines Schaffens. </abstract>
     </entry>
@@ -890,7 +921,8 @@
         <title>Die Musikkultur Ägypters. Bericht über eine musikwissenschaftliche
             Forschungsreise</title>
         <extent>S. 336-341 u. S. 388-396.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es wird über die verschiedenen Bereiche der Musikkultur in Ägypten berichtet»
             deren stärkste Gliederung zwischen Stadt und Land besteht. Einleitend wird über
             Gegenstand und Aufgaben der Musikethnologie referiert. Das Musikleben in Kairo und
@@ -914,7 +946,8 @@
         </people>
         <title>Die Majakowski-Vertonungen Hanns Eislers</title>
         <extent>S. 435-444.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Hanns Eisler erkannte im Gegensatz zu vielen anderen Künstlern frühzeitig die
             Bedeutung der Oktoberrevolution. Ihr hat er zahlreiche Werke gewidmet, viele sind durch
             sie angeregt. Aber Eislers Verhältnis zur Revolution ist tiefer, es kennzeichnet
@@ -995,6 +1028,7 @@
         <title>Zu Fragen der Musiksoziologie</title>
         <sameAs>Hallische Beiträge zur Musikwissenschaft.</sameAs>
         <extent>H. 1, S. 249-266 </extent>
+        <place>Halle</place>
         <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968),</journal>
         <abstract> Die Verfasserin setzt sich mit Arbeiten zur Musiksozlogie von Tibor Kneif
             (Gegenwartsfragen der Musiksoziogie, in: Acta musicologica II-IV/66 u. Der Gegenstand
@@ -1040,7 +1074,8 @@
         <title>Siegfried Köhler: "Reich des Menschen". Poem in drei Teilen nach Dichtungen von J. R.
             Becher für Soli, Chor und Orchester</title>
         <extent>S. 5-10.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Dieses Poem ist Köhlers bisher bedeutendster Beitrag zur Vokalsinfonik der DDR.
             Dem Werk liegen Texte aus späten Dichtungen J. R. Bechers zugrunde. Das Werk hat drei
             Teile: 1. Grenzen der Zeit. 2. Planetarisches Manifest, 3. Glück der Jahrtausendwende. —
@@ -1132,6 +1167,7 @@
             </author>
         </people>
         <title>Hába der Harmoniker</title>
+        <place>Berlin</place>
         <extent>S. 11-13.</extent>
         <journal>Mitteilungen der Deutschen Akademie der Künste. 6 (1968), Nr. 4,</journal>
         <abstract> Veröffentlichung einer Buchbesprechung des Autors über Alois Hábas "Neue
@@ -1153,6 +1189,7 @@
         <title>Zunftwesen. A: Musikervereinigungen der Antike</title>
         <extent>Bd. XIV. 1968.</extent>
         <journal>MGG.</journal>
+        <place>Kassel</place>
         <abstract> Enzyklopädische Darstellung der verschiedenen Musikervereinigungen der antiken
             Welt in Mesopotamien, Ägypten und Israel sowie bei den Griechen und Römern. </abstract>
     </entry>
@@ -1214,7 +1251,8 @@
         </people>
         <title>Pflanzgarten der Tonkunst. 125 Jahre Hochschule für Musik Leipzig</title>
         <extent>S. 525-530.</extent>
-        <journal>Musik u. Gesellschaft, 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Im Überblick wird die 125jährige Geschichte des Leipziger Musikinstituts von den
             frühen Bestrebungen vorausdenkender Bürger über die Zeit der Restauration, der
             wilhelminischen und Weimarer Ära, der Zeit des Hitlerfaschismus bis hin zur
@@ -1259,7 +1297,8 @@
         </people>
         <title>Über Hanns Eislers Kammerkantaten</title>
         <extent>S. 445-454.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Die neun Kammerkantaten für Solostimme, begleitet von vier Instrumenten,
             entstanden im Frühjahr 1937 in Dänemark während eines Besuches bei Bertolt Brecht. Diese
             sonderbare, einmalige und für Eislers Schaffensstand In dieser Zelt äußrst
@@ -1282,7 +1321,8 @@
         </people>
         <title>Errungenschaften und Grenzen neuer Musiktheorie</title>
         <extent>S. 454-458.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Kenn Ernst Kurth die tongebundenen Klüfte der "Zeitkunst" Musik als Gegensätze
             aufspürt, die aus dem musikalischen Verlauf ihre polaren Spannungen zogen, so fand Faul
             Hindemith praktikable Kriterien der Bewegungs- und Beharrungsenergien; den Sekund- und
@@ -1385,7 +1425,8 @@
         </people>
         <title>In memoriam Fidelio F. Finke</title>
         <extent>S. 531-534.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der als Nachruf für den am 12. Juni 196ß in Dresden verstorbenen Komponisten
             konzipierte Artikel bringt, nach einer Schilderung der letzten Lebenszeit und nach
             Hinweisen auf die letzten Arbeiten, eine knappe Zusammenfassung seines Lebens- und
@@ -1409,7 +1450,8 @@
         <title>Rudolf Wagner-Régenys "Einleitung und Ode für sinfonisches Orchester" und ihre
             Stellung in der Orchestermusik des Komponisten</title>
         <extent>S. 396-402.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Untersuchung des bisher vorliegenden sinfonischen Oeuvres von Wagner-Régeny, als
             dessen Höhepunkt die 1967 geschaffene und uraufgeführte Komposition "Einleitung und Ode
             für sinfonisches Orchester" nach detaillierter inhaltlicher und strukturell-formaler
@@ -1435,7 +1477,8 @@
         </people>
         <title>Dieter Howka: Sonate III für Kammerorchester</title>
         <extent>S. 28-29.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Das Werk wurde für die Mecklenburgische Staatskapelle Schwerin geschrieben und
             auch von dieser am 7.3.1968 uraufgeführt. Die Sonate III hat konzertierenden Charakter
             im Sinne des Concerto grosso. Als wichtigstes Instrument des "Concertinos" tritt das
@@ -1502,6 +1545,7 @@
         <title>Wach, Carl Gottfried Wilhelm</title>
         <extent>Bd. XIV. 1968.</extent>
         <journal>MGG.</journal>
+        <place>Kassel</place>
         <abstract> In lexikalischer Zusammenfassung werden die Biographie, das Werkverzeichnis, eine
             Würdigung und Literaturhinweise gegeben über einen Leipziger Musiker, der an der
             Entwicklung des Gewandhausorchesters zu Beginn des 19.Jahrhunderts wichtigen Anteil
@@ -1520,7 +1564,8 @@
         <title>Das Sinfonische und das Dramatische. Kommentar zu Fritz Geißlers 111,
             Sinfonie</title>
         <extent>S. 610-615.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Die III. Sinfonie entstand in den Jahren 1965-1966 und wurde 1968 in Leipzig
             uraufgeführt. Das sinfonische Geschehen des zweisitzigen Werkes kreist um eine
             Intervallformel, die den ersten fünf Tönen einer Zwölftonreihe entspricht. Der Verfasser
@@ -1545,7 +1590,8 @@
         <title>Kosmosforschung als sinfonisches Sujet. Kommentar zur Orchestermusik Nr. 2 "Meer der
             Stürme" von Paul Dessau</title>
         <extent>S. 177-183.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Die Stellung des Werkes in Dessaus sinfonischem Schaffen (1). Der Anlaß (II).
             Dessaus eigener Kommentar (III), Kompositionsdaten (IV). Analytische Beschreibung (V).
             Konstitutive Strukture1emente (VI). Programmatische Bezüge (VII). </abstract>
@@ -1581,7 +1627,8 @@
         </people>
         <title>Versuche zur intensiven und effektiven Gestaltung des Musikunterrichts</title>
         <extent>S. 381-382.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Beschreibung eines musikpädagogischen Experiments im Rahmen des staatlichen
             Forschungsprogramms. Eine Versuchsgruppe mit Schülern der 6. Klasse erhält mehrere
             Musikstunden in einem kybernetischen Kabinett des Pädagogischen Instituts Leipzig. Bei
@@ -1605,7 +1652,8 @@
         </people>
         <title>Mozarts Briefe</title>
         <extent>S. 756-759.</extent>
-        <journal>Sinn u. Form. 20 (1968),</journal>
+        <journal>Sinn u. Form</journal>
+        <place>Berlin</place>
         <abstract> Der Essay beleuchtet vornehmlich Mozarts private Korrespondenzen mit seinem
             Vater, mit dem berühmten "Bäsle", mit Konstanze. Beschrieben werden Besonderheiten des
             stilistischen Ausdrucks und vor allem der Stimmungen Mozarts, wie sie sich in seinen
@@ -1652,7 +1700,8 @@
         </people>
         <title>über die Entwicklung des Intonationsgehörs mit Hilfe technischer Mittler</title>
         <extent>S. 460 u. S. 469-472.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Das musikalische Gehör hat nach Garbusow in bezug auf die Tonhöhe Zonencharakter.
             Unter einer Zone ist jenes Tonhöhengebiet zu verstehen, in dessen Grenzen die Töne und
             Intervalle bei allen quantitativen Veränderungen die gleiche Qualität (Individualität)
@@ -1667,21 +1716,18 @@
     </entry>
     <entry>
         <entryNo>73</entryNo>
-        <fullTitle>Höchel, Lothar; Zur Entwicklung des Intonationsgehörs im Chor. - In: Musik in der
+        <fullTitle>Höchel, Lothar: Zur Entwicklung des Intonationsgehörs im Chor. - In: Musik in der
             Schule. 19 (1968), S. 244-247.</fullTitle>
         <people>
             <author>
                 <familyName>Höchel</familyName>
                 <givenName>Lothar</givenName>
             </author>
-            <author>
-                <familyName>Chor</familyName>
-                <givenName>Zur Entwicklung des Intonationsgehörs im</givenName>
-            </author>
         </people>
-        <title>In</title>
-        <place>Musik</place>
-        <publicationYear>in der Schule. 19 (1968</publicationYear>
+        <title>Zur Entwicklung des Intonationsgehörs im Chor</title>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
+        <publicationYear>1968</publicationYear>
         <extent>S. 244-247.</extent>
         <abstract> Die künstlerische Wirksamkeit einer chorischen Darbietung hängt wesentlich von
             einer einwandfreien Chorintonation ab. Voraussetzung dafür ist u.a. eine systematische
@@ -1859,7 +1905,8 @@
         </people>
         <title>'Die weiße Rose' von Udo Zimmermann</title>
         <extent>H. 9, S. 6.</extent>
-        <journal>Theater der Zeit. 23 (1968),</journal>
+        <journal>Theater der Zeit</journal>
+        <place>Berlin</place>
         <abstract> Dramaturgische Analyse der Oper 'Die weiße Rose' von Ingo Zimmermann (Libretto)
             und Udo Zimmermann (Musik). </abstract>
     </entry>
@@ -1875,7 +1922,8 @@
         </people>
         <title>Die Einheitlichkeit der Musikbühne</title>
         <extent>H. 13, S. 6-7.</extent>
-        <journal>Theater der Zeit. 23 (1968),</journal>
+        <journal>Theater der Zeit</journal>
+        <place>Berlin</place>
         <abstract> Kurze Erörterung zu Theorie und Geschichte der Operette. Die Entwicklung der
             Operette im 18.-20. Jahrhundert und ihr ästhetisches Wesen. </abstract>
     </entry>
@@ -1933,7 +1981,8 @@
         </people>
         <title>Der Einfluß der KPD auf die musikalische Entwicklung in Deutschland vor 1933</title>
         <extent>S. 400-408.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Für den deutschen Kommunisten konzentrierten sich in den zwanziger Jahren die
             Überlegungen zur Kunst und Ästhetik auf drei Zentralprobleme: Wesen und Funktion der
             Kunst; Notwendigkeit und Möglichkeit einer neuen, proletarischen Musik; Tendenz
@@ -1957,7 +2006,8 @@
         </people>
         <title>Hanns Eislers Lieder und Chöre zu Brechts "Die Mutter"</title>
         <extent>H. 7, S. 11-15 u. H. 9, S. 13-15.</extent>
-        <journal>Volksmusik. 13 (1968),</journal>
+        <journal>Volksmusik</journal>
+        <place>Berlin</place>
         <abstract> Der Aufsatz analysiert die 13 Nummern des Werkes, indem er den künstlerischen
             Gesamteindruck bezeichnet und die musikalischen Form- und Gestaltungsmittel feststellt.
             Als Ergebnis wird der sozialistisch-realistische Charakter der Musik herausgearbeitet,
@@ -2033,7 +2083,8 @@
         </people>
         <title>Der Essay als Gattung der Musikliteratur</title>
         <extent>S. 655-657.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Die Arbeit — selbst ein Essay - bestimmt Kriterien und Position des Essays im
             Gefüge der musikwissenschaftlichen Literatur. Ausgehend von Gluck-Essay Walther Vetters
             werden seine inhaltlichen und stilistischen Besonderheiten diskutiert. Der Essayist
@@ -2055,7 +2106,8 @@
         </people>
         <title>Entwicklungstendenzen der sowjetischen Musikkultur</title>
         <extent>S. 163-167.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Beitrag ist ein Referat, das der Autor auf der wissenschaftlichen Konferenz
             "Stellung und Bedeutung der sowjetischen Musik in der Gegenwart" (aus Anlaß des 50.
             Jahrestages der Großen Sozialistischen Oktoberrevolution) 1967 in Leipzig hielt. Er
@@ -2081,7 +2133,8 @@
         </people>
         <title>Analogien zur Tonalität</title>
         <extent>S. 458-461.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Begriff Tonalität wird als Vorgang bei der musikalischen Rezeption, als
             Orientierung auf ein melodisches Bezugszentrum definiert. Die Orientierung auf eine
             Tonika ist dann nur ein Spezialfall, Tonikalität genannt. Sie hat Analogien in der
@@ -2107,7 +2160,8 @@
         </people>
         <title>Rudolf Wagner-Régeny zum 65. Geburtstag</title>
         <extent>S. 7-9.</extent>
-        <journal>Mitteilungen der Deutschen Akademie der Künste. 6 (1968), Nr. 5,</journal>
+        <journal>Mitteilungen der Deutschen Akademie der Künste</journal>
+        <place>Berlin</place>
         <abstract> Im umfangreichen Schaffen des Komponisten Rudolf Wagner-Régeny nimmt die Oper
             einen bevorzugten Platz ein. Sein Ziel ist es, allen spätromantischen Opernschwulst zu
             eliminieren zugunsten eines gesellschaftskritischen epischen Musiktheaters. Er wendet
@@ -2176,7 +2230,8 @@
         </people>
         <title>Musikhören in der Unterstufe</title>
         <extent>H. 7/8, S. 15-17.</extent>
-        <journal>Die Unterstufe. 15 (1968),</journal>
+        <journal>Die Unterstufe</journal>
+        <place>Berlin</place>
         <abstract> Es ist unerläßlich, im Musikunterricht der Klassen 1 bis 4 wichtige
             Voraussetzungen für die Rezeption von musikalischen Kunstwerken zu schaffen. Die
             planmäßige Entwicklung von Fähigkeiten und Fertigkeiten fußt auf der im
@@ -2204,7 +2259,8 @@
         <title>Aufführungspraktische Prinzipien bei der Interpretation der Madrigale von Marenzio,
             Gesualdo und Monteverdi</title>
         <extent>H. 1, S. 41-63 - Hallesche Beiträge zur Musikwissenschaft.</extent>
-        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle</journal>
+        <place>Halle</place>
         <abstract> Die musikgeschichtliche Bedeutung des Cinquecento und das humanistische Anliegen
             seiner Literatur machen es im besonderen Maße erforderlich, ihre musikalischen
             Kunstwerke zu pflegen und Kriterien für ihre Interpretation zu erarbeiten. Dabei soll
@@ -2237,7 +2293,7 @@
     <entry>
         <entryNo>97</entryNo>
         <fullTitle>Kynaß, Hans-Joachim: Zweimal die "Unvollendete". Begegnung mit dem Arbeiter
-            Sinfonieorchester Karl-Marx-Stadt. - In: Musik u, Gesellschaft. 18 (1968), S.
+            Sinfonieorchester Karl-Marx-Stadt. - In: Musik u. Gesellschaft. 18 (1968), S.
             382-388.</fullTitle>
         <people>
             <author>
@@ -2248,7 +2304,8 @@
         <title>Zweimal die "Unvollendete". Begegnung mit dem Arbeiter Sinfonieorchester
             Karl-Marx-Stadt</title>
         <extent>S. 382-388.</extent>
-        <journal>Musik u, Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Am Beispiel der Entwicklung, der Arbeits- und Konzertpraxis des
             Arbeitersinfonieorehesters Karl-Marx-Stadt werden einige Erfahrungen vermittelt, die
             anderen ähnlichen Ensembles als Anregungen nützlich sein können. Der Beitrag gibt
@@ -2302,7 +2359,8 @@
         <title>Die soziale Funktion unserer Kunst bei der Entwicklung einer sozialistischen
             Volkskultur</title>
         <extent>S. 743-814.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Vom 30. Oktober bis 2. November 1968 fand in Leipzig die Zentrale
             Deligiertenkonferenz des VDK statt. Der vorliegende Beitrag enthält Auszüge aus dem
             Hauptreferat des 1. Sekretärs des VDK, Wolfgang Lesser. Der Referent kennzeichnet darin
@@ -2379,7 +2437,8 @@
         </people>
         <title>Schostakowitsch filmporträtiert</title>
         <extent>S. 191-193.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Film "Dmitri Schostakowitsch, Skizzen zum Porträt des Komponisten" entstand
             in der Regie von A. Gendelstein. Er ist eine Dokumentation, die über das optische Medium
             geschickt eingesetzter filmischer Mittel ein "klingendes Bild" des Komponisten
@@ -2403,7 +2462,8 @@
         </people>
         <title>Musikgeschichte in klingenden Beispielen</title>
         <extent>S. 255-259.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es handelt sich um eine Betrachtung und Einschätzung der ersten vier Folgen einer
             bei Eterna (VEB Deutsche Schallplatten) unter Leitung Prof. Dr. Georg Kneplers (Berlin)
             edierten Schallplattenreihe "1000 Jahre Musikgeschichte in klingenden Beispielen". Auf
@@ -2427,7 +2487,8 @@
         </people>
         <title>"unsere neue musik". Eine Schallplattenreihe bei Eterna</title>
         <extent>S. 48-52.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Die Eterna-Serie "unsere neue musik" des VEB Deutsche Schallplatten wird seit
             zwei Jahren in der DDR publiziert. Verschiedene musikalische Gattungen - Sinfonik,
             Chorsinfonik, Kammermusik, Oper, Lied - werden berücksichtigt, verschiedene Generationen
@@ -2450,7 +2511,8 @@
         </people>
         <title>Autograph und Druck</title>
         <extent>S. 239-245.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Verglichen werden Autograph, Abschrift (Dedikations-exemplar für König Friedrich
             Wilhelm III.) und die gedruckte Partitur (Edition Peters) von Beethovens Sinfonie Nr.
             IX. Es werden in allen Sätzen des Werkes offensichtliche Fehler in der gedruckten
@@ -2514,7 +2576,8 @@
         <title>Volksliedkundliche Einordnung und erzieherischer Wert des deutschen
             Arbeiterliedes</title>
         <extent>S. 255-260.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Der Artikel soll der musikpädagogischen Auswertung der bisherigen Forschungen zum
             Thema Arbeiterlied dienen, die vor allem durch Inge Lammel und die Sektion Arbeiterlied
             der Deutschen Akademie der Künste vertreten werden. Es werden zur Begriffsbestimmung
@@ -2536,7 +2599,8 @@
         </people>
         <title>Akustisch-harmonische Ursachen für unsauberes Singen</title>
         <extent>S. 248-251.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> In Handbüchern der Chorleitung stehen die Hinweise zu akustisch-harmonischen
             Ursachen für unsauberes Singen hinter physiologischen weit zurück. Um auf diesem Gebiet
             Inder Chorarbeit weiterzukommen, muB man von den Chorleitern einige Grundkenntnisse aus
@@ -2559,7 +2623,8 @@
         </people>
         <title>Die Bedeutung der Sowjetunion für mein Schaffen</title>
         <extent>S. 158-163.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es handelt sich um ein Referat, das der Autor auf der wissenschaftlichen
             Konferenz "Stellung und Bedeutung der sowjetischen Musik in der Gegenwart" 1967 in
             Leipzig hielt. Der Autor bietet eine kleine autobiographische und bekenntnishafte
@@ -2579,7 +2644,8 @@
         </people>
         <title>Getreuer Eckart der DDR-Musik</title>
         <extent>S. 368-372.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Nachruf auf den am 15. April 1968 in Berlin verstorbenen Sekretär des VDK, Prof.
             Nathan Notowicz. Der Lebensskizziert, dabei vor allem die politisch-ideologische und
             musikalisch-musikwissenschaftliche Entwicklung von Notowicz. Hervorgehoben werden seine
@@ -2629,9 +2695,9 @@
                 <givenName>Paul</givenName>
             </author>
         </people>
-        <title>Zur Systematik des Musikhörens. In</title>
-        <place>Musik</place>
-        <publicationYear>in der Schule. 19 (1968</publicationYear>
+        <title>Zur Systematik des Musikhörens</title>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <extent>S. 213-221.</extent>
         <abstract> Musikpsychologische Forschungsergebnisse über das Musikerleben von Kindern und
             Jugendlichen beweisen, daß sich bei entsprechender Hörpraxis die Hör- und
@@ -2663,7 +2729,8 @@
         </people>
         <title>Die sozialistische Musikhochschule</title>
         <extent>S. 296-306.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Ausgehend von den durch die 3. Hochschulreform in der DDR notwendigen
             Veränderungen an den Universitäten und Hochschulen überhaupt und gestützt auf die
             Kulturprognose im musikalischen Bereich, werden die sich aus der Spezifik der
@@ -2688,7 +2755,8 @@
         </people>
         <title>Akzeleration und Mutation</title>
         <extent>S. 95-105.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Nach kurzer Charakterisierung der wichtigsten Wesenszuge der säkularen
             Akzeleration als physische und psychische Entwicklungsbeschleunigung mit zunehmender
             Verlängerung der Entwicklungsphasen bei möglicher Asynchronie in einzelnen Bereichen
@@ -2766,7 +2834,8 @@
         </people>
         <title>Musikleben und Musikerziehung in Frankreich</title>
         <extent>S. 472-478.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Der Autor schildert die kulturellen Verhältnisse in Frankreich, die eine starke
             Zentralisierung kennzeichnet. Der zunehmende Verzicht auf provinzielle Musikzentren
             bewirkt, daß die Musik den ihr gebührenden Platz in der Gesellschaft verliert. Auch auf
@@ -2828,7 +2897,8 @@
             Fernsehen auf die musikalische Entwicklung von Kindern und Jugendlichen und Folgerungen
             für die Musikerziehung in der Schule</title>
         <extent>S. 452-459.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Ausgehend von der Vorzugsstellung des Musikhörens in Rundfunk und Fernsehen im
             Freizeitraum von Kindern und Jugendlichen, werden die Hörprobleme dargestellt, die durch
             die Bewältigung eines umfangreichen Hörprogramms bei eindeutiger Bevorzugung der
@@ -2856,7 +2926,8 @@
         </people>
         <title>Wilhelm Weismann: Wilhelm-Busch-Zyklus</title>
         <extent>S. 91-92.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Wilhelm-Busch-Zyklus für gemischten Chor, Soli und Klavier des Leipziger
             Komponisten Wilhelm Weismann wurde im Juni 1967 in Leipzig uraufgeführt. Das heitere,
             publikumswirksame Werk enthält drei Teile: "Zur Beherzigung", "Bauernkantate",
@@ -2876,7 +2947,8 @@
         </people>
         <title>Prokofjews V. Sinfonie auf zwei sowjetischen Schallplatten</title>
         <extent>S. 98-107.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Beitrag ist ein Interpretationsvergleich und widmet sich den
             Schallplatteneinspielungen der Prokofjew-Sinfonie durch das Rundfunk-Sinfonieorchester
             der UdSSR unter den zwei verschiedenen Generationen angehörenden Dirigenten Leopold
@@ -2901,7 +2973,8 @@
         <title>Karl Marx und unsere sozialistische Kulturpolitik - Zum 150. Geburtstag von Karl Marx
             am 5. Mai 1968</title>
         <extent>S. 139-144.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Auf der Grundlage der bedeutendsten historischen Beschlüsse - VII. Parteitag der
             SED, Staatsratsbeschluß über die Fragen der Kultur, Entwurf der sozialistischen
             Verfassung sowie prinzipieller Erklärungen Walter Ulbrichts und führender
@@ -2929,7 +3002,8 @@
         </people>
         <title>Die Novemberrevolution und ihre Auswirkungen auf das musikalische Schaffen</title>
         <extent>S. 393-399.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Wenn auch nicht in dem Umfang wie die Große Sozialistische Oktoberrevolution, so
             findet doch auch die Novemberrevolution 1918 ihre Widerspiegelung im musikalischen
             Schaffen. Es handelt sich dabei um einen ganzen Komplex integrierender Themen, die ihre
@@ -2952,7 +3026,8 @@
         </people>
         <title>Leo Kestenberg - Künstler und Pädagoge</title>
         <extent>S. 122-127.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Die Arbeit würdigt das schulmusikalische Reformwerk Kestenbergs, das als eine
             wesentliche Grundlage aller musikpädagogischen Profilierungsbestrebungen der Jetztzeit
             angesehen und in 8 Thesen gewertet wird. </abstract>
@@ -2972,7 +3047,8 @@
             1600</title>
         <sameAs>Hallesche Beiträge zur Musikwissenschaft.</sameAs>
         <extent>H. 1, S. 65-71 </extent>
-        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G.</journal>
+        <place>Halle</place>
         <abstract> Die Quellen, die uns heute Aufschluß über das Singen um 1600 geben können,
             beziehen sich zumeist auf die Stimme und ihre Behandlung. Interpretatorische Probleme
             sind allein den Darstellungen zur Affektenlehre zu entnehmen. Die aufführungspraktischen
@@ -3027,8 +3103,8 @@
         </people>
         <title>Experimentelle und soziologische Methoden zur Ermittlung des Musikniveaus. Ein
             Beitrag zur Methodik empirischer Musiksoziologie</title>
-        <place>Humboldt-Univ.</place>
-        <publicationYear>Berlin 1968</publicationYear>
+        <place>Berlin</place>
+        <publicationYear> 1968</publicationYear>
         <org/>
         <type>Diss.</type>
         <extent>230 S.</extent>
@@ -3092,7 +3168,8 @@
         <title>Dmitri Schostakowitsch - 8. Streichquartett. Möglichkeiten seiner Verwendung im
             außerschulischen Bereich</title>
         <extent>S. 361-367.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Das 8. Streichquartett Schostakowitschs ist in mehrfacher Hinsicht ein im
             musikpädagogischen Bereich sehr gut verwendbares Werk. Ausgehend von zahlreichen
             wertvollen Anknüpfungspunkten und Koordinierungsmöglichkeiten mit anderen Fächern, von
@@ -3133,8 +3210,9 @@
             </author>
         </people>
         <title>Zur Spezifik und Methodologie der Werkbetrachtung im Musikunterricht</title>
-        <place>Musik</place>
-        <publicationYear>in der Schule. 19 (1968</publicationYear>
+        <place>Berlin</place>
+        <publicationYear>Musik in der Schule</publicationYear>
+        <publicationYear>1968</publicationYear>
         <extent>S. 290-302.</extent>
         <abstract> Die Einbeziehung der Werkbetrachtung in den Musikunterricht ist eine notwendige
             Ergänzung zum Bereich des Musikhörens. Sie dient der erzieherischen und bildenden
@@ -3160,7 +3238,9 @@
         <title>Musikpädagogik - ein bildungs- und erziehungstheoretisches Problem unserer
             Zeit</title>
         <extent>S. 314-323.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
+        <publicationYear>1968</publicationYear>
         <abstract> Die Ausführungen konzentrieren sich auf vier Schwerpunkte: 1. den Widerspruch
             zwischen aktuellen Bildungs- und Erziehungsgeschehen und der notwendigen prospektiven
             allgemein-gesellschaftlichen und speziell-künstlerischen Zielgerichtetheit, 2. die
@@ -3182,7 +3262,8 @@
         </people>
         <title>Aufgaben und Gestaltungsmöglichkeiten einer zielgerichteten Liedeinführung</title>
         <extent>S. 251-254.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Aufgabe der Liedeinführung ist es, das Musikverstehen zu fordern und die
             Grundlagen für eine mögliche praktische Musikausübung zu schaffen. Folgende inhaltliche
             Schwerpunkte lassen sich für die Liedeinführung fixieren: Untersuchungen des
@@ -3204,7 +3285,8 @@
         </people>
         <title>Hans Christian Bartel: Konzert für Orchester</title>
         <extent>S. 92-93.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Hans-Christian Bartel, zur jüngsten Leipziger Komponistengeneration zählend, hat
             mit seinem im September 1967 daselbst uraufgeführten Konzert für Orchester ein modern
             empfundenes, logisch gearbeitetes und dynamisch kontrastreiches Werk vorgelegt. Es fußt
@@ -3359,7 +3441,8 @@
         <title>Brecht und die gesellschaftliche Funktion der Musik. Zum 70. Geburtstag des Dichters
             am 10. Februar</title>
         <extent>S. 75-36.</extent>
-        <journal>Musik, u. Gesellschaft. 18 (1968).</journal>
+        <journal>Musik, u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es handelt sich um einen Vortrag, den der Autor 1966 an der Deutschen Staatsoper
             Berlin Im Rahmen der Festwoche "Brecht und die Musikdramatik" gehalten hat. Anhand
             zahlreicher Äußerungen Brechts und mit Bemerkungen vor allem über die Werke Brechts, die
@@ -3382,8 +3465,9 @@
         </people>
         <title>Bibliographie des Schrifttums zur Geschichte deutscher und österreichischer
             Musikverlage</title>
+        <place>Leipzig</place>
         <extent>S. 135-222.</extent>
-        <journal>Beiträge zur Geschichte des Buchwesens. 3 (1968),</journal>
+        <journal>Beiträge zur Geschichte des Buchwesens</journal>
         <abstract> Bei der Bibliographie handelt es sich um eine Bestandsaufnahme, die zugleich
             Anregungen für weitere Untersuchungen auf zum Teil nur spärlich erschlossenen Gebieten
             vermitteln soll. Das Verzeichnis weist 755 Nummern auf. Die Gruppe "Geschichte einzelner
@@ -3405,7 +3489,8 @@
         </people>
         <title>Die Beurteilung der Kinder stimme</title>
         <extent>S. 237-239.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Die Stimme ist als wichtiger Faktor im Kommunikationsprozeß wesentlich an der
             Übermittlung von Bewußtseinsinhalten beteiligt. Wegen des hohen Kommunikationseffekts
             der Stimme ist eine systematische Beobachtung und Beurteilung der Kinderstimme
@@ -3444,7 +3529,8 @@
         </people>
         <title>"Impulse", Ballett von Uwe Ködderitzsch</title>
         <extent>S. 14-16.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es handelt sich um das dritte Ballett des 3ojährigen Leipziger Komponisten, das
             handlungslos ist, dessen dramaturgische Konzeption jedoch darauf hinweist, verschiedene
             menschliche Haltungen unserer Zeit in einer für die Menschen von heute typischen
@@ -3491,6 +3577,7 @@
         </people>
         <title>Die Neue Musik der griechischen Antike. Teil I: Die italienische Überlieferung; Teil
             II: Die Tondenkmäler</title>
+        <place>Stuttgart</place>
         <extent>S. 1-18 u. Nr. 2, S. 134-147.</extent>
         <journal>Archiv für Musikwissenschaft. 25 (1968), Nr. 1,</journal>
         <abstract> Als Entwurf zu einem künftigen Gesamtbild gedacht, bemüht sich die Arbeit um eine
@@ -3545,21 +3632,17 @@
     </entry>
     <entry>
         <entryNo>151</entryNo>
-        <fullTitle>Rudolph, Johanna; Probleme der Hamburger deutschen Frühoper. - In: Theater der
+        <fullTitle>Rudolph, Johanna: Probleme der Hamburger deutschen Frühoper. - In: Theater der
             Zeit. 23 (1968), S. 20-23.</fullTitle>
         <people>
             <author>
                 <familyName>Rudolph</familyName>
                 <givenName>Johanna</givenName>
             </author>
-            <author>
-                <familyName>Frühoper</familyName>
-                <givenName>Probleme der Hamburger deutschen</givenName>
-            </author>
         </people>
-        <title>In</title>
-        <place>Theater</place>
-        <publicationYear>der Zeit. 23 (1968</publicationYear>
+        <title>Probleme der Hamburger deutschen Frühoper</title>
+        <place>Berlin</place>
+        <publicationYear>Theater der Zeit</publicationYear>
         <extent>S. 20-23.</extent>
         <abstract> Die Autorin bestimmt die Stellung der Hamburger Gänsemarktoper um 1700 und wertet
             ihr Repertoire und ihre Komponisten als Wegbereiter einer demokratischen Musikkultur.
@@ -3608,7 +3691,8 @@
         </people>
         <title>Angewandte Musik. Notizen zu Bühnenmusiken Hanns Eislers</title>
         <extent>S. 21-24.</extent>
-        <journal>Theater der Zeit. 23 (1968), Nr. 13,</journal>
+        <journal>Theater der Zeit</journal>
+        <place>Berlin</place>
         <abstract> Durch Anwendung dialektischer Prinzipien auf die musikalische Komposition
             erfahren traditionelle Punktionen der Bühnenmusik (Rahmenmusiken, Inzidenzmusiken usw.)
             bei Hanns Eisler vielfach eine Umwandlung ihrer Bedeutung. Eislers Bühnenmusiken sind
@@ -3629,7 +3713,8 @@
         </people>
         <title>Griechische Hochzeit. Notizen zu Robert Hanells neuer Oper</title>
         <extent>S. 22-25.</extent>
-        <journal>Theater der Zeit. 23 (1968), Nr. 6,</journal>
+        <journal>Theater der Zeit</journal>
+        <place>Berlin</place>
         <abstract> Hanell bedient sich in der "Griechischen Hochzeit" zahlreicher Themen und Motive
             als eines wichtigen dramaturgischen Mittels, um damit innere Zusammenhänge zwischen
             Situationen und Vorgängen sowie zwischen Aktionen und Emotionen der handelnden Personen
@@ -3735,7 +3820,8 @@
         </people>
         <title>Alternativen</title>
         <extent>S. 217-220.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Kulturpolitischer Kommentar zum Orchestersterben in der Bundesrepublik
             Deutschland als einem Merkmal der allgemeinen "Kulturdemontage" dort. Die Gründe dafür
             werden dargelegt, ferner erfolgt eine Gegenüberstellung mit der kulturellen Entwicklung
@@ -3753,7 +3839,8 @@
         </people>
         <title>Wolfgang Lesser: "Ein Tag in unserer Stadt"</title>
         <extent>S. 89-90.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> "Ein Tag in unserer Stadt" nennt sich ein Liedzyklus des Berliner Komponisten
             Wolfgang Lesser (geb. 1923) auf Texte von Manfred Streubel, der im Oktober 1967 im
             Apollo-Saal der Deutschen Staatsoper Berlin uraufgeführt wurde. Der als Liedkomponist
@@ -3777,7 +3864,8 @@
         </people>
         <title>Siegfried Matthus - "Der letzte Schuß"</title>
         <extent>S. 328-334.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Analyse der 1967 uraufgeführten Oper nach der Novelle von Lawrenjow. Untersucht
             werden Dramaturgie und Grundsätze der musikalischen Gestaltung. Das Wesen dieser
             Opernmusik liegt im Bemühen, Nummern- und durchkomponiertes Prinzip neuartig zu nutzen.
@@ -3797,7 +3885,8 @@
         </people>
         <title>Konzerte im Profil. Bemerkungen zur Spielzeit 1967/68</title>
         <extent>S. 230-236.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Untersuchung des Anteils von Musik des 20. Jahrhunderts in den Sinfoniekonzerten
             der Spielzeit (Orchester der DDR). Besonders geprüft wird der Anteil der DDR-Musik.
             Sonderprüfungen der Gebiete "Jugend- und Schulkonzerte", "Chorsinfonik". Abschließend
@@ -3838,7 +3927,8 @@
         </people>
         <title>Bruckners VII. Sinfonie, gespielt vom Berliner Sinfonieorchester</title>
         <extent>S. 173-176.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Analysiert wird eine Aufführung der VII. Sinfonie Bruckners durch einen
             Dirigenten, der besonders auf Musik des 20. Jahrhunderts spezialisiert ist. Es kann auf
             einige Besonderheiten (Tempowahl, Klangbild) hingewiesen werden, die interessante
@@ -3857,7 +3947,8 @@
         </people>
         <title>Johann Cilensek: Konzertstück für Klavier und Orchester</title>
         <extent>S. 86-89.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Als konsequente Weiterführung seines bisherigen sinfonischen Schaffens wird in
             einer Analyse Cilenseks neuestes Werk dargestellt. Aufbauend auf einer dodekaphonischen
             Grundreihe, berücksichtigt es bei Erweiterung klanglicher kompositorischer
@@ -3878,7 +3969,8 @@
         <title>Vokalsolistische Interpretation von Arbeiter- und Kampfliedern, dargestellt am
             Schaffen Hanns Eislers</title>
         <extent>S. 261-264.</extent>
-        <journal>Musik in der Schule. 19 (1968).</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Eine Komposition ist die musikalische Kommunikation eines künstlerischen Abbildes
             der Wirklichkeit. Die Interpretation als ihre klangliche Realisierung ist in ihrem
             Mittlertum zwischen Werk und Hörer das Ergebnis eines weiteren kommunikativen
@@ -3932,7 +4024,8 @@
         <title>Auf welchen Musikinstrumenten soll man heute die Musik Johann Sebastian Bachs
             spielen</title>
         <extent>S. 117-118.</extent>
-        <journal>Bach-Jahrbuch. 53 (1967),</journal>
+        <journal>Bach-Jahrbuch</journal>
+        <place>Leipzig</place>
         <abstract> Nachdem auf die mannigfachen Schwierigkeiten hingewiesen werden war. die das
             historische Instrumentarium durch Spielart und technische Eigenheiten dem heutigen
             Musizieren bereitet, wird die Forderung erörtert, aus der Praxis der Gegenwart heraus
@@ -3952,7 +4045,7 @@
         </people>
         <title>Musikinstrumenten-Museum Leipzig mit alter Tradition</title>
         <extent>S. 12.</extent>
-        <journal>Musikinstrumenten-Report. 3 (1967), F. 6,</journal>
+        <journal>Musikinstrumenten-Report</journal>
         <abstract> Kurzer Bericht über das Musikinstrumenten-Museum der Karl-Marx-Universität
             Leipzig mit Hinweisen über den Instrumenten-Bestand, über die Entstehung und Geschichte
             des Museums sowie über die Anordnung der Musikinstrumente in der Schausammlung.
@@ -4048,6 +4141,7 @@
             Europas</title>
         <extent>S. 101-105.</extent>
         <journal>Deutsches Jahrbuch für Volkskunde. 14 (1968), T. 1,</journal>
+        <place>Berlin</place>
         <abstract> Schwerpunkt des Tagungsberichtes bildet die ausführliche Wiedergabe der von Erich
             Stockmann und Oskar Elschek entwickelten und auf der Arbeitstagung in Brno erstmals zur
             Diskussion gestellten "Typologie der Musikinstrumente". Die spezielle Aufgabe der
@@ -4095,12 +4189,17 @@
         <people>
             <author>
                 <familyName>Schubert</familyName>
-                <givenName>Lothar u. Günter Diezel</givenName>
+                <givenName>Lothar</givenName>
+            </author>
+            <author>
+                <familyName>Diezel</familyName>
+                <givenName>Günter</givenName>
             </author>
         </people>
         <title>Eine Studienreise in die Volksrepublik Ungarn</title>
         <extent>S. 49-54.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Der Bericht gibt einen allgemeinen Überblick über den Inhalt der Musikerziehung
             an den allgemeinbildenden Schulen Ungarns. An Beispielen wird der hohe Stand der
             außerunterrichtlichen Musikerziehung (Chöre, Jugendkonzerte, Jeunesses-Klubs,
@@ -4120,7 +4219,8 @@
         </people>
         <title>Das "Kleine Magnificat" BWV Anh. 21 und sein Komponist</title>
         <extent>S. 44-45.</extent>
-        <journal>Die Musikforschung. 21 (1968),</journal>
+        <journal>Die Musikforschung</journal>
+        <place>Kassel</place>
         <abstract> Das anonym überlieferte, früher Johann Sebastian Bach zugeschriebene Magnificat
             für Sopran und kleines Orchester (BWV Anh. 21), 1955 durch Alfred Dürr und Frederick
             Hudson als Kompositionsniederschrift eines unbekannten Musikers bestimmt, aber trotzdem
@@ -4152,7 +4252,7 @@
     <entry>
         <entryNo>177</entryNo>
         <fullTitle>Schwabe, Christoph: Untersuchungen über Entwicklung und Stand der Musiktherapie.
-            - Diss., Balle 1967. 260 S.</fullTitle>
+            - Diss., Halle 1967. 260 S.</fullTitle>
         <people>
             <author>
                 <familyName>Schwabe</familyName>
@@ -4160,7 +4260,7 @@
             </author>
         </people>
         <title>Untersuchungen über Entwicklung und Stand der Musiktherapie</title>
-        <place>Balle</place>
+        <place>Halle</place>
         <publicationYear>1967</publicationYear>
         <org/>
         <type>Diss.</type>
@@ -4188,7 +4288,8 @@
         </people>
         <title>Drei Uraufführungen von Ernst Hermann Meyer. Kantate: Oktoberpoem</title>
         <extent>S. 184-185.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968)</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Ernst Hermann Meyers Kantate "Dem Neugeborenen, ein Oktoberpoem" entstand aus
             Anlaß des 50. Jahrestages der Großen Sozialistischen Oktoberrevolution auf einen Text
             von Jens Gerlach und wurde im November 1967 in Jena uraufgeführt. Die Textvorlage
@@ -4234,7 +4335,8 @@
         <title>Beiträge zu einem neuen Monteverdi-Bild</title>
         <sameAs>Hallesche Beiträge zur Musikwissenschaft.</sameAs>
         <extent>H. 1, S. 11-40 </extent>
-        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G</journal>
+        <place>Halle</place>
         <abstract> Es handelt sich um zwei Vorträge, die auf der Monteverdi Konferenz des Instituts
             für Musikwissenschaft Halle im Mai 1967 gehalten wurden. Der erste Vortrag gibt einen
             Überblick über Leben und Schaffen des italienischen Meisters, der andere behandelt das
@@ -4255,7 +4357,8 @@
         </people>
         <title>Gedanken zum Bach-Bild der Gegenwart</title>
         <extent>H. 1, S. 105-108 - Hallesche Beiträge zur Musikwissenschaft.</extent>
-        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G</journal>
+        <place>Halle</place>
         <abstract> Der Aufsatz entwirft in kurzen Strichen ein marxistisches Bild des großen
             Leipziger Meisters, insbesondere im Blickpunkt auf eine realistische Interpretation
             seines Werkes. </abstract>
@@ -4273,7 +4376,8 @@
         </people>
         <title>Händels Operntyp und seine Darbietungsprobleme</title>
         <extent>S. 109-135 - Hallesche Beiträge zur Musikwissenschaft.</extent>
-        <journal>Wiss. Beiträge d. Univ. Halle, Reihe G. 8 (1968), H, 1,</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G</journal>
+        <place>Halle</place>
         <abstract> Die Arbeit behandelt auf Grund zeitgenössischer Quellen die
             Opern-Aufführungspraxis zu Händels Zeit, wobei einige Opern, insbesondere die Oper
             "Alcina", herangezogen werden. Im Hauptteil geht der Verfasser ausführlich auf die
@@ -4294,7 +4398,8 @@
         </people>
         <title>Zur Realismus-Diskussion in der Musik</title>
         <extent>H. 1, S. 223-248 -Hallesche Beiträge zur Musikwissenschaft.</extent>
-        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G</journal>
+        <place>Halle</place>
         <abstract> Es handelt sich um folgende vier Themen: 1) Zur Weltbedeutung der sozialistischen
             Musik; 2) Die Rolle der Melodie in der Musik des Sozialistischen Realismus; 3) Realismus
             und schöpferische Individualität in der Musik; 4) Gedanken zu unserem sozialistischen
@@ -4314,7 +4419,8 @@
         <title>Georg Philipp Telemann - ein hervorragender musikalischer Repräsentant der
             Aufklärung</title>
         <extent>H. 1, S. 136-151 - Hallesche Beiträge zur Musikwissenschaft.</extent>
-        <journal>Wiss. Beiträge d. Univ. Ha : .e Reihe G. 8 (1968),</journal>
+        <journal>Wiss. Beiträge d. Univ. Halle. Reihe G</journal>
+        <place>Halle</place>
         <abstract> Der Aufsatz entwirft ein möglichst umfassendes Bild dieser faszinierenden
             Persönlichkeit der Aufklärung, wobei die Beziehungen zur französischen Aufklärung, die
             geistigen und musikalischen Anregungen und Einflüsse anderer Länder skizziert werden. Im
@@ -4335,7 +4441,8 @@
         </people>
         <title>Der spezifische Ausdruckscharakter der Musik</title>
         <extent>H. 2/3, S. 283-289.</extent>
-        <journal>Wiss. Zschr. d. Karl-Marx-Univ. Leipzig, Ges.-Sprachw. R. 17 (1968),</journal>
+        <place>Leipzig</place>
+        <journal>Wiss. Zschr. d. Karl-Marx-Univ. Leipzig</journal>
         <abstract> Der Aufsatz behandelt Fragen des realistischen Ausdruckscharakters der Musik,
             unter Einbeziehung von Ansichten über die Musik von Goethe, Mendelssohn und Schumann,
             mündend in Thesen über den Sozialistischen Realismus in der Musik. Außerdem werden
@@ -4354,7 +4461,8 @@
         </people>
         <title>Zum Wertproblem der sozialistischen Gegenwartsmusik</title>
         <extent>H. 2/3, S. 279-282.</extent>
-        <journal>Wiss. Zschr. d. Karl-Marx-Univ. Leipzig, Ges.-Sprachw. R. 17 (1968),</journal>
+        <place>Leipzig</place>
+        <journal>Wiss. Zschr. d. Karl-Marx-Univ. Leipzig</journal>
         <abstract> In dem Aufsatz, der auf einem Vortrag (mit musikalischen Beispielen) beruht, wird
             das Problem der historischen und "absoluten" Qualität eines musikalischen Kunstwerkes
             erörtert. Im einzelnen wird das Problem an der Thematik von Trauermusiken von der Zeit
@@ -4373,22 +4481,24 @@
         <title>Max Schneider. 1875-1967</title>
         <extent>S. 7-8.</extent>
         <journal>Acta Musicologica. XV(1968), F. 1,</journal>
+        <place>Stuttgart</place>
         <abstract> Würdigung von Leben und Schaffen des bedeutenden Musikwissenschaftlers Max
             Schneider, insbesondere im Hinblick auf seine internationale Wirksamkeit. </abstract>
     </entry>
     <entry>
         <entryNo>188</entryNo>
-        <fullTitle>Siegmund—Schultze, Walther: Der Bitterfelder Weg und die Musik. - In: Musik u.
+        <fullTitle>Siegmund-Schultze, Walther: Der Bitterfelder Weg und die Musik. - In: Musik u.
             Gesellschaft. 18 (1968), S. 650-655.</fullTitle>
         <people>
             <author>
-                <familyName>Siegmund—Schultze</familyName>
+                <familyName>Siegmund-Schultze</familyName>
                 <givenName>Walther</givenName>
             </author>
         </people>
         <title>Der Bitterfelder Weg und die Musik</title>
         <extent>S. 650-655.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Gedanken zur Entwicklung des Bitterfelder Weges auf dem Gebiete der Musik
             insbesondere in den letzten Jahren, unter Betonung des ästhetischen Grundanliegens des
             Sozialistischen Realismus. Es wird die Notwendigkeit hervorgehoben, den Bitterfelder
@@ -4409,7 +4519,8 @@
         </people>
         <title>Besprechung von Aufführungen der X. Arbeiterfestspiele</title>
         <extent>S. 508-510, S. 514-515 u. S. 519.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Es handelt sich um Besprechungen und Einschätzungen folgender Werke und
             Aufführungen: Singspiel "Havarie nach Feierabend" (Arbeitertheater Premnitz), Händels
             "Deidamia" (Landestheater Halle in Lauchstädt), "Lied der Gemeinsamkeit" (Zirkel
@@ -4427,7 +4538,8 @@
         </people>
         <title>Händels "Alcina"</title>
         <extent>S. 712-713.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Besprechung einer Neuinszenierung dieser Händel-Oper im Staatstheater Weimar, die
             neue Ansätze einer realistischen Interpretation aufweist. </abstract>
     </entry>
@@ -4443,7 +4555,8 @@
         </people>
         <title>Historische Grundlagen der DDR-Musik</title>
         <extent>S. 489-494.</extent>
-        <journal>Musik in der Schule. 19 (1968),</journal>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Ausgehend von kurzen ästhetischen Bemerkungen, behandelt der Aufsatz die Vielfalt
             der großen klassischen Traditionen und der Musiktraditionen der Arbeiterklasse.
             Eingegangen wird vor allem auf das Schaffen von Hanns Eisler. Paul Dessau und Ernst H.
@@ -4463,6 +4576,7 @@
         <title>Was erwartet der Musikwissenschaftler vom Musikalienhandel</title>
         <extent>S. 15.</extent>
         <journal>Börsenblatt für den deutschen Buchhandel. 135 (1968), R.M,</journal>
+        <place>Leipzig</place>
         <abstract> Gedanken über eine Verbesserung der Zusammenarbeit zwischen Musikwissenschaft und
             Musikalienhandel, insbesondere im Hinblick auf bessere Propagierung unbekannter
             Klassikerwerke sowie neuer musikwissenschaftlicher Werke marxistischer Prägung. Hinweis
@@ -4491,17 +4605,18 @@
     </entry>
     <entry>
         <entryNo>194</entryNo>
-        <fullTitle>Slegmund-Schultze, Walther: Die Prinzipien des Bitterfelder Weges und die Musik.
+        <fullTitle>Siegmund-Schultze, Walther: Die Prinzipien des Bitterfelder Weges und die Musik.
             - In: Die Volksmusik. 19(1968), H. 8, S. 1-4 u. H. 9, S.1-3.</fullTitle>
         <people>
             <author>
-                <familyName>Slegmund-Schultze</familyName>
+                <familyName>Siegmund-Schultze</familyName>
                 <givenName>Walther</givenName>
             </author>
         </people>
         <title>Die Prinzipien des Bitterfelder Weges und die Musik</title>
         <extent>H. 8, S. 1-4 u. H. 9, S.1-3.</extent>
-        <journal>Die Volksmusik. 19(1968),</journal>
+        <journal>Die Volksmusik</journal>
+        <place>Leipzig</place>
         <abstract> Es handelt sich um das Hauptreferat zu der Konferenz "Der Bitterfelder Weg und
             die Musik", die am 18. Mai in Halle stattfand. Der Autor erörtert die Geschichte des
             "Bitterfelder Weges" auf dem Gebiete der Musik seit 1959. Anhand der Theorie und Methode
@@ -4553,7 +4668,8 @@
         <title>Drei Uraufführungen, von Ernst Hermann Heyer. Zweites Präludium für Violine
             solo</title>
         <extent>S. 165-186.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Das Stück wurde im November 1967 in Berlin uraufgeführt. In der geistigen
             Konzentration der Satzarbeit ist es dem 18. Jahrhundert (J. S. Bach) verpflichtet. Das
             ganze Satzgeschehen erwächst aus einem einzigen motivischen Keim. Die Form ist eine
@@ -4573,7 +4689,8 @@
         </people>
         <title>Drei Uraufführungen von Ernst Hermann Meyer. Neue Lieder</title>
         <extent>S. 186-187.</extent>
-        <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <abstract> Der Komponist hat bisher rund 250 Lieder geschaffen. Vielfältige
             Gestaltungsmöglichkeiten nutzte er in den im November 1967 in Berlin uraufgeführten
             Kompositionen auf Texte von Johannes R. Becher, Arnold Zweig, Eugene Pottier und Willi
@@ -4599,7 +4716,8 @@
         </people>
         <title>Muslkalische und technische Aspekte der elektronischen Klangkunst</title>
         <extent>H. 2, S. 30-34.</extent>
-        <journal>Rundfunk u. Fernsehen (OIRT). 1968,</journal>
+        <place>Prag</place>
+        <journal>Rundfunk u. Fernsehen (OIRT)</journal>
         <abstract> Die Realisation von Stücken, die die Bezeichnung elektronische "Klangkunst"
             beanspruchen, setzt eine bestimmte Vorbildung des Hörers voraus. Der Autor, Leiter des
             elektronischen Studios im RFZ Berlin, berichtet über mehrere Veranstaltungen, die er für
@@ -4641,6 +4759,7 @@
         </people>
         <title>Berliner Volksliedarchiv (BVA)</title>
         <extent>H. 11, S. 10-12.</extent>
+        <place>Berlin</place>
         <journal>Demos. Volkskundliche Informationen. 8 (1967),</journal>
         <abstract> Das seit 1953 beim Institut für deutsche Volkskunde der Deutschen Akademie der
             Wissenschaften zu Berlin bestehende Berliner Volksliedarchiv dient als Sammel- und
@@ -4665,6 +4784,7 @@
         <title>Internationale Arbeitstagung für Volksmusikforschung in Polen</title>
         <extent>S. 22-23.</extent>
         <journal>Bulletin des Musikrates der DDR. 4 (1967), Nr. 4,</journal>
+        <place>Berlin</place>
         <abstract> Bericht über die 3. Arbeitstagung der Study Group of Folk Music Systematization
             des International Folk Music Council in Radziejowice bei Warschau (Oktober 1967).
             Teilnehmer waren Spezialisten aus Polen, CSSR, Ungarn, Jugoslawien, Bundesrepublik
@@ -4689,6 +4809,7 @@
             Volksliedquellen des International Folk Music Council</title>
         <extent>S. 326-328.</extent>
         <journal>Deutsches Jahrbuch für Volkskunde. 14 (1968),</journal>
+        <place>Berlin</place>
         <abstract> An der im November 1967 in Freiburg i. Br. abgehaltenen Tagung nahmen 45
             Spezialisten aus 14 Ländern teil, außer Musikfolkloristen auch zahlreiche Textforscher
             und Mediävisten verschiedener Bereiche. Referate zu Spezialproblemen der historischen
@@ -4713,6 +4834,7 @@
         <title>3. Arbeitskonferenz der Study Group of Folk Music Systematization des IFMC</title>
         <extent>S. 328-329.</extent>
         <journal>Deutsches Jahrbuch für Volkskunde. 14 (1968),</journal>
+        <place>Berlin</place>
         <abstract> An der in Radziejowice bei Warschau im Oktober 1967 abgehaltenen Tagung nahmen
             Fachvertreter aus Polen, CSSR, Ungarn, Jugoslawien, Schweden, Bundesrepublik Deutschland
             und DDR teil. Diskutiert wurden allgemeine Fragen der schrittweisen Erarbeitung einer
@@ -4736,6 +4858,7 @@
         <title>Aufgaben der Volksmusikinstrumentenforschung</title>
         <extent>S. 73-88.</extent>
         <journal>Jahrbuch des österreichischen Volksliedwerkes. 16 (1967),</journal>
+        <place>Wien</place>
         <abstract> Die Studie gibt einen Überblick über Stand und Aufgaben der in letzter Zeit auf
             nationaler und internationaler Ebene stark intensivierten Forschungen auf dem Gebiete
             der europäischen Volksmusikinstrumente. Als wichtigste Aufgabe der gegenwärtigen
@@ -4761,6 +4884,7 @@
         </people>
         <title>Zur Typologie der Volksmusikinstrumente</title>
         <extent>S. 225-234.</extent>
+        <place>Berlin</place>
         <journal>Deutsches Jahrbuch für Volkskunde. 14 (1968),</journal>
         <abstract> Die Studie beschäftigt sich mit den unterschiedlichen Aufgaben und Zielen der
             Systematik und Typologie bei der Erforschung der Volksmusikinstrumente. Möglichkeiten
@@ -4874,6 +4998,7 @@
         <title>Spartakus lebt. Bemerkungen zum Ballett "Spartakus" von Aram Chatschaturjan</title>
         <extent>S. 116-128.</extent>
         <journal>Das Altertum. 14 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Populärwissenschaftliche Darstellung des Problems der Verarbeitung
             klassisch-antiker Stoffe in der Musik, dargestellt am Beispiel des Balletts von A.
             Chatschaturjan. </abstract>
@@ -4913,6 +5038,7 @@
         <title>Debakel des Nonkonformismus. Das 41. Weltfestival des IGNM</title>
         <extent>S. 35-37.</extent>
         <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Kritischer Bericht über das 41. Weltfestival der IGNM in Prag (Oktober 1967). Die
             Vertretung von nur 30 Ländern (ein Viertel der UNO-Staaten) läßt Titel "Weltmusikfest"
             irreführend erscheinen. Große Musikländer wie die UdSSR waren nicht vertreten. Kritische
@@ -4958,6 +5084,7 @@
         <title>Stimmstörungen im Kinderchor</title>
         <extent>S. 240-244.</extent>
         <journal>Musik in der Schule. 19 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Von 140 Kindern eines Chores untersuchten wir bisher im Verlaufe einer
             systematischen phoniatrischen Betreuung 78 (64 Mädchen und 14 Knaben im Alter von 8-14
             Jahren). Dabei stellten wir in 32 Fällen Störungen der Stimme fest. Ausgehend von
@@ -4981,6 +5108,7 @@
         <title>Psychologische und physiologische Ursachen des Detonierens im A-cappella-Chor</title>
         <extent>S. 228-236.</extent>
         <journal>Musik in der Schule. 19 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Das Detonieren im A-cappella-Chor ist häufig auf ein Versagen psychischer oder
             physischer Leistungen zurück-zuführen. Sie können durch mangelhafte Steuerungen durch
             das Ohr, aber auch durch Unlustgefühle, die auf ein mangelndes Verhältnis zum Werk oder
@@ -5005,6 +5133,7 @@
         <title>225 Jahre Gewandhausorchester - 225 Jahre Gewandhauskonzerte</title>
         <extent>S. 402-408.</extent>
         <journal>Musik u. Gesellschaft. 18 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Als ältestes deutsches Konzertorchester - den verfügbaren Unterlagen nach sogar
             das älteste der Welt - konnte das Gewandhausorchester Leipzig am 11. März 1968 sein
             225jähriges Bestehen feiern. Dieses denkwürdige Datum gab Anlaß zu Rückblicken auf die
@@ -5023,6 +5152,7 @@
             </author>
         </people>
         <title>L'influsso die Monte-verdi sull'opera veneziana</title>
+        <place>Mailand</place>
         <extent>S. 382-386.</extent>
         <journal>Rivista Italiana di Muslcologia. 11 (1967), 2,</journal>
         <abstract> Der Einfluß Monteverdis auf die ihm folgende Oper in Venedig zeigte sich in der
@@ -5045,6 +5175,7 @@
         <title>Vivaldi und der Stil der italienischen Oper</title>
         <extent>S. 179-186.</extent>
         <journal>Acta Musicologica. 40 (1968),</journal>
+        <place>Stuttgart</place>
         <abstract> Als Ergänzung zu dem Vivaldl-Buch von W. Kolneder (1965) wird eine Obersicht über
             einige Opern Vivaldis gegeben. Es wird gezeigt, daß Vivaldi den rein harmonisch
             begleiteten Solo-Gesangsstil der italienischen Oper des 18. Jahrhunderts als erster mit
@@ -5164,6 +5295,7 @@
         <title>Repertoire iconographique de l'Opera (RICO)</title>
         <extent>S. 50-51.</extent>
         <journal>Fontes Artis Musicae. XV (1968), F. 1,</journal>
+        <place>Middleton</place>
         <abstract> Der Stand zur Vorbereitung eines internationalen Quellenlexikons aller
             Bilddokumente zur Operngeschichte wird dargelegt. Unter Vorsitz des Verfassers wurde
             eine Commission mixte geschaffen, welche ein solches Bild-Verzeichnis vorbereiten soll.
@@ -5184,6 +5316,7 @@
         <title>Ein Weg zum Jazz</title>
         <extent>S. 3-11.</extent>
         <journal>Musik in der Schule. 19 (1968),</journal>
+        <place>Berlin</place>
         <abstract> Der Artikel "Ein Weg zum Jazz" ist ein Beitrag zur Behandlung des Jazz im
             Musikunterricht der allgemeinbildenden Schule. Sein besonderes Anliegen ist es, dem
             Schülergesang einen gebührenden Platz in der Behandlung der sogenannten Vorformen des
@@ -5193,17 +5326,18 @@
     </entry>
     <entry>
         <entryNo>224</entryNo>
-        <fullTitle>Z Zimpel, Herbert: Kleine Anleitung zum Komponieren einfacher Kanons. - In: Musik
+        <fullTitle>Zimpel, Herbert: Kleine Anleitung zum Komponieren einfacher Kanons. - In: Musik
             in der Schule. 19 (1968) S. 368 u. S. 377-378.</fullTitle>
         <people>
             <author>
-                <familyName>Z Zimpel</familyName>
+                <familyName>Zimpel</familyName>
                 <givenName>Herbert</givenName>
             </author>
         </people>
         <title>Kleine Anleitung zum Komponieren einfacher Kanons</title>
         <extent>S. 368 u. S. 377-378.</extent>
         <journal>Musik in der Schule. 19 (1968)</journal>
+        <place>Berlin</place>
         <abstract> Nach Ausführungen über die Bedeutung des Kanons für das schulische Singen werden
             Eigenschaften aufgezählt, die in der Schule zu verwendende Kanons haben sollten. Aus-
             gehend von einer im Hinblick auf die Kompositionstechnik vorgenommenen Einteilung der
@@ -5473,26 +5607,26 @@
                 <familyName>Bimberg</familyName>
                 <givenName>Siegfried</givenName>
             </author>
-            <author>
+            <contributor>
                 <familyName>Barthel</familyName>
                 <givenName>Christa</givenName>
-            </author>
-            <author>
+            </contributor>
+            <contributor>
                 <familyName>Buchwald</familyName>
                 <givenName>Siegmar</givenName>
-            </author>
-            <author>
+            </contributor>
+            <contributor>
                 <familyName>Herbst</familyName>
                 <givenName>Jordano</givenName>
-            </author>
-            <author>
+            </contributor>
+            <contributor>
                 <familyName>Nolte</familyName>
                 <givenName>Hans</givenName>
-            </author>
-            <author>
-                <familyName>Reglin)</familyName>
+            </contributor>
+            <contributor>
+                <familyName>Reglin</familyName>
                 <givenName>Norbert</givenName>
-            </author>
+            </contributor>
         </people>
         <title>Die Effektivität von Unterrichtstonbändern</title>
         <type>Forschungsauftrag</type>
@@ -5668,13 +5802,13 @@
     </entry>
     <entry>
         <entryNo>F 19</entryNo>
-        <fullTitle>Dietzel, Günther: Die Funktion der Zeitschrift "Musik in der Schule" bei der
+        <fullTitle>Diezel, Günther: Die Funktion der Zeitschrift "Musik in der Schule" bei der
             Verwirklichung der Bildungs- und Erziehungsziele in der sozialistischen Schule der DDR.
             (Ein Beitrag zur Geschichte der Schulmusik in der DDR). - Forschungsauftrag und Diss.,
             Inst. f. Musikerziehung Berlin. Beginn: 1966.</fullTitle>
         <people>
             <author>
-                <familyName>Dietzel</familyName>
+                <familyName>Diezel</familyName>
                 <givenName>Günther</givenName>
             </author>
         </people>
@@ -5934,7 +6068,8 @@
         </people>
         <title>Untersuchungen zur Analyse und Entwicklung der Schülerleistungen im
             rhythmisch-metrischen Bereich des Musikunterrichts der Mittelstufe</title>
-        <place>Forschungsauftrag und Diss., Inst. f. Musikwiss. Leipzig. Beginn</place>
+        <place>Leipzig</place>
+        <type>Forschungsauftrag und Diss.</type>
         <publisher/>
         <publicationYear>1966'1968</publicationYear>
         <abstract> Ziel und Methoden: Empirische Untersuchungen zur Entwicklung der
@@ -6104,7 +6239,7 @@
         <entryNo>F 39</entryNo>
         <fullTitle>Geißler, William: Psychologische und ästhetische Untersuchungen über Entwicklung
             und Stand der Gefühlstheorie als Voraussetzung für die Anwendung in der musikalischen
-            Rezeption. - Diss., Inst. f. Musikwiss. Balle. Beginn: 1967.</fullTitle>
+            Rezeption. - Diss., Inst. f. Musikwiss. Halle. Beginn: 1967.</fullTitle>
         <people>
             <author>
                 <familyName>Geißler</familyName>
@@ -6117,7 +6252,7 @@
         <type>Diss.</type>
         <startingYear>1967</startingYear>
         <org>Inst. f. Musikwiss.</org>
-        <place>Balle</place>
+        <place>Halle</place>
     </entry>
     <entry>
         <entryNo>F 40</entryNo>
@@ -6292,8 +6427,8 @@
         <title>Fidelio F. Finke – Leben und Werk</title>
         <type>Forschungsauftrag</type>
         <finishingYear>1968</finishingYear>
-        <org>Dt. Akademie der</org>
-        <place>Künste</place>
+        <org>Dt. Akademie der Künste</org>
+        <place>Berlin</place>
         <abstract> Die monographisch angelegte Arbeit bringt die erste Gesamtwürdigung der
             schöpferischen Entwicklung, des Lebens und des nahezu sämtliche Gattungen der Tonkunst
             umspannenden, außerordentlich umfangreichen, künstlerischen Werkes des Komponisten
@@ -6436,6 +6571,7 @@
         <title>Die "Transmissionen" der kubanischen Spiritisten (Musikethnologische und
             soziologische Untersuchungen zum Transkulturationsproblem) - Diss., Inst. f. Musikwiss
             Leipzig.</title>
+        <place>Leipzig</place>
         <abstract> Die Arbeit untersucht etwa 300 "transmistones", einstimmige, responsoriale
             Gesänge verschiedener spiritistischer Gemeinschaften, die im Rahmen musikethnologischer
             Terrainforschungen 1964/65 in Havanna, Santiago de Cuba und Baracoa aufgenommen wurden.
@@ -8376,16 +8512,17 @@
     </entry>
     <entry>
         <entryNo>F 131</entryNo>
-        <fullTitle>Siegmund - Schultze, Walther: Händel-Forschung. - Forschungsarbeit, Inst. f.
+        <fullTitle>Siegmund-Schultze, Walther: Händel-Forschung. - Forschungsarbeit, Inst. f.
             Musikwiss. Halle. - Beginn: 1966.</fullTitle>
         <people>
             <author>
-                <familyName>Siegmund - Schultze</familyName>
+                <familyName>Siegmund-Schultze</familyName>
                 <givenName>Walther</givenName>
             </author>
         </people>
         <title>Händel-Forschung: Forschungsarbeit, Inst. f. Musikwiss. Halle</title>
         <startingYear>1966</startingYear>
+        <place>Halle</place>
         <abstract> Ziel: Ziel des Forschungsthemas bleibt weiterhin, eine Kritische Gesamtausgabe
             der Werke Georg Friedrich Händels zu erarbeiten, um dadurch das Schaffen dieses großen
             Meisters der Aufklärungsepoche der Musikpraxis zu erschließen. Methoden: Die Hallische
@@ -8410,12 +8547,12 @@
     </entry>
     <entry>
         <entryNo>F 132</entryNo>
-        <fullTitle>Siegmund - Schultze, Walther und Siegfried Bimberg: Musikalische
+        <fullTitle>Siegmund-Schultze, Walther und Siegfried Bimberg: Musikalische
             Rezeptionsforschung. - Forschungsarbeit, Inst. f. Musikwiss. Halle. Beginn:
             1961.</fullTitle>
         <people>
             <author>
-                <familyName>Siegmund - Schultze</familyName>
+                <familyName>Siegmund-Schultze</familyName>
                 <givenName>Walther</givenName>
             </author>
             <author>
@@ -8530,7 +8667,7 @@
         </people>
         <title>Probleme der Herausarbeitung der realistischen Tendenzen bei der musikalischen
             Einstudierung von Opern</title>
-        <place>Diss., Inst. f. Musikwiss. Leipzig, Beginn</place>
+        <place>Leipzig</place>
         <publisher/>
         <publicationYear>1968</publicationYear>
     </entry>

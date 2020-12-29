@@ -19,6 +19,7 @@
         <title>Das neue Werk im Musikunterricht: Paul Dessaus Bach-Variationen
             für großes Orchester (1963)</title>
         <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>S. 235-244.</extent>
         <abstract> Ausgehend von einer kurzen Einschätzung des Schaffens Paul Dessaus werden seine
@@ -77,7 +78,7 @@
             </author>
         </people>
         <title>Zum Typ der komischen Oper bei G. Ph. Telemann</title>
-        <type>Referat, Ms. </type>
+        <type>Referat, Ms.</type>
         <extent>15 S.</extent>
         <abstract> Auf der Grundlage zeitgenössischer. Opernästhetik soll gezeigt werden, daß die
             Werktitel der komischen Opern Telemanns vom Komponisten nicht willkürlich gewählt
@@ -143,8 +144,8 @@
             </author>
         </people>
         <title>G. Ph. Telemann und die protestantische Kirchenmusik</title>
-
-        <publisher>Musik und Kirche, Jg. 37.</publisher>
+        <place>Kassel</place>
+        <journal>Musik und Kirche</journal>
         <publicationYear>1967</publicationYear>
         <extent>Nr. 9, S. 196-207.</extent>
         <abstract> Ein Beitrag zur 200. Wiederkehr seines Todestages am 25. Juni 1967. Er untersucht
@@ -163,8 +164,8 @@
             </author>
         </people>
         <title>Soermus - Geiger der Revolution</title>
-
-        <publisher>Musik ü. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 577-584.</extent>
         <abstract> Der Beitrag würdigt das Wirken des "roten Geigers" Julius Eduard Soermus. Leben
@@ -210,7 +211,8 @@
         <place>Berlin</place>
         <publisher>Henschelverlag</publisher>
         <publicationYear>1967</publicationYear>
-        <type>in: Festschrift '300 Jahre Dresdner Staatstheater'. S. 16-25.</type>
+        <journal>Festschrift '300 Jahre Dresdner Staatstheater'</journal>
+        <extent>S. 16-25</extent>
         <abstract> Anfänge der Dresdner Opernpflege, Grundlagen und Entwicklungstendenzen vor dem
             gesellschaftlichen Hintergrund unter besonderer Berücksichtigung des starken nationalen
             deutschen Elements als einer der Hauptursachen für die Art und Weise der Entwicklung der
@@ -284,7 +286,7 @@
         </people>
         <title>Zu einigen Aspekten des Musikhörens auf der Grundlage von Erkenntnissen der
             marxistischen Ästhetik und Musikästhetik</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 7/8, S. 292-294.</extent>
@@ -303,8 +305,8 @@
             </author>
         </people>
         <title>Kritische Bemerkungen zur Beurteilung neuer Chormusik</title>
-
-        <publisher>Volksmusik, Jg. 12.</publisher>
+        <journal>Volksmusik</journal>
+        <place>Leipzig</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 2 f.</extent>
         <abstract> Die Darstellung wichtiger Etappen der Entwicklung im Chorschaffen der DDR wird
@@ -327,7 +329,7 @@
         <sameAs>Material für das Fernstudium im Fach 'Musik'.</sameAs>
         <place>Halle</place>
         <publicationYear>1967</publicationYear>
-        <extent>in: Zur Methodik des Musikunterrichts, Reihe F, Nr. 1.</extent>
+        <journal>Zur Methodik des Musikunterrichts</journal>
         <abstract> Die Entwicklung des musikalischen Hörens ist Ausgangspunkt der Darstellung.
             Begabung, musikalische Fähigkeiten und tonales Singen werden lehrbuchhaft abgehandelt.
             Melodiebewußtsein und Zusammenhang von tonikalem und modalem Singen sind Mittelpunkt der
@@ -348,7 +350,7 @@
         <sameAs>Material für das Fernstudium im Fach 'Musik'.</sameAs>
         <place>Halle</place>
         <publicationYear>1967</publicationYear>
-        <extent>in: Methodik des Musikunterrichts, Reihe F, Nr. 8, S. 1-19.</extent>
+        <journal>Zur Methodik des Musikunterrichts</journal>
         <abstract> Die Anwendung des Lehrweges für Singen und Musikhören in Verbindung mit
             Musiktheorie in den Klassen 8-10 bezieht sich auf die Erarbeitung differenzierter
             melodischer Zusammenhänge, die Mehrstimmigkeit und Melodieanalyse. </abstract>
@@ -368,7 +370,7 @@
         <place>Leipzig</place>
         <publisher>Bibliograph. Institut</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>in: Das Kind. Kleine Enzyklopädie. S. 863-872.</extent>
+        <journal>Das Kind. Kleine Enzyklopädie</journal>
         <abstract> Die Entwicklung der Musikalität und die zeitliche Reihenfolge von Verstehen und
             Verwenden musikalischer Ausdruckselemente sind Grundlage des Artikels. Die musikalische
             Tätigkeit und ihre Entwicklung in der Schule, die musikalische Rezeption, das aktive
@@ -535,8 +537,9 @@
             </author>
         </people>
         <title>"Früh übt sich...". Gedanken zum Instrumentalunterricht im Vorschulalter</title>
-
-        <publisher>Musik und Gesellschaft, Jg. 17.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
+        <publisher>Henschel</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 163-172.</extent>
         <abstract> Der Verfasser legt dar, welchen wichtigen Platz eine frühzeitige musikalische
@@ -562,8 +565,8 @@
         </people>
         <title>Gershwins Oper "Porgy and Bess" in der Musikerziehung. Zur Eignung des Werkes für die
             Schulmusikerziehung</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 12, S. 493-502.</extent>
         <abstract> Das Werk hat sowohl eine erzieherische wie eine bildende Funktion. Seine
@@ -633,8 +636,8 @@
         </people>
         <title>Zu einigen Fragen der Weiterentwicklung der Fachlehrerausbildung in der Deutschen
             Demokratischen Republik</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 360-365.</extent>
         <abstract> Ausgehend von den im Studienprogramm für die Ausbildung der Lehrer für die
@@ -660,8 +663,8 @@
             </author>
         </people>
         <title>Georg Kneplers Konzeption der musikalischen Historiographie</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S.81-90.</extent>
         <abstract> Erörtert werden Kneplers Konzeption der Musikgeschichtsschreibung, ihr
@@ -692,8 +695,8 @@
             </author>
         </people>
         <title>Probleme der musikalischen Analyse</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <publisher>Musik u. Gesellschaft</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 7, S. 433-446.</extent>
         <abstract> Gegenstand der Auseinandersetzung sind theoretische Probleme der Analyse
@@ -719,8 +722,8 @@
         <title>Hundert Jähre Reclams Universal-Bibliothek. Bemerkungen zur Musikgeschichtsschreibung
             in Reclams Universal-Bibliothek unter besonderer Berücksichtigung der
             populärwissenschaftlichen Musiker-Biographie</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 12, S. 800-814.</extent>
         <abstract> Im 1. Teil werden wichtige Fakten zur Geschichte der Musik-Publikation in Reclams
@@ -750,7 +753,8 @@
         <place>Leipzig</place>
         <publisher>Verl. Ph. Reclam jun.</publisher>
         <publicationYear>1967</publicationYear>
-        <type>in: Festschrift 'Hundert Jahre Reclams Universal-Bibliothek'. S. 306-346.</type>
+        <journal>Festschrift 'Hundert Jahre Reclams Universal-Bibliothek'</journal>
+        <extent>S. 306-346.</extent>
         <abstract> Der Beitrag gliedert sich in 4 Abschnitte: 1. Allgemeine Kennzeichnung der
             musikhistorischen Beiträge, ihrer verschiedenen Typen und ihrer allgemeinen
             populärwissenschaftlichen Bedeutung. 2. Geschichte der Musikgeschichtsschreibung in der
@@ -771,8 +775,8 @@
             </author>
         </people>
         <title>Ottmar Gerster 70 Jahre</title>
-
-        <publisher>Bulletin, Jg. 4.</publisher>
+        <place>Berlin</place>
+        <journal>Bulletin</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 1/2, S. 1-2.</extent>
         <abstract> Der Aufsatz stellt eine Würdigung des deutschen Komponisten Ottmar Gerster
@@ -794,7 +798,8 @@
         <title>Tradition und Gegenwartsaufgaben des Musikhörens als ästhetisch-musikalische
             Bildungs- und Erziehungsaufgabe in der allgemeinbildenden polytechnischen Oberschule.</title>
         <publicationYear>1967</publicationYear>
-        <type>Musik in der Schule</type>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <extent>S. 16-21.</extent>
         <abstract> Es ist eine notwendige Aufgabe unserer sozialistischen Musikerziehung, eine neue
             Systematik des Musikhörens aufzustellen. Diese darf sich nicht nur auf eine Reihung von
@@ -890,9 +895,10 @@
             </author>
         </people>
         <title>Johann Friedrich Christian Werneburg</title>
-        <place>Bärenreiterverlag 1949' f in</place>
-        <publisher>MGG, Bd. XIV,</publisher>
+        <place>Kassel</place>
+        <publisher>Bärenreiterverlag</publisher>
         <publicationYear>1967</publicationYear>
+        <journal>MGG</journal>
         <extent>Sp. 484-485.</extent>
         <abstract> Knapp zusammenfassende Darstellung der Biographie und kurze Würdigung der
             Versuche Werneburgs, eine neue, vereinfachte Notation einzuführen. </abstract>
@@ -1057,8 +1063,8 @@
             </author>
         </people>
         <title>Ober die Einheit von historischer und systematischer Musikwissenschaft</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 91 ff.</extent>
         <abstract> Der musikwissenschaftlichen Forschung liegen Objekte folgender Art vor: 1.
@@ -1108,8 +1114,8 @@
             </author>
         </people>
         <title>Karl-Rudi Griesbach - Afrikanische Sinfonie</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 7, S. 460-466.</extent>
         <abstract> Werkanalyse mit 19 Notenbeispielen. Es wird dargestellt, wie der Komponist sein
@@ -1132,8 +1138,8 @@
             </author>
         </people>
         <title>Die Musikhochschulen der DDR</title>
-
-        <publisher>Bulletin des Musikrates der DDR, Jg. 4.</publisher>
+        <place>Berlin</place>
+        <journal>Bulletin des Musikrates der DDR</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 40-45.</extent>
         <abstract> Ausgehend von einem Oberblick über die Entwicklung der Musikhochschulen der DDR
@@ -1404,8 +1410,8 @@
         </people>
         <title>Zu einigen Fragen der Weiterentwicklung der Fachlehrerausbildung in der Deutschen
             Demokratischen Renublik</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 360-365.</extent>
         <abstract> Ausgehend von den im Studienprogramm für die Ausbildung der Lehrer für die
@@ -1478,8 +1484,8 @@
             </author>
         </people>
         <title>Claudio Monteverdi</title>
-
-        <publisher>Sonntag, Ausg. Nr. 31 vom August</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <abstract> Der vorliegende Beitrag ist der Nachdruck eines Gedenkvortrages, den der Autor
             anläßlich eines Konzerts in der Deutschen Staatsoper Berlin mit Werken von Claudio
@@ -1531,8 +1537,8 @@
             </author>
         </people>
         <title>Max Regers Ehrenpromotion zum Dr. phil. an der Universität Jena am 31.7.1908</title>
-
-        <publisher>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R., Jg. 16.</publisher>
+        <place>Jena</place>
+        <journal>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R.</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 123-125.</extent>
         <abstract> In dem Artikel wird dargestellt, wie es zur Jenaer Ehrenpromotion Max Regers kam,
@@ -1641,8 +1647,8 @@
             </author>
         </people>
         <title>Gustav Mahler in Leipzig</title>
-        <place>in.</place>
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Leipzig</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 11, S. 784-785.</extent>
         <abstract> Es werden zwei Briefe an den Rat der Stadt Leipzig über Mahlers Dirigentenzeit am
@@ -1662,7 +1668,7 @@
             </author>
         </people>
         <title>Der Gesang in der Schule</title>
-
+        <place>Leipzig</place>
         <publisher>Jahrbuch des Institutes für Volkskunstforschung</publisher>
         <publicationYear>1967</publicationYear>
         <extent>36-44.</extent>
@@ -1714,10 +1720,10 @@
         </people>
         <title>Über Beziehungsbegriffe für das Bewußt machen rhythmisch-metrischer
             Zusammenhänge</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 12, S. 507-509.</extent>
+        <extent>S. 507-509.</extent>
         <abstract> Gegenwärtig werden im Musikunterricht der allgemeinbildenden Schulen verschiedene
             Begriffssysteme für die Darstellung rhythmisch-metrischer Zusammenhänge verwendet. An
             einigen Beispielen wird nachgewiesen, daß die aus der Körperbewegung abgeleiteten
@@ -1729,7 +1735,7 @@
     <entry>
         <entryNo>78</entryNo>
         <fullTitle>Höchel, Lothar: Zur Entwicklung des Intonationsgehörs im Bereich der
-            Mehrstimmigkeit. - in: Musik in der Schule, Jg. 18. 1967, H. 2, S. 71-7S.</fullTitle>
+            Mehrstimmigkeit. - in: Musik in der Schule, Jg. 18. 1967, H. 2, S. 71-75.</fullTitle>
         <people>
             <author>
                 <familyName>Höchel</familyName>
@@ -1737,10 +1743,10 @@
             </author>
         </people>
         <title>Zur Entwicklung des Intonationsgehörs im Bereich der Mehrstimmigkeit</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 2, S. 71-7S.</extent>
+        <extent>H. 2, S. 71-75.</extent>
         <abstract> In der Praxis werden an den Musiker hohe Anforderungen in bezug auf reine
             Intonation beim Musizieren gestellt. Die z. Zt. gebräuchlichen Gehörbildungsmethoden
             sind für die Entwicklung des Intonationsgehörs unbrauchbar. Es werden Ergebnisse
@@ -1779,7 +1785,7 @@
             </author>
         </people>
         <title>Deutsche Kammermusik 1918 - 1933</title>
-
+        <place>Berlin</place>
         <publisher>Programmheft der Deutschen Akademie der Künste,</publisher>
         <publicationYear>1957</publicationYear>
         <abstract> Darstellung der wichtigsten Entwicklungslinden in der deutschen Kammermusik seit
@@ -1797,7 +1803,7 @@
             </author>
         </people>
         <title>300 Jahre Dresdner Oper</title>
-
+        <place>Berlin</place>
         <publisher>Bulletin des Musikrates der DDR, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1/2, S. 9-12.</extent>
@@ -1849,10 +1855,10 @@
         </people>
         <title>"Nimm meinen Traum und bau daraus die Welt". Zur Uraufführung der Oper
             'Esther'</title>
-
-        <publisher>Theater der Zeit, Jg. 22.</publisher>
+        <place>Berlin</place>
+        <journal>Theater der Zeit</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 6, S. 11-13.</extent>
+        <extent>S. 11-13.</extent>
         <abstract> Robert Hanell, der Komponist der Oper 'Esther', hat sich hauptsächlich der
             Gattung der Oper verschrieben. 'Esther' ist seine siebente Oper und er hat sich hierbei
             wieder bemüht, ein Sujet zu finden, das nach Musik und Dramatisierung verlangt, um
@@ -1873,8 +1879,8 @@
             </author>
         </people>
         <title>Ober die Verwendung der Musik an einer Ballettschule</title>
-
-        <publisher>Der Tanz, Jg. 12.</publisher>
+        <place>Leipzig</place>
+        <journal>Der Tanz</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 14-15 u. H. 6, S. 6-7.</extent>
         <abstract> Einleitend auf das Verhältnis von Musik und Tanz eingehend, und die Tanzkunst als
@@ -1989,10 +1995,10 @@
         </people>
         <title>Der Einfluß der Großen Sozialistischen Oktoberrevolution auf den deutschen
             Arbeitergesang</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 4, S. 227-235.</extent>
+        <extent>S. 227-235.</extent>
         <abstract> Die siegreiche Revolution in Rußland und die erfolgreiche Entwicklung dieses
             ersten sozialistischen Staates der Welt waren von starkem Einfluß auf das Bewußtsein der
             deutschen Kommunisten in den Jahren nach 1918. Vielfältig und weitreichend waren auch
@@ -2014,10 +2020,10 @@
             </author>
         </people>
         <title>Aktuelle Probleme des Volksliedes</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 2, S. 41-46.</extent>
+        <extent>S. 41-46.</extent>
         <abstract> Wenn es sich um das Volkslied handelt, so handelt es sich um den Menschen, dessen
             Lebensäußerung und musikalische Aussprache es ist. Deshalb ist auch in der Gegenwart die
             Frage nach der kulturellen Funktion des Volksliedes zu stellen. Dabei ergibt sich, daß
@@ -2041,10 +2047,10 @@
         </people>
         <title>Probleme der ästhetischen und historischen Volksliedbetrachtung und deren Bedeutung
             für die Bildungs- und Erziehungsarbeit im Musikunterricht</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 7/8, S. 289-291.</extent>
+        <extent>S. 289-291.</extent>
         <abstract> Die Weiterbildung der Musiklehrer auf dem Gebiete der Volksliedkunde beschäftigt
             sich mit der Ästhetik und Geschichte des Volksliedes und ihrer praktisch-methodischen
             Anwendung im Unterricht. Die Volksliedästhetik arbeitet mit den Mitteln der
@@ -2066,10 +2072,10 @@
             </author>
         </people>
         <title>Volkslieder der Nationen</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 10, S. 402-408.</extent>
+        <extent>S. 402-408.</extent>
         <abstract> Volkslieder anderer Nationen gehören notwendig zur Musikerziehung. In ihnen
             äußert sich künstlerisch der Nationalcharakter eines Volkes. Die Lieder haben trotz
             ihrer Verschiedenheit, bedingt durch nationale Besonderheiten, die Gemeinsamkeit des
@@ -2166,10 +2172,10 @@
         </people>
         <title>Typ, Funktion, Bedeutung. Bemerkungen zur semantischen Analytik musikalischer
             Typen</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 2, S. 98-104.</extent>
+        <extent>S. 98-104.</extent>
         <abstract> Als "Typ" definiert der Verfasser einen Merkmalskomplex, der einer Menge
             ähnlicher Individuen eigen ist. Das Studium von musikalischen Typen und deren Funktionen
             kann zur Aufhellung von Zusammenhängen zwischen musikalischer Syntax und Semantik
@@ -2218,10 +2224,10 @@
             </author>
         </people>
         <title>Die Sinfonien Aram Chatschaturjans</title>
-
-        <publisher>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R., Jg. 16.</publisher>
+        <place>Jena</place>
+        <journal>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R.</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 4, S. 463-470.</extent>
+        <extent>S. 463-470.</extent>
         <abstract> Der Artikel entstand anläßlich des 50. Jahrestages der Oktoberrevolution und
             informiert in kurzer Form über das Sinfonieschaffen Aram Chatschaturjans. Die Analysen
             der drei zu Unrecht wenig bekannten Sinfonien des sowjetischen Komponisten geben über
@@ -2245,10 +2251,10 @@
         </people>
         <title>Fünfzig Jahre sowjetische Musikkultur</title>
         <sameAs>Sonderheft Sowjetische Musikwissenschaft 1917-1967'.</sameAs>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <publisher>Beiträge zur Musikwissenschaft</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>H. 3/4, S. 177-180.</extent>
+        <extent>S. 177-180.</extent>
         <abstract> Anläßlich des 50. Jahrestages der Großen Sozialistischen Oktoberrevolution
             veröffentlichten die "Beiträge zur Musikwissenschaft" eine zweiteilige Sonderpublikation
             mit Arbeiten Sowjetischer Musikwissenschaftler. Im Geleitwort zu dieser Publikation
@@ -2296,10 +2302,10 @@
             </author>
         </people>
         <title>Musica Antiqua Europae Orientalis</title>
-
-        <publisher>Mitteilungen der Deutschen Akademie der Künste zu Berlin, Jg. V.</publisher>
+        <place>Berlin</place>
+        <journal>Mitteilungen der Deutschen Akademie der Künste zu Berlin</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 1, S. 15-16.</extent>
+        <extent>S. 15-16.</extent>
         <abstract> Der Autor des vorliegenden Beitrags berichtet über das "1. Festival alter Musik
             der Länder Zentral- und Osteuropas", welches vom 10. bis 16.9.1966 in Bydgoszcz (Polen)
             stattfand und das mit einem internationalen musikwissenschaftlichen Kongreß zum gleichen
@@ -2430,8 +2436,8 @@
             </author>
         </people>
         <title>Anmerkungen zur Tanzmusik</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 384-387.</extent>
         <abstract> Die Wertung und Analyse des Tanzmusikschaffens in der DDR setzt detaillierte
@@ -2476,10 +2482,10 @@
             </author>
         </people>
         <title>Musikgeschichte. Forschungen zur Geschichte Thüringens 1945-1965</title>
-
-        <publisher>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R., Jg. 16.</publisher>
+        <place>Jena</place>
+        <journal>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R.</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 1, S. 339-350.</extent>
+        <extent>S. 339-350.</extent>
         <abstract> Der Verfasser informiert über die thüringischen Forschungs- und Gedenkstätten und
             deren historische Entwicklung und über Teilgebiete des Musiklebens von Thüringen in
             Vergangenheit und Gegenwart. Die Entwicklung seit 1945 wird besonders anhand der
@@ -2526,8 +2532,8 @@
             </author>
         </people>
         <title>Der "neue Realismus" ist der alte</title>
-
-        <publisher>Jahrbuch der Komischen Oper, Jg. VII.</publisher>
+        <place>Berlin</place>
+        <journal>Jahrbuch der Komischen Oper</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 187.</extent>
         <abstract> Der Beitrag ist eine Polemik gegen den Münchner Kritiker K. H. Ruppel, der in
@@ -2548,10 +2554,10 @@
         </people>
         <title>'Puntila' auf der Musikbühne. Zur Berliner Uraufführung von Paul Dessaus Oper nach
             Brecht</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <publisher>Musik u. Gesellschaft</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>H. 1, S. 20-24.</extent>
+        <extent>S. 20-24.</extent>
         <abstract> Die Uraufführung fand große internationale Beachtung. Bei diesem Werk handelt es
             sich um eine Oper-, die mit den Mitteln des Brechtschen "epischen Theaters" gestaltet
             wurde. Der Musik kommt eine deutlich mitbestimmende, dramaturgische aktive Funktion zu
@@ -2575,10 +2581,10 @@
             </author>
         </people>
         <title>Prager Frühling 1967</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <publisher>Musik u. Gesellschaft</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>H. 8, S. 550-5S5.</extent>
+        <extent>S. 550-5S5.</extent>
         <abstract> Kritischer Bericht über den Prager Frühling 1967 (u.a. Konzerte der Berliner
             Staatskapelle unter Suitner). </abstract>
     </entry>
@@ -2593,7 +2599,7 @@
             </author>
         </people>
         <title>Jubiläum in Elbflorenz. 300 Jahre Dresdner Staatstheater</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit, Jg. 22.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 4-8.</extent>
@@ -2616,8 +2622,8 @@
         </people>
         <title>Das Dresdner Opernfest. Henzes 'Junger Lord', Webers 'Oberon' und viele
             Gastspiele</title>
-
-        <publisher>Sonntag, Jg. 21.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>Ausg. Nr. 9, S. 14.</extent>
         <abstract> Der Autor des vorliegenden Aufsatzes berichtet über die Festwochen anläßlich des
@@ -2641,8 +2647,8 @@
             </author>
         </people>
         <title>Bilanz des neuen Musikschaffens. Nach der I. Musik-Biennale Berlin 1967</title>
-
-        <publisher>Sonntag, Jg. 21.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>Ausg. Nr. 14, S. 8.</extent>
         <abstract> Vom 4. bis 12. März 1967 fand in der Hauptstadt der DDR die erste Musik-Biennale
@@ -2665,8 +2671,8 @@
             </author>
         </people>
         <title>Premierenglanz und Alltagssorgen</title>
-
-        <publisher>Sonntag, Ausg. v. 10. Sept.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 1 u. 13.</extent>
         <abstract> Kritische Einschätzung des Repertoires an den bedeutendsten Musikbühnen der DDR
@@ -2684,8 +2690,8 @@
             </author>
         </people>
         <title>Anklage der Unmenschlichkeit</title>
-
-        <publisher>Sonntag, Ausg. v. 10. Sept.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 13.</extent>
         <abstract> Bericht über die Uraufführung der Oper "Die Blumen von Hiroshima" von Kurt Forest
@@ -2702,8 +2708,8 @@
             </author>
         </people>
         <title>Wiederbelebung einer frühen Revolutionsoper</title>
-
-        <publisher>Sonntag, Ausg. v. 12. Nov.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 7.</extent>
         <abstract> Bericht über die Aufführung von Reinhard Keisers 'Masaniello' in der
@@ -2721,8 +2727,8 @@
             </author>
         </people>
         <title>"Ballade vom Glück"</title>
-
-        <publisher>Sonntag, Ausg. v. 12. Nov.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 7.</extent>
         <abstract> Bericht über die Uraufführung des Balletts 'Ballade vom Glück' von Kurt Schwaen
@@ -2740,8 +2746,8 @@
             </author>
         </people>
         <title>Drei Orchester in einer Oper</title>
-
-        <publisher>Sonntag, Ausg. v. 10. Dez.</publisher>
+        <place>Berlin</place>
+        <journal>Sonntag</journal>
         <publicationYear>1967</publicationYear>
         <extent>S. 4.</extent>
         <abstract> Bericht über die Uraufführung der Oper 'Der letzte Schuß' von Siegfried Matthus
@@ -2758,8 +2764,8 @@
             </author>
         </people>
         <title>Münchner Opernfestspiele 1967</title>
-
-        <publisher>Opernwelt,</publisher>
+        <place>Velber</place>
+        <journal>Opernwelt</journal>
         <publicationYear>1967</publicationYear>
         <extent>Heft 9.</extent>
         <abstract> Kritischer Bericht über die Opernfestspiele der Bayrischen Staatsoper 1967 (u.a.
@@ -2799,8 +2805,8 @@
             </author>
         </people>
         <title>Ober Improvisation, Klavienmprovisation und Klavierimprovisations-Wettbewerbe</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 98-101.</extent>
         <abstract> Innerhalb der Thüringer Bachtage im März 1966 fand erstmalig in der DDR ein
@@ -2829,8 +2835,8 @@
         </people>
         <title>Richard Münnich, dem Nestor der deutschen Schulmusikerziehung, zum 90.
             Geburtstag</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 210-215.</extent>
         <abstract> Der Beitrag würdigt das Lebenswerk Richard Münnichs, des großen Reformators der
@@ -2883,8 +2889,8 @@
         </people>
         <title>Sprachliche Möglichkeiten als wichtige Vermittlungsstufe zwischen Rhythmusklang und
             Notenbild</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 75-87.</extent>
         <abstract> Der Artikel geht unter methodischem Aspekt auf die Verwendung der verschiedenen
@@ -2906,8 +2912,8 @@
             </author>
         </people>
         <title>Claudio Monteverdi in der Zeitwende um 1600</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 289-294.</extent>
         <abstract> Monteverdi ist für die Musikgeschichte der Meister, der um 1600 die tiefgreifende
@@ -2929,8 +2935,8 @@
             </author>
         </people>
         <title>Die Musik der Reformationszeit</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>Nr. 10, S. 649-655.</extent>
         <abstract> Mit dem Thesenanschlag 1517 entstand nicht gleich eine völlig neue Musik, da
@@ -2960,7 +2966,8 @@
         <place>Leipzig</place>
         <publisher>Dt. Verl. f. Musik</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>in: Sammelbände der Robert-Schumann-Gesellschaft, Band 2, S. 38-57.</extent>
+        <journal>Sammelbände der Robert-Schumann-Gesellschaft</journal>
+        <extent>S. 38-57.</extent>
         <abstract> Carl Maria von Weber und Robert Schumann haben sich als Musikschriftsteller, d.h.
             als Musiker, die sich schriftstellerisch betätigen, der Aufgabe gewidmet, zwischen dem
             Künstler und dem Publikum zu vermitteln. Zwischen den vielfältigen Äußerungen der beiden
@@ -2981,8 +2988,8 @@
             </author>
         </people>
         <title>Zu Georg Philipp Telemanns 200. Todestag</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 379-385.</extent>
         <abstract> In dem Beitrag wird das Lebenswerk G. Ph. Telemanns gewürdigt. Die
@@ -3008,7 +3015,8 @@
         <place>Berlin</place>
         <publisher>Henschelverlag</publisher>
         <publicationYear>1967</publicationYear>
-        <type>in: Festschrift '300 Jahre Dresdner Staatstheater'. S. 36-48.</type>
+        <journal>Festschrift '300 Jahre Dresdner Staatstheater'</journal>
+        <extent>S. 36-48</extent>
         <abstract> Darstellung der vielseitigen Reformen, die Weber als Hofkapellmeister
             durchführte, um der italienischen Oper in Dresden eine gleichwertige deutsche Oper
             gegenüberzustellen, verbunden mit einem Rückblick auf die Anfänge einer deutschen Oper,
@@ -3028,7 +3036,8 @@
         </people>
         <title>Gisela May singt Brecht, Eisler, Dessau. Schallplattentextheft</title>
         <sameAs>19. Platte aus der Reihe "unsere neue musik".</sameAs>
-        <extent>Berlin: Deutsche Schallplatten.</extent>
+        <place>Berlin</place>
+        <publisher>Deutsche Schallplatten</publisher>
         <abstract> s Die Entstehung der Songs geht auf die Zeit nach dem 1. Weltkrieg zurück und
             seine "Klassiker" wurden Brecht (Texte), Eisler (Musik) und Ernst Busch (Gesang). Im
             Song hat das Politische, hat das Kritische Ausschließlichkeitsrecht. Er wurde zum
@@ -3052,7 +3061,8 @@
         <place>Dresden</place>
         <publisher>Verl. Zeit im Bild</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>in: Staatskapelle Dresden - Klangkörper von Weltgeltung, S. 14-17.</extent>
+        <journal>Staatskapelle Dresden - Klangkörper von Weltgeltung</journal>
+        <extent>S. 14-17</extent>
         <abstract> Darstellung des Wirkens der Staatskapelle Dresden in der Gegenwart in
             Verwirklichung der Weberschen und Wagnerschen Reformgedanken. </abstract>
     </entry>
@@ -3086,10 +3096,10 @@
             </author>
         </people>
         <title>Satire und Parodie in den Liedern Modest Mussorgskis</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <publisher>Beiträge zur Musikwissenschaft</publisher>
         <publicationYear>1967</publicationYear>
-        <extent>H. 2, S. 105-111.</extent>
+        <extent>S. 105-111.</extent>
         <abstract> Der Satire und Parodie wies Mussorgski in seinem Liedschaffen eine große
             Bedeutung zu, da er als gesellschaftlich engagierter Künstler die Wirklichkeit des
             russischen Lebens seiner Zeit ungeschminkt schildern wollte. Während seine satirischen
@@ -3201,8 +3211,8 @@
             </author>
         </people>
         <title>Das Geschäft mit dem Schlager</title>
-        <extent>in: Volksmusik, Jg. 12. H. 1, S. 6-7, H. 2, S. 18-20, H. 3, S. 8-9 ü. H. 7, S.
-            22-23.</extent>
+        <journal>Volksmusik</journal>
+        <place>Berlin</place>
         <abstract> Der Autor der vorliegenden Artikelserie formulierte auf einer Tagung die These,
             daß "an einem modernen Schlager die Psychologen, Soziologen, Mediziner und Ökonomen, die
             Manager und Plattenjockeys weit mehr Anteil haben als die Komponisten, Arrangeure und
@@ -3325,8 +3335,9 @@
         <title>Telemann in Frankfurt (1712) und Hamburg (1721-1767)</title>
         <place>Magdeburg</place>
         <publicationYear>1967</publicationYear>
-        <extent>in: Georg Philipp Telemann - Leben und Werk. Sonderdruck zur gleichnamigen
-            Ausstellung, S. 35-57.</extent>
+        <journal>Georg Philipp Telemann - Leben und Werk. Sonderdruck zur gleichnamigen
+            Ausstellung</journal>
+        <extent>S. 35-57</extent>
         <abstract> Die Darstellung der Frankfurter und Hamburger Zeit aus dem Leben Telemanns wird
             in die historisch-politischen Zeitverhältnisse eingeordnet. Durch Prüfung archivalischer
             Quellen wird nachgewiesen, daß die Entscheidung des Komponisten, in freien Reichsstädten
@@ -3427,8 +3438,8 @@
         </people>
         <title>Liederernte im Liederfrühling. Bemerkungen zum Massenliedschaffen des 1. Halbjahres
             1967</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 11, S. 770-776.</extent>
         <abstract> Der qualitative Sprung im Massenliedschaffen 1967 beruht auf folgenden
@@ -3457,10 +3468,10 @@
             </author>
         </people>
         <title>Semiotik und Sprachgefüge der Kunst</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1967</publicationYear>
-        <extent>H. 2, S. 112-121.</extent>
+        <extent>S. 112-121.</extent>
         <abstract> Der Autor diskutiert methodologische Probleme einer Anwendung semiotischer
             Kategorien auf die Untersuchung ästhetisch-künstlerischer Kommunikation. Ausgehend von
             kritischen Hinweisen auf bisherige Äußerungen der marxistischen Semiotik und Semantik,
@@ -3476,7 +3487,7 @@
     </entry>
     <entry>
         <entryNo>155</entryNo>
-        <fullTitle>Mayer, Günter: Luigi Nono - 'La fabbrica illuminata’ Referat, Ms. 16
+        <fullTitle>Mayer, Günter: Luigi Nono - 'La fabbrica illuminata' Referat, Ms. 16
             S.</fullTitle>
         <people>
             <author>
@@ -3484,7 +3495,7 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>Luigi Nono - 'La fabbrica illuminata’ Referat, Ms. 16 S.</title>
+        <title>Luigi Nono - 'La fabbrica illuminata' Referat, Ms. 16 S.</title>
         <abstract> Der Autor berichtet über Entstehungsbedingungen des Werkes sowie (auf Zitate
             gestützt) über die Intentionen des Komponisten Luigi Nono. Diese elektronische
             Komposition erwuchs aus der Begegnung mit Arbeitern eines Hütten- und Walzwerkes in
@@ -3809,8 +3820,8 @@
         </people>
         <title>Musikpsychologische Untersuchungen über die optimale Entwicklung musikalischer
             Fähigkeiten in den ersten Lebensjahren</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 57-62.</extent>
         <abstract> Die Musikerziehung ist in den ersten Lebensjahren von ausschlaggebender
@@ -3832,7 +3843,8 @@
             </author>
         </people>
         <title>Sozialistische Bewußtseinsbildung im Musikunterricht</title>
-        <extent>in: Musik in der Schule, Jg. 18. H. 4, S. 138-150 u. H. 7/8, S. 298-304.</extent>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <abstract> Die Aneignung von Kenntnissen, Fähigkeiten und Fertigkeiten auf musikalischem
             Gebiet ist ein wichtiger Faktor bei der Bildung von Verhaltensnormen. Es ist oft
             hervorgehoben worden, daß Musik den Charakter des Menschen zu bilden vermag, ' daß sie
@@ -3908,8 +3920,8 @@
         </people>
         <title>Beitrag des Musikunterrichts zur ideologischen und ästhetischen Bildung und Erziehung
             und Anforderungen an die Koordinierung mit anderen Pachern</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 419-423.</extent>
         <abstract> Aus der Rolle der Musikerziehung bei der allseitigen Bildung der sozialistischen
@@ -3986,8 +3998,8 @@
             </author>
         </people>
         <title>Gedanken über die Entwicklung des sowjetischen Musikschaffens</title>
-
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 393-398.</extent>
         <abstract> Der Verfasser schildert in seinen Ausführungen die Entwicklung des Musiklebens
@@ -4014,8 +4026,8 @@
         </people>
         <title>Brecht und die Musikdramatik. Zur Brecht-Woche der Deutschen Staatsoper
             Berlin</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 18-20.</extent>
         <abstract> Die Brecht-Woche fand anläßlich der Uraufführung der Oper 'Puntila' von Paul
@@ -4041,8 +4053,8 @@
             </author>
         </people>
         <title>Musik im Hörspiel</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 91-94.</extent>
         <abstract> Geräusch und Musik stehen sich nicht feindlich gegenüber, sie gruppieren sich
@@ -4176,8 +4188,8 @@
             </author>
         </people>
         <title>Zur Frage der Reihenfolge von Musikbeispielen im interview</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 122-127.</extent>
         <abstract> Es werden Methoden und Techniken der Verwendung von Musikbeispielen im Interview
@@ -4203,8 +4215,8 @@
             </author>
         </people>
         <title>Zum 50. Jahr des Roten Oktober</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>H. 11, S. 724-729.</extent>
         <abstract> Der Artikel beinhaltet in gekürzter Form ein Referat, das der Verfasser auf der
@@ -4333,7 +4345,7 @@
             </author>
         </people>
         <title>Barockes Mißverständnis</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit, Jg. 22.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 19, S. 25-27.</extent>
@@ -4351,7 +4363,7 @@
             </author>
         </people>
         <title>'Der letzte Schuß'</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit, Jg. 22.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 20, S. 20-22.</extent>
@@ -4369,7 +4381,7 @@
             </author>
         </people>
         <title>Entscheidung für das Leben</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit, Jg. 22.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 19, S. 20-24.</extent>
@@ -4388,6 +4400,7 @@
         </people>
         <title>Masaniello</title>
         <publicationYear>1967</publicationYear>
+        <place>Berlin</place>
         <type>Theater der Zeit</type>
         <extent>H. 22, S. 19-22 und 32.</extent>
         <abstract> Bericht über die Aufführung von Reinhard Kaisers 'Masaniello' in der
@@ -4405,8 +4418,8 @@
             </author>
         </people>
         <title>Ballade vom Glück</title>
-
-        <publisher>Theater der Zeit, Jg. 22.</publisher>
+        <place>Berlin</place>
+        <journal>Theater der Zeit</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 22, S. 16-19.</extent>
         <abstract> Bericht über die Uraufführung des Balletts "Ballade vom Glück" von Kurt Schwaen
@@ -4424,8 +4437,8 @@
             </author>
         </people>
         <title>Broadway-Import? Streiflichter zum Thema Musical</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <publisher>Musik u. Gesellschaft</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 155-163.</extent>
         <abstract> Der Autor beschäftigt sich mit dem 'Phänomen' Musical, skizziert die Geschichte
@@ -4478,8 +4491,8 @@
             </author>
         </people>
         <title>Die Stellung des Musikers in der Bach-Händel-Telemann-Epoche</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <publisher>Musik u. Gesellschaft</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 667-675.</extent>
         <abstract> Ausgehend von den drei Berufssphären des Musikers des 18. Jahrhunderts, der
@@ -4501,7 +4514,7 @@
             </author>
         </people>
         <title>Ein Leben für die Musikerziehung. Zum Tode Zoltán Kodálys</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 216-218.</extent>
@@ -4522,7 +4535,7 @@
         </people>
         <title>Die gesellschaftlichen Anforderungen an den Musikunterricht und die sich daraus
             ergebenden Hauptaufgaben für die Bildung und Erziehung der Schüler</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1957</publicationYear>
         <extent>H. 7/8, S. 276-278.</extent>
@@ -4531,13 +4544,13 @@
     </entry>
     <entry>
         <entryNo>202</entryNo>
-        <fullTitle>Pezold, Hans.: Johannes Paul Thilman - Sonatine für Violine und Klavier op. 82. -
+        <fullTitle>Pezold, Hans: Johannes Paul Thilman - Sonatine für Violine und Klavier op. 82. -
             Berlin: Verl. Volk u. Wissen 1967. 21 S. = Beiheft zum Magnettonband MBA 430 des
             DPZI.</fullTitle>
         <people>
             <author>
                 <familyName>Pezold</familyName>
-                <givenName>Hans.</givenName>
+                <givenName>Hans</givenName>
             </author>
         </people>
         <title>Johannes Paul Thilman - Sonatine für Violine und Klavier op. 82</title>
@@ -4562,7 +4575,7 @@
             </author>
         </people>
         <title>Die Harmonik der modernen Tanz- und Jazzmusik</title>
-
+        <place>Berlin</place>
         <publisher>Melodie u. Rhythmus, Jg. 11.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1-24.</extent>
@@ -4639,7 +4652,7 @@
         <title>Der vormusikalische Ausdruck der Kinderstimme in den ersten beiden
             Lebensjahren</title>
         <extent>S. 103-106.</extent>
-
+        <place>Erfurt</place>
         <publisher>Wiss. Zschr. d. Päd. Inst. Erfurt, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 103-106.</extent>
@@ -4795,6 +4808,7 @@
         </people>
         <title>Ein bedeutendes Gegenwartsballett 'Ballade vom Glück' von Kurt Schaen.</title>
         <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1967</publicationYear>
         <extent>S. 816-819</extent>
         <abstract>Kritik der Uraufführung.</abstract>
@@ -4835,7 +4849,7 @@
         </people>
         <title>Berliner Tanzstücke aus der Zeit um 1830 - als Beispiele kommerzialisierter
             Volkskunst</title>
-
+        <place>Berlin</place>
         <publisher>Forschungen u. Fortschritte, Jg. 41.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 55-58.</extent>
@@ -4885,6 +4899,7 @@
             Beitrag zur Rezeption der byzantinischen Musiktheorie im 18. Jahrhundert.</title>
         <publicationYear>1967</publicationYear>
         <type>Beiträge zur Musikwissenschaft</type>
+        <place>Berlin</place>
         <extent>S. 45-54.</extent>
         <abstract> Die traditionelle Auffassung von der Musik als Wissenschaft, auf der ihr
             Bildungswert seit der griechischen Antike beruht, wurde unter dem Einfluß der Aufklärung
@@ -4909,7 +4924,7 @@
             </author>
         </people>
         <title>Zum Stilwandel der griechischen Musik im 5./4. Jahrhundert</title>
-
+        <place>Berlin</place>
         <publisher>Forschungen u. Fortschritte, Jg. 41.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 114-116.</extent>
@@ -4938,7 +4953,7 @@
         </people>
         <title>Gedanken zum Verhältnis musiktheoretischer Lehrsysteme zur musikgeschichtlichen
             Entwicklung</title>
-
+        <place>Berlin</place>
         <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 128-133.</extent>
@@ -4997,11 +5012,11 @@
             </author>
         </people>
         <title>Der musikalische "Scharfrichter": Hans Richard Weinhöppel zum 100. Geburtstag</title>
-
+        <place>Berlin</place>
         <publisher>Melodie u. Rhythmus, Jg. 11.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 22, S. 26-28.</extent>
-        <abstract> Mit dem Artikel soll an Hans. Richard Weinhöppel, den Hauskomponisten des
+        <abstract> Mit dem Artikel soll an Hans Richard Weinhöppel, den Hauskomponisten des
             Kabaretts "Die Elf Scharfrichter", erinnert werden. Die "Elf Scharfrichter" - das
             bedeutendste Kabarett ihrer Zeit - wurden 1901 in München gegründet, und Weinhöppel, der
             sich als "Scharfrichter” Hannes Ruch nannte, war ihre "musikalische Seele". Seine Musik
@@ -5020,7 +5035,7 @@
             </author>
         </people>
         <title>'Irene und die Kapitäne'. Notizen zu Conny Odds neuem Musical</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit, Jg. XXII.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 13-15.</extent>
@@ -5074,8 +5089,8 @@
             </author>
         </people>
         <title>Die Sinfonien Aram Chatschaturjans</title>
-
-        <publisher>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R., Jg. 16.</publisher>
+        <place>Jena</place>
+        <journal>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R.</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 4, S. 463-470.</extent>
         <abstract> Der Artikel entstand anläßlich des 50. Jahrestages der Oktoberrevolution und
@@ -5099,7 +5114,7 @@
             </author>
         </people>
         <title>Max Reger</title>
-
+        <place>Jena</place>
         <publisher>Wiss. Zschr. d. Univ. Jena, Ges.-Sprachw. R., Jg. 16,</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 127-129.</extent>
@@ -5164,7 +5179,7 @@
             </author>
         </people>
         <title>Wege zur Planmäßigkeit und Systematik in der chorischen Stimmbildung</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 253-260.</extent>
@@ -5244,7 +5259,7 @@
         </people>
         <title>Reinhard Keiser und 'Masaniello'. Zur Erstaufführung in der Deutschen
             Staatsoner</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 656-666.</extent>
@@ -5271,8 +5286,8 @@
             </author>
         </people>
         <title>Historische Bezüge in Händels 'Messias'</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 8, S. 526-536.</extent>
         <abstract> Die Verfasserin behandelt das Verhältnis des 'Messias' zur Reformation und weist
@@ -5292,8 +5307,8 @@
             </author>
         </people>
         <title>Eine England-Studie Georg Kneplers</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
+        <place>Berlin</place>
+        <journal>Beiträge zur Musikwissenschaft, Jg. 9.</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S.134-137.</extent>
         <abstract> Der Beitrag beinhaltet, die Einschätzung des dritten Kapitels von Georg Kneplers
@@ -5359,8 +5374,8 @@
                 <givenName>Konrad</givenName>
             </author>
         </people>
-        <title>Händel-Bibliographie. 1. Nachtrag</title>
-        <place>1962-1965' Leipzig</place>
+        <title>Sasse, Konrad: Händel-Bibliographie. 1. Nachtrag: 1962-1965</title>
+        <place>Leipzig</place>
         <publisher>- Dt. Verl. f. Musik</publisher>
         <publicationYear>1967</publicationYear>
         <extent>80 S.</extent>
@@ -5428,7 +5443,7 @@
             </author>
         </people>
         <title>Paul Dessau - 'Meer der Stürme'</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 12, S. 819-820.</extent>
@@ -5440,17 +5455,17 @@
     </entry>
     <entry>
         <entryNo>241</entryNo>
-        <fullTitle>Schaefer, HansJürgen: Musikalisches Kammerspiel 'Die Blumen von Hiroshima' - eine
+        <fullTitle>Schaefer, Hansjürgen: Musikalisches Kammerspiel 'Die Blumen von Hiroshima' - eine
             neue Forest-Oper. - in: Musik u. Gesellschaft, Jg. 17. 1967, H. 10, S.
             682-665.</fullTitle>
         <people>
             <author>
                 <familyName>Schaefer</familyName>
-                <givenName>HansJürgen</givenName>
+                <givenName>Hansjürgen</givenName>
             </author>
         </people>
         <title>Musikalisches Kammerspiel 'Die Blumen von Hiroshima' - eine neue Forest-Oper</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 10, S. 682-665.</extent>
@@ -5472,7 +5487,7 @@
             </author>
         </people>
         <title>E. H. Meyer Sinfonietta. für großes Orchester</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 629-630.</extent>
@@ -5493,7 +5508,7 @@
             </author>
         </people>
         <title>Mythos - Melos - Musica. Zum Tode Walther Vetters</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 400-402.</extent>
@@ -5518,7 +5533,7 @@
             </author>
         </people>
         <title>Talent fürs Musiktheater</title>
-
+        <place>Berlin</place>
         <publisher>Theater der Zeit. Jg. 22.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 17, S. 18-19.</extent>
@@ -5538,7 +5553,7 @@
         </people>
         <title>Musik in der entwickelten sozialistischen Gesellschaft. Gedanken nach dem VII.
             Parteitag der SED</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6,. S. 361-365.</extent>
@@ -5565,7 +5580,7 @@
             </author>
         </people>
         <title>Eldorado der Oper Musikbühnenjubiläum in der Hauptstadt der DDR</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 12, S. 793-800.</extent>
@@ -5586,7 +5601,7 @@
             </author>
         </people>
         <title>I. Musik-Biennale in Berlin</title>
-
+        <place>Berlin</place>
         <publisher>Musik u.. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 5, S. 295-297.</extent>
@@ -5611,7 +5626,7 @@
         </people>
         <title>Auf ein Wort, Herr Intendant. Bemerkungen zu den Opernspielplänen unserer
             Theater</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 148-155.</extent>
@@ -5632,7 +5647,7 @@
             </author>
         </people>
         <title>Konzertplan-Analyse 1966/1967</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 12-15.</extent>
@@ -5661,7 +5676,7 @@
             </author>
         </people>
         <title>Musikkritik hier und heute</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 4, S. 217-226.</extent>
@@ -5727,7 +5742,7 @@
             </author>
         </people>
         <title>Festwochen zur Wiedereröffnung der Komischen Oper Berlin</title>
-
+        <place>Berlin</place>
         <publisher>Bulletin, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1/2, S. 6-9.</extent>
@@ -5826,7 +5841,7 @@
             </author>
         </people>
         <title>Bemerkungen zum vorliegenden Notationsartikel von Yang Yin-liu</title>
-
+        <place>Berlin</place>
         <publisher>Beiträge zur Musikwissenschaft, Jg. 9.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 41-44 Vergleiche den Artikel im gleichen Heft, S. 23-40, von Yang Yin-liu,
@@ -5855,7 +5870,7 @@
             </author>
         </people>
         <title>Das spezifische Element der instrumental-improvisatorischen Begabung</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 12.</extent>
@@ -5886,7 +5901,7 @@
         </people>
         <title>Brecht und die Musikdramatik. Bedeutsame Dessau-Uraufführung und anregende
             Diskussionswoche in der Deutschen Staatsoper Berlin</title>
-
+        <place>Berlin</place>
         <publisher>Bulletin, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1/2, S. 3-5.</extent>
@@ -6031,7 +6046,7 @@
             </author>
         </people>
         <title>Sorgen um die Schulmusik</title>
-
+        <place>Berlin</place>
         <publisher>Mitteilungen der Deutschen Akademie der Künste, Jg. V.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 3 f.</extent>
@@ -6071,7 +6086,7 @@
             </author>
         </people>
         <title>Die I. Musik-Biennale Berlin</title>
-
+        <place>Berlin</place>
         <publisher>Bulletin des Musikrates der DDR, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1/2, S. 12-15.</extent>
@@ -6200,7 +6215,7 @@
             </author>
         </people>
         <title>Händel-Forschung an der Universität Halle-Wittenberg</title>
-
+        <place>Halle-Wittenberg</place>
         <publisher>Wiss. Zschr. d. Martin-Luther-Univ. Halle-Wittenberg, Ges.-Sprachw. R., Jg.
             16.</publisher>
         <publicationYear>1967</publicationYear>
@@ -6230,7 +6245,7 @@
             </author>
         </people>
         <title>Musik, dem Roten Oktober gewidmet</title>
-
+        <place>Halle</place>
         <publisher>Wiss. Zschr. d. Univ. Halle, Ges.-Sprachw. R.,</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 4/5, S. 273-283.</extent>
@@ -6251,7 +6266,7 @@
             </author>
         </people>
         <title>Probleme der Händel-Forschung</title>
-
+        <place>Berlin</place>
         <publisher>Forschungen u. Fortschritte, Jg. 41.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 1, S. 23-27.</extent>
@@ -6297,7 +6312,7 @@
             </author>
         </people>
         <title>Zu einigen Problemen der Händel-Operninterpretation</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 385-390.</extent>
@@ -6319,7 +6334,7 @@
             </author>
         </people>
         <title>Max Schneider verstorben</title>
-
+        <place>Berlin</place>
         <publisher>Musik u. Gesellschaft, Jg. 17.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 7, S. 470-472.</extent>
@@ -6345,7 +6360,7 @@
             </author>
         </people>
         <title>Die Musik der Reformation</title>
-
+<place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 9, S. 365-379.</extent>
@@ -6367,7 +6382,7 @@
             </author>
         </people>
         <title>Prof. Dr. habil. Siegfried Bimberg</title>
-
+<place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 228-231.</extent>
@@ -6390,7 +6405,7 @@
         <title>Strömungen und Tendenzen im Musikschaffen des 20. Jahrhunderts in der Sicht der
             marxistischen Musikwissenschaft - ihre Bedeutung für die sozialistische
             Musikerziehung</title>
-
+<place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 7/8, S. 279-283.</extent>
@@ -6401,7 +6416,7 @@
     <entry>
         <entryNo>281</entryNo>
         <fullTitle>Siegmund-Schultze, Walther: Max Schneider zum Gedenken. - in: Die Musikforschung,
-            Jg. 2o, 1967, H. 3, S. 241-243.</fullTitle>
+            Jg. 20, 1967, H. 3, S. 241-243.</fullTitle>
         <people>
             <author>
                 <familyName>Siegmund-Schultze</familyName>
@@ -6409,7 +6424,7 @@
             </author>
         </people>
         <title>Max Schneider zum Gedenken</title>
-
+<place>Kassel</place>
         <publisher>Die Musikforschung, Jg. 2o,</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 241-243.</extent>
@@ -6429,7 +6444,7 @@
         </people>
         <title>Ansprache und Kolloquium zur Konferenz "Fragen der Aufführungspraxis Händelscher
             Werke"</title>
-
+        <place>Halle</place>
         <publisher>Händel-Jahrbuch</publisher>
         <publicationYear>1966</publicationYear>
         <extent>1967.</extent>
@@ -6449,7 +6464,7 @@
             </author>
         </people>
         <title>Bach und Händel</title>
-        <place>Halle 1967' in</place>
+        <place>Halle</place>
         <publisher>Händel-Jahrbuch</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 141-169.</extent>
@@ -6470,7 +6485,7 @@
             </author>
         </people>
         <title>Monteverdi und Schütz</title>
-
+        <place>Halle</place>
         <publisher>16. Händelfestspiele, Halle</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 37-44.</extent>
@@ -6490,7 +6505,7 @@
             </author>
         </people>
         <title>Zur Aufführungspraxis des 'Messias' in Halle</title>
-
+        <place>Halle</place>
         <publisher>16. Händel-Festspiele, Halle</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 25-30.</extent>
@@ -6706,8 +6721,8 @@
             </author>
         </people>
         <title>Akustische Messungen an der Silbermannorgel in der Kirche St. Georg in Rötha</title>
-
-        <publisher>Das Musikinstrument, Jg. 16.</publisher>
+        <place>Frankfurt a. M.</place>
+        <journal>Das Musikinstrument</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 3, S. 474-581.</extent>
         <abstract> Nach einer kurzen Beschreibung der Orgel werden die Meßverfahren geschildert. In
@@ -6728,7 +6743,8 @@
         </people>
         <title>Experimentelle Musik mit dem subharmonischen Klangerzeuger 'Subharchord'</title>
         <publicationYear>1967</publicationYear>
-        <type>Das Musikinstrument</type>
+        <place>Frankfurt a. M.</place>
+        <journal>Das Musikinstrument</journal>
         <extent>H. 9, S. 1013-1015.</extent>
         <abstract> Das 'Subharchord' wurde speziell als Kernstück für Studios zur künstlichen Klang-
             und Geräuscherzeugung sowie für den Einsatz in Rundfunk-, Film- und Fernsehstudios
@@ -6786,7 +6802,7 @@
         </people>
         <title>Aus der Arbeit der 'Study Group of Folk Music Systematization' beim International
             Folk Music Council</title>
-
+        <place>Berlin</place>
         <publisher>Deutsches Jahrbuch für Volkskunde, Teil II, Jg. 13.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 407-411.</extent>
@@ -6839,7 +6855,7 @@
             </author>
         </people>
         <title>Tagung für Volksmusikforschung in Wien</title>
-
+        <place>Berlin</place>
         <publisher>Bulletin des Musikrates der DDR, Jg. 4.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>Nr. 1/2, S. 21-22.</extent>
@@ -6922,7 +6938,7 @@
             </author>
         </people>
         <title>Volksmusikinstrumente und Arbeit</title>
-        <place>Göttingen 1967' in</place>
+        <place>Göttingen</place>
         <publisher>Arbeit und Volksleben. Deutscher Volkskundekongreß</publisher>
         <publicationYear>1967</publicationYear>
         <extent>in Marburg. Kongreßbericht. S. 331-342.</extent>
@@ -7012,7 +7028,7 @@
             </author>
         </people>
         <title>Zur gesellschaftlichen Funktion der Musikschulen</title>
-
+        <place>Leipzig</place>
         <publisher>Volksmusik, Jg. 12.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6-10.</extent>
@@ -7031,7 +7047,7 @@
             </author>
         </people>
         <title>Zu den Erziehungszielen der Musikschulen</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 12-15.</extent>
@@ -7051,7 +7067,7 @@
             </author>
         </people>
         <title>Das musikalische Ausbildungssystem in der Volksrepublik Bulgarien</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 11, S. 463-470.</extent>
@@ -7180,7 +7196,7 @@
             </author>
         </people>
         <title>über die Musikbühne</title>
-
+        <place>Berlin</place>
         <publisher>Sinn u. Form, Jg. 19.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 4, S. 788-799.</extent>
@@ -7225,7 +7241,7 @@
             </author>
         </people>
         <title>Psychologische Grundlagen der Gesangspädagogik</title>
-
+        <place>Berlin</place>
         <publisher>Wiss. Zschr. d. Humboldt-Univ. Berlin, Ges.-Sprachwiss. R., Jg. 16.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 291-297.</extent>
@@ -7251,7 +7267,7 @@
             </author>
         </people>
         <title>Psychologische Grundlagen der Singefähigkeit</title>
-
+        <place>Berlin</place>
         <publisher>Musik in der Schule, Jg. 18.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 2, S. 46-56.</extent>
@@ -7443,7 +7459,7 @@
             </author>
         </people>
         <title>Rameaus 'Les Indes Galantes' als musikethnologische Quelle</title>
-
+        <place>Berlin</place>
         <publisher>Jahrbuch für musikalische Volks-, und Völkerkunde, Band 3.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>S. 105-108.</extent>
@@ -7468,7 +7484,7 @@
             </author>
         </people>
         <title>Communication. La Haye 1967</title>
-
+        <place>Amsterdam</place>
         <publisher>Actes du VIIe Congres International des Bibliotheques Musées des Arts du
             spectacle, Amsterdam</publisher>
         <publicationYear>1965</publicationYear>
@@ -7532,7 +7548,7 @@
             </author>
         </people>
         <title>Bach und die Swingle-Singers</title>
-
+        <place>Berlin</place>
         <publisher>Sinn u. Form, Jg. 19.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 6, S. 1528-1530.</extent>
@@ -7559,7 +7575,7 @@
             </author>
         </people>
         <title>'Verdi-Konfigurationen' von Wilhelm Hübner. Werkbesprechung</title>
-
+        <place>Kassel</place>
         <publisher>Musica, Jg. 21.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>H. 4, S. 173 f.</extent>
@@ -7579,7 +7595,7 @@
             </author>
         </people>
         <title>Zum Instrumentarium um 1900</title>
-
+        <place>Frankfurt a. M.</place>
         <publisher>Das Musikinstrument, Jg. 16.</publisher>
         <publicationYear>1967</publicationYear>
         <extent>Nr. 2, S. 164-168; Nr.3, S. 470-473; Nr. 4, S. 615-617.</extent>
@@ -7840,6 +7856,7 @@
         </people>
         <title>Die Realisierung der deutschen kurzen, offenen. Vokale im Gesang</title>
         <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>S. 425-428</extent>
         <abstract>Die Auffassungen über die Aussprache der kurzen, offenen Vokale beim Singen sind
@@ -8213,6 +8230,7 @@
                 <givenName>Dietrich</givenName>
             </author>
         </people>
+        <place>Berlin</place>
         <title>Max Butting</title>
         <type>Forschungsauftrag der Deutschen Akademie der Künste zu Berlin.</type>
     </entry>
@@ -8764,7 +8782,6 @@
         <org>Inst. f. Musikwiss. Leipzig</org>
         <place>Leipzig</place>
         <startingYear>1963</startingYear>
-        <place>ff</place>
         <abstract> 1. Ziel: Editorische Vorarbeiten für die Publikationsreihe "Denkmale der Musik".
             2. Methoden und 3. Ergebnisse: Text- und Quellenkritik an den Vokalwerken Antonio
             Vivaldis aus dem Besitz der Sächsischen Landesbibliothek Dresden wurden zur Vorbereitung
@@ -8810,6 +8827,7 @@
                 <givenName>Dieter</givenName>
             </author>
         </people>
+        <place>Berlin</place>
         <title>Fidelio F. Finke. Leben und Werk</title>
         <type>Forschungsauftrag der Deutschen Akademie der Künste zu Berlin</type>
         <abstract> 1. Ziel: Monographie über Fidelio F. Finke; Würdigung der schöpferischen
@@ -9090,6 +9108,7 @@
                 <givenName>Margret</givenName>
             </author>
         </people>
+        <place>Berlin</place>
         <title>Indonesische Gesänge (Arbeitsthema)</title>
         <extent>Diss., Inst. f. Musikwiss. Berlin.</extent>
     </entry>
@@ -9325,6 +9344,7 @@
                 <givenName>Thomas</givenName>
             </author>
         </people>
+        <place>Leipzig</place>
         <title>Das sozialistische Massenlied (Arbeitsthema). - Diss., Inst. f. Musikwiss.
             Leipzig.</title>
     </entry>
@@ -10073,6 +10093,7 @@
                 <givenName>Ernst</givenName>
             </author>
         </people>
+        <place>Berlin</place>
         <title>Hans von Bülow - Leben und Werk. Diss., Inst. f. Musikwiss. Berlin.</title>
     </entry>
     <entry>
@@ -10691,8 +10712,8 @@
             <ref>225</ref>
         </registerEntry>
         <registerEntry>
-            <item>Chemnitz (Karl-Marx-Stadt) N </item>
-            <ref>8</ref>
+            <item>Chemnitz (Karl-Marx-Stadt)</item>
+            <ref>N 8</ref>
         </registerEntry>
         <registerEntry>
             <item>China </item>
@@ -11336,8 +11357,8 @@
             <ref>F 125</ref>
         </registerEntry>
         <registerEntry>
-            <item>Lee, Sebastian N </item>
-            <ref>5</ref>
+            <item>Lee, Sebastian</item>
+            <ref>N 5</ref>
         </registerEntry>
         <registerEntry>
             <item>Lehrplangestaltung </item>
@@ -12806,8 +12827,8 @@
             <ref>F 18</ref>
         </registerEntry>
         <registerEntry>
-            <item>Vide, Jacobus N </item>
-            <ref>6</ref>
+            <item>Vide, Jacobus</item>
+            <ref>N 6</ref>
         </registerEntry>
         <registerEntry>
             <item>Vierling, Georg </item>

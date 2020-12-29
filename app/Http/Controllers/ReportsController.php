@@ -16,9 +16,10 @@ class ReportsController extends Controller
     }
     public function showPlaces($id) {
         $report = Report::findOrFail($id);
+        $places = $report->entries->sortBy('place')->groupBy('place');
         return view('reports.showPlaces', [
             'report' => $report,
-            'places' => $report->entries->sortBy('place')->groupBy('place')
+            'places' => $places
         ]);
     }
     public function showKeywords($id) {
