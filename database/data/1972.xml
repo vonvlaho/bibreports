@@ -944,7 +944,6 @@
         </people>
         <title>Hanslick, Eduard: Musikkritiken</title>
         <sameAs>Reclams Universalbibliothek. (Musik u. Musiktheater.) Bd 465.</sameAs>
-        <place>Leipzig</place>
         <publisher>Reclam</publisher>
         <place>Leipzig</place>
         <abstract> Aus der Fülle der Musikkritiken, soweit sie selbst vom Verfasser in Sammlungen
@@ -1452,6 +1451,7 @@
         <title>Zur Entwicklung der Singefähigkeit bei Kleinkindern</title>
         <extent>S. 289-290.</extent>
         <journal>Ärztliche Jugendkunde</journal>
+        <place>Leipzig</place>
         <abstract> In den Kinderkrippen der DDR werden seit 1968 verstärkt Untersuchungen zur
             Entwicklung der Singefähigkeit durchgeführt. Im Rahmen eines Prüfverfahrens wird
             untersucht, zu welchen gesanglichen Leistungen die Mehrzahl der Krippenkinder in den
@@ -2876,7 +2876,7 @@
         <people>
             <editor>
                 <familyName>Klemm</familyName>
-                <givenName>Eberhard</givenName>
+                <givenName>Eberhardt</givenName>
             </editor>
         </people>
         <title>Shaw, George Bernard: Musikfeuilletons des Corno di Bassetto</title>
@@ -3509,7 +3509,8 @@
         </people>
         <title>Komposition - Musikverbreitung - Hörer. Wo ist die Brücke zu bisherigen
             Hörerfahrungen? (II. Musikkongreß der DDR. Diskussionsbeiträge.) - In</title>
-        <extent>Sonntag vom 3. 12. 1972 (Nr. 49).</extent>
+        <journal>Sonntag</journal>
+        <place>Berlin</place>
         <abstract> Die Erforschung der Hörerfahrungen und -erwartungen in bezug auf zeitgenössische
             Musik stellt immer wieder die Frage nach ihrer Verständlichkeit und ihrem Wert zur
             Diskussion, Um für die Komponisten effektive Hinweise zu geben, sollten Musikgespräche
@@ -4392,7 +4393,6 @@
         </people>
         <title>Das Beethoven-Bild der deutschen Musikerziehung in Vergangenheit und Gegenwart. Ein
             Beitrag zur Geschichte der Beethoven-Rezeption und der Schulmusik</title>
-        <place>Berlin</place>
         <publisher>Verlag Neue Musik</publisher>
         <publicationYear>1971</publicationYear>
         <extent>S. 189-206</extent>
@@ -4622,10 +4622,10 @@
                 <givenName>Kurt</givenName>
             </author>
         </people>
-        <title>Die Staatliche Musikschule bzw. Hochschule für Musik von 1918 bis 1945: In:
-            Festschrift der Hochschule für Musik "Franz Liszt" Weimar zum hundertsten
-            Jahrestag</title>
-        <extent>Weimars Hochschule für Musik 1972. S. 50-64.</extent>
+        <title>Die Staatliche Musikschule bzw. Hochschule für Musik von 1918 bis 1945</title>
+        <extent>Festschrift der Hochschule für Musik
+            "Franz Liszt" Weimar zum hundertsten Jahrestag</extent>
+        <place>Weimar</place>
         <abstract> In der Periode von 1918 bis 1945 wird die besondere Aktivität Hinzereinholds bei
             der Einrichtung von Meisterklassen für Klavier, Violine und Komposition (1926) und der
             Abteilung für Privatmusikerzieher und für Schulmusikerzieher (1929) bis zur Ernennung
@@ -4642,9 +4642,10 @@
                 <givenName>Kurt</givenName>
             </author>
         </people>
-        <title>Bemerkungen zur Ausbildung von Bläsern: In: Festschrift der Hochschule für Musik
-            "Franz Liszt" Weimar zum hundertsten Jahrestag</title>
-        <extent>Weimars Hochschule für Musik 1972. S. 189-190.</extent>
+        <title>Bemerkungen zur Ausbildung von Bläsern</title>
+        <journal>Festschrift der
+            Hochschule für Musik "Franz Liszt" Weimar zum hundertsten Jahrestag</journal>
+        <place>Weimar</place>
         <abstract> Die Erkenntnis der Notwendigkeit eines methodischen Umbruchs, einer Umwandlung
             des überalterten Ausbildungssystems, bedingt durch erhöhte technische Fähigkeiten und
             steigende Anforderungen an physische Ausdauer der Bläser im modernen Orchesterapparat,
@@ -4958,19 +4959,19 @@
         <people>
             <contributor>
                 <familyName>Schaefer</familyName>
-                <givenName>Hj.</givenName>
+                <givenName>Hansjürgen</givenName>
             </contributor>
             <contributor>
                 <familyName>Schönfelder</familyName>
-                <givenName>G.</givenName>
+                <givenName>Gerd</givenName>
             </contributor>
             <contributor>
                 <familyName>Kynaß</familyName>
-                <givenName>H.-J.</givenName>
+                <givenName>Hans-Joachim</givenName>
             </contributor>
             <contributor>
                 <familyName>Böhm</familyName>
-                <givenName>H.</givenName>
+                <givenName>Hans</givenName>
             </contributor>
         </people>
         <title>Neue DDR-Musicals</title>
@@ -5581,13 +5582,13 @@
     </entry>
     <entry>
         <entryNo>238</entryNo>
-        <fullTitle>Rebling, Eberhardt: Der Künstler und unser heutiges Publikum. - In: Bericht über
+        <fullTitle>Rebling, Eberhard: Der Künstler und unser heutiges Publikum. - In: Bericht über
             den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin. - Berlin: Verlag
             Neue Musik 1971, S. 533-536.</fullTitle>
         <people>
             <author>
                 <familyName>Rebling</familyName>
-                <givenName>Eberhardt</givenName>
+                <givenName>Eberhard</givenName>
             </author>
         </people>
         <title>Der Künstler und unser heutiges Publikum</title>
@@ -5652,6 +5653,7 @@
             </editor>
         </people>
         <title>Fürstenau, Moritz</title>
+        <place>Leipzig</place>
         <extent>Zur Geschichte der Musik und des Theaters am Hofe der Kurfürsten von Sachsen.
             Dresden 1861-62. (Neudr.) - Leipzig: VEB Edition Peters 1971. XIV, 384, LII S.</extent>
         <abstract> Neudruck des Hauptwerkes zur Dresdner Musikgeschichte des 17. und 18.
@@ -7310,6 +7312,7 @@
             Begriffsbestimmung</title>
         <extent>S. 1-12.</extent>
         <journal>Forum für Musiktherapie</journal>
+        <place>Lenk</place>
         <abstract> Auf der Grundlage eines umfangreichen Literaturstudiums werden die hier
             vorgenommenen Klassifikationen der genannten Begriffe referiert. Daraus wird die
             Forderung abgeleitet, spezifische Merkmale der drei Begriffe vom inhaltlichen Aspekt aus
@@ -7802,7 +7805,7 @@
         <people>
             <editor>
                 <familyName>Strobach</familyName>
-                <givenName>Herrmann</givenName>
+                <givenName>Hermann</givenName>
             </editor>
         </people>
         <title>Steinitz, Wolfgang: Deutsche Volkslieder demokratischen Charakters aus sechs
@@ -7819,12 +7822,12 @@
     </entry>
     <entry>
         <entryNo>341</entryNo>
-        <fullTitle>Szekus, Reinhard u. Hans-Joachim Rothe (Hrsg.): Felix Mendelssohn Bartholdy.
+        <fullTitle>Szeskus, Reinhard u. Hans-Joachim Rothe (Hrsg.): Felix Mendelssohn Bartholdy.
             Briefe aus Leipziger Archiven. - Leipzig: VEB Deutscher Verlag für Musik 1972. 289
             S.</fullTitle>
         <people>
             <editor>
-                <familyName>Szekus</familyName>
+                <familyName>Szeskus</familyName>
                 <givenName>Reinhard</givenName>
             </editor>
             <editor>
@@ -7909,11 +7912,11 @@
     </entry>
     <entry>
         <entryNo>344</entryNo>
-        <fullTitle>Thilmann, Johannes Paul u. Betty Heiß: Fidelio F. Finke zum 80. Geburtstag. - In:
+        <fullTitle>Thilman, Johannes Paul u. Betty Heiß: Fidelio F. Finke zum 80. Geburtstag. - In:
             Mitteilungen der Deutschen Akademie der Künste. 10 (1972) 1, S. 18-19.</fullTitle>
         <people>
             <author>
-                <familyName>Thilmann</familyName>
+                <familyName>Thilman</familyName>
                 <givenName>Johannes Paul</givenName>
             </author>
             <author>
@@ -8662,7 +8665,7 @@
                 <givenName>Hella</givenName>
             </author>
             <author>
-                <familyName>Autorenkollektiv</familyName>
+                <familyName>Kollektiv</familyName>
             </author>
         </people>
         <title>Methodik der Musikerziehung</title>
@@ -8690,7 +8693,7 @@
                 <givenName>Hella</givenName>
             </author>
             <author>
-                <familyName>Autorenkollektiv</familyName>
+                <familyName>Kollektiv</familyName>
             </author>
         </people>
         <title>Das Zusammenwirken der künstlerisch-ästhetischen Fächer bei der Erziehung
@@ -8725,11 +8728,11 @@
     </entry>
     <entry>
         <entryNo>F 14</entryNo>
-        <fullTitle>Bucholz, Albin: Die Entwicklung der Violinenkonzerte in der DDR. - Halle, Phil.
+        <fullTitle>Buchholz, Albin: Die Entwicklung der Violinenkonzerte in der DDR. - Halle, Phil.
             Diss., Beginn: 1972: Abschluß: 1974.</fullTitle>
         <people>
             <author>
-                <familyName>Bucholz</familyName>
+                <familyName>Buchholz</familyName>
                 <givenName>Albin</givenName>
             </author>
         </people>
@@ -9047,9 +9050,11 @@
                 <givenName>Siegfried</givenName>
             </author>
         </people>
-        <title>Georg Friedrich Händels Triosonaten. (Teil A u. B) - Halle, Phil. Diss.,
-            Beginn</title>
-        <startingYear>1969; 1972 abgeschlossen</startingYear>
+        <title>Georg Friedrich Händels Triosonaten. (Teil A u. B)</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
+        <startingYear>1969</startingYear>
+        <finishedYear>1972</finishedYear>
         <abstract> (Teil A): Siehe unter 99. (Teil B): Siehe: Bericht über die
             musikwissenschaftlichen Arbeiten der Deutschen Demokratischen Republik 1970 (Nr. 67).
         </abstract>
@@ -9148,7 +9153,7 @@
         </people>
         <title>Untersuchungen zur ideellen Programmatik in der Sinfonik von Dmitri
             Schostakowitsch</title>
-        <type>Halle-</type>
+        <place>Halle</place>
         <startingYear>1967</startingYear>
         <finishingYear>1973</finishingYear>
         <type>Phil. Diss.</type>
@@ -9292,8 +9297,10 @@
                 <givenName>Johannes</givenName>
             </author>
         </people>
-        <title>Georg Trexler - Leben und Werk. Halle, Phil. Diss., Beginn</title>
-        <startingYear>1972; Abschluß: 1974</startingYear>
+        <title>Georg Trexler - Leben und Werk</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
+        <startingYear>1972</startingYear>
         <finishingYear>1974</finishingYear>
     </entry>
     <entry>
@@ -9382,7 +9389,7 @@
         <people>
             <author>
                 <familyName>Göring</familyName>
-                <givenName>Liselotte</givenName>
+                <givenName>Lieselotte</givenName>
             </author>
         </people>
         <title>Die Stellung der Blockflöte im Musikleben des 20. Jahrhunderts</title>
@@ -9891,11 +9898,11 @@
     <entry>
         <entryNo>F 66</entryNo>
         <fullTitle>Hoke, Hans-Gunter: Studien zur Beethoven-Gesamtausgabe des VEB Deutsche
-            Schallplatten.- Halle, Phil. Diss., Beginn: 1972.</fullTitle>
+            Schallplatten. - Halle, Phil. Diss., Beginn: 1972.</fullTitle>
         <people>
             <author>
                 <familyName>Hoke</familyName>
-                <givenName>Hans-Gunter</givenName>
+                <givenName>Hans Gunter</givenName>
             </author>
         </people>
         <title>Studien zur Beethoven-Gesamtausgabe des VEB Deutsche Schallplatten</title>
@@ -10053,12 +10060,12 @@
     </entry>
     <entry>
         <entryNo>F 74</entryNo>
-        <fullTitle>Junghans, Gerd: Johann Cilensek. Sein Leben, sein sinfonisches Werk. - Halle,
+        <fullTitle>Junghans, Gerd: Johann Cilenšek. Sein Leben, sein sinfonisches Werk. - Halle,
             Phil. Diss., Beginn: 1972; Abschluß: 1974.</fullTitle>
         <people>
             <author>
-                <familyName>Junghans</familyName>
-                <givenName>Gerd</givenName>
+                <familyName>Junghanns</familyName>
+                <givenName>Bernd</givenName>
             </author>
         </people>
         <title>Johann Cilensek. Sein Leben, sein sinfonisches Werk</title>
@@ -10276,7 +10283,7 @@
             Phil. Diss., Beginn: 1968; Abschluß: 1973.</fullTitle>
         <people>
             <author>
-                <familyName>Kopcak</familyName>
+                <familyName>Kopczak</familyName>
                 <givenName>Rüdiger</givenName>
             </author>
         </people>
@@ -10389,7 +10396,8 @@
         </people>
         <title>Quellenstudien zum italienischen comico per musicam und zu seiner Geschichte in
             Rostock, Phil. Diss., Beginn</title>
-        <startingYear>1967; Abschluß: 1973</startingYear>
+        <place>Rostock</place>
+        <startingYear>1967</startingYear>
         <finishingYear>1973</finishingYear>
         <abstract> Die Arbeit trägt zur Erforschung einer speziellen musiktheatralischen Gattung
             bei. Das szenische komische Opernintermezzo war nahezu das ganze 18. Jahrhundert
@@ -10584,7 +10592,7 @@
                 <givenName>Gudrun</givenName>
             </author>
             <author>
-                <familyName>Mühlberg)</familyName>
+                <familyName>Mühlberg</familyName>
                 <givenName>Lilo</givenName>
             </author>
         </people>
@@ -10680,7 +10688,10 @@
             </author>
         </people>
         <title>Das Grundprinzip der altararabischen Qasidah in der musikalischen Form syrischer
-            Volkslieder - Halle, Phil. Diss., 1972 abgeschlossen.</title>
+            Volkslieder</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
+        <finishedYear>1972</finishedYear>
         <abstract> Siehe unter 185. </abstract>
     </entry>
     <entry>
@@ -10879,7 +10890,9 @@
                 <givenName>Brigitte</givenName>
             </author>
         </people>
-        <title>Johann Philipp Krieger, Halle, Phil. Diss., Beginn</title>
+        <title>Johann Philipp Krieger</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
         <startingYear>1967; Abschluß: 1974</startingYear>
         <finishingYear>1974</finishingYear>
     </entry>
@@ -10935,8 +10948,10 @@
                 <givenName>Claus</givenName>
             </author>
         </people>
-        <title>Halle, Phil. Diss., Beginn</title>
-        <startingYear>1970; Abschluß: 1974</startingYear>
+        <title>Das Musikleben in Eisenach 1650-1750</title>
+        <place>Halle</place>
+        <type>Phil. Diss.</type>
+        <startingYear>1970</startingYear>
         <finishingYear>1974</finishingYear>
         <abstract> Ziel: Darstellung der städtischen, höfischen und kirchlichen Musikpflege
             Eisenachs, Erfassung der nachweisbaren Aufführungen und der in Eisenach, tätigen
@@ -10983,6 +10998,7 @@
         <title>Die Codices Ms 49/50 und Ms 51 der Thomaskirche zu Leipzig aus der Mitte des 16.
             Jahrhunderts- in der Universitätsbibliothek Leipzig</title>
         <type>Forschungsauftrag der Universitätsbibliothek Leipzig</type>
+        <place>Leipzig</place>
         <startingYear>1969</startingYear>
         <abstract> Ziel: Musikgeschichtliche Beschreibung sowie bibliographische und buchkundliche
             Erschließung der Thomas-Stimmbücher Cod. Ms 49/50 und Ms 51 (im Bestand der UB Leipzig)
@@ -11109,12 +11125,12 @@
     </entry>
     <entry>
         <entryNo>F 120</entryNo>
-        <fullTitle>Pleßke, Hans-Martini: Das Leipziger Musikverlagswesen und seine Beziehungen zu
+        <fullTitle>Pleßke, Hans-Martin: Das Leipziger Musikverlagswesen und seine Beziehungen zu
             namhaften Komponisten. - Leipzig, Phil, Diss., Beginn: 1972; Abschluß: 1973.</fullTitle>
         <people>
             <author>
                 <familyName>Pleßke</familyName>
-                <givenName>Hans-Martini</givenName>
+                <givenName>Hans-Martin</givenName>
             </author>
         </people>
         <title>Das Leipziger Musikverlagswesen und seine Beziehungen zu namhaften

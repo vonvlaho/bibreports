@@ -48,11 +48,11 @@ Ausgehend von den Möglichkeiten der Musik, auf das Bewußtsein, die Gefühle un
 6 Bach, Ingo: Bildnisse von Heinrich Schütz. - In: Heinrich Schütz 1585-1672, Festtage 1972 (Festheft). - Gera-Land: Rat d. Stadt 1972. S. 29-33.
 Schütz.
 
-Versuche, die Gesamtpersönlichkeit von Heinrich Schütz auf der Leinwand zu erfassen, sind in 5 Bildnissen überliefert worden. Erst 1938 wurde in einem Rembrandt-Gemälde Heinrich Schütz identifiziert und damit neue Anhaltspunkte in der Biographie des Komponisten entdeckt. 
+Versuche, die Gesamtpersönlichkeit von Heinrich Schütz auf der Leinwand zu erfassen, sind in 5 Bildnissen überliefert worden. Erst 1938 wurde in einem Rembrandt-Gemälde Heinrich Schütz identifiziert und damit neue Anhaltspunkte in der Biographie des Komponisten entdeckt.
 
 7 Bach-Jahrbuch. Im Auftr. d. Neuen Bachges. hrsg. von Alfred Dürr u. Werner Neumann. 57. - Berlin: Evangelische Verlagsanstalt 1971, 112 S.
 
-Das Bach-Jahrbuch enthält Beiträge folgender Autoren: 
+Das Bach-Jahrbuch enthält Beiträge folgender Autoren:
 Kobayashi, Yoshitake: Zu einem neu entdeckten Autograph Bachs - Choral: Aus der Tiefen;
 Helms, Siegmund: Johannes Brahms und Johann Sebastian Bach;
 Jacobi, Erwin R.: Nochmals: "Vortrag und Besetzung Bachscher Cantaten- und Oratorienmusik". Ein Nachtrag zum gleichnamigen Artikel im BJ 1969;
@@ -62,7 +62,7 @@ Orth, Siegfried: Zu den Erfurter Jahren Johann Bernhard Bachs (1676-1749).
 
 8 Bach-Jahrbuch. Im Auftr. d. Neuen Bachges, hrsg. von Alfred Dürr u. Werner Neumann, Jg 58. - Berlin: Evangelische Verlagsanstalt 1972. 131 S.
 
-Das Bach-Jahrbuch Jg 58 enthält Beiträge folgender Autoren: 
+Das Bach-Jahrbuch Jg 58 enthält Beiträge folgender Autoren:
 Braun, Hartmut: Eine Gegenüberstellung von Original und Bearbeitung, dargestellt an der Entlehnung eines Corellischen Fugenthemas durch J. S. Bach;
 Eppstein, Hans: Ober J. S, Bachs Flötensonaten mit Generalbaß;
 Gojowy, Detlef: Lied und Sonntag in Gesangbüchern der Bach-Zeit. Zur Frage des "Detempore" bei Chorälen in Bachs Kantaten;
@@ -115,7 +115,7 @@ Tomescu, Vasile: Bedeutung und Werte der Musik Beethovens in der rumänischen Mu
 Felix, Werner: Werner: Zur Tradition der Beethoven-Pflege des Gewandhaus-Orchesters;
 Nestjew, Israil: Musik Beethovens in Sowjetrußland;
 Lammel, Inge: Zur Beethoven-Rezeption in der deutschen Arbeiterbewegung;
-Elsner, Jürgen: Zur Beethoven-Rezeption Hanns Eislers; 
+Elsner, Jürgen: Zur Beethoven-Rezeption Hanns Eislers;
 Niemann, Konrad: Beethoven-Ehrung 1927 und ihre Probleme;
 Schneider, Frank: Zur Kritik der spätbürgerlichen Beethoven-Deutung;
 Pleßke, Hans-Martin: Das Beethoven-Bild in der erzählenden Literatur;
@@ -127,7 +127,7 @@ Czerny, Peter: Die Beethoven-Gesamtausgabe des VEB Deutsche Schallplatten, Ergeb
 Der klassische Realismus Ludwig van Beethovens:
 Brockhaus, Heinz Alfred: Konflikthaftigkeit und Idealität im klassischen Realismus Ludwig van Beethovens;
 Rudolph, Johanna: Realismus und Antizipation in Werken Ludwig van Beethovens, Zur Wechselwirkung der Künste am Beispiel der "Egmont"-Musik und des "Fidelio"-Problems in Shakespeares "Cymbeline";
-Jarustowski, Boris: Zum Problem der Entstehung des "Fidelio"; 
+Jarustowski, Boris: Zum Problem der Entstehung des "Fidelio";
 Pischner, Hans; Zur Interpretation des "Fidelio";
 Kraft, Günther: Quellenstudien zur thematischen Konzeption des "Fidelio"
 Viertel, Karl-Heinz: Beethovens Oper "Leonore";
@@ -153,7 +153,7 @@ Kremljow, Juri: Der unvergängliche Wert Beethovens;
 Uszkoreit, Hans-Georg; Über Beethovens Verhältnis zur musikalischen Volkskultur;
 Richter, Lukas: Beethoven und die Gassenhauer seiner Zeit;
 Lissa, Zofia; Bearbeitungen polnischer Volkslieder von Beethoven;
-Pečman, Rudolf; Ludwig van Beethoven und Jiři Antonin Benda; 
+Pečman, Rudolf; Ludwig van Beethoven und Jiři Antonin Benda;
 Fleischhauer, Günter; Beethoven und die Antike;
 Köhler, Karl-Heinz; Beethovens literarische Kontakte - Ein Beitrag zum Weltbild des Komponisten;
 Herre, Grita: Aus der Arbeit an Beethovens Konversationsheften, Zu speziellen Untersuchungsergebnissent
@@ -163,7 +163,7 @@ Zschoch, Frieder: Zum gegenwärtigen Stand der Beethoven-Editionen;
 
 Probleme der Beethoven-Interpretation:
 Gülke, Peter: Zum Verhältnis von Intention und Realisierung bei Beethoven;
-Rebling, Eberhard: Der Künstler und unser heutiges Publikum; 
+Rebling, Eberhard: Der Künstler und unser heutiges Publikum;
 Goldschmidt, Harry: Beethovens Anweisung zum Spiel der Cramer-Etüden;
 Sasse, Konrad: Bemerkungen zur Berücksichtigung des Klanges historischer Hammerflügel für die Interpretation Beethovenscher Klavierwerke auf modernen Instrumenten;
 Poniatowska, Irena; Zur Frage der Interpretation von Beethovens Klavierwerken;
@@ -278,23 +278,23 @@ In der Gewandhaustradition kommt der Beethoven-Pflege besondere Bedeutung zu, Sc
 
 40 Festschrift der Hochschule für Musik "Franz Liszt" Weimar zum hundertsten Jahrestag ihrer Gründung als Orchesterschule (1872/1972). Hrsg. von einem Red.-Kollektiv unter d. Leitung von Edgar Hartwig. - [Weimar: Hochschule für Musik 1972.] 234 S., zahlr. Abb.
 
-Die Festschrift enthält Beiträge folgender Autoren: 
+Die Festschrift enthält Beiträge folgender Autoren:
 Michel, Paul: Die Orchester- und Musikschule bis 1902;
-Kraft, Günther u. Paul Michel: Die Musikschule von 1902-1918; 
+Kraft, Günther u. Paul Michel: Die Musikschule von 1902-1918;
 Michel, Paul, Edgar Hartwig u. Kurt Thomas: Die Staatliche Musikschule bzw. Hochschule für Musik von 1918-1945;
 Schmidt, Gerhard: Der antifaschistisch-demokratische Neuaufbau der Weimarer Musikschule nach 1945;
 Jung, Hans Rudolf: Die Entwicklung der Musikschule zu einer sozialistischen Ausbildungsstätte (1951-1967);
-Slomma, Horst: Die Weiterführung der sozialistischen Umgestaltung an der Franz-Liszt-Hochschule entsprechend den Anforderungen der entwickelten sozialistischen Gesellschaft; 
+Slomma, Horst: Die Weiterführung der sozialistischen Umgestaltung an der Franz-Liszt-Hochschule entsprechend den Anforderungen der entwickelten sozialistischen Gesellschaft;
 Cilensek, Johann u. Edgar Hartwig: Das Internationale Musikseminar der DDR in Weimar;
 Ehlers, Fritz: Zur Arbeit als Violinpädagoge;
 Großmann, Helmut: Die Entwicklung der Abteilung Schulmusikerziehung seit 1946;
 Hartwig, Edgar: Zur Entwicklung und zu aktuellen Problemen des marxistisch-leninistischen Grundlagenstudiums an der Franz-Liszt-Hochschule;
-Jahn, Dieter: Das Kammerorchester der Franz-Liszt-Hochschule; 
+Jahn, Dieter: Das Kammerorchester der Franz-Liszt-Hochschule;
 Kirmße, Herbert: Zum Unterricht in Komposition;
-Köhler, Johannes Ernst: Die Fachrichtung Orgel - Cembalo; 
+Köhler, Johannes Ernst: Die Fachrichtung Orgel - Cembalo;
 Kremers, Hans u. Horst Reichenbach: Die Opernschule;
 Lerche, Juliane: Über Aufmerksamkeit und Textstudium. Notizen zum Übestil des Pianisten;
-Misgaiski, Kurt: Bemerkungen zur Ausbildung von Bläsern; 
+Misgaiski, Kurt: Bemerkungen zur Ausbildung von Bläsern;
 Möckel, Siegfried: Die Spezialschule für Musik;
 Peter, Ursula: Entstehung und Entwicklung der Abteilung Volksmusikerziehung;
 Zimmermann, Helmar: Das Tonstudio der Franz-Liszt-Hochschule.
@@ -383,7 +383,7 @@ Nach Darlegung der Geschichte wissenschaftlicher Forschungen zum Vibrato wird ei
 61 Goldhan, Wolfgang: Felix Mendelssohn Bartholdys Lieder für gemischten Chor und Männerchor. - Ms., ungedr., Berlin 1972, 13 S.
 
 Mendelssohn schuf in seinem letzten Lebensjahrzehnt ca. 50 Lieder für vier Singstimmen auf Texte zeitgenössischer Dichter, davon über 20 Männerchöre, obwohl er gegen diese Gattung Abneigung hegte. An Hand der Analysen von Melodie, Harmonie, Satztechnik und Textvorlagen im Vergleich mit den politischen und künstlerischen Zeitströmungen werden Überlegungen angestellt, welches die äußeren und inneren Triebkräfte waren, die den Komponisten veranlaßten, Chorlieder zu schreiben. Aus der Untersuchung ergibt sich folgendes: Die Lieder für vier Singstimmen stellten für Mendelssohn ein Bindeglied zwischen den Forderungen der Zeit nach Gemeinschaftsbildung sowie musikalischer Volksbildung und der Sehnsucht nach Geborgenheit dar, wie sie der Komponist in der Harmonie seiner Jugendjahre erlebt hatte. Diese Ideale wollte er in eine andere, neue Konflikte hervorbringende Zeit transformieren und seinen Zeitgenossen als praktischen Beitrag zu Reformen im gesellschaftlichen und musikalischen Leben entgegenstellen.
- 
+
 62 Goldschmidt, Harry: Der späte Beethoven - Versuch einer Standortbestimmung. - In: Bericht über den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin. - Berlin: Verlag Neue Musik 1971. S. 41-58.
 
 Der Aufarbeitung des späten Beethoven unter marxistischen Gesichtspunkten kommt insofern besonders aktuelle Bedeutung zu, als die spätbürgerliche Beethovenrezeption das Spätwerk in Anspruch nimmt, um es besonders gegen das mittlere "heroische” auszuspielen. An Adornos Beethoven-Exegese wird deutlich, daß die Positionen des späten Beethoven dazu dienen sollen, den mittleren abzuwerten. Die Hypothese, wonach der späte Beethoven des heroischen Stiles müde geworden ist, weil er den Klassizismus der Klassik durchschaut habe, ignoriert das intakte Citoyenbewußtsein des späten Beethoven (Neuntel). Die Abkehr vom "falschen Zeitgeist" (lies: Restauration) bedeutet nicht die Preisgabe der "moralischen" Positionen des früheren und mittleren Beethoven, vielmehr ihre Bewahrung unter gesellschaftlich und auch persönlich immens erschwerten Bedingungen. Die Affirmation der heroischen Periode setzt sich dialektisch in der Kontestation der unheroischen Restauration fort. Die Ode an die Freude, für Beethoven Devisenstoff seit seiner Jugend, läßt sich bis in die letzten Quartette nachweisen.
@@ -434,7 +434,7 @@ E.T.A. Hoffmann wurzelte als Komponist in den Traditionen des 18. Jahrhunderts, 
 
 74 Haake, Claus: Zur Erarbeitung von Werken G.F. Händels im Chor des Kombinates VEB Chemische Werke Buna. - In: Musikforum. 17 (1972) 3, S. 4-7.
 
-Es wird die besondere Verantwortung der Arbeiterchöre in den Großbetrieben herausgestellt, die die vorbildliche Aneignung des humanistischen Erbes einschließt. Die Erfahrungen dieses Chores bei der Erarbeitung von Werken Händels werden dargelegt und daraus folgende Forderungen abgeleitet: 1. sich auf einen Komponisten zu spezialisieren; 2. die Werke in der Originalgestalt aufzuführen und besonders Streichungen und verfälschende Übersetzungen zu vermeiden. 3. vom Wesen Händelscher Musik ausgehend, allen Chorsängern den Zugang zu ihr zu erschließen. Im Zusammenhang mit der Arbeit des Chores geht der Artikel auf Probleme der Chorpraxis ein. 
+Es wird die besondere Verantwortung der Arbeiterchöre in den Großbetrieben herausgestellt, die die vorbildliche Aneignung des humanistischen Erbes einschließt. Die Erfahrungen dieses Chores bei der Erarbeitung von Werken Händels werden dargelegt und daraus folgende Forderungen abgeleitet: 1. sich auf einen Komponisten zu spezialisieren; 2. die Werke in der Originalgestalt aufzuführen und besonders Streichungen und verfälschende Übersetzungen zu vermeiden. 3. vom Wesen Händelscher Musik ausgehend, allen Chorsängern den Zugang zu ihr zu erschließen. Im Zusammenhang mit der Arbeit des Chores geht der Artikel auf Probleme der Chorpraxis ein.
 
 75 Haake, Claus: Aktuelle Fragen unserer Musikkultur. - In: Musik und Gesellschaft. 22 (1972), S. 520-527.
 
@@ -443,7 +443,7 @@ Das auszugsweise abgedruckte Referat geht von der wissenschaftlich begründeten 
 76 Händel - Jahrbuch 1971. Hrsg. v. d. Georg-Friedrich-Händel-Gesellschaft. (Schriftl.: Walther Siegmund-Schultze). Jg 17. - Leipzig: VEB Deutscher Verlag für Musik 1971. 136 S.
 
 Das Händel-Jahrbuch 1971 enthält folgende Beiträge: Siegmund-Schultze, Walther: Epochenbegriff der Musik des 18. Jahrhunderts; Larsen, Jens Peter: Epochenstil - Generationsstil; Rudolph, Johanna: Über das Verhältnis von Aufklärung und Klassik bei Händel; Young, Percy: Zur Bedeutung von Barock und Rokoko im England des 18. Jahrhunderts; Rackwitz Werner: Georg Philipp Telemanns Stellung in der Epoche der Aufklärung; Kersten, Wolfgang: Zur Inszenierung der Oper "Rodelinda": Meyer, Ernst Hermann: Zu einigen Fragen der Periodisierung der Musik des 17. und 18. Jahrhunderts; Hill, Cecil: Die Abschrift von Händels "Wassermusik" in der Sammlung Newman Flower; Die Biographien G. F. Händels und G, Ph. Telemanns aus Johann Matthesons "Grundlage einer Ehrenpforte"; Schaefer, Hansjürgen: Johanna Rudolph "Händelrenaissance"; Rechenschaftsbericht von der Mitgliederversammlung der Georg-Friedrich-Händel-Gesellschaft; Rückblick auf die Händel-Jahrbücher 1955-1970.
- 
+
 77 Hansen, Mathias: Forum "Musik in der DDR" 1972. - In: Mitteilungen der Deutschen Akademie der Künste zu Berlin. 10 (1972) 4, S. 18-19.
 
 Zielstellung ist, die Wechselwirkung zwischen kulturpolitischen und künstlerischen Prozessen darzustellen und am Beispiel einiger charakteristischer Werke verschiedener Genres wesentliche Kriterien sozialistisch-realistischer Kunst zu erörtern.
@@ -546,7 +546,7 @@ Für die Nutzbarmachung spieltheoretischer Ansätze in der marxistischen Ästhet
 
 102 Hüttel, Walter: Beethovens Bedeutung für das kulturelle Leben einer ländlichen Schrittmachergemeinde in der DDR. - In: Bericht über den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin. - Berlin: Verlag Neue Musik 1971. S. 203-205.
 
-Das Beispiel der Genossenschaftsbauern der LPG "Lenin" in Marzahna, Kreis Jüterbog, die gemeinsam mit allen gesellschaftlichen Kräften der Gemeinde in aktiver zielstrebender Weise tiefer in die Bereiche der Kultur einzudringen versuchen, wird dargestellt. Der neugegründete gemischte Chor bot eine würdige Beethoven-Ehrung: die Leitung der LPG erteilte einen Kompositionsauftrag "Marzahner Festmusik" an Walter Hüttel. Die Ergebnisse einer systematisch durchgeführten Meinungsforschung beweisen, wie sehr sich die Menschen um ein persönliches Verhältnis zu Kultur und zu künstlerichen Werten bemühen. Sie vollziehen damit einen wichtigen Schritt zur Verwirklichung der marxistischen Kulturpolitik. 
+Das Beispiel der Genossenschaftsbauern der LPG "Lenin" in Marzahna, Kreis Jüterbog, die gemeinsam mit allen gesellschaftlichen Kräften der Gemeinde in aktiver zielstrebender Weise tiefer in die Bereiche der Kultur einzudringen versuchen, wird dargestellt. Der neugegründete gemischte Chor bot eine würdige Beethoven-Ehrung: die Leitung der LPG erteilte einen Kompositionsauftrag "Marzahner Festmusik" an Walter Hüttel. Die Ergebnisse einer systematisch durchgeführten Meinungsforschung beweisen, wie sehr sich die Menschen um ein persönliches Verhältnis zu Kultur und zu künstlerichen Werten bemühen. Sie vollziehen damit einen wichtigen Schritt zur Verwirklichung der marxistischen Kulturpolitik.
 
 103 Hüttel, Walter: Zur Geschichte des Musikverlags im südwestlichen Sachsen. - In: Quellenstudien zur Musik, Wolfgang Schmieder zum 70. Geburtstag. - Frankfurt [usw.]: Peters 1972. S. 95-102.
 
@@ -574,11 +574,11 @@ Das Jahrbuch der Komischen Oper Berlin XII (1971/72) enthält folgende Beiträge
 Grigorowitsch, Juri: Synthese der Traditionen;
 Martinoty, Jean-Louis; Die zweifache Originalität der "Carmen";
 Herz, Joachim: Klassiker-Rezeption und epische Spielweise auf der Musikbühne;
-Krause, Ernst: Traum und Wirklichkeit des Eros; 
+Krause, Ernst: Traum und Wirklichkeit des Eros;
 Schlegel, Klaus: Don Quichote;
 Krause, Ernst: Charme, Poesie, Klugheit - die Sopranistin Irmgard Arnold;
-Sobolewskaja, Olga; Stanislawskis Opern-Arbeit; 
-Heinrich, Rudolf: Bei der Arbeit an "Katja Kabanowa”, 
+Sobolewskaja, Olga; Stanislawskis Opern-Arbeit;
+Heinrich, Rudolf: Bei der Arbeit an "Katja Kabanowa”,
 Zusammenstellungen und Übersichten:
 Die Sänger-Darsteller der Komischen Oper 1947/1972 und ihre Partien;
 Leitende künstlerische Vorstände;
@@ -846,7 +846,7 @@ Es handelt sich um einen Beitrag zu Ernst Hermann Meyers Geburtstagskolloquium i
 
 Es werden Fragen behandelt, mit welchem Leserkreis der Autor von Schallplattenbegleittexten zu rechnen hat und wie das Verhältnis von allgemeiner und spezialisiert musiktheoretischer Information als günstig einzuschätzen sei. Auch auf die äußere Form der Schallplattentaschen wird eingegangen.
 
-174 Mainka, Jürgen: Georg Knepler zum fünfundsechzigsten Geburtstag. - In Bulletin des Musikrates der DDR. 9 (1972), S. 11-14. 
+174 Mainka, Jürgen: Georg Knepler zum fünfundsechzigsten Geburtstag. - In Bulletin des Musikrates der DDR. 9 (1972), S. 11-14.
 
 Würdigung.
 
@@ -1106,7 +1106,7 @@ Bei der Untersuchung der Problematik der elbslawisch-sorbischen Musik vom 6.-12.
 
 Eingehende Untersuchung über Leben, Werk und gesellschaftliche Bedeutung des Begründers der sorbischen Kunstmusik (1822-1904). Besondere Grundlage der Betrachtung bilden neueste Forschungsergebnisse.
 
-238 Rebling, Eberhardt: Der Künstler und unser heutiges Publikum. - In: Bericht über den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin. - Berlin: Verlag Neue Musik 1971, S. 533-536.
+238 Rebling, Eberhard: Der Künstler und unser heutiges Publikum. - In: Bericht über den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin. - Berlin: Verlag Neue Musik 1971, S. 533-536.
 
 Ausgehend von dem für die Musik gültigen Kommunikationssystem: Schaffensprozeß-Kunstwerk-Prozeß des Nachschaffens das interpretierte Kunstwerk - Rezeptionsprozeß, wird das Wechselverhältnis des Interpreten zum Hörer am Beispiel Beethovens kurz dargelegt. Im Gegensatz zu der subjektivisch-heroisierenden und der mechanistisch-formalistischen Interpretationsweise und in Fortsetzung der bürgerlichen Musikpflege werden die Forderungen für eine dem Zeitalter des Sozialismus gemäße Beethoven-Interpretation formuliert.
 
@@ -1332,7 +1332,7 @@ Es wird versucht, von musikphilosophischer Warte aus eine Wertbestimmung des in 
 
 294 Schönfelder, Gerd: Die Musik der Peking-Oper. Bd 1.2. - Leipzig: VEB Deutscher Verlag für Musik 1972. (1) 288 S.; (2) 64 S.
 
-Erste Publikation dieser Art über das ostasiatische Musiktheater. An 70 Werken der weltberühmten Peking-Oper werden im Hinblick auf Melodik, Wort-Ton-Beziehungen, Musizierformen etc. vorgenommen. Es wurde damit die musizierpraxis des ban-Prinzips, einer Opernmusikpraxis vorkompositorischer Stufe erschlossen. Die Eruierung melodischer Gerüstgestalten sowie deren ständig sich erneuerende musikpraktische Umsetzung und die Entdeckung der spezifischen metrisch-rhythmischen Zuordnungsmodelle der unterschiedlichen Texte zur Musik vermitteln völlig neue Einblicke in das Musizieren. Außerdem wird ein wissenschaftsgeschichtlicher Überblick über die chinesiche Musik- und Theaterwissenschaft der letzten fünfzig Jahre gegeben. Umfangreiches farbiges Bildmaterial, ein Glossarium und eine Fülle von Notenbeispielen machen das Werk äußert instruktiv. 
+Erste Publikation dieser Art über das ostasiatische Musiktheater. An 70 Werken der weltberühmten Peking-Oper werden im Hinblick auf Melodik, Wort-Ton-Beziehungen, Musizierformen etc. vorgenommen. Es wurde damit die musizierpraxis des ban-Prinzips, einer Opernmusikpraxis vorkompositorischer Stufe erschlossen. Die Eruierung melodischer Gerüstgestalten sowie deren ständig sich erneuerende musikpraktische Umsetzung und die Entdeckung der spezifischen metrisch-rhythmischen Zuordnungsmodelle der unterschiedlichen Texte zur Musik vermitteln völlig neue Einblicke in das Musizieren. Außerdem wird ein wissenschaftsgeschichtlicher Überblick über die chinesiche Musik- und Theaterwissenschaft der letzten fünfzig Jahre gegeben. Umfangreiches farbiges Bildmaterial, ein Glossarium und eine Fülle von Notenbeispielen machen das Werk äußert instruktiv.
 
 295 Schönfelder, Gerd Zum Gebrauch der Schlaginstrumente im traditionellen chinesischen Musiktheater. - In: Studia Musicologica Academiae Scientiarum Hungaricae 1971. 13 (1972), S. 137-176.
 
@@ -1396,9 +1396,9 @@ Am Beispiel des von Manfred Schubert im Auftrage komponierten "Laager Quartetts"
 
 310 Schütz, - Heinrich Schütz 1585-1672. (Hrsg. im Heinrich-Schütz-Jahr 1972 durch d. Räte d. Kreise Gera-Land, Weißenfels u. Zeitz. Red.: W. Siegmund-Schultze, Festheft.) - (Gera-Land usw.: Rat d. Stadt 1972.) 35 S. [Umschlagt.:] Heinrich Schütz, Festtage 1972.
 
-Das Heinrich-Schütz-Heft enthält Beiträge folgender Autoren: 
+Das Heinrich-Schütz-Heft enthält Beiträge folgender Autoren:
 Köhler, Siegfried: Heinrich Schütz heute;
-Petzoldt, Richard: Heinrich Schütz in unserer Zeit; 
+Petzoldt, Richard: Heinrich Schütz in unserer Zeit;
 Siegmund-Schultze, Walther: Heinrich Schütz - erster Klassiker der deutschen Musik;
 Schmiedecke, Adolf: Heinrich Schütz' Beziehungen zu Köstritz, Gera, Weißenfels und Zeitz;
 Bach, Ingo: Bildnisse von Heinrich Schütz.
@@ -1414,7 +1414,7 @@ Identifizierung einiger Abschriften von Vokalwerken und Instrumentalkonzerten J.
 313 Schulze, Hans-Joachim: J. S. Bach’s Concerto-arrangements for Organ - Studies or commissioned Works? - In: The Organ Yearbook, 3 (1972), S. 4-13.
 
 Interpretation der Konzertbearbeitungen für Orgel bzw. Cembalo BWV 592 - 596 und 972 - 987 als Auftragswerke für Johann Ernst von Sachsen-Weimar, der vermutlich einen Teil der Vorlagen (vor allem Konzerte von Antonio Vivaldi) aus den Niederlanden mit nach Weimar brachte. Die Entstehung ist zwischen Juli 1713 und Juli 1714 anzusetzen.
- 
+
 314 Schulze, Helmut: Zum Aufbau von fachrelevanten Motivationen im Musikunterricht auf der Grundlage allgemeiner Lerneinstellungen der Schüler. - In: Bulletin des Musikrates der DDR. 8 (1972), S. 79-83.
 
 Ausgangspunkt sind Erkenntnisse sowjetischer Wissenschaftler und Psychologen der DDR, Lernerfolge im Musikunterricht hängen auch in entscheidendem Maße von einer optimalen Motivierung ab, ihre Reduzierung allein auf intellektuelle Potenzen erscheint fragwürdig. Vom Pädagogen wird große Variabilität in allen pädagogischen Funktionen, im Schaffen von Vorausetzungen und Bildungen verlangt, um Motivstrukturen herauszubilden und zu festigen. Dabei kommt es auf die Wechselwirkung des individuellen und gesellschaftlichen Bezugs der Motive an. Durch die Schaffung einer vielfältigen Motivsituation und resultierenden hohen Aktivität der Schüler im musikalischen Bereich, ist es möglich, Begabungen und Talente zu erkennen und eine entsprechende Förderung anzusetzen.
@@ -1527,7 +1527,7 @@ In der Arbeit werden Prinzipien einer semantischen Analyse entwickelt, die von d
 
 Aus den beiden Bänden der Originalausgabe von Steinitz, die 1954 und 1962 im Akademie-Verlag erschienen sind, wurden für diesen Band von Dr. Strobach u. a, Lieder aus dem Bauernkrieg, gegen Söldnerdienst und Krieg (18. und 19. Jahrhundert), aus dem ersten Weltkrieg sowie aus dem Kampf gegen Reaktion und Faschismus für den Sieg des Sozialismus 1918 bis 1933 ausgewählt. Die historischen und liedkundlichen Kommentare zu jedem Lied wurden etwas gekürzt. Insgesamt enthält der Band 84 Volkslieder. Diese Ausgabe soll besonders der Singebewegung unter der Jugend viele Anregungen vermitteln.
 
-341 Szekus, Reinhard u. Hans-Joachim Rothe (Hrsg.): Felix Mendelssohn Bartholdy. Briefe aus Leipziger Archiven. - Leipzig: VEB Deutscher Verlag für Musik 1972. 289 S.
+341 Szeskus, Reinhard u. Hans-Joachim Rothe (Hrsg.): Felix Mendelssohn Bartholdy. Briefe aus Leipziger Archiven. - Leipzig: VEB Deutscher Verlag für Musik 1972. 289 S.
 
 Von den 146 in diesem Bande veröffentlichten Briefen Mendelssohns werden 97 erstmals der Öffentlichkeit im Druck übergeben. Die Dokumente zeigen den Komponisten als liebenswerten Menschen, großen Künstler und glänzenden Organisator, der auch als sozialdenkender Leiter stets für die Belange seiner Orchestermusiker eintrat. Mendelssohn tritt dem Leser nicht nur als Begründer des Weltruhmes des Gewandhausorchesters, als künstlerischer und Studienrektor des Leipziger Konservatoriums entgegen, sondern auch als Anreger und Beförderer des ersten Bachdenkmals in Deutschland.
 
@@ -1539,7 +1539,7 @@ Ausgangspunkt ist die These, daß sich die Spezifik der Filmmusik aus der Dramat
 
 Die Verwendung von Musik im Film wurzelt seit den Anfängen in einem komplizierten Geflecht artifizieller Traditionen, circensischer Konventionen, technischer Erfordernisse, vulgär-psychologisierender und kommerzieller Erwägungen. Modus und Funktion der eingesetzten Musik widerspiegeln innerhalb jeder Filmgattung über die spezifischen musikalisch-ästhetischen Kategorien Aspekte des jeweiligen Welt- und Menschenbildes der Autoren. Bisherige Filmmusikgeschichte zeigt hinsichtlich Gestaltung und Aufgabenbereich der meisten Partituren die Dominanz jener ästhetischen Modelle, die nach Heinrich Besseler keine synthetisch-aktive Rezeptionshaltung, sondern Hingabebereitschaft eines passiv lauschenden Hörers verlangen. Die Musikautoren beim Fernsehfilm der DDR stehen vor der bisher nur in Einzelfällen bewältigten Aufgabe, solche filmmusikalischen Gestaltungsmethoden zu erproben, die die Dramaturgie und intendierte Aussage des zeitgenössischen Fernsehfilms effektiv unterstützen. Eine Analyse der Vor- und Abspannmusiken Günter Kochans zum mehrteiligen Fernsehfilm "Die Verschworenen" belegt die dramaturgisch überzeugende Nutzung der genrespezifisch neuartigen Möglichkeit einer aus der Fabelentwicklung sich ableitenden evolutionären thematisch-motivischen Arbeit.
 
-344 Thilmann, Johannes Paul u. Betty Heiß: Fidelio F. Finke zum 80. Geburtstag. - In: Mitteilungen der Deutschen Akademie der Künste. 10 (1972) 1, S. 18-19.
+344 Thilman, Johannes Paul u. Betty Heiß: Fidelio F. Finke zum 80. Geburtstag. - In: Mitteilungen der Deutschen Akademie der Künste. 10 (1972) 1, S. 18-19.
 
 Gedenkworte anläßlich des 80jährigen Geburtstages des 1968 verstorbenen Komponisten. Es wird die künstlerische und geistige Universalität, die mit einer natürlichen menschlichen Güte und kauzigem Humor gepaart war, herausgestellt und die enge Verknüpfung des Werkes mit der Persönlichkeit des Künstlers, die "von den geistigen und künstlerischen Strömungen der ersten Hälfte des 20. Jahrhunderts" geprägt war, hervorgehoben.
 
@@ -1604,7 +1604,7 @@ Die wechselvolle und überraschende Dynamik in der Musik des 18. Jahrhunderts is
 
 Die Frage des historischen Standortes des "Fidelio" wird durch historische Analyse des Gegenstandes und der Position des "Fidelio" unter dem Aspekt seines zeitgenössischen Anlasses und Hintergrundes aufgezeigt. In der Diskussion werden die drei Stilebenen, die antizipatorische Haltung des die Finallösungen, Schlüsselfiguren, ihre konzeptionelle Anlage und Verankerung, historisch-konkrete und zugleich gegenwärtig-interessierende Fabelerzählung, die Rolle des Volkes, soziale Differenzierung und Begründung, Übergang von individueller zu kollektiver Handlung, Leonores Handeln und die Beziehung Rocco-Leonore.
 
-360 Zauft, Karin: Möglichkeiten der Wiederbelebung der komischen Oper des 18. Jahrhunderts. - Ein Beitrag zur Unterkonzeptionell-stilistischen Spezifik der komischen Oper des 18. Jahrhunderts als Voraussetzung ihrer werkgetreuen Realisierung für das heutige Musiktheater. - Halle, Phil. Diss. 1972. 211 S. 
+360 Zauft, Karin: Möglichkeiten der Wiederbelebung der komischen Oper des 18. Jahrhunderts. - Ein Beitrag zur Unterkonzeptionell-stilistischen Spezifik der komischen Oper des 18. Jahrhunderts als Voraussetzung ihrer werkgetreuen Realisierung für das heutige Musiktheater. - Halle, Phil. Diss. 1972. 211 S.
 
 Die Arbeit konzentriert die Problematik auf die für die Musiktheaterpraxis notwendige Erarbeitung der geistigen und stilistischen Substanz der Gattung als Ausgangspunkt für die Profilierung des Begriffs "Werktreue” bezüglich der bürgerlich-aufklärerischen komischen Oper der Vormozartzeit. Der historische Teil zeigt die Entwicklung auf, die Comique, Buffa und Singspiel hinsichtlich der Darstellung des bürgerlichen Menschenbildes in Dramaturgie und Aufführungsstil umfassen. Das Komische wird in seiner von der Aufklärung vorgegebenen Spezifik als entscheidendes Prinzip für Thematik und Struktur herausgestellt. Zentral erscheint die Frage der allmählichen Profilierung der Opernhandlung durch die Musik, die die nationalen Unterschiede bezüglich der Wiederbelebung beeinflußt. Der zweite Teil orientiert auf die Funktionstüchtigkeit von Komik und Konfliktgestaltung für die Gegenwart. Die Komik wird in ihren Modifikationen als stilbildendes Mittel wie auch zur Verdeutlichung des dargestellten Menschenbildes formuliert. Die allgemeinen theoretischen Erörterungen finden ihre Konkretisierung in der Konzeptionsanalyse von Gretrys Oper "L'Amant jaloux".
 
@@ -1624,7 +1624,7 @@ Eine Neuausgabe von Werken eines Komponisten erfordert seitens des Verlags syste
 
 Ausgehend von einer der Interpretationspraxis erwachsenen Forderung Kurt Masurs nach dringend notwendiger wissenschaftlicher Überprüfung der gebräuchlichen Neuausgaben Beethoven-scher Werke anhand authentischen Quellenmaterials, wird ein Überblick einiger Entwicklungsprobleme des deutschen Musikverlagswesens am Beispiel der Beethoven-Editionen geboten. Dem Hinweis auf Otto Jahns kritische Reflexionen zur ersten Beethoven-Gesamtausgabe (Breitkopf & Härtel 1862-65) folgen Einschätzungen neuerer Editionen (Paul Mies, Willy Hess, Hermann Koller u. a.) vor allem Beethovenseber Klavierwerke, Anhand einer kritischen Neuausgabe der Diabelli-Variationen durch Peter Hauschild kann nachgewiesen werden, wie trächtig und notwendig neue Quellenforschungen sein können.
 
-Nachtrag: 
+Nachtrag:
 
 N 1 Gülke, Peter: Zum Verhältnis von Intention und Realisierung bei Beethoven,. - In: Bericht über den Internationalen Beethoven-Kongreß 10.-12. Dezember 1970 in Berlin, - Berlin : Verlag Neue Musik 1971, S. 517-532.
 
@@ -2089,7 +2089,7 @@ F 119 Petermann, Kurt: Funktion und Formen des Tanzes zwischen 1800 und 1914. - 
 
 Ziel der Studie ist, die gesellschaftlichen Funktionen des Tanzes in ihrer ganzen Breite darzustellen. Dabei sollen besonders ästhetische Kategorien der Tanzkunst für diese Zeitepoche eliminiert und ihre enge Verwurzelung mit der gesellschaftlichen Entwicklung dargelegt werden. Es handelt sich hier um den Versuch einer Gesamtschau aller Tanzformen vom Gesellschaftstanz über Volkstanz bis zum Bühnentanz, der in diesem Zeitraum seinen ersten künstlerischen Höhepunkt fand. Die Arbeit gliedert sich in 5 Kapitel: I. Zur Historiographie des Tanzes im 19. Jahrhundert; II. Das Wesen und Werden des Volks- und Gesellschaftstanzes; III. Die Tänze: Überblick über die wichtigsten charakteristischen Volks- und Gesellschaftstänze im 19. Jahrhundert und ihre Geschichte; IV. Der Bühnentanz im 19. Jahrhundert in Deutschland; V. Das Verhältnis der Gegenwart zum Tanz des 19. Jahrhunderts.
 
-F 120 Pleßke, Hans-Martini: Das Leipziger Musikverlagswesen und seine Beziehungen zu namhaften Komponisten. - Leipzig, Phil, Diss., Beginn: 1972; Abschluß: 1973.
+F 120 Pleßke, Hans-Martin: Das Leipziger Musikverlagswesen und seine Beziehungen zu namhaften Komponisten. - Leipzig, Phil, Diss., Beginn: 1972; Abschluß: 1973.
 
 Die Dissertation ist ein Beitrag zum Anteil Leipzigs an der Geschichte des Musikalienhandels im 19. und zu Beginn des 20. Jahrhunderts. Den Ausgangspunkt der Betrachtung bildet eine Analyse des Musikverlagswesens in Deutschland, wobei u.a. der Warencharakter der Musik, der Einfluß des kapitalistischen Musiklebens, das Nachdruckunwesen sowie die Wirksamkeit des Vereins der Deutschen Musikalienhändler im Zusammenhang mit der politischen und ökonomischen Situation untersucht werden. Es folgt von 14 Verlagen ein geschichtlicher Abriß, dem sich die Würdigung der Beziehungen zu 20 bedeutenden Komponisten - von Ludwig van Beethoven bis Arnold Schönberg - anschließt. Ausgewertet werden auch bisher unveröffentlicht gebliebene Archivmaterialien. Die Untersuchungsergebnisse der Dissertation möchten auch Ökonomen, Germanisten, Buchhändler und Verleger an einen Themenkomplex heranführen, der mit eine Grundlage für die Ausschöpfung unseres reichen musikalischen Erbes bildet.
 
@@ -2270,51 +2270,51 @@ Anacker, August Wilhelm 4
 Analyse 51, 71, 77, 206, 220, 246, 293, 339, 361, F 32, F 45, F 46, F 60, F 82, F 112, F 136, F 147, F 155
 Analyse, Methodik F 82, F 162
 Arbeiterlied 159
-Arbeitermusikbewegung 158 
+Arbeitermusikbewegung 158
 Arbeitermusikforschung 28, F 20
-Arbeitersängerbewegung F 21 
+Arbeitersängerbewegung F 21
 Arie 327
 Arnold, Irmgard 142
-Asriel, Andre 264 
+Asriel, Andre 264
 Aufführungspraxis 63, 355, F 146, F 161
-Aufklärung 231, 255 
+Aufklärung 231, 255
 Auftragswesen 75, 20 9, 2 70, 346, F 108, F 109
 Avantgardismus 20
 
-Bach, Johann Bernhard 7, 218 
-Bach, Johann Sebastian 7, 8, 212, 213, 281, 291, F 8, F 23, F 137 
-Bach-Dokumente 311 
-Bach-Forschung 312, 313 
-Bach-Interpretation 285 
-Bach-Pflege F 126 
+Bach, Johann Bernhard 7, 218
+Bach, Johann Sebastian 7, 8, 212, 213, 281, 291, F 8, F 23, F 137
+Bach-Dokumente 311
+Bach-Forschung 312, 313
+Bach-Interpretation 285
+Bach-Pflege F 126
 Bänkelsang 245
 Balginstrumente F 92
 Ballett 18, 65, 138, 198, 239, F 72
 Bartók, Béla 112, F 29
 Beat 36
 Becher, Johannes Robert F 61
-Beethoven, Ludwig van 10, 13, 22, 27, 41, 49, 62, 63, 70, 87, 88, 92, 93, 102,	106, 115, 134, 135, 136, 166, 170, 183, 226, 230, 244, 246, 253, 254, 288, 305, 338, 347, 348, 349, 364, F 46, F 66, F 104, F 118, F 153, F 155, F 157	
+Beethoven, Ludwig van 10, 13, 22, 27, 41, 49, 62, 63, 70, 87, 88, 92, 93, 102,	106, 115, 134, 135, 136, 166, 170, 183, 226, 230, 244, 246, 253, 254, 288, 305, 338, 347, 348, 349, 364, F 46, F 66, F 104, F 118, F 153, F 155, F 157
 Beethoven-Belletristik	227
-Beethoven-Bild 10, 15, 41, 93, 124, 186, 199, 227 
+Beethoven-Bild 10, 15, 41, 93, 124, 186, 199, 227
 Beethoven-Bild, spätbürgerliches 289
 Beethoven-Ehrung 10
 Beethoven-Interpretation 49, 238, 260
-Beethoven-Pflege 39, 214 
+Beethoven-Pflege 39, 214
 Beethoven-Rezeption 29, 62, 158, 214, 216, 326
 Beethoven-Rezeption, spätbürgerliche 62
 Berlin F 117, F 124
 Berliner Sinfonie-Orchester 23
-Berlioz, Hector 125 
+Berlioz, Hector 125
 Bibliographie 144, 235, F 4, F 94
 Bildung, musikalische 78
 Biographie 133
 Blockflöte F 43
 Brahms, Johannes 2
-Brecht, Bertolt F 142	
-Bühnenmusik, siehe Schauspielmusik				
-Bülow, Hans von F 131	
+Brecht, Bertolt F 142
+Bühnenmusik, siehe Schauspielmusik
+Bülow, Hans von F 131
 Butting, Max F 10
-	
+
 Cembalo 132, F 35, F 59
 Chanson 34, 210
 Chorbewegung F 90
@@ -2340,15 +2340,15 @@ Eisler, Hanns 21, 29, 31, 32, 33, 66, 160, 276, 370, F 2, F 60, F 69, F 129
 Engels, Friedrich 193
 Erbekonzeption 168, 252
 Erberezeption 90, 186, 257, 338, F 48
-Erfurt 213, F 15	
+Erfurt 213, F 15
 Erkenntnistheorie 101
 
 Fernsehen F 50
 Fernsehfilmmusik 342, 343, F 149
 Filmmusik, DDR 51, 69
 Finale F 3
-Finke, Fidelio F 344 
-Folklore 57, 239 
+Finke, Fidelio F 344
+Folklore 57, 239
 Franck, Cesar 71
 Friderici, Daniel F 25, F 91
 
@@ -2381,15 +2381,15 @@ Hiller, Johann Adam 358
 Hörfähigkeit F 55
 Hoffmann, Ernst Theodor Amadeus 73
 
-Improvisation 59, 305, F 85 
-Indy, Vincent d’ 125 
-Instrumentalkonzert 16, 17, 37, 361, F 6, F 14, F 154, F 162 
+Improvisation 59, 305, F 85
+Indy, Vincent d’ 125
+Instrumentalkonzert 16, 17, 37, 361, F 6, F 14, F 154, F 162
 Instrumentalmusik 28, F 20, F 56, F 98
-Instrumentenbau F 140 
-Instrumentenkunde F 47, F 59, F 93 
+Instrumentenbau F 140
+Instrumentenkunde F 47, F 59, F 93
 Interpretation 207, 226, F 153
 Interpretation, Theorie 63, F 88
-Intonation F 93 
+Intonation F 93
 Introduktion F 133
 
 Janáček, Leoš F 135
@@ -2435,7 +2435,7 @@ Medek, Tilo 53, 161, 266, F 125
 Meiningen F 111
 Mendelssohn Bartholdy, Felix 4, 61, 126, 133, 144, 154, 235, 243, 251, 297, 298, 341, 350, F 17, F 42
 Mendelssohn-Rezeption 350
-Metastasio, Pietro 357 
+Metastasio, Pietro 357
 Metronom 356
 Meyer, Ernst Hermann 91, 172, 248, 292
 Monsigny, Pierre Alexandre 171
@@ -2446,7 +2446,7 @@ Musical 45, 211
 Musik, sorbische 130
 Musikästhetik 22, 124, 125, 179, 181, 276, 293, 361, F 39, F 41, F 46, F 56, F 60, F 76, F 127, F 136, F 164
 Musikästhetik, Geschichte F 99, F 117, F 137, F 161
-Musikbibliotheken 228 
+Musikbibliotheken 228
 Musikerziehung, allgemein 34, 35, 38, 40, 45, 48, 66, 67, 81, 91, 92, 115, 169, 197, 362, F 12, F 13, F 55, F 76, F 79, F 96, F 102, F 106, F 114, F 152, F 160
 Musikerziehung, BRD 84, F 71
 Musikerziehung, DDR 110 , 117, 192, F 98
@@ -2464,34 +2464,34 @@ Musikfilm F 87
 Musikgeschichte, allgemein 125
 Musikgeschichte, DDR F 10, F 62
 Musikgeschichte, römische F 27
-Musikgeschichte, 15. Jh, 14 
+Musikgeschichte, 15. Jh, 14
 Musikgeschichte, 16./17. Jh. F 124
-Musikgeschichte, 17. Jh. 224, F 83, F 91	
-Musikgeschichte, 17./18 Jh. 241	
+Musikgeschichte, 17. Jh. 224, F 83, F 91
+Musikgeschichte, 17./18 Jh. 241
 Musikgeschichte, 18. Jh 175, 213, 231, F4, F 18, F 95
 Musikgeschichte, 19. Jh. 22, 165, 350 , F 5, F 17, F 42, F 49, F 122, F 126, F 148
 Musikgeschichte, 19./20. Jh. 124
 Musikgeschichte, 20. Jh. F 35, F 154
-Musikgeschichtsforschung, lokale 218, 241, 284, F 63, F 67, F 84, F 89, F 111, F 113, F 144, F 150, F 163, F 165		
+Musikgeschichtsforschung, lokale 218, 241, 284, F 63, F 67, F 84, F 89, F 111, F 113, F 144, F 150, F 163, F 165
 Musikgespräch 21, 153, 156, 309
-Musikhistoriographie, Methodologie 184, 255, 256, 328 
+Musikhistoriographie, Methodologie 184, 255, 256, 328
 Musikinstrument 182, 260, 295
 Musikkritik 37, 73, 119, 277
 Musikkultur, DDR 75, 78, 81, 82, 102
 Musikkultur, sorbische 236
 Musikkultur, Sowjetunion 113
-Musikleben, DDR 6, 24, 25, 26, 40, 42, 43, 64, 57, 77, 81, 137, 154, 162, 165, 168, 172, 202, 203, 223, 263, 270, 284, 310, 336, F 43, F 143	
-Musikleben, Geschichte F 68 
+Musikleben, DDR 6, 24, 25, 26, 40, 42, 43, 64, 57, 77, 81, 137, 154, 162, 165, 168, 172, 202, 203, 223, 263, 270, 284, 310, 336, F 43, F 143
+Musikleben, Geschichte F 68
 Musikpsychologie 305, 306, 321, 324, F 102, F 114, F 138, F 139
-Musikrezeption 91, 148, 153, 156, 290, 309, 331		
-Musikschaffen, DDR 16, 17, 18, 19, 31, 32, 33, 51, 52,	53, 54, 55, 65, 83, 91,	105, 120, 121, 122, 123, 146, 161, 163, 164, 172, 176, 178, 180, 204, 205, 219, 220, 233, 248, 249, 265, 266, 268, 269, 271, 273, 279, 280, 292, 293, 300, 301, 302, 303, 304, 325, 329, 330, 333,	335, 346, 351, 352, 353, F 2, F 3, F 6, F 10, F 14, F 36, F 56, F 61, F 74, F 77, F 80, F 86, F 98, F 100, F 125, F 128, F 132, F 133, F 136, F 142,	F 149, F 151, F 158				
+Musikrezeption 91, 148, 153, 156, 290, 309, 331
+Musikschaffen, DDR 16, 17, 18, 19, 31, 32, 33, 51, 52,	53, 54, 55, 65, 83, 91,	105, 120, 121, 122, 123, 146, 161, 163, 164, 172, 176, 178, 180, 204, 205, 219, 220, 233, 248, 249, 265, 266, 268, 269, 271, 273, 279, 280, 292, 293, 300, 301, 302, 303, 304, 325, 329, 330, 333,	335, 346, 351, 352, 353, F 2, F 3, F 6, F 10, F 14, F 36, F 56, F 61, F 74, F 77, F 80, F 86, F 98, F 100, F 125, F 128, F 132, F 133, F 136, F 142,	F 149, F 151, F 158
 Musikschaffen, Sowjetunion 57, 113
 Musiksoziologie 24, 25, 215, F 64, F 97, F 164
 Musiktheater 56, 90, 108, 151, 152, 162, 219, 247, 274
 Musiktheater, außereuropäisches 295, 360
 Musiktheater, heiteres 109
 Musiktheorie F 22
-Musiktherapie 229, 317, 318, 319, 320, 322, 323, F 121 
+Musiktherapie 229, 317, 318, 319, 320, 322, 323, F 121
 Musiktherapie, Geschichte 317
 Musikverlag, Geschichte 103
 Mussorgski, Modest F 58
@@ -2533,8 +2533,8 @@ Realismus, klassischer 22, 70, 253
 Reger, Max F 105
 Repertoiregestaltung 25
 Reuter, Fritz F 37
-Revolution, Französische 175 
-Rezeption, siehe Musikrezeption 
+Revolution, Französische 175
+Rezeption, siehe Musikrezeption
 Rezeptionsforschung 9, 72, 324, F 26, F 50, F 52, F 64, F 87, F 99, F 109, F 116, F 118
 Rolland, Romain 125
 Rosenfeld, Gerhard 16, 120
@@ -2550,7 +2550,7 @@ Schauspielmusik 171, 246 282, F 2, F 77
 Schenker, Friedrich 220
 Schlager 48, F 39, F 53
 Schmidt, Eberhard 267, 353
-Schönewolf, Karl 261 
+Schönewolf, Karl 261
 Schostakowitsch, Dmitri 201, 206, 240, 275, 361, F 32, F 112, F 162
 Schubert, Franz F 99
 Schubert, Manfred 205

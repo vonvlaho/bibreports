@@ -72,13 +72,13 @@ Neumann, Werner: Das Leipziger Bosehaus als Bachgedenkstätte.
 10 Bach-Studien: Eine Sammlung von Aufsätzen./ Hrsg. von Rudolf Eller u. Hans-Joachim Schulze. [... Werner Neumann zum 65. Geburtstag]- - Leipzig: VEB Breitkopf & Härtel. - 5. - 1. Aufl. - 1975, - 180 S.: Notenbeisp., Faks. - [Sammlung <dt., engl.>]
 
 Die Publikation enthält Beiträge folgender Autoren:
-Eller, Rudolf: Gedanken über Bachs Leipziger Schaffensjahre; 
-Eppstein, Hans: Zum Formproblem bei Johann Sebastian Bach; 
+Eller, Rudolf: Gedanken über Bachs Leipziger Schaffensjahre;
+Eppstein, Hans: Zum Formproblem bei Johann Sebastian Bach;
 Gojowy, Detlef: Ein Zwölftonfeld bei Johann Sebastian Bach?: Beobachtungen am Rezitativ BWV 167, Satz 2, Takt 13-19;
 Dürr, Alfred; Bachs Kantatentexte: Probleme und Aufgaben der Forschung;
 Geck, Martin: Zur Datierung, Verwendung und Aufführungspraxis von Bachs Motetten;
 Grüß, Hans: Tempofragen der Bachzeit;
-Zavarsky, Ernest: J. S. Bachs Entwurf für den Umbau der Orgel in der Kirche Divi Blasii und das Klangideal der Zeit; 
+Zavarsky, Ernest: J. S. Bachs Entwurf für den Umbau der Orgel in der Kirche Divi Blasii und das Klangideal der Zeit;
 Schrammek, Winfried: Johann Sebastian Bach, Gottfried Silbermann und die französische Orgelkunst;
 Emery, Walter: A note on Bach's use of triplets;
 Mendel, Arthur: Meliora ac Melioranda in the two Versions Of BWV 245/1;
@@ -204,8 +204,8 @@ Die Publikation wurde nach Angaben der Bühnen der DDR zusammengestellt. Detaill
 
 Das Festheft enthält neben einer Übersicht der Veranstaltungen detaillierte Programmhinweise mit den entsprechenden wissenschaftlichen Einführungstexten und folgende musikwissenschaftliche Beiträge:
 Pischner, Hans: Bach in der Welt von heute; Schneiderheinze, Armin: Leipzig - ein Zentrum der Aufklärung 1723 bis 1750;
-Hoffmann, Winfried: 1975 - ein Jahr der Jubiläen; 
-Brattke, Gerhard: 25 Jahre Bachpflege der DDR; 
+Hoffmann, Winfried: 1975 - ein Jahr der Jubiläen;
+Brattke, Gerhard: 25 Jahre Bachpflege der DDR;
 Zschoch, Frieder: Johann Sebastian Bachs Werke in den Leipziger Musikverlagen.
 
 40 III. [drittes] Internationales Bachfest der DDR in Leipzig./ [Beiträge von Liesel Markowski, Ingeborg Allihn u. Karl-Heinz Viertel]. - In: Musik und Gesellschaft. 25 (1975), S. 641-661.
@@ -491,7 +491,7 @@ Von verschiedenen Teilgebieten der marxistisch-leninistischen Musikästhetik und
 
 108 Heinrich Schütz und seine Zeit: Bericht über d. Wiss. Konferenz d. Komitees für d. Heinrich-Schütz-Festtage d. DDR 1972./ Hrsg. v. Siegfried Köhler im Auftr. d. Vorstandes d. Arbeitskreises Heinrich Schütz im Kulturbund d. DDR. - Berlin: Kulturbund der DDR, 1974. - 117 S.
 
-Die Broschüre enthält Beiträge folgender Autoren: 
+Die Broschüre enthält Beiträge folgender Autoren:
 Rackwitz, Werner: Festansprache;
 Meyer, Ernst Hermann: Gedanken zu Heinrich Schütz musikgeschichtlicher Rolle;
 Köhler, Siegfried: Heinrich Schütz in Venedig - Die Bedeutung der musikalischen Renaissance für sein Werk;
@@ -499,7 +499,7 @@ Krause-Graumnitz, Heinz: Heinrich Schütz' schöpferische Gestaltung der zyklisc
 Siegmund-Schultze, Walther: Das Spätschaffen von Heinrich Schütz;
 Emmrich, Christian: Elend und Größe der Menschen in der deutschen Literatur des 17. Jahrhunderts;
 Petzoldt, Richard: Studien zum Sozialstatus des Musikers im 17. und 18. Jahrhundert;
-Laux, Karl: Schützsche Züge in der Musik der Gegenwart; 
+Laux, Karl: Schützsche Züge in der Musik der Gegenwart;
 Krökel, Erika: Die ETERNA-Edition Heinrich Schütz' im VEB Deutsche Schallplatten;
 Streller, Friedbert: Anmerkungen zur werkgerechten Interpretation Schützscher Musik.
 
@@ -591,7 +591,7 @@ Die Konzertplananalyse der staatlichen sinfonischen Theater-und Unterhaltungsorc
 
 Die Publikation enthält Beiträge folgender Autoren: Felix, Werner: Die Neue Bachgesellschaft?
 Schneiderheinze, Armin: Zum Gedenken an Albert Schweitzer 14. 1. 1875 - 4. 9. 1965;
-Maith, Rainer: Vierter Johann-Sebastian-Bach-Wettbewerb für Schüler und Jugendliche;
+Malth, Rainer: Vierter Johann-Sebastian-Bach-Wettbewerb für Schüler und Jugendliche;
 Domizlaff, Ilse: über die Rekonstruktion und Neugestaltung des Bachhauses in Eisenach;
 Hoffmann, Winfried: Bachpflege der Jahre 1974 und 1975 in der Deutschen Demokratischen Republik.
 
@@ -835,7 +835,7 @@ Schallplatteneinführung.
 
 Behandelt wird die Entwicklung des Johann-Sebastian-Bach-Wettbewerbes für Schüler und Jugendliche, der 1968 in Leipzig ins Leben gerufen wurde und 1975 zum 4. Male stattfand. Am Wettbewerb nehmen Schüler und Jugendliche im Alter von 6 bis 18 Jahren (Fächer Violine, Violoncello, Flöte, Trompete, Klavier, Gesang) aus der DDR teil. Er hat sich als wirksames Instrument zur Entwicklung künstlerischer Begabungen erwiesen. Die Teilnahme von Preisträgern des Bachwettbewerbes für Schüler und Jugendliche an den Internationalen Bachwettbewerben von 1972 und 1976 beweist den engen inneren Zusammenhang beider Wettbewerbe.
 
-190 Maith, Rainer: Neue Werke unserer Komponisten: Iwan Iwanow "Heldenepos". - In: Musik und Gesellschaft. 25 (1975), S. 240-241.
+190 Malth, Rainer: Neue Werke unserer Komponisten: Iwan Iwanow "Heldenepos". - In: Musik und Gesellschaft. 25 (1975), S. 240-241.
 
 Werkeinschätzung.
 
@@ -956,8 +956,8 @@ Opernbühnen in der ČSSR;
 Freeman, John W.: Ein Beispiel: Chicago;
 Rich, Maria F.: Die Opernlandkarte;
 Eaton, Quaintance: Bloomington;
-Nichelson, Denis: Studio 95 mit fünfundzwanzig Jahren; 
-Opern-Uraufführungen in den USA und Kanada seit 1945; 
+Nichelson, Denis: Studio 95 mit fünfundzwanzig Jahren;
+Opern-Uraufführungen in den USA und Kanada seit 1945;
 Opern-Ensembles in den Vereinigten Staaten von Nordamerika und in Kanada.
 
 216 Musikwissenschaftliche Literatur sozialistischer Länder: Deutsche Demokratische Republik 1945-1970./ [Im Auftr. d. Zentralinst. für Musikforschung beim Verband d. Komp. u. Musikwiss. d. DDR zsgest von Christine Ruser u. Rosemarie Mann.] - Berlin: Verlag Neue Musik, 1973. - 334 S. - [Beiträge zur Musikwissenschaft: Sonderr. Bibliographien; Bd. 3)
@@ -1231,7 +1231,7 @@ Neben einer allgemeinen Würdigung seiner universellen Persönlichkeit wird vor 
 
 Konferenzbericht.
 
-282 Schönfelder, Gerd: Der sozialistische Realismus in der Sinfonik Fritz Geißlers. - In: Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. - Berlin: Verlag Neue Musik. - Bd. 3. - 1973. - S. 124-190; 
+282 Schönfelder, Gerd: Der sozialistische Realismus in der Sinfonik Fritz Geißlers. - In: Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. - Berlin: Verlag Neue Musik. - Bd. 3. - 1973. - S. 124-190;
 
 Notenbeisp.
 
@@ -1329,10 +1329,10 @@ Die Monographie ist in folgende Kapitel aufgeteilt: Bonn 1770-1792; Wien 1792-18
 
 Das Handbuch der Musikerziehung enthält folgende Kapitel:
 1. Die Bedeutung der Kunst in Vergangenheit und Gegenwart;
-2. Die Funktion der Musik im Leben der Gesellschaft; 
-3. Probleme und Aufgaben bei der Entwicklung der musikalischen Rezeption und Selbstbetätigung im Sozialismus; 
-4. Die Verantwortung des sozialistischen Musikerziehers; 
-5. Beispiele musikalischer Analysen; 
+2. Die Funktion der Musik im Leben der Gesellschaft;
+3. Probleme und Aufgaben bei der Entwicklung der musikalischen Rezeption und Selbstbetätigung im Sozialismus;
+4. Die Verantwortung des sozialistischen Musikerziehers;
+5. Beispiele musikalischer Analysen;
 6. Zusammenfassendes zur Musikästhetik und ihrer Probleme bei der sozialistischen Musikerziehung.
 
 306 Siegmund-Schultze, Walther: Zu Fragen der Interpretation und Aufführungspraxis der Musik der frühen Aufklärungsepoche. - In: Zu Fragen der Aufführungspraxis und Interpretation von Instrumentalmusik in der ersten Hälfte des 18. Jahrhunderts./ [Konferenzbericht, 1974]. - Magdeburg; Rat d. Stadt, 1974. - S. 10-16. - (Studien zur Aufführungspraxis und Interpretation von Instrumentalmusik des 18. Jahrhunderts; H. 1)
@@ -1572,7 +1572,7 @@ Der Stilwandel in den letzten Jahrzehnten des 18. Jahrhunderts brachte auch in d
 
 364 Zu Fragen der Aufführungspraxis und Interpretation von Instrumentalmusik in der ersten Hälfte des 18. Jahrhunderts./ Konferenzbericht d. 2. wiss. Arbeitstagung Blankenburg/Harz, 13./14. Juli 1974./ [Hrsg. im Auftr. d. Rates d. Bezirkes Magdeburg, Abt. Kultur ..., Red.: Günter Fleischhauer, Walther Siegmund-Schultze u. Eitelfriedrich Thom]. - Magdeburg: Rat d. Stadt, 1974, - 50 S.: Notenbeisp. - (Studien zur Aufführungspraxis und Interpretation von Instrumentalmusik des 18. Jahrhunderts; H. 1)
 
-Thom, Eitelfriedrich: Zur Eröffnung; 
+Thom, Eitelfriedrich: Zur Eröffnung;
 Siegmund-Schultze, Walther: Zu Fragen der Interpretation und Aufführungspraxis der Musik der frühen Aufklärungsepoche;
 Koch-Rebling, Katinka: Gedanken über eine zeitgemäße Interpretation von Violinwerken aus der 1. Hälfte des 18. Jahrhunderts;
 Reichel, Friedrich: Zu einigen Fragen der Aufführungspraxis und Interpretation der Cembalo- bzw. Klaviermusik in der Mitte des 18. Jahrhunderts;
@@ -2129,19 +2129,19 @@ Auftragswesen 7, F 21, F 22, F 49, F 98, F 99
 
 Bach, Carl Philipp Emanuel F 104
 Bach, Johann Sebastian 2, 9, 10, 39, 40, 44, 58, 123, 126, 130, 155, 156, 189, 229, 231, 232, 280, 281, 287, 290, 291, 292,	311, 341, F 2, F 9, F 128, F 138
-Bach-Bibliographie 58 
-Bachbild 44, 58, 60, 280 
-Bachedition 122, 362 
+Bach-Bibliographie 58
+Bachbild 44, 58, 60, 280
+Bachedition 122, 362
 Bachehrung 123
 Bach-Forschung 8, 60, 91, 122, 123, 219, 231, 290, 291, 292, F 25, F 52
 Bachpflege 20, 27, 34, 35, 39, 40, 59, 60, 122, 123, 124, 125, 130, 189, 220, 231, 232, 268, 362, F 72, F 114
 Bach-Rezeption 27, 124, F 114
 Balázs, Béla 92
 Balginstrumente F 85
-Ballett 82, 217, 238, F 65 
+Ballett 82, 217, 238, F 65
 Ballettmusik 89
 Balsys, Eduardas 83
-Barték, Béla 65, F 47 
+Barték, Béla 65, F 47
 Bauernkrieg 159, 160, 238, 320, 321, 322
 Beat 80
 Becher, Johannes Robert F 55
@@ -2154,8 +2154,8 @@ Berg, Alban 73, 257, 288
 Berlin 78, 238, F 111
 Besseler, Heinrich 97
 Bibliographie 216
-Bildung, musische 141, 289 
-Bizet, Georges 340 
+Bildung, musische 141, 289
+Bizet, Georges 340
 Black-Box-Methode 146
 Bobrowski, Johannes 173
 Böhm, Georg 292
@@ -2212,7 +2212,7 @@ Elektroakustik F 46
 Erbekonzeption 253
 Erbepflege 242
 Erberezeption 20, 40, 44, 58, 59, 100, 110, 125, 130, 170, 189, 192, 235,
-253, 268, 304, 311, 362, F 41, F 72, F 115, F 146 
+253, 268, 304, 311, 362, F 41, F 72, F 115, F 146
 Erdmann, Günther 197
 Erfurt F 17, F 64
 Eschpai, Andrej 85
@@ -2237,7 +2237,7 @@ Frühaufklärung F 127
 Fux, Johann Joseph 360, 361
 
 Gabriel, Giovanni 158
-Gabunja, Nodar 84 
+Gabunja, Nodar 84
 Gasparini, Francesco 360, 361
 Gattung, literarische 54
 Gattung, musikalische 147, 365, F 32
@@ -2260,7 +2260,7 @@ Händel, Georg Friedrich 14, 323, 360, F 5, F 7, F 123, F 127, F 145
 Händel-Forschung 14, F 127
 Hamburg 323
 Handschriftenforschung 334
-Handschriftenkatalog 318 
+Handschriftenkatalog 318
 Handschriftenrestauration 155
 Hanell, Robert F 3, F 122
 Hanns-Eisler-Archiv 90
@@ -2275,23 +2275,23 @@ Herrmann, Peter 62, 327
 Hertel, Johann Christian 225, F 20
 Hertel, Johann Wilhelm F 20
 Hertel, Thomas 107
-Himmel, Friedrich Heinrich 243		
+Himmel, Friedrich Heinrich 243
 Hindemith, Paul 358, F 103
 Hörphysiologie 186, F 144
-Hohensee, Wolfgang 353 
-Hoffmann, Ernst Theodor 243 
+Hohensee, Wolfgang 353
+Hoffmann, Ernst Theodor 243
 Hübschmann, Werner F 88
 
 Improvisation 360
 Improvisation, instrumentale F 75
 Informationstheorie 147
 Instrumentalmusik 63, 88, 91, 151, 187, 363, F 5, F 8, F 2o, F 26, F 53, F 82
-Instrumentenbau 45, 113, 198, 363, F 85, F 126 
+Instrumentenbau 45, 113, 198, 363, F 85, F 126
 Instrumentenbau, Geschichte 198
 Instrumentenkunde 45, 114, F 33, F 54, F 85
 Instrumentenkunde, Geschichte 332
 Interpretation 106, 241, 306, F 140
-Interpretationspraxis 88 
+Interpretationspraxis 88
 Intonation 186
 Intonationstheorie F 82
 Introduktion F 122
@@ -2303,8 +2303,8 @@ Jung, Helge 5
 
 Kabalewski, Dmitri 350
 Kammermusik 22, 53, 89, 143, 249, 264, 285, 309, 313, 315, 337, 358, F 6, F 101, F 121, F 151
-Kammersinfonik 5, 12,	26, 81, 103, 196, 239, 285, 327	
-Kampflied, internationales 317	
+Kammersinfonik 5, 12,	26, 81, 103, 196, 239, 285, 327
+Kampflied, internationales 317
 Kantate 51, 246, 341,	F 128, F 138
 Kantscheli, Gija 84
 Katzer, Georg 217, 238
@@ -2360,7 +2360,7 @@ Lutoslawski, Witold 256
 
 Magdeburg F 57
 Mahler, Gustav 233
-Malige, Fred 356 
+Malige, Fred 356
 maqām 46
 Marsch F 32
 Marschner, Heinrich August 233, 243
@@ -2371,17 +2371,17 @@ Medienkonzeption 193
 Meiningen 224
 Melodik 361
 Melodram 313
-Mempell, Johann Nikolaus 292 
+Mempell, Johann Nikolaus 292
 Mendelssohn Bartholdy, Felix 157, 233, 252, F 37
 Mendelssohn-Rezeption F 134
-Metastasio, Pietro 360, 361 
+Metastasio, Pietro 360, 361
 Metrensystem, griechisches F 96
 Metrik 357
 Meyer, Ernst Hermann 4, 22, 104, 164, 222, 223, 261, 262, 276, 298, 316, 327, 333
 Meyerbeer, Giacomo 170, 191
 Militärmusik 322
 Minnegesang 94
-Mitteilungsdichte 19	
+Mitteilungsdichte 19
 Modellmethode 146
 Moltschanow, Kyrill 181
 Monteverdi, Claudio 158, 359
@@ -2389,7 +2389,7 @@ Motette 98
 Motivarbeit 95
 Mozart, Wolfgang Amadeus 110, 172, 242, 243
 Mozart-Bild 242
-Mozartforschung 242	
+Mozartforschung 242
 Münnich, Richard F 40
 Musical 13, 72, 228, 365
 Musikästhetik 19, 65, 88, 107, 116, 141, 151, 167, 172, 184, 242, 245, 301, 305, 323, 331, 341, 344, F 6, F 8, F 14, F 32, F 38, F 39, F 43, F 63, F 66, F 67, F 68, F 71, F 76, F 82, F 93, F 101, F 117, F 121, F 133, F 134, F 142, F 149
@@ -2449,43 +2449,43 @@ Musikhistoriographie, Methodologie F 94, F 96
 Musikhören 56, 77, 167, 178, 179, 180
 Musikinstrument, Struktur 114
 Musikinstrumentenmuseum F 54
-Musikkritik 6, 357 
+Musikkritik 6, 357
 Musikkultur, allgemein 47, 305
 Musikkultur, DDR 4, 6, 7, 16, 18, 27, 41, 43, 59, 62, 78, 90, 104, 115, 116, 122, 124, 126, 129, 135, 136, 137, 164, 185, 193, 206, 222, 223, 232, 262, 266, 349, F 21, F 22, F 49, F 76, F 99, F 147, F 148, F 152
 Musikkultur, sorbische 150, 236, 237
-Musikkultur, UdSSR 136 
+Musikkultur, UdSSR 136
 Musikleben, DDR 27, 39, 40, 43, 48, 49, 50, 51, 52, 62, 78, 123, 124, 125, 126, 159, 189, 206, 210, 222, 228, 238, 258, F 64, F 98, F 129, F 152
 Musikleben, Geschichte 8, 131, 230, F 57, F 62, F 64, F 74, F 111, F 120, F 146
 Musikleben, 18.-20. Jh. F 62
-Musikperiodika 165 
+Musikperiodika 165
 Musikpsychologie 86, 201, 296, 345, 346, F 71, F 124, F 125, F 130, F 144 Musikrezeption 19, 20, 167, 178, 300, F 27, F 42, F 107
 Musikschaffen, bürgerliches 73, 358
-Musikschaffen, Bulgarien 190 
-Musikschaffen, ČSSR F 124 
+Musikschaffen, Bulgarien 190
+Musikschaffen, ČSSR F 124
 Musikschaffen, DDR 4, 5, 11, 12, 18, 22, 23, 24, 25, 26, 29, 32, 42, 62, 68, 74, 75, 76, 81, 82, 102, 103, 104, 107, 139, 14o, 142, 143, 148, 15o, 163, 164, 174, 182, 188, 194, 197, 21o, 213, 217, 222, 223, 238, 246, 248, 249, 250, 254, 260, 261, 263, 264, 265, 271, 273, 274, 275, 277, 278, 282, 283, 284, 285, 286, 298, 307, 312, 313, 315, 316, 327, 329, 333, 337, 347, 348, 351, 352, 353, 356, F 1, F 3, F 6, F 8, F 14, F 21, F 34, F 35, F 55, F 67, F 70, F 76, F 84, F 88, F 90, F 91, F 110, F 113, F 121, F 122, F 147, F 15o, F 151
-Musikschaffen, Italien 218 
-Musikschaffen, Norwegen 31 
+Musikschaffen, Italien 218
+Musikschaffen, Norwegen 31
 Musikschaffen, Polen 72, 256, 330
 Musikschaffen, UdSSR 71, 83, 85, 169, 171, 181, 208, 212, 261, 303, 350, F 101, F 133, F 141
 Musikschaffen, Ungarn 65, F 47
 Musiksoziologie 80, 94, 100, 116, 133, 159, 193, 230, 320, 321, 322, 331, F 147, F 148
-Musiktheater, allgemein 13, 14, 111, 170, 215, F 124	
-Musiktheater, bürgerliches	73	
-Musiktheater, ČSSR F 124	
-Musiktheater, DDR 32, 33, 37, 38, 61, 70, 74, 75,	 102, 112, 128, 172, 173, 181, 182, 213, 247, 248, 250, 260, 265, 271, 272,286, 300, 301, 325, 329, 339, 347, 350, 366, F 3, F 76, F 108, F 122	
+Musiktheater, allgemein 13, 14, 111, 170, 215, F 124
+Musiktheater, bürgerliches	73
+Musiktheater, ČSSR F 124
+Musiktheater, DDR 32, 33, 37, 38, 61, 70, 74, 75,	 102, 112, 128, 172, 173, 181, 182, 213, 247, 248, 250, 260, 265, 271, 272,286, 300, 301, 325, 329, 339, 347, 350, 366, F 3, F 76, F 108, F 122
 Musiktheater, Funktion 61
 Musiktheater, Geschichte 3, 243, 299, 324, 340, 344, 349, F 76
 Musiktheater, heiteres 365
-Musiktheater, für Kinder F 168	
-Musiktheater, Öffentlichkeitsarbeit 111, 112	
-Musiktheater, Polen 330	
-Musiktheater, Rezeption 112, 128, F 41	
+Musiktheater, für Kinder F 168
+Musiktheater, Öffentlichkeitsarbeit 111, 112
+Musiktheater, Polen 330
+Musiktheater, Rezeption 112, 128, F 41
 Musiktheater, Theorie 110
-Musiktheater, UdSSR 71, 169, 171, 181	
+Musiktheater, UdSSR 71, 169, 171, 181
 Musiktheater, 18. Jh. 323
 Musiktheater, 19. Jh. 191
 Musiktheorie 270, 354, F 43, F 75, F 118, F 142
-Musiktheorie, griechische F 96	
+Musiktheorie, griechische F 96
 Musiktherapie 86, 294, 295, 296, 297
 
 Musiktherapie, Methodik 294
@@ -2553,20 +2553,20 @@ Salieri, Antonio 3
 Sartorio, Antonio 359
 Scarlatti, Alessandro 344, 359, 361
 Schallplatte 67
-Schallplattenedition 168 
+Schallplattenedition 168
 Schauspielmusik 252, F 1, F 84
 Schenker, Friedrich 26, 278, 285
 Schlager 80, F 46
 Schneider, Max 308
 Schönberg, Arnold 192, 207, 211, F 103
-Schoendlinger, Anton 23 
+Schoendlinger, Anton 23
 Schostakowitsch, Dmitri 169, 208, 212, 309, F 83, F 101, F 133
 Schubert, Franz 233
-Schubert, Manfred 246, 263 
-Schürmann, Georg Kaspar 323 
+Schubert, Manfred 246, 263
+Schürmann, Georg Kaspar 323
 Schütz, Heinrich 108, 158, 166, 183, 199, 235, 310, 326, F 77
 Schütz-Forschung 326
-Schütz-Rezeption 168 
+Schütz-Rezeption 168
 Schumann, Clara F 10
 Schumann, Robert 96, 152, 233, F 93, F 97
 Schweitzer, Albert 280, 314
@@ -2598,46 +2598,46 @@ Sturm-und-Drang F 89
 Suite F 90
 System, dynamisches 147
 
-Taktakischwili, Otar 84 
+Taktakischwili, Otar 84
 Tanzmusik 6, 18, 80, 328, F 27, F 46, F 91, F 92, F 147
 Tanzmusik, Geschichte F 105
-Tanztheater F 65 
-Teilsystem 146 
-Telemann, Georg Philipp 63, 132, 187, 225, 323 
-Telemann-Bild 187 
-Theaterarbeit, DDR 33 
-Theaterdokumentation, DDR 37, 38 
-Theaterzettelsammlung 1 
-Thilman, Johannes Paul 327 
-Thomanerchor 185 
-Thomasius, Christian 279 
-Thurm, Hans Joachim 68, 81 
-Tierpsychologie F 125 
+Tanztheater F 65
+Teilsystem 146
+Telemann, Georg Philipp 63, 132, 187, 225, 323
+Telemann-Bild 187
+Theaterarbeit, DDR 33
+Theaterdokumentation, DDR 37, 38
+Theaterzettelsammlung 1
+Thilman, Johannes Paul 327
+Thomanerchor 185
+Thomasius, Christian 279
+Thurm, Hans Joachim 68, 81
+Tierpsychologie F 125
 Tradition, musikalische 47, 142, 282, F 93, F 110, F 121
 Traditionslinien 253, 283, F 14, F 141
-Treibmann, Karl Ottomar 62 
-Trexler, Georg F 35 
+Treibmann, Karl Ottomar 62
+Trexler, Georg F 35
 Trickfilmmusik 342
-Triosonate F 2 
+Triosonate F 2
 Tschaikowski, Boris 85
 
 Unterhaltungsmusik 6, 80
 
-Variation F 63, F 66, F 150 
+Variation F 63, F 66, F 150
 Venedig 158
 Verhaltensforschung F 125
-Verlagswesen 99, 229, 362 
+Verlagswesen 99, 229, 362
 Verlagswesen, Geschichte 122, 233
 Vinci, Leonardo 360
 Virginal F 54
 Violine 198
 Vivaldi, Antonio 360, F 26, F 53
-Vivaldi-Forschung F 26, F 53 
-Vokalmusik, englische F 107 
-Vokalschaffen F 42, F 55 
-Vokalschaffen, 20. Jh. 53 
+Vivaldi-Forschung F 26, F 53
+Vokalmusik, englische F 107
+Vokalschaffen F 42, F 55
+Vokalschaffen, 20. Jh. 53
 Vokalsinfonik 51, 76, 89, 190, 246, 273, 284, 316, 348, F 34, F 128
-Volkskunstschaffen 7, 20 
+Volkskunstschaffen 7, 20
 Volkskunstschaffen, DDR 115, 125
 Volkslied 266
 Volksliedforschung, Automatisierung 145
@@ -2661,7 +2661,7 @@ Wolff, Christian 279
 Wolkow, Kyrill 71
 
 Zechlin, Ruth 315
-Zeno, Apostolo 360, 361 
-Ziani, Pietro Andrea 359 
-Zimmermann, Udo 284, 285 
+Zeno, Apostolo 360, 361
+Ziani, Pietro Andrea 359
+Zimmermann, Udo 284, 285
 Zumsteeg, Johann Rudolf 243

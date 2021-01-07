@@ -183,11 +183,11 @@
     </entry>
     <entry>
         <entryNo>9</entryNo>
-        <fullTitle>Bernar, Horst: Programmusik. In: Musik in der Schule, Jg. 17. 1966, H. 4, S.
+        <fullTitle>Berner, Horst: Programmusik. In: Musik in der Schule, Jg. 17. 1966, H. 4, S.
             168–175.</fullTitle>
         <people>
             <author>
-                <familyName>Bernar</familyName>
+                <familyName>Berner</familyName>
                 <givenName>Horst</givenName>
             </author>
         </people>
@@ -794,7 +794,7 @@
             </author>
             <author>
                 <familyName>Hofmann</familyName>
-                <givenName>Hans Peter</givenName>
+                <givenName>Heinz Peter</givenName>
             </author>
         </people>
         <title>War der Schlager mer ein Schlager</title>
@@ -1610,6 +1610,7 @@
         </people>
         <title>Gespräche mit Hanns Eisler</title>
         <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publisher>Henschel</publisher>
         <publicationYear>1966</publicationYear>
         <extent>S. 294-303</extent>
@@ -1633,6 +1634,7 @@
         </people>
         <title>Der Musiktheoretiker Schönberg - ein Vorläufer Hindemiths</title>
         <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publisher>Henschel</publisher>
         <publicationYear>1966</publicationYear>
         <extent>S. 726-729</extent>
@@ -1861,6 +1863,7 @@
         </people>
         <title>Rainer Kunads 'Sinofnie 64'</title>
         <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 12, S. 816-822</extent>
         <abstract> Der Artikel beinhalt die erste Inhalts- und Formanalyse der 'Sinfonie 64' des
@@ -1922,7 +1925,7 @@
             </author>
         </people>
         <title>Die Musiktheorie auf temperierter Grundlage</title>
-
+        <place>Berlin</place>
         <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 6-9</extent>
@@ -2079,7 +2082,7 @@
         <people>
             <author>
                 <familyName>Hillmann</familyName>
-                <givenName>Eva</givenName>
+                <givenName>Eva-Maria</givenName>
             </author>
         </people>
         <place>Leipzig</place>
@@ -2183,7 +2186,7 @@
         <people>
             <author>
                 <familyName>Hofmann</familyName>
-                <givenName>Hans Peter</givenName>
+                <givenName>Heinz Peter</givenName>
             </author>
             <author>
                 <familyName>Czerny</familyName>
@@ -2238,7 +2241,7 @@
         <people>
             <author>
                 <familyName>Hoke</familyName>
-                <givenName>Hans-Gunter</givenName>
+                <givenName>Hans Gunter</givenName>
             </author>
         </people>
         <title>Überlegungen zu einer Theorie der Musikwissenschaft</title>
@@ -2280,7 +2283,7 @@
         <people>
             <author>
                 <familyName>Irmer</familyName>
-                <givenName>Hans-Joachim</givenName>
+                <givenName>Hans Joachim</givenName>
             </author>
         </people>
         <title>Comment allez-vous, Madame Opérette</title>
@@ -2954,7 +2957,7 @@
         <people>
             <author>
                 <familyName>Kraft</familyName>
-                <givenName>Günter</givenName>
+                <givenName>Günther</givenName>
             </author>
         </people>
         <title>Situation und Perspektive der landeskundlichen Musikforschung</title>
@@ -3019,7 +3022,7 @@
             </author>
         </people>
         <title>Das Neue in der Musik</title>
-
+        <place>Prag</place>
         <publisher>Sonate, Jg. 20.</publisher>
         <publicationYear>1966</publicationYear>
         <extent>Nr. 38</extent>
@@ -3137,8 +3140,8 @@
             </author>
         </people>
         <title>Marschier zum Frieden... Betrachtungen zu neuen Liedern</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 5, S. 521-326</extent>
         <abstract> In der Periode der Vorbereitung der Volkswahlen 1965 in der DDR entstanden eine
@@ -3158,8 +3161,8 @@
             </author>
         </people>
         <title>Zur ethischen Funktion des deutschen KZ-Liedes</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 3, S. 148-153</extent>
         <abstract> Untersuchungen zum Liedschaffen und Liedrepertoire ehemaliger deutscher Häftlinge
@@ -3196,7 +3199,7 @@
         <title>Zur Funktion und zu den Aufgaben eines Schülerarbeitsheftes für den
             Musikunterricht</title>
         <place>Berlin</place>
-        <publisher>Musik in der Schule</publisher>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 11</extent>
         <abstract> Der Beitrag enthält kritische und ergänzende Hinweise zu dem Artikel von H.
@@ -3247,7 +3250,7 @@
         </people>
         <title>Die Renaissance und die Oper</title>
         <place>Berlin</place>
-        <publisher>Musik u. Gesellschaft</publisher>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>S. 11-20</extent>
         <abstract> "Die Wiedergeburt der Antike in der, Renaissance war.ein Teil der großen
@@ -3489,7 +3492,7 @@
             </author>
         </people>
         <title>Tonalität und Harmonik in d. französischen Chanson zwischen Machaut und Dufay</title>
-
+        <place>Stuttgart</place>
         <publisher>AfMw, Jg. XXIII.</publisher>
         <publicationYear>1966</publicationYear>
         <extent>S. 11-31</extent>
@@ -3502,18 +3505,18 @@
     </entry>
     <entry>
         <entryNo>156</entryNo>
-        <fullTitle>Markowski, Diesel: Bemerkungen zum 2. Internationalen Seminar marxistischer
+        <fullTitle>Markowski, Liesel: Bemerkungen zum 2. Internationalen Seminar marxistischer
             Musikwissenschaftler. - in: Musik u. Gesellschaft, Jg. 16. 1966, H. 2, S.
             79-84.</fullTitle>
         <people>
             <author>
                 <familyName>Markowski</familyName>
-                <givenName>Diesel</givenName>
+                <givenName>Liesel</givenName>
             </author>
         </people>
         <title>Bemerkungen zum 2. Internationalen Seminar marxistischer Musikwissenschaftler</title>
-
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 2, S. 79-84</extent>
         <abstract> Als Diskussionsgrundlage auf dem Berliner Seminar (22.6. - 27.6.1965) dienten
@@ -3588,8 +3591,8 @@
             </author>
         </people>
         <title>Grundlagen für die Arbeit mit dem Mollgeschlecht im Musikunterricht</title>
-
-        <publisher>Musik in der Schule, Jg. 17.</publisher>
+        <place>Berlin</place>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 3</extent>
         <abstract> Die Arbeit wertet vor allem die Dissertation des Autors, die sich mit
@@ -3728,7 +3731,8 @@
             </author>
         </people>
         <title>Johannes R. Becher und die Musik. Diskussionsbeitrag</title>
-        <extent>in: Sonntag, Nr. 22/66</extent>
+        <journal>Sonntag</journal>
+        <place>Berlin</place>
         <abstract> Der Beitrag erläutert die intime Bindung Bechers, an die Musik. Sie drückte sich
             besonders aus in der Verbundenheit mit klassischen Meisterwerken und mit dem Schaffen
             von Meistern unserer eigenen Zeit. Es gibt zahlreiche Beispiele, wo Becher in seiner
@@ -3805,7 +3809,7 @@
             </author>
         </people>
         <title>Gedanken zur richtigen Interpretation Vor-Händelscher Musik</title>
-
+        <place>Leipzig</place>
         <publisher>Händel-Jahrbuch</publisher>
         <publicationYear>1966</publicationYear>
         <extent>12. Jg. S. 44-48</extent>
@@ -3965,7 +3969,8 @@
             </author>
         </people>
         <title>Aufgaben und Wege der Musikerziehung ih der DDR</title>
-        <extent>in: Musik im Unterricht. Allgemeine Ausgabe. Jg. 57. H. 6</extent>
+        <journal>Musik im Unterricht</journal>
+        <place>Mainz</place>
         <abstract> Auszug eines Vortrages, den der Verfasser auf einer Arbeitstagung des
             westdeutschen Verbandes Deutscher Musikerzieher und konzertierender Künstler gehalten
             hat. Es werden die marxistische Auffassung von der Entwicklung musikalischer Begabungen
@@ -3983,7 +3988,8 @@
             </author>
         </people>
         <title>Zur Anwendung der 'Prinzipien' an den Hochschulen für Musik</title>
-        <extent>in: Das Hochschulwesen, Jg. 14. H. 5</extent>
+        <journal>Das Hochschulwesen</journal>
+        <place>Bielefeld</place>
         <abstract> Es werden Möglichkeiten der schöpferischen Umsetzung der vom Staatssekretariat
             für das Hoch- und Fachschulwesen zur Diskussion gestellten 'Prinzipien zur weiteren
             Entwicklung der Lehre und Forschung an den Hochschulen der DDR' auf die Spezifik der
@@ -4061,6 +4067,7 @@
             musikpsychologischer Forschungen in der DDR.) - in</title>
         <publicationYear>1966</publicationYear>
         <journal>Estetická yýchova (Zeitschr. für ästhetische Erziehung)</journal>
+        <place>Prag</place>
         <abstract> Es werden einige Ergebnisse musikpsychologischer Forschungen in der DDR
             referiert, so vor allem zur materialistischen Auffassung der Entwicklung musikalischer
             Fähigkeiten und Begabungen, der gleichzeitigen Entwicklung der Hör- und Singefähigkeit
@@ -4126,7 +4133,8 @@
             </author>
         </people>
         <title>Max Regers Lehrerpersönlichkeit</title>
-        <extent>in: Musik in der Schule, Jg. 17. H. 6</extent>
+        <journal>Musik in der Schule</journal>
+        <place>Berlin</place>
         <abstract> Der Artikel umreißt Regers eigenen Entwicklungsweg als Musikerzieher,
             insbesondere die Einflüsse hervorragender Musikpädagogen auf die Entstehung seiner
             pädagogischen Auffassungen und deren Auswirkungen auf die Unterrichtspraxis. Der positiv
@@ -4145,8 +4153,8 @@
             </author>
         </people>
         <title>Max Regers musikpädagogische Auffassungen</title>
-
-        <publisher>Beiträge zur Musikwissenschaft, Jg. VIII.</publisher>
+        <journal>Beiträge zur Musikwissenschaft</journal>
+        <place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 5/4, S. 259-288</extent>
         <abstract> "Wenn wir uns heute bemühen ..., Regers Bedeutung, für seine Zeit und unsere
@@ -4193,7 +4201,8 @@
         </people>
         <title>Die Musik im Leben unserer Schüler</title>
 
-        <publisher>Musik in der Schule, Jg. 17.</publisher>
+        <journal>Musik in der Schule</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 7/8</extent>
         <abstract> Es ist ein Bericht über erste Untersuchungen zu ästhetischen ethischen und
@@ -4245,7 +4254,8 @@
         </people>
         <title>Neue Untersuchungen zur Biographie von Abraham Schadaeus</title>
 
-        <publisher>Beiträge zur Musikwissenschaft, Jg. VIII.</publisher>
+        <journal>Beiträge zur Musikwissenschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 1, S. 50-55</extent>
         <abstract> "Die Veröffentlichungen über das Leben von Abraham Schadaeus zeigen seit der 1789
@@ -4269,7 +4279,8 @@
         </people>
         <title>Gedanken zur weiteren Verbesserung des Musikunterrichts</title>
 
-        <publisher>Musik in der Schule, Jg. 17.</publisher>
+        <journal>Musik in der Schule</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 4, S. 141</extent>
         <abstract> Die Auswertung des 11. Plenums des ZK der SED gibt neue Impulse zur Verbesserung
@@ -4294,7 +4305,8 @@
         </people>
         <title>'Die Asche von Birkenau.' Zu Günter Kochans neuer Solokantate</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 7, S. 453-462</extent>
         <abstract> Die Kantate 'Die Asche von Birkenau' stellt in der künstlerischen Entwicklung
@@ -4319,7 +4331,8 @@
         </people>
         <title>Wie Karl Liebknecht Musik hörte</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 7</extent>
         <abstract> Liebknechts Briefe wie auch seine 1922 veröffentlichten 'Studien über die
@@ -4341,7 +4354,8 @@
         </people>
         <title>Das Lied, der Lieder. Zu Rudolf Wagner-Régenys neuer Kantate</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 6</extent>
         <abstract> 'Schir Haschirim - Das Lied der Lieder' ist die dritte Kantate Wagner-Régenys.
@@ -4451,7 +4465,6 @@
             DDR</title>
         <place>Prag</place>
         <publicationYear>1966</publicationYear>
-        <type>Vortrag</type>
         <type>Ms. </type>
         <extent>15 S.</extent>
         <abstract> Berichtet zuerst über musiksoziologische Forschungsgruppen an den Universitäten
@@ -4500,7 +4513,8 @@
         </people>
         <title>Über das Musikgespräch</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 12, S. 812-813</extent>
         <abstract> Eine besondere Form der musikerzieherischen Arbeit wurde - spätestens nach dem
@@ -4579,7 +4593,7 @@
             </editor>
         </people>
         <title>Hanns Eisler, Lieder und Kantaten Band 11</title>
-        <extent>Leipzig: Dt. Verl. f. Musik, in Vorbereitung</extent>
+        <place>Leipzig</place>
         <abstract> Die Reihe "Lieder und Kantaten" von Hanns Eisler wird ab Band 11 zu einer
             Gesamtausgabe der Werke Eislers erweitert, die beim VBB Deutscher Verlag für Musik
             Leipzig erscheint. Band 11 enthält: 1. Die Reuen Deutschen Volkslieder 2. Jugend- und
@@ -4600,7 +4614,7 @@
             </editor>
         </people>
         <title>Hanns Eisler, Lieder und Kantaten Band 12</title>
-        <extent>Leipzig: Dt. Verl. f. Musik, in Vorbereitung</extent>
+        <place>Leipzig</place>
         <abstract> Der Inhalt des 12. Bandes: Kantaten und Lieder aus der Zeit vor 1933. (Z)
         </abstract>
     </entry>
@@ -4782,7 +4796,8 @@
         </people>
         <title>Festival mit guten Namen. Zu den 15. Händel-Festspielen in Halle</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 6, S. 361-371</extent>
         <abstract> Seit 1952 finden in Halle alljährlich Händel-Festspiele statt. Ausgehend von
@@ -4802,7 +4817,8 @@
         </people>
         <title>Gespräche zur Oper. Über Referate und Diskussionen</title>
 
-        <publisher>Theater der Zeit, Jg. 21.</publisher>
+       <journal>Theater der Zeit</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 2, S. 12-14 und H. 4, S. 23-24</extent>
         <abstract> Im November 1965 wurde vom Zentrum DDR des Internationalen Theaterinstituts in
@@ -4846,7 +4862,8 @@
         </people>
         <title>Die Harmonik der modernen Tanz und Jazzmusik</title>
 
-        <publisher>Melodie u. Rhythmus, Jg. 10.</publisher>
+       <journal>Melodie u. Rhythmus</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 10 ff</extent>
         <abstract> Diese Artikelserie soll den Berufs- und Laienmusikern helfen, die komplizierten
@@ -5054,7 +5071,8 @@
         </people>
         <title>Tanzstücke des Berliner Biedermeier. Folklore an der Wende zur
             Kommerzialisierung</title>
-        <publisher>Dt. Jahrb. d. Musikwiss. f.</publisher>
+        <publisher>Dt. Jahrb. d. Musikwiss.</publisher>
+        <place>Leipzig</place>
         <publicationYear>1965'1965</publicationYear>
         <extent>(67. Jg. d. Jahrb. d. Musikbibl. Peters), S. 31-56</extent>
         <abstract> "Zwischen dem mündlich überlieferten, improvisierend und variierend
@@ -5080,7 +5098,8 @@
         <title>Zwischen Volkslied und Schlager, Notizen zur Geschichte des Berliner
             Gassenhauers</title>
 
-        <publisher>Beiträge zur Musikwissenschaft, Jg. VIII.</publisher>
+        <journal>Beiträge zur Musikwissenschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 3/4, S. 193-214</extent>
         <abstract> In diesem Artikel wird die Geschichte des Berliner Gassenhauers skizziert, der
@@ -5124,6 +5143,7 @@
         </people>
         <title>Oper im Funk</title>
         <journal>Musik u. Gesellschaft</journal>
+        <place>Berlin</place>
         <extent>S. 8-14</extent>
         <abstract> Untersucht wurden, hierzu zwei Sendereihen des Rundfunkprogramms innerhalb eines
             Zeitraumes von 3 Monaten. Die Titel der beiden Sendereihen lauten: 'Beliebte
@@ -5172,7 +5192,8 @@
         </people>
         <title>Fünf unveröffentlichte Briefe Max Regers und seine Leipziger Zeit</title>
 
-        <publisher>Beiträge zur Musikwissenschaft, Jg. VIII.</publisher>
+        <journal>Beiträge zur Musikwissenschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 3/4</extent>
         <abstract> Der 50. Todestag Regers war Anlaß, fünf bisher unbeachtete Briefe, die an die
@@ -5284,7 +5305,7 @@
             </author>
         </people>
         <title>Zur Wirkungsgeschichte des 'Judas Maccabaeus'</title>
-
+        <place>Halle</place>
         <publisher>Festschr. d. Händel-Festspiele</publisher>
         <publicationYear>1966'1966</publicationYear>
         <abstract> Ausgehend von der musiktheoretischen Auffassung, daß es für die Musik keine
@@ -5385,7 +5406,8 @@
         <title>Moderne Kunst - sozialistische Kunst. Gedanken nach der 11. Tagung des ZK der
             SED</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 2, S. 73-78, H. 3, S. 145-147</extent>
         <abstract> "Die Diskussionen, die inzwischen in Auswertung der 11. Tagung des
@@ -5413,7 +5435,8 @@
         <title>Heue Themen - neue Fragestellungen. Bemerkungen zum Internationalen
             Musikwissenschaftlichen Kongreß in Leipzig</title>
 
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
+<place>Berlin</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 12, S. 799-801</extent>
         <abstract> Es wird ein Überblick über den organisatorischen Ablauf des Internationalen
@@ -5538,7 +5561,7 @@
             </author>
         </people>
         <title>Polarismus in der Melodik, demonstriert an den Kirchentönen</title>
-
+        <place>Berlin</place>
         <publisher>Wiss. Zschr. d. Humboldt-Univ. Berlin, Ges.-Sprachw. R., Jg. XV.</publisher>
         <publicationYear>1966</publicationYear>
         <extent>H. 3 (Gedenkschrift Fritz Reuter)</extent>
@@ -5730,7 +5753,7 @@
         </people>
         <title>Briefe zur Oper</title>
         <place>Berlin</place>
-        <publisher>Theater der Zeit</publisher>
+        <journal>Theater der Zeit</journal>
         <publicationYear>1956</publicationYear>
         <extent>H. 13, S. 22-25, H. 15, j S. 26-27 u. H. 19, S. 15-16</extent>
         <abstract> Der Briefwechsel zwischen H.-G. Otto und H. Seeger soll dazu dienen, Probleme des
@@ -6182,6 +6205,7 @@
         </people>
         <title>Händels Opern</title>
         <publisher>Sowjetskaja Musyka</publisher>
+        <place>Moskau</place>
         <publicationYear>1966</publicationYear>
         <extent>H. 9</extent>
         <abstract> Der Beitrag faßt Ergebnisse der Händalopernranaissance in Halle zusammen.
@@ -6255,7 +6279,7 @@
         </people>
         <title>Meister des Streichquartetts. Eine stilkritische Betrachtung</title>
         <place>Berlin</place>
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H 9, S. 596-601</extent>
         <abstract> Diese stilkritische Betrachtung ist dem Streichquartett-Schaffen Dmitri
@@ -6412,7 +6436,7 @@
         </people>
         <title>Das Subharchord - Mittel zur Gewinnung einer neuen Klangkunst</title>
         <place>Berlin</place>
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 11, S. 729-753</extent>
         <abstract> Im vorliegenden Beitrag wird kurz der Einfluß der Elektronik auf die Musikpraxis
@@ -6636,7 +6660,7 @@
         </people>
         <title>Bachprobleme und Bachpflege in der Arbeitersängerbewegung</title>
         <place>Berlin</place>
-        <publisher>Beiträge zur Musikwissenschaft</publisher>
+        <journal>Beiträge zur Musikwissenschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 1</extent>
         <abstract> Der Artikel behandelt ein Spezialproblem der Arbeitersängerbewegung der 20er
@@ -6730,11 +6754,11 @@
     </entry>
     <entry>
         <entryNo>307</entryNo>
-        <fullTitle>Voigt, Hans: Das Arbeiterlied. - Stendal: Volksdruckerei 1966, 23 S.</fullTitle>
+        <fullTitle>Voigt, Hans-Hermann: Das Arbeiterlied. - Stendal: Volksdruckerei 1966, 23 S.</fullTitle>
         <people>
             <author>
                 <familyName>Voigt</familyName>
-                <givenName>Hans</givenName>
+                <givenName>Hans-Hermann</givenName>
             </author>
         </people>
         <title>Das Arbeiterlied</title>
@@ -6915,7 +6939,7 @@
         </people>
         <title>Psychologische Untersuchungen zur Erlangung der Singefähigkeit</title>
         <place>Berlin</place>
-        <publisher>Musik in der Schule, Jg. 18.</publisher>
+        <journal>Musik in der Schule</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 2</extent>
         <abstract> Behandelt neue Aspekte der Gesangspädagogik unter Berücksichtigung der
@@ -6950,7 +6974,7 @@
         </people>
         <title>Fritz Geißlers II. Sinfonie</title>
         <place>Berlin</place>
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 2, S. 91-98</extent>
         <abstract> "In der 1962/64 als Auftragswerk für das 800jährige Leipzig komponierten II.
@@ -7017,7 +7041,7 @@
         </people>
         <title>Albert Schweitzer und sein Leipziger Musikverlag</title>
         <place>Berlin</place>
-        <publisher>Musik u. Gesellschaft, Jg. 16.</publisher>
+        <journal>Musik u. Gesellschaft</journal>
         <publicationYear>1966</publicationYear>
         <extent>H. 5, S. 315-320</extent>
         <abstract> Es wird die Entstehungs- und Verlagsgeschichte von Albert Schweitzers Bach-Buch
@@ -7055,7 +7079,6 @@
         <title>Methoden der Melodie-Analyse und soziologische Untersuchungen bei der Rezeption von
             Tanz-Unterhaltungsmusik</title>
         <type>Forschungsarbeit u. Dissertation</type>
-        <place>Halle</place>
         <org>Inst. f. Musikwiss. Halle</org>
         <place>Halle</place>
         <publicationYear>1966</publicationYear>
@@ -7075,7 +7098,6 @@
         </people>
         <title>Musikalische Landschaftsforschung. Inventarisierung II</title>
         <type>Forschungsarbeit</type>
-        <place>Halle</place>
         <org>Inst. f. Musikwiss. Halle</org>
         <place>Halle</place>
         <startingYear>1966</startingYear>
@@ -7181,7 +7203,7 @@
         <people>
             <author>
                 <familyName>Donath</familyName>
-                <givenName>Paul</givenName>
+                <givenName>Paul Wilhelm</givenName>
             </author>
         </people>
         <title>Akkustische Untersuchungen der Vibration bei Gesangsstimmen und ihre Bedeutung für
@@ -7561,8 +7583,8 @@
                 <givenName>Eberhard</givenName>
             </author>
             <author>
-                <familyName>Werner</familyName>
-                <givenName>Kaden</givenName>
+                <familyName>Kaden</familyName>
+                <givenName>Werner</givenName>
             </author>
         </people>
         <title>Untersuchungen über die Wirkung der Musik auf die Persönlichkeitsentwicklung d
@@ -7612,13 +7634,13 @@
     </entry>
     <entry>
         <entryNo>F 24</entryNo>
-        <fullTitle>Preu, Utto: Untersuchungen zur musikalischen Leistungsfähigkeit
+        <fullTitle>Preu, Otto: Untersuchungen zur musikalischen Leistungsfähigkeit
             cerebralgeschädigter Kinder. - Forschungsarbeit und Habilschrift am Päd. Inst. Erfurt,
             1956 ff.</fullTitle>
         <people>
             <author>
                 <familyName>Preu</familyName>
-                <givenName>Utto</givenName>
+                <givenName>Otto</givenName>
             </author>
         </people>
         <title>Untersuchungen zur musikalischen Leistungsfähigkeit cerebralgeschädigter

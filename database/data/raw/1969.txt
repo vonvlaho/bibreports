@@ -487,7 +487,7 @@ Die Musikpflege an der alten Erfurter Universität, die einst zu den berühmtest
 
 115 Otto, Hans-Gerald: Musical hierzulande. Ein Bericht und einige Erwägungen. - In: Musik u. Gesellschaft. 19 (1969), S. 722-727.
 
-Im Gegensatz zu den schablonisierten Kreationen des bürgerlichen Unterhaltungsbetriebes sollen Wesen und Gehalt des heiteren Musiktheaters in der DDR auf die gesellschaftliche Wirklichkeit hinlenken. Bei der Untersuchung der Spezifik heitermusikalischer Gestaltungsweise sind die Ergebnisse rezeptions- und kommunikationswissenschaftlicher Forschung einzubeziehen. (Hans Rübesame) 
+Im Gegensatz zu den schablonisierten Kreationen des bürgerlichen Unterhaltungsbetriebes sollen Wesen und Gehalt des heiteren Musiktheaters in der DDR auf die gesellschaftliche Wirklichkeit hinlenken. Bei der Untersuchung der Spezifik heitermusikalischer Gestaltungsweise sind die Ergebnisse rezeptions- und kommunikationswissenschaftlicher Forschung einzubeziehen. (Hans Rübesame)
 
 116 Otto, Hans-Gerald: Nicht nur der Prinz hat zugenommen. - In: Theater der Zeit. 24 (1969), H. 4, S. 20-24.
 
@@ -1039,7 +1039,7 @@ Ergebnisse: Die Aktivierung der Zuwendungsbereitschaft beim Beginn des Unterrich
 
 F 51 Hillmann, Eva-Maria: Das Massenlied. Zum Begriff und zur Entwicklungsgeschichte in der DDR seit 1945. Beginn: 1968; Abschluß: 1970. Diss., Leipzig.
 
-Ziel: Die Dissertation soll ein Beitrag zur Klärung des Begriffs 'Massenlied' sein und gleichzeitig die Entwicklung unseres sozialistischen Liedgutes nach 1945 nachzeichnen. Methoden: Es wird versucht, die Erkenntnisse der dialektischen Logik über Kennzeichen, Inhalt, Umfang, Klassifizierung von Begriffen, über Begriff und Wirklichkeit, über das Verhältnis von Bewegung, und Beständigkeit der Begriffe, über das geschichtliche Moment in der Dialektik der über die Veränderung des Umfangs und Inhalts durch Veränderung der objektiven Realität stark gesellschaftlich determinierten musikalischen Begriff 'Massenlied' anzuwenden. Damit soll einerneuter Beweis für die enge Verbindung von gesellschaftlicher und musikhistorischer Entwicklung angetreten werden. Der 2. Teil der Dissertation basiert auf einer umfangreichen Materialsammlung, die die Voraussetzung für eine gewisse Gruppierung des Liedgutes bildete. Die Liedgruppen verdeutlichen bestimmte historische Einschnitte. 
+Ziel: Die Dissertation soll ein Beitrag zur Klärung des Begriffs 'Massenlied' sein und gleichzeitig die Entwicklung unseres sozialistischen Liedgutes nach 1945 nachzeichnen. Methoden: Es wird versucht, die Erkenntnisse der dialektischen Logik über Kennzeichen, Inhalt, Umfang, Klassifizierung von Begriffen, über Begriff und Wirklichkeit, über das Verhältnis von Bewegung, und Beständigkeit der Begriffe, über das geschichtliche Moment in der Dialektik der über die Veränderung des Umfangs und Inhalts durch Veränderung der objektiven Realität stark gesellschaftlich determinierten musikalischen Begriff 'Massenlied' anzuwenden. Damit soll einerneuter Beweis für die enge Verbindung von gesellschaftlicher und musikhistorischer Entwicklung angetreten werden. Der 2. Teil der Dissertation basiert auf einer umfangreichen Materialsammlung, die die Voraussetzung für eine gewisse Gruppierung des Liedgutes bildete. Die Liedgruppen verdeutlichen bestimmte historische Einschnitte.
 
 F 52 Hingst, Alfred: Musiklehre und Musikleben an der Universität Rostock von ihrer Gründung 1419 bis zum Ende des 18. Jahrhunderts. - Diss., Rostock. Beginn: 1964; Abschluß: 1970.
 
@@ -1304,7 +1304,7 @@ Gegenstand: Spezielle Probleme der Liedanalyse. Einige Aspekte der musikalischen
 
 F 114 Schneider, Ernst: Hans von Bülow - Pianist und Dirigent. - Diss., Berlin. Beginn: 1966.
 
-F 115 Schönrelder, Gerd: Das "Yuemu cizi" in seiner schlagrhythmischen und formstrukturellen Gestaltung. - Diss., Leipzig 1969. 238 S.
+F 115 Schönfelder, Gerd: Das "Yuemu cizi" in seiner schlagrhythmischen und formstrukturellen Gestaltung. - Diss., Leipzig 1969. 238 S.
 
 Siehe unter 149.
 
@@ -1405,7 +1405,7 @@ Akkordeon F 76
 Akustik 30, 70
 Analytik F 38, F 113, F 125
 Arabische Musik F 22, F 23
-Arbeitergesang F 130 
+Arbeitergesang F 130
 Arbeiterinstrumentalmusik F 17
 Aufführungspraxis 10, 67, 109, 185. F 32, F 72
 Aufklärung 131
@@ -1439,7 +1439,7 @@ Dresden 15, 16, F 13, F 57, F 75
 Edition 4, 19, 22, 23, F 41, F 117
 Editionswesen 21, F 3, F 139
 Eisenach F 108
-Eisler, Hanns 12, 65, 189 
+Eisler, Hanns 12, 65, 189
 Elektronische Datenverarbeitung 62, 174
 Erfurt 114, F 12
 
@@ -1448,8 +1448,8 @@ Flamenco 43
 Fredrich, Günter 31
 Fürnberg, Louis 93
 
-Gershwin, George 26 
-Gewandhaus-Orchester 36 
+Gershwin, George 26
+Gewandhaus-Orchester 36
 Gitarrenliteratur F 134
 Grimma F 121
 Gründgens, Gustav 107
@@ -1464,10 +1464,10 @@ Hohensee, Wolfgang 140
 Hornbostel, Erich M. von F 26
 
 Impressionismus F 44
-Improvisation 66, 67, F 71 
+Improvisation 66, 67, F 71
 Instrumentenbau F 116
 Instrumentenkunde 28, 3o, 76, 150, F 77
-Interpretation 61, l04, F 32 
+Interpretation 61, l04, F 32
 Intonation 78
 Intonation, Instrumente 28, 150, F 77
 Intonation, Singstimme F 122
@@ -1477,11 +1477,11 @@ Jugendmusikbewegung F 134
 
 Kantate F 68, F 94
 Kirchenmusik F 57
-Klaviermethodik F 74, F l07 
+Klaviermethodik F 74, F l07
 Klaviermusik 87, F 15, F 87, F l09, F 126, F 136
 Komposition 66, 69
 Konzert 140, 141, F 8, F 137
-Krieger, Johann Philipp F 94 
+Krieger, Johann Philipp F 94
 Kuba F 49
 Kuhnau, Johann F 87
 Kulturpolitik 166
@@ -1510,8 +1510,8 @@ Mozart, Leopold 55
 Mozart, Wolfgang Amadeus 69, 107
 Musical 115
 Musikästhetik 9, 11, 27, 52, 66, 90 162, F 1, F 31, F 36, F 38, F 39, F 45, F 106, F 128
-Musikästhetik, Geschichte F 6, F 24, F 101, F 131 
-Musikbibliotheken 190 
+Musikästhetik, Geschichte F 6, F 24, F 101, F 131
+Musikbibliotheken 190
 Musikerziehung, allgem. u. DDR 89, 94, 96, 97, 102, 112, 126, F 58, F 62, F 73, F 85, F 88, F 93, F 97
 Musikerziehung, außerschulische F 33
 Musikerziehung, Geschichte 3, 7, 55, 111, F 14, F 34, F 91, F 112, F 133
@@ -1521,26 +1521,26 @@ Musikerziehung, Schulfeiern 122, 198
 Musikerziehung, Weiterbildg. 191
 Musikerziehung, Westdeutschland 83, F 55
 Musikethnologie 43, 44, 45, 149, 174, 175, 176, F 22, F 23, F 49
-Musikgeschichte, allgemein 
-Musikgeschichte, griechische 56, 128 
+Musikgeschichte, allgemein
+Musikgeschichte, griechische 56, 128
 Musikgeschichte, römische F 27
 Musikgeschichte, Mittelalter 3, 7
 Musikgeschichte, 15. Jh. 6
 Musikgeschichte, 16. Jh. 73, F 67
-Musikgeschichte, 17. Jh. 168	
+Musikgeschichte, 17. Jh. 168
 Musikgeschichte, 18. Jh. 131, F 15, F 78
 Musikgeschichte, 19. Jh. 64, F 7
 Musikleben, DDR 32, 58, 59, 70, 71, 72, 80, 91, 119, 126, 135, 148, 165, 166, 190, F 42, F 51
 Musikleben, Geschichte 35, 114, 130, 180, F 107
 Musiklehrbuch 153
 Musikpsychologie 98, 100, 101, 102, 183, F 25, F 36, F 81, F 83, F 84, F 85, F 97
-Musikschulen 50, 126 
-Musiksoziologie F 8o, F 100 
-Musiktheorie 54, F 18, F 47 
-Musiktherapie 158, 159 
+Musikschulen 50, 126
+Musiksoziologie F 8o, F 100
+Musiktheorie 54, F 18, F 47
+Musiktherapie 158, 159
 Musikschaffen, DDR 31, 37, 38, 39, 4o, 46, 48, 49, 63, 78, 88, lo5, 113, 115, 117, 118, 125, 129, 138, 139, 140, 141, 142, 169, 177, F 8, F 10, F 51, F 65, F 68, F 69, F 111, F 119, F 128
 Musikwissenschaft, DDR 66, 92, 124, 170, 171, 172, 201, F 26, F 54, F 139
-Mussorgski, Modest F 46 
+Mussorgski, Modest F 46
 Mutation 136, F 82
 
 Neher, Caspar 106
@@ -1548,23 +1548,23 @@ Notendruck 77
 
 Offenbach, Jaques 51
 Oper 52, 75, 143, 144, 162, 163, 186, 187, 188, F 75, F 131
-Peking-Oper 149 
-Zeitgenössische Oper 60, 74, 118, 119, 12o, 129, 177, 195, F 63 
-Operette 51 
+Peking-Oper 149
+Zeitgenössische Oper 60, 74, 118, 119, 12o, 129, 177, 195, F 63
+Operette 51
 Operninszenierung u. -Interpretation 26, 42, 51, 107, 116, 117, 144, 145, 177, 178, 179, 187, F 123, F 124
-Opernpflege 120, 196, F 136 
-Oratorium 132, 133, 164 
+Opernpflege 120, 196, F 136
+Oratorium 132, 133, 164
 Orff, Carl 60, F 63
 Orgelbau 28, 30, 76, 150, F 40
 Orgelinventarisierung F 12, F 13
 
 Pfitzner, Hans 34
-Programmierung F 48 
+Programmierung F 48
 Prokofjew, Sergej 116, 145, 178, F 59, F 125
 
 Reichardt, Johann Friedrich 200
 Reprise F 106
-Restauratoren-Ausbildung 152 
+Restauratoren-Ausbildung 152
 Rezeptionsforschung 85, 86, 95, 97, 99, F 30, F 83, F 104
 Riemann, Hugo 172
 Rostock F 52
@@ -1589,7 +1589,7 @@ Sozialistischer Realismus 11, 12, 163
 Sprecherziehung F 9
 Stendal 181
 Stiluntersuchung 57, 113, 125, F 29, F 59, F 60, F 96, F 106, F 113
-Stimmstörung 123 
+Stimmstörung 123
 Stimmuntersuchungen 136, F 16
 Streichquartett 88, F 96
 

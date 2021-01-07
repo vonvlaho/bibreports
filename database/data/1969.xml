@@ -228,7 +228,7 @@
     <entry>
         <entryNo>10</entryNo>
         <fullTitle>Brandt, Konrad: Fragen zur Fagottbesetzung in den kirchenmusikalischen Werken
-            Johann Sebastian Bachs. - In: Bach-Jahrbuch 1968. 54 (1968). - Berlin-  Evangelische
+            Johann Sebastian Bachs. - In: Bach-Jahrbuch 1968. 54 (1968). - Berlin - Evangelische
             Verlagsanstalt 1969, S. 55-79.</fullTitle>
         <people>
             <author>
@@ -241,7 +241,6 @@
         <extent>S. 55-79.</extent>
         <place>Berlin</place>
         <journal>Bach-Jahrbuch</journal>
-<place>Berlin</place>
         <abstract> Die in unserer Aufführungspraxis überwiegend befolgte Regel, das Fagott
             ausschließlich in denjenigen Sätzen mitspielen zu lassen, in denen auch Oboen verlangt
             werden, hält einer kritischen Überprüfung nicht stand. Vielmehr erweist sich, daß Bach
@@ -466,7 +465,6 @@
         <extent>S. 173-205.</extent>
         <place>Leipzig</place>
         <journal>Händel-Jahrbuch</journal>
-<place>Leipzig</place>
         <abstract> Sammlung und kritische Wertung zeitgenössischer Urteile über Telemanns
             außerordentliche Produktivität, die pädagogische Zielsetzung seines Schaffens im Geist
             der Frühaufklärung, seine weltoffene Universalität in der Aneignung und Verschmelzung
@@ -487,9 +485,8 @@
         <title>Anmerkungen zu Friedrich Chrysanders Gesamtausgabe der Werke Händels und zu seiner
             Editionstechnik</title>
         <extent>S. 139-154.</extent>
-        <place>Leipzig</place>
         <journal>Händel-Jahrbuch</journal>
-<place>Leipzig</place>
+        <place>Leipzig</place>
         <abstract> Beitrag zu einer kritischen Einschätzung von Chrysanders Händel-Gesamtausgabe und
             seiner Editionsmethode anhand der Neuausgabe der Triosonaten op. 2 und op. 5 sowie der
             Oper "Orlando" in der Hallischen Händel-Ausgabe. </abstract>
@@ -695,13 +692,13 @@
     </entry>
     <entry>
         <entryNo>30</entryNo>
-        <fullTitle>Greß, Franz-Harald und Dietmar Krieger: Klanganalytische Untersuchungen der
+        <fullTitle>Greß, Frank-Harald und Dietmar Krieger: Klanganalytische Untersuchungen der
             beiden Orgeln in der Thomaskirche zu Leipzig. - In: Beiträge zur Musikwissenschaft. 11
             (1969), S.100-112.</fullTitle>
         <people>
             <author>
                 <familyName>Greß</familyName>
-                <givenName>Franz-Harald</givenName>
+                <givenName>Frank-Harald</givenName>
             </author>
             <author>
                 <familyName>Krieger</familyName>
@@ -1319,7 +1316,7 @@
         <people>
             <editor>
                 <familyName>Jung</familyName>
-                <givenName>Hans-Rudolf</givenName>
+                <givenName>Hans Rudolf</givenName>
             </editor>
         </people>
         <title>Leopold Mozart, Gründliche Violinschule. Faksimile - Nachdruck der 3. Auflage</title>
@@ -1859,7 +1856,7 @@
     </entry>
     <entry>
         <entryNo>76</entryNo>
-        <fullTitle>Krieger, Dietmar und Franz-Harald Greß: Klanganalytische Untersuchungen der
+        <fullTitle>Krieger, Dietmar und Frank-Harald Greß: Klanganalytische Untersuchungen der
             beiden Orgeln in der Thomaskirche zu Leipzig. - In: Beiträge zur Musikwissenschaft. 11
             (1969), S. 100-112.</fullTitle>
         <people>
@@ -1869,7 +1866,7 @@
             </author>
             <author>
                 <familyName>Greß</familyName>
-                <givenName>Franz-Harald</givenName>
+                <givenName>Frank-Harald</givenName>
             </author>
         </people>
         <title>Klanganalytische Untersuchungen der beiden Orgeln in der Thomaskirche zu
@@ -3888,7 +3885,7 @@
         </people>
         <title>Entwicklung und gegenwärtiger Stand der Musiktherapie</title>
         <extent>S. 32 ff.</extent>
-        <journal>Informationen der Gesellschaft für Rehabilitation. Sonderheft Sept. 1969,</journal>
+        <journal>Informationen der Gesellschaft für Rehabilitation</journal>
         <abstract> Wichtige Strömungen der Musiktherapie in den letzten 30 Jahren. Schwedische
             Musiktherapie und sozialpsychologisch orientierte Musiktherapie in den ÜSA beeinflussen
             die Entwicklung im deutschsprachigen Raum. Musiktherapeutische Zentren Wien
@@ -4911,11 +4908,11 @@
     </entry>
     <entry>
         <entryNo>F 1</entryNo>
-        <fullTitle>Ahnsel, Peter: Die historischen Theaterzettelsammlungen in der DDR und ihre
+        <fullTitle>Ahnsehl, Peter: Die historischen Theaterzettelsammlungen in der DDR und ihre
             musikwissenschaftlichen Aspekte. - Diss., Rostock. Beginn: 1968.</fullTitle>
         <people>
             <author>
-                <familyName>Ahnsel</familyName>
+                <familyName>Ahnsehl</familyName>
                 <givenName>Peter</givenName>
             </author>
         </people>
@@ -5201,7 +5198,7 @@
             Berlin. Beginn: 1966.</fullTitle>
         <people>
             <author>
-                <familyName>Dietzel</familyName>
+                <familyName>Diezel</familyName>
                 <givenName>Günther</givenName>
             </author>
         </people>
@@ -5822,7 +5819,7 @@
         <people>
             <author>
                 <familyName>Greß</familyName>
-                <givenName>Franz-Harald</givenName>
+                <givenName>Frank-Harald</givenName>
             </author>
         </people>
         <title>Die gemischten Register im historischen und zeitgenössischen deutschen
@@ -6813,7 +6810,7 @@
                 <givenName>Gudrun</givenName>
             </author>
             <author>
-                <familyName>Mühlenberg</familyName>
+                <familyName>Mühlberg</familyName>
                 <givenName>Lilo</givenName>
             </author>
         </people>
@@ -7636,11 +7633,11 @@
     </entry>
     <entry>
         <entryNo>F 115</entryNo>
-        <fullTitle>Schönrelder, Gerd: Das "Yuemu cizi" in seiner schlagrhythmischen und
+        <fullTitle>Schönfelder, Gerd: Das "Yuemu cizi" in seiner schlagrhythmischen und
             formstrukturellen Gestaltung. - Diss., Leipzig 1969. 238 S.</fullTitle>
         <people>
             <author>
-                <familyName>Schönrelder</familyName>
+                <familyName>Schönfelder</familyName>
                 <givenName>Gerd</givenName>
             </author>
         </people>

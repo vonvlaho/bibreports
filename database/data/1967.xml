@@ -417,7 +417,7 @@
             </author>
             <author>
                 <familyName>Diekow</familyName>
-                <givenName>R.</givenName>
+                <givenName>Reinhard</givenName>
             </author>
             <author>
                 <familyName>Ganzert</familyName>
@@ -425,7 +425,7 @@
             </author>
             <author>
                 <familyName>Frohberg</familyName>
-                <givenName>W.</givenName>
+                <givenName>Wolfgang</givenName>
             </author>
         </people>
         <title>Gehörbildung</title>
@@ -490,7 +490,7 @@
             </author>
             <author>
                 <familyName>Kraft</familyName>
-                <givenName>Günter</givenName>
+                <givenName>Günther</givenName>
             </author>
         </people>
         <title>Bach in Eisenach</title>
@@ -1695,8 +1695,8 @@
         </people>
         <title>Georg Philipp Telemann 1681-1767. Zum Angebot unserer Musikverlage im
             Jubiläumsjahr</title>
-
-        <publisher>Der Musikalienhandel (Börsenblatt), Jg. 13/134,</publisher>
+        <place>Leipzig</place>
+        <journal>Der Musikalienhandel (Börsenblatt)</journal>
         <publicationYear>1967</publicationYear>
         <extent>H. 4/15, S. M. 14-16.</extent>
         <abstract> Ausgehend von jüngsten Bemühungen des Arbeitskreises "Georg Philipp Telemann" im
@@ -2478,7 +2478,7 @@
         <people>
             <author>
                 <familyName>Kraft</familyName>
-                <givenName>Günter</givenName>
+                <givenName>Günther</givenName>
             </author>
         </people>
         <title>Musikgeschichte. Forschungen zur Geschichte Thüringens 1945-1965</title>
@@ -2502,7 +2502,7 @@
         <people>
             <author>
                 <familyName>Kraft</familyName>
-                <givenName>Günter</givenName>
+                <givenName>Günther</givenName>
             </author>
             <author>
                 <familyName>Bock</familyName>
@@ -4596,8 +4596,8 @@
             Bd. II, S. 87-98.</fullTitle>
         <people>
             <author>
-                <familyName>Plesske</familyName>
-                <givenName>Hans Martin</givenName>
+                <familyName>Pleßke</familyName>
+                <givenName>Hans-Martin</givenName>
             </author>
         </people>
         <title>Robert und Clara Schumann im Roman und in der Novelle</title>
@@ -4723,6 +4723,7 @@
         <title>"... der Arbeit wegen, und um dem Nächsten zu dienen". -
             Ansprache auf dem Festakt zum 200. Todestages Georg Philipp Telemanns während der 3.
             Magdeburger Telemann-Festtage vom 22.-26. Juni 1967.</title>
+        <place>Magdeburg</place>
         <publicationYear>1967</publicationYear>
         <abstract> Die Ansprache hebt aus Anlaß des 200. Todestages des Meisters die bedeutenden
             Verdienste Georg Philipp Telemanns und ihr Weiterwirken in unserer Zeit hervor. Neben
@@ -5667,12 +5668,12 @@
     </entry>
     <entry>
         <entryNo>250</entryNo>
-        <fullTitle>Schaefer, HansJürgen: Musikkritik hier und heute. - in: Musik u. Gesellschaft,
+        <fullTitle>Schaefer, Hansjürgen: Musikkritik hier und heute. - in: Musik u. Gesellschaft,
             Jg. 17. 1967, H. 4, S. 217-226.</fullTitle>
         <people>
             <author>
                 <familyName>Schaefer</familyName>
-                <givenName>HansJürgen</givenName>
+                <givenName>Hansjürgen</givenName>
             </author>
         </people>
         <title>Musikkritik hier und heute</title>
@@ -8211,7 +8212,7 @@
             Inst. f. Musikwiss. Halle.</fullTitle>
         <people>
             <author>
-                <familyName>Breitkreuz</familyName>
+                <familyName>Breitkreutz</familyName>
                 <givenName>Dieter</givenName>
             </author>
         </people>
@@ -8241,7 +8242,7 @@
         <people>
             <author>
                 <familyName>Busse</familyName>
-                <givenName>Burghard</givenName>
+                <givenName>Burkhard</givenName>
             </author>
         </people>
         <title>Musikgeschichte der Stadt Wismar von 14. bis Ende des 17. Jahrhunderts</title>
@@ -8285,7 +8286,7 @@
             Inst. f. Musikerziehung Berlin, 1966 ff.</fullTitle>
         <people>
             <author>
-                <familyName>Dietzel</familyName>
+                <familyName>Diezel</familyName>
                 <givenName>Günther</givenName>
             </author>
         </people>
@@ -8309,7 +8310,7 @@
         <people>
             <author>
                 <familyName>Donath</familyName>
-                <givenName>Paul</givenName>
+                <givenName>Paul Wilhelm</givenName>
             </author>
         </people>
         <title>Akustische Untersuchungen, der Vibration bei Gesangsstimmen und ihre Bedeutung für
@@ -8809,7 +8810,7 @@
         <people>
             <author>
                 <familyName>Hansen</familyName>
-                <givenName>Matthias</givenName>
+                <givenName>Mathias</givenName>
             </author>
         </people>
         <title>Dialektik von Werk und Ideologie bei Gustav Mahler</title>
@@ -9105,7 +9106,7 @@
         <people>
             <author>
                 <familyName>Kartomi</familyName>
-                <givenName>Margret</givenName>
+                <givenName>Margaret</givenName>
             </author>
         </people>
         <place>Berlin</place>
@@ -10006,7 +10007,7 @@
         <people>
             <author>
                 <familyName>Scharfenberg</familyName>
-                <givenName>Klaus Dieter</givenName>
+                <givenName>Klaus-Dieter</givenName>
             </author>
         </people>
         <title>Jugendlied</title>
@@ -10334,12 +10335,12 @@
     </entry>
     <entry>
         <entryNo>F 123</entryNo>
-        <fullTitle>Thom, Eltelfriedrich: Beiträge zur Musikgeschichte der Stadt Quedlinburg. -
+        <fullTitle>Thom, Eitelfriedrich: Beiträge zur Musikgeschichte der Stadt Quedlinburg. -
             Diss., Inst. f. Musikwiss. Halle.</fullTitle>
         <people>
             <author>
                 <familyName>Thom</familyName>
-                <givenName>Eltelfriedrich</givenName>
+                <givenName>Eitelfriedrich</givenName>
             </author>
         </people>
         <title>Beiträge zur Musikgeschichte der Stadt Quedlinburg</title>
@@ -10369,7 +10370,7 @@
         <people>
             <author>
                 <familyName>Voigt</familyName>
-                <givenName>Hans Hermann</givenName>
+                <givenName>Hans-Hermann</givenName>
             </author>
         </people>
         <title>Beiträge zur Musikgeschichte der Stadt Stendal</title>
