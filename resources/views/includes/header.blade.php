@@ -8,6 +8,9 @@
             <a href="{{ route('keywords.store') }}" class="is-family-monospace">
                 Register
             </a>
+            <a href="{{ route('places.store') }}" class="is-family-monospace">
+                Publikationsorte
+            </a>
             <a href="{{ route('people.store') }}" class="is-family-monospace">
                 Personenverzeichnis
             </a>
@@ -35,6 +38,11 @@
             <div class="navbar-item">
                 <a href="{{ route('keywords.store') }}" class="is-family-monospace">
                     Register
+                </a>
+            </div>
+            <div class="navbar-item">
+                <a href="{{ route('places.store') }}" class="is-family-monospace">
+                    Publikationsorte
                 </a>
             </div>
             <div class="navbar-item">

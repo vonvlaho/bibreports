@@ -6,6 +6,7 @@ use App\Entry;
 use App\Keyword;
 use App\Person;
 use App\Report;
+use App\Place;
 use Illuminate\Console\Command;
 use Mtownsend\XmlToArray\XmlToArray;
 
@@ -75,7 +76,6 @@ class ImportXml extends Command
                     'seriesTitle' => $this->extractXmlValue($sourceEntry, 'seriesTitle'),
                     'issue' => $this->extractXmlValue($sourceEntry, 'issue'),
                     'publicationYear' => $this->extractXmlValue($sourceEntry, 'publicationYear'),
-                    'place' => $this->extractXmlValue($sourceEntry, 'place'),
                     'startingYear' => $this->extractXmlValue($sourceEntry, 'startingYear'),
                     'finishingYear' => $this->extractXmlValue($sourceEntry, 'finishingYear'),
                     'finishedYear' => $this->extractXmlValue($sourceEntry, 'finishedYear'),
@@ -93,6 +93,19 @@ class ImportXml extends Command
                         }
                     } else {
                         echo $sourcePerson . " is not an person";
+                    }
+                }
+            }
+
+            if (array_key_exists('places', $sourceEntry)) {
+                foreach ($sourceEntry['places'] as $placeName) {
+                    $place = Place::updateOrCreate(
+                        [
+                            'name' => $placeName
+                        ]
+                    );
+                    if (!$place->entries->contains($entry)) {
+                        $place->entries()->attach($entry);
                     }
                 }
             }

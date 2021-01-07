@@ -3,6 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
+use PhpParser\Builder\Class_;
 
 class Entry extends Model
 {
@@ -25,5 +26,9 @@ class Entry extends Model
     public function keywords()
     {
         return $this->belongsToMany(Keyword::Class);
+    }
+    public function places()
+    {
+        return $this->belongsToMany(Place::Class);
     }
 }

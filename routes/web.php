@@ -30,3 +30,5 @@ Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.sho
 Route::get('/people', 'PeopleController@store')->name('people.store');
 Route::get('/people/{people}', 'PeopleController@show')->name('people.show');
 
+Route::get('/places', 'PlacesController@store')->name('places.store');
+Route::get('/places/{places}', 'PlacesController@show')->name('places.show');
