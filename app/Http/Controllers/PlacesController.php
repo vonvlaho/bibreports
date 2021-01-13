@@ -12,7 +12,7 @@ class PlacesController extends Controller
     public function show($id) {
         $place = Place::findOrFail($id);
         $placesCollection = $place->entries->groupBy('report.year');
-        return view('keywords.show', [
+        return view('places.show', [
                 'place' => $place,
                 'placesCollection' => $placesCollection
             ]

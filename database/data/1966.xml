@@ -2567,7 +2567,7 @@
         <title>Die Bolle der Musik im Rahmen der ästhetischen Erziehung, ihr Beitrag zur Entwicklung
             sozialistischer Persönlichkeiten</title>
         <places>
-            <place>Meißen-Siebeneichen</place>
+            <place>Meißen</place>
         </places>
         <publicationYear>1966</publicationYear>
         <type>Lehrbrief f. d. Fachschule für Klubleiter</type>
@@ -5631,7 +5631,7 @@
         </people>
         <title>Händels Rolle als Aufklärer</title>
         <places>
-            <place>Berlin.</place>
+            <place>Berlin</place>
         </places>
         <publicationYear>1966</publicationYear>
         <type>Diss. phil.</type>
@@ -6519,7 +6519,7 @@
         </people>
         <title>Probleme der Musikästhetik in der DDR</title>
         <places>
-            <place>Halle-Wittenberg</place>
+            <place>Halle</place>
         </places>
         <publisher>Wiss. Zschr. d. Univ. Halle-Wittenberg, Ges.-Sprachw. R., Jg. XIV.</publisher>
         <publicationYear>1965'1966</publicationYear>
@@ -6901,7 +6901,8 @@
         </people>
         <title>Journal of the International Folk Music Council</title>
         <places>
-            <place>London/Cambridge</place>
+            <place>London</place>
+<place>Cambridge</place>
         </places>
         <publisher>W. Helfer and Sons Ltd.</publisher>
         <publicationYear>1966</publicationYear>
@@ -7776,7 +7777,8 @@
         <type>Forschungsarbeit u. Dissertation</type>
         <org>Päd. Inst. Zwickau u. Inst. f. Musikwiss. Leipzig</org>
         <places>
-            <place>Zwickau, Leipzig</place>
+            <place>Zwickau</place>
+<place> Leipzig</place>
         </places>
         <startingYear>1966</startingYear>
         <abstract> 1. Ziel: Untersuchungen zur Entwicklung der Schülerleistungen im Teilgebiet
@@ -8481,7 +8483,7 @@
     </entry>
     <register>
         <registerEntry>
-            <item>Abart, Hermann </item>
+            <item>Abert, Hermann </item>
             <ref>28</ref>
             <ref>109</ref>
         </registerEntry>

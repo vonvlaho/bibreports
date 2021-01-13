@@ -942,7 +942,9 @@
         <title>A. Vivaldi - Concerto con quattro Violini e Violoncello obligato, op. 3, Nr.
             7</title>
         <places>
-            <place>London-Zürich-New York</place>
+            <place>London</place>
+            <place>Zürich</place>
+            <place>New York</place>
         </places>
         <publisher>Ed. Eulenburg</publisher>
         <publicationYear>1968</publicationYear>
@@ -1501,7 +1503,8 @@
         <title>Johanni Pullois Opera Omnia (Foreword)</title>
         <extent>S.</extent>
         <places>
-            <place>Rome/Dallas</place>
+            <place>Rom</place>
+            <place>Dallas</place>
         </places>
         <publisher>American Institute of Musicology</publisher>
         <publicationYear>1967</publicationYear>

@@ -2,12 +2,12 @@
 @section('content')
     <section class="section container content">
         <h2 class="title is-4">
-            {{ $places->name }}
+            {{ $place->name }}
         </h2>
         @isset( $placesCollection )
         <h3 class="subtitle is-6">Verknüpfte Einträge:</h3>
         @foreach( $placesCollection as $year => $entries )
-        <h4>{{ $year }}</h4>
+        <h4>{{ $year }} ({{ $entries->count() }})</h4>
         <ul>
             @foreach( $entries as $entry )
                 <li>

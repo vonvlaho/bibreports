@@ -1043,7 +1043,9 @@
         </people>
         <title>A. Vivaldi - Concerto con quattro Violini obligati, op. 3, No. 4</title>
         <places>
-            <place>London-Zürich-New York</place>
+            <place>London</place>
+            <place>Zürich</place>
+            <place>New York</place>
         </places>
         <publisher>Ed. Eulenburg</publisher>
         <publicationYear>1967</publicationYear>
@@ -6645,7 +6647,7 @@
         </people>
         <title>Händel-Forschung an der Universität Halle-Wittenberg</title>
         <places>
-            <place>Halle-Wittenberg</place>
+            <place>Halle</place>
         </places>
         <publisher>Wiss. Zschr. d. Martin-Luther-Univ. Halle-Wittenberg, Ges.-Sprachw. R., Jg.
             16.</publisher>
@@ -8176,7 +8178,9 @@
         </people>
         <title>A. Vivaldi - Concerto con Violino Solo obligato D-Dur, op. 3, Nr. 9</title>
         <places>
-            <place>London-Zürich-New York</place>
+            <place>London</place>
+            <place>Zürich</place>
+            <place>New York</place>
         </places>
         <publisher>Ed. Eulenburg</publisher>
         <publicationYear>1966</publicationYear>
@@ -8195,7 +8199,9 @@
         </people>
         <title>A. Vivaldi - Concerto con quattro Violini obligati D-Dur, op. 3, No. 1</title>
         <places>
-            <place>London-Zürich-New York</place>
+            <place>London</place>
+            <place>Zürich</place>
+            <place>New York</place>
         </places>
         <publisher>Ed. Eulenburg</publisher>
         <publicationYear>1966</publicationYear>

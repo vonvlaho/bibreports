@@ -98,14 +98,13 @@ class ImportXml extends Command
             }
 
             if (array_key_exists('places', $sourceEntry)) {
-                foreach ($sourceEntry['places'] as $placeName) {
-                    $place = Place::updateOrCreate(
-                        [
-                            'name' => $placeName
-                        ]
-                    );
-                    if (!$place->entries->contains($entry)) {
-                        $place->entries()->attach($entry);
+                foreach ($sourceEntry['places'] as $place) {
+                    if (is_array($place)) {
+                        foreach ($place as $placeName) {
+                            $this->updatePlace ($entry, $placeName);
+                        }
+                    } else if (is_string($place)) {
+                        $this->updatePlace ($entry, $place);
                     }
                 }
             }
@@ -148,6 +147,16 @@ class ImportXml extends Command
         );
         if (!$person->entries->contains($entry)) {
             $person->entries()->attach($entry, ['role' => $role]);
+        }
+    }
+    private function updatePlace ($entry, $placeName) {
+        $place = Place::updateOrCreate(
+            [
+                'name' => $placeName
+            ]
+        );
+        if (!$place->entries->contains($entry)) {
+            $place->entries()->attach($entry);
         }
     }
     private function updateKeyword ($sourceEntryNo, $report, $keyword) {

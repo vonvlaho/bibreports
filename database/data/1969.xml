@@ -3454,7 +3454,8 @@
         </people>
         <title>Händelrenaissance. Band II. Händels Rolle als Aufklärer</title>
         <places>
-            <place>Berlin u. Weimar</place>
+            <place>Berlin</place>
+            <place>Weimar</place>
         </places>
         <publisher>Aufbau-Verlag</publisher>
         <publicationYear>1969</publicationYear>
@@ -4930,7 +4931,9 @@
         <title>Bühnenbild und Inszenierung der italienischen Oper 1600-1700: In: Claudio Monteverdi
             e il suo tempo</title>
         <places>
-            <place>Venezia-Mantova-Cremona</place>
+            <place>Venezia</place>
+            <place>Mantova</place>
+            <place>Cremona</place>
         </places>
         <publisher/>
         <publicationYear>1968</publicationYear>
@@ -4955,7 +4958,8 @@
         </people>
         <title>Laterna Magica-Projektionen auf dem Barocktheater: In: Maske und Kothurn</title>
         <places>
-            <place>Wien u. Köln</place>
+            <place>Wien </place>
+<place> Köln</place>
         </places>
         <publisher>H. Böhlaus Nachf.</publisher>
         <publicationYear>1969</publicationYear>

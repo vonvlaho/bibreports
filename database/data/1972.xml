@@ -2742,7 +2742,7 @@
         </people>
         <title>Zur Geschichte des Musikverlags im südwestlichen Sachsen</title>
         <places>
-            <place>Frankfurt</place>
+            <place>Frankfurt a. M.</place>
         </places>
         <abstract> Auf dem Territorium der ehemaligen schönburgischen Rezeßherrschaften wie im
             angrenzenden Gebiet regten sich mancherlei verlegerische Initiativen, die das Gesamtbild
@@ -7771,7 +7771,8 @@
         <title>Dokumente zum Nachwirken Johann Sebastian Bachs, 1750-1800. Bach, Dokumente</title>
         <sameAs>Bach: Neue Ausgabe Sämtlicher Werke, Suppl.</sameAs>
         <places>
-            <place>Leipzig, Kassel</place>
+            <place>Leipzig</place>
+<place> Kassel</place>
         </places>
         <publisher>VEB Deutscher Verlag für Musik, Bärenreiter</publisher>
         <publicationYear>1972</publicationYear>
@@ -8173,7 +8174,8 @@
         <extent>S. 189-203.</extent>
         <journal>Festschrift Jens Peter Larsen</journal>
         <places>
-            <place>Kopenhagen, Frankfurt a. M.</place>
+            <place>Kopenhagen</place>
+<place> Frankfurt a. M.</place>
         </places>
         <abstract> Der Verfasser hebt die besondere Stellung des "Messias" in Händels Schaffen
             hervor, die Ausgewogenheit zwischen Chören und Arien und wendet sich dann der
@@ -8901,7 +8903,8 @@
         <extent>S. 205-217.</extent>
         <journal>Festschrift Jens Peter Larsen</journal>
         <places>
-            <place>Kopenhagen, Frankfurt a. M.</place>
+            <place>Kopenhagen</place>
+<place> Frankfurt a. M.</place>
         </places>
         <abstract> Der besondere Wert dieses für die Pariser Akademie der Wissenschaften verfaßten
             Berichtes über ein neues Metronom von Pajot (der sich auch D'Onzembray nannte) besteht
@@ -10427,7 +10430,8 @@
         <startingYear>1972</startingYear>
         <finishingYear>1974</finishingYear>
         <places>
-            <place>Berlin, Potsdam-Babelsberg</place>
+            <place>Berlin</place>
+            <place>Potsdam</place>
         </places>
         <abstract> Ziel der Arbeit ist es, die Funktion des Gestaltungsmittels Musik im Prozeß der
             filmgeschichtlichen Entwicklung seit 1946 in der DEFA zu analysieren und zu werten. Die
@@ -10649,7 +10653,7 @@
         <title>Der Beitrag von J. R. Bechers Lyrik zum sozialistisch-realistischen Vokalschaffen in
             der DDR, nachgewiesen am Genre des klavierbegleiteten Sololiedes (1945-1961/62)</title>
         <places>
-            <place>Greifswald.</place>
+            <place>Greifswald</place>
         </places>
         <startingYear>1971</startingYear>
         <type>Phil. Diss.</type>
