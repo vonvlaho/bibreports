@@ -23,7 +23,6 @@ class CreateEntriesTable extends Migration
             $table->string('seriesTitle')->nullable();
             $table->integer('issue')->nullable();
             $table->integer('publicationYear')->nullable();
-            $table->string('place')->nullable();
             $table->integer('startingYear')->nullable();
             $table->integer('finishingYear')->nullable();
             $table->integer('finishedYear')->nullable();

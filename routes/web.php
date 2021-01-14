@@ -14,8 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect('reports');
-});
+    return view('index');
+})->name('index');
+
 Route::get('/reports', 'ReportsController@store')->name('reports.store');
 Route::get('/reports/{report}', 'ReportsController@show')->name('reports.show');
 Route::get('/reports/{report}/keywords', 'ReportsController@showKeywords')->name('reports.show.keywords');
@@ -23,6 +24,8 @@ Route::get('/reports/{report}/people', 'ReportsController@showPeople')->name('re
 Route::get('/reports/{report}/places', 'ReportsController@showPlaces')->name('reports.show.places');
 
 Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
+
+Route::get('/search/', 'EntriesController@search')->name('entries.search');
 
 Route::get('/keywords', 'KeywordsController@store')->name('keywords.store');
 Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.show');
