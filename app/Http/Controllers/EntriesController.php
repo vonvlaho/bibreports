@@ -24,6 +24,7 @@ class EntriesController extends Controller
     $searchTerm = $request->input('search');
 
     $entries = Entry::query()
+        ->select('entries.*')
         ->join('entry_place', 'entry_place.entry_id', '=', 'entries.id')
         ->join('places', 'places.id', '=', 'entry_place.place_id')
         ->join('entry_person', 'entry_person.entry_id', '=', 'entries.id')
@@ -35,8 +36,10 @@ class EntriesController extends Controller
         ->orWhere('places.name', 'LIKE', "%{$searchTerm}%")
         ->orWhere('people.familyName', 'LIKE', "%{$searchTerm}%")
         ->orWhere('people.givenName', 'LIKE', "%{$searchTerm}%")
-        ->get();
+        ->distinct()
+        ->paginate(15);
 
+    //dd($entries[0]);
     return view('entries.search', [
         'entries' => $entries
     ]);
