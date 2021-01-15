@@ -3,13 +3,13 @@
 namespace App\Http\Controllers;
 
 use App\Keyword;
-use App\Report;
-use Illuminate\Http\Request;
 
 class KeywordsController extends Controller
 {
     public function store() {
-        return view('keywords.store', ['keywords' => Keyword::has('entries')->get()->sortBy('name')]);
+        $keywords = Keyword::has('entries')->orderBy('name')->paginate('15');
+
+        return view('keywords.store', ['keywords' => $keywords]);
     }
     public function show($id) {
         $keyword = Keyword::findOrFail($id);
