@@ -36,8 +36,9 @@ class EntriesController extends Controller
         ->orWhere('places.name', 'LIKE', "%{$searchTerm}%")
         ->orWhere('people.familyName', 'LIKE', "%{$searchTerm}%")
         ->orWhere('people.givenName', 'LIKE', "%{$searchTerm}%")
-        ->distinct()
-        ->paginate(15);
+        ->groupBy('entries.id')
+        ->paginate(15)
+        ->appends(['search' => $searchTerm]);
 
     //dd($entries[0]);
     return view('entries.search', [
