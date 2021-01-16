@@ -5,7 +5,17 @@
             <h2 class="title is-4">
                 Gesamtregister
             </h2>
-            <dl>
+            <form action="{{ route('keywords.store') }}" method="GET">
+                <div class="field has-addons">
+                    <div class="control">
+                        <input class="input" type="text" placeholder="Registereintrag" name="search"/>
+                    </div>
+                    <div class="control">
+                        <button type="submit" class="button">Suche</button>
+                    </div>
+                </div>
+            </form>
+            <dl class="mt-4">
                 @foreach( $keywords as $keyword )
                     @isset( $keyword->entries )
                         <dt><strong>{{ $keyword->name }}</strong></dt>

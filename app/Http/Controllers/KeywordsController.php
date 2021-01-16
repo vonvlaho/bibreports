@@ -3,11 +3,19 @@
 namespace App\Http\Controllers;
 
 use App\Keyword;
+use Illuminate\Http\Request;
 
 class KeywordsController extends Controller
 {
-    public function store() {
-        $keywords = Keyword::has('entries')->orderBy('name')->paginate('15');
+    public function store(Request $request) {
+
+        $searchTerm = $request->input('search');
+
+        $keywords = Keyword::has('entries')
+            ->where('name', 'LIKE', "%{$searchTerm}%")
+            ->orderBy('name')
+            ->paginate('15')
+            ->appends(['search' => $searchTerm]);
 
         return view('keywords.store', ['keywords' => $keywords]);
     }
