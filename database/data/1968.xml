@@ -3445,7 +3445,6 @@
         <places>
             <place>Berlin</place>
         </places>
-        <publicationYear>Musik in der Schule</publicationYear>
         <publicationYear>1968</publicationYear>
         <extent>S. 290-302.</extent>
         <abstract> Die Einbeziehung der Werkbetrachtung in den Musikunterricht ist eine notwendige
@@ -3919,7 +3918,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <publicationYear>Theater der Zeit</publicationYear>
+        <publicationYear>1968</publicationYear>
         <extent>S. 20-23.</extent>
         <abstract> Die Autorin bestimmt die Stellung der Hamburger Gänsemarktoper um 1700 und wertet
             ihr Repertoire und ihre Komponisten als Wegbereiter einer demokratischen Musikkultur.
@@ -6550,8 +6549,8 @@
             <place>Leipzig</place>
         </places>
         <type>Forschungsauftrag und Diss.</type>
-        <publisher/>
-        <publicationYear>1966'1968</publicationYear>
+        <startingYear>1966</startingYear>
+        <finishingYear>1968</finishingYear>
         <abstract> Ziel und Methoden: Empirische Untersuchungen zur Entwicklung der
             Schülerleistungen im Teilgebiet "Musiklehre" des Musikunterrichts: pädagogische
             Experimente, Beobachtungen, Befragungen, statistische Auswertung. Ergebnisse: a) Analyse
