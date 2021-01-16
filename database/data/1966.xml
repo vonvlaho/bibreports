@@ -64,7 +64,7 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>Das byzantinische Musikinstrumentarium: in: 'Anfänge der slawischen Musik'</title>
+        <title>Das byzantinische Musikinstrumentarium</title>
         <places>
             <place>Bratislava</place>
         </places>
@@ -332,7 +332,7 @@
     </entry>
     <entry>
         <entryNo>14</entryNo>
-        <fullTitle>Beythien, Jürgen: Johannes Brahms. leben und Werk. Biographie, Ms. 200
+        <fullTitle>Beythien, Jürgen: Johannes Brahms. Leben und Werk. Biographie, Ms. 200
             S.</fullTitle>
         <people>
             <author>
@@ -340,7 +340,7 @@
                 <givenName>Jürgen</givenName>
             </author>
         </people>
-        <title>Johannes Brahms. leben und Werk. Biographie, Ms. 200 S.</title>
+        <title>Johannes Brahms. Leben und Werk</title>
         <abstract> Eine populärwissenschaftliche Darstellung des Lebens und Schaffens von Johannes
             Brahms. </abstract>
     </entry>
@@ -627,7 +627,7 @@
                 <givenName>Hella</givenName>
             </author>
         </people>
-        <title>Edvard Grieg. Leben und Werk - Biographie</title>
+        <title>Edvard Grieg. Leben und Werk</title>
         <type>Ms. </type>
         <extent>230 S.</extent>
         <abstract> Populärwissenschaftliche Einführung in Leben und Werk Edvard Griegs. </abstract>
@@ -750,7 +750,7 @@
                 <givenName>Heinz Alfred</givenName>
             </author>
         </people>
-        <title>1. Streichquartett und 2. Suite für Septett von Hanns Eisler. Einführungsheft</title>
+        <title>1. Streichquartett und 2. Suite für Septett von Hanns Eisler</title>
         <places>
             <place>Berlin</place>
         </places>
@@ -1283,7 +1283,7 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>'Telemann-Variationen' von Gerhard Wohlgemuth.</title>
+        <title>'Telemann-Variationen' von Gerhard Wohlgemuth</title>
         <places>
             <place>Halle</place>
         </places>

@@ -76,9 +76,9 @@ class ImportXml extends Command
                     'seriesTitle' => $this->extractXmlValue($sourceEntry, 'seriesTitle'),
                     'issue' => $this->extractXmlValue($sourceEntry, 'issue'),
                     'publicationYear' => $this->extractXmlValue($sourceEntry, 'publicationYear'),
-                    'startingYear' => $this->extractXmlValue($sourceEntry, 'startingYear'),
-                    'finishingYear' => $this->extractXmlValue($sourceEntry, 'finishingYear'),
-                    'finishedYear' => $this->extractXmlValue($sourceEntry, 'finishedYear'),
+//                    'startingYear' => $this->extractXmlValue($sourceEntry, 'startingYear'),
+//                    'finishingYear' => $this->extractXmlValue($sourceEntry, 'finishingYear'),
+//                    'finishedYear' => $this->extractXmlValue($sourceEntry, 'finishedYear'),
                     'abstract' => $this->extractXmlValue($sourceEntry, 'abstract')
                 ]
             );
