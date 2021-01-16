@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
     <section class="section container">
-        <form action="{{ route('entries.search') }}" method="GET">
+        <form action="{{ route('search.search') }}" method="GET">
             <div class="field has-addons">
                 <div class="control is-expanded" style="max-width: 450px">
                     <input class="input" type="text" placeholder="Neue Suchanfrage" name="search"/>
@@ -14,6 +14,7 @@
     </section>
     <section class="section container">
         @if($entries->isNotEmpty())
+            <p class="has-text-right"><strong>{{ $entries->total() }}</strong> Treffer</p>
             <table class="table">
                 <thead>
                     <tr>
@@ -49,5 +50,6 @@
             <div>
                 <h2>Ihre Suche lieferte keine Treffer.</h2>
             </div>
-    @endif
+        @endif
+    </section>
 @stop

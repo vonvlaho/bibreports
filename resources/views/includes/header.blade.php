@@ -40,7 +40,7 @@
                 </a>
             </div>
             <div class="navbar-item">
-                <a href="{{ route('reports.store') . '#Hintergrund' }}" class="is-family-monospace">
+                <a href="{{ route('index') . '#Hintergrund' }}" class="is-family-monospace">
                     Hintergrund
                 </a>
             </div>

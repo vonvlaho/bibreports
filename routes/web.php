@@ -25,7 +25,7 @@ Route::get('/reports/{report}/places', 'ReportsController@showPlaces')->name('re
 
 Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
 
-Route::get('/search/', 'EntriesController@search')->name('entries.search');
+Route::get('/search/', 'SearchController@searchEntries')->name('search.search');
 
 Route::get('/keywords', 'KeywordsController@store')->name('keywords.store');
 Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.show');
