@@ -28,6 +28,7 @@
                     </ul>
                 </nav>
                 <form action="{{ route('search.search') }}" method="GET">
+                    @csrf
                     <div class="field has-addons mt-6">
                         <div class="control is-expanded" style="max-width: 450px">
                             <input class="input" type="text" placeholder="Suchanfrage" name="search"/>

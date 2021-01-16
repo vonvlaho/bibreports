@@ -6,6 +6,7 @@
                 Gesamtregister
             </h2>
             <form action="{{ route('keywords.store') }}" method="GET">
+                @csrf
                 <div class="field has-addons">
                     <div class="control">
                         <input class="input" type="text" placeholder="Registereintrag" name="search"/>

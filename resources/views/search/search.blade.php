@@ -2,6 +2,7 @@
 @section('content')
     <section class="section container">
         <form action="{{ route('search.search') }}" method="GET">
+            @csrf
             <div class="field has-addons">
                 <div class="control is-expanded" style="max-width: 450px">
                     <input class="input" type="text" placeholder="Neue Suchanfrage" name="search"/>
