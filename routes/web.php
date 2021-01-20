@@ -18,6 +18,7 @@ Route::get('/', function () {
 })->name('index');
 
 Route::get('/reports', 'ReportsController@store')->name('reports.store');
+Route::get('/reports/download', 'ReportsController@download')->name('reports.download');
 Route::get('/reports/{report}', 'ReportsController@show')->name('reports.show');
 Route::get('/reports/{report}/keywords', 'ReportsController@showKeywords')->name('reports.show.keywords');
 Route::get('/reports/{report}/people', 'ReportsController@showPeople')->name('reports.show.people');

@@ -5,11 +5,38 @@ namespace App\Http\Controllers;
 use App\Report;
 use App\Keyword;
 use App\Person;
+use Illuminate\Support\Facades\Response;
 
 class ReportsController extends Controller
 {
     public function store() {
         return view('reports.store', ['reports' => Report::all()->sortBy('year')]);
+    }
+    public function download() {
+        $reports = Report::all();
+        $filename = "berichte.csv";
+        $handle = fopen($filename, 'w+');
+
+        fputcsv($handle, array('Bericht', 'Eintrag', 'Titel', 'Keyword'));
+
+        foreach($reports as $report) {
+            foreach ($report->entries as $entry) {
+                foreach ($entry->keywords as $keyword) {
+                    fputcsv($handle, array(
+                        $report['year'],
+                        $entry['entryNo'],
+                        $entry['title'],
+                        $keyword['name']));
+                }
+            }
+        }
+
+        fclose($handle);
+
+        $headers = array(
+            'Content-Type' => 'text/csv',
+        );
+        return Response::download($filename, 'berichte.csv', $headers);
     }
     public function show($id) {
         return view('reports.show', ['report' => Report::findOrFail($id)]);
