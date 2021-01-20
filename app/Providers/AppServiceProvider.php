@@ -31,5 +31,10 @@ class AppServiceProvider extends ServiceProvider
         Blade::directive('endspaceless', function() {
             return "<?php echo preg_replace('/\r?\n|\r/', '', ob_get_clean()); ?>";
         });
+
+        if($this->app->environment('production')) {
+            \URL::forceScheme('https');
+        }
+
     }
 }
