@@ -1,45 +1,41 @@
 @extends('layouts.default')
 @section('content')
-    <section class="hero is-light">
-        <div class="hero-body">
-            <div class="container">
-                <nav class="breadcrumb has-bullet-separator is-centered">
-                    <ul>
-                        <li>
-                            <a href="{{ route('reports.store') }}" class="is-family-monospace">
-                                Berichte
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{ route('keywords.store') }}" class="is-family-monospace">
-                                Register
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{ route('places.store') }}" class="is-family-monospace">
-                                Publikationsorte
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{ route('people.store') }}" class="is-family-monospace">
-                                Personenverzeichnis
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-                <form action="{{ route('search.search') }}" method="GET">
-                    @csrf
-                    <div class="field has-addons mt-6">
-                        <div class="control is-expanded" style="max-width: 450px">
-                            <input class="input" type="text" placeholder="Suchanfrage" name="search"/>
-                        </div>
-                        <div class="control">
-                            <button type="submit" class="button is-link">Search</button>
-                        </div>
-                    </div>
-                </form>
+    <section class="section container has-background-light">
+        <nav class="breadcrumb has-bullet-separator is-centered">
+            <ul>
+                <li>
+                    <a href="{{ route('reports.store') }}" class="is-family-monospace">
+                        Berichte
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route('keywords.store') }}" class="is-family-monospace">
+                        Register
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route('places.store') }}" class="is-family-monospace">
+                        Publikationsorte
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route('people.store') }}" class="is-family-monospace">
+                        Personenverzeichnis
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <form action="{{ route('search.search') }}" method="GET">
+            @csrf
+            <div class="field has-addons mt-6">
+                <div class="control is-expanded" style="max-width: 450px">
+                    <input class="input" type="text" placeholder="Suchanfrage" name="search"/>
+                </div>
+                <div class="control">
+                    <button type="submit" class="button is-link">Search</button>
+                </div>
             </div>
-        </div>
+        </form>
     </section>
     <section class="section container content">
         <h2 class="title is-5" id="Hintergrund">Hintergrund</h2>

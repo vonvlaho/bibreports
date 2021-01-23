@@ -34,9 +34,6 @@ $content-heading-weight: 300;
         }
     }
 }
-.hero .field.has-addons {
+.has-background-light .field.has-addons {
     justify-content: center;
-}
-.hero.is-light a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current), .hero.is-light strong {
-    color: #3273dc;
 }
