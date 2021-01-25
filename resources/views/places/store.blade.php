@@ -2,7 +2,7 @@
 @section('content')
     <section class="section container content">
         <h2 class="title is-4">
-            Gesamtregister
+            Publikationsorte
         </h2>
         @isset( $places )
             <ul>
