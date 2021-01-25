@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected area"
-AuthUserFile /var/www/bas/site/.htpasswd
-Require valid-user
