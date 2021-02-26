@@ -21,6 +21,7 @@
         </people>
         <title>Johanna Rudolph</title>
         <journal>Sonntag</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -39,6 +40,7 @@
         <title>Das neue chilenische Lied, Gespräch mit Luis Advis</title>
         <extent>S. 14-23.</extent>
         <journal>Sinn und Form</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -99,6 +101,7 @@
             DDR</title>
         <extent>S. 385-390.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -128,6 +131,7 @@
         <title>Bericht: Schütz-Konferenz</title>
         <extent>S. 277-279.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -151,6 +155,7 @@
         <title>Neue Werke unserer Komponisten. Ruth Zechlin: "Epitaph" für Cembalo</title>
         <extent>S. 428-429.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -169,6 +174,7 @@
         <title>Musik in Film und Hörspiel. Zur Entwicklung der Hörspielmusik in der DDR</title>
         <extent>S. 621-627.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -194,6 +200,7 @@
         <title>Neue Werke unserer Komponisten. Georg Katzer: Streichermusik II</title>
         <extent>S. 359-360.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -212,6 +219,7 @@
         <title>Neue Werke unserer Komponisten. Johann Cilensek: "Mosaik" für Streicher</title>
         <extent>S. 423-425.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -232,6 +240,7 @@
             Bemerkungen zur Tätigkeit der Arbeitsgruppe Musik der III. Volkskunstkonferenz</title>
         <extent>S. 2-5.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -393,8 +402,9 @@
                 <givenName>Fritz</givenName>
             </author>
         </people>
-        <title>Das Verhältnis der Arbeiter zur Tanz- und Unterhaltungsmusik: In: Forum: Musik in der
-            DDR. Arbeiterklasse und Musik</title>
+        <title>Das Verhältnis der Arbeiter zur Tanz- und Unterhaltungsmusik</title>
+        <journal>Forum: Musik in der DDR. Arbeiterklasse und Musik</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -426,6 +436,7 @@
             Musiksoziologie</title>
         <extent>S. 40-68.</extent>
         <journal>Weimarer Beiträge</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -457,6 +468,7 @@
         <title>Aspekte der "Einstein"-Partitur</title>
         <extent>S. 11-12.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -481,8 +493,10 @@
             </author>
         </people>
         <title>Zur gegenwärtigen Situation der musikalischen Bildung und Erziehung im Vorschulalter
-            an den Musikschulen der DDR: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+            an den Musikschulen der DDR</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -504,6 +518,7 @@
             5, S. 257-263; 6, S. 325-335; 7, S. 391-396; 8, S. 483-492; 9, S. 513-524.</fullTitle>
         <title>[Berichte von Bezirksmusikkonferenzen.]</title>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -551,6 +566,7 @@
         <title>Im Blickpunkt: Konzertpläne der kommenden Saison</title>
         <extent>S. 336-339.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -648,6 +664,7 @@
         <title>Musikhören im Unterricht. Arbeitstagung zum Thema "Probleme des Mitvollzugs beim
             Musikhören im Unterricht der Polytechnischen Oberschulen"</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -677,6 +694,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 108-127. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -710,6 +728,7 @@
         <title>Neue Werke unserer Komponisten. Johannes Winkler: "Ode an das Atom"</title>
         <extent>S. 42-43.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -728,6 +747,7 @@
         <title>Neue Werke unserer Komponisten. Jürgen Knauer: "Dektett 1973"</title>
         <extent>S. 171-172.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -747,6 +767,7 @@
             Orchester</title>
         <extent>S. 228-229.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -765,6 +786,7 @@
         <title>Neue Werke unserer Komponisten. Udo Zimmermann: "Mutazioni per Orchestra"</title>
         <extent>S. 229-230.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -783,6 +805,7 @@
         <title>Neue Werke unserer Komponisten. Siegfried Matthus: Harfentrio</title>
         <extent>S. 361-362.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -801,6 +824,7 @@
         <title>Neue Werke unserer Komponisten. Rainer Kunad: Quadrophonie</title>
         <extent>S. 425-426.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -822,6 +846,7 @@
             Verbandes sorbischer Chöre, sorb.) 1. Chórowe hibanje (Chorbewegung), 2. Serbske ludowe
             reje (Sorbische Volkstänze)</title>
         <journal>Rozhlad</journal>
+        <type>Artikel</type>
         <places>
             <place>Bautzen</place>
         </places>
@@ -854,6 +879,7 @@
             serbskich chórow (Sorbische Chöre widersetzen sich der faschistischen Gleichschaltung) -
             In</title>
         <journal>Rozhlad</journal>
+        <type>Artikel</type>
         <places>
             <place>Bautzen</place>
         </places>
@@ -881,6 +907,7 @@
             Verbandes sorbischer Chöre, sorb.) 4. Prócowanje wo Orchester a časopis (Bemühungen um
             ein sorbisches Volksorchester und eine sorbische Musikzeitschrift, sorb.)</title>
         <journal>Rozhlad</journal>
+        <type>Artikel</type>
         <places>
             <place>Bautzen</place>
         </places>
@@ -912,8 +939,10 @@
             </author>
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
-            Sebastian Bachs Partita E-Dur für Violine solo BWV 1006: In: Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</title>
+            Sebastian Bachs Partita E-Dur für Violine solo BWV 1006</title>
+<journal>Forum: Musik in der DDR.
+            Musikschule und Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -942,6 +971,7 @@
             Kochan</title>
         <extent>S. 18-20.</extent>
         <journal>Mitteilungen der Akademie der Künste der DDR</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -972,6 +1002,7 @@
         <extent>S. 67-72. </extent>
         <journal>Wissenschaftliche Zeitschrift der Ernst-Moritz-Arndt-Universität
             Greifswald</journal>
+        <type>Artikel</type>
         <places>
             <place>Greifswald</place>
         </places>
@@ -1012,6 +1043,7 @@
             In: Musik und Gesellschaft. 24 (1974), S. 449-475.</fullTitle>
         <title>Ein bunter Blumenstrauß für unsere Republik. 15. Arbeiterfestspiele in Erfurt</title>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1033,6 +1065,7 @@
         <title>Probleme und Aufgäben der klassenmäßigen Erziehung im Musikunterricht. (1.2.) -
             In</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1099,6 +1132,7 @@
             in Zeuthen</title>
         <extent>S. 493-497.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1217,8 +1251,9 @@
                 <givenName>Traude</givenName>
             </author>
         </people>
-        <title>Zur Herausbildung eines historisch-materialistischen Musikgeschichtsbildes: In:
-            Forum: Musik in der DDR. Arbeiterklasse und Musik</title>
+        <title>Zur Herausbildung eines historisch-materialistischen Musikgeschichtsbildes</title>
+        <journal>Forum: Musik in der DDR. Arbeiterklasse und Musik</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -1246,6 +1281,7 @@
             1933</title>
         <extent>S. 135-142.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1272,8 +1308,10 @@
                 <givenName>Fritz</givenName>
             </author>
         </people>
-        <title>Violinstudium und Persönlichkeit. (Interview.) - In: Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</title>
+        <title>Violinstudium und Persönlichkeit. (Interview.)</title>
+        <journal>Forum: Musik in der DDR.
+                    Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -1297,6 +1335,7 @@
         <title>Maßstäbe: strengere oder andere? Marginalien zum "Musical in der Talsohle"</title>
         <extent>S. 13-14.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1317,7 +1356,9 @@
                 <givenName>Klaus</givenName>
             </author>
         </people>
-        <title>Marginalien zum Musical: In: Musikbühne 74</title>
+        <title>Marginalien zum Musical</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1337,6 +1378,7 @@
             der Akademie der Künste der DDR</title>
         <extent>S. 65-85.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1383,6 +1425,7 @@
         <sameAs>Gesellschafts- u. Sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 40-60. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -1435,8 +1478,9 @@
             </author>
         </people>
         <title>Das "Glockenspiel"-Motiv und seine Bedeutung - ein Beitrag zu Händels
-            Schaffensmethode und Menschenbild. (Kolloquium: Das Bild des Volkshelden bei Händel.) -
-            In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            Schaffensmethode und Menschenbild. (Kolloquium: Das Bild des Volkshelden bei Händel.)</title>
+        <journal>Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -1455,8 +1499,10 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>Zum Konzertschaffen G. Ph. Telemanns: In: Telemann-Renaissance. Werk und
-            Wiedergabe</title>
+        <title>Zum Konzertschaffen G. Ph. Telemanns</title>
+        <journal>Telemann-Renaissance. Werk und
+            Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -1482,6 +1528,7 @@
         <journal>Klopstock. - Friedrich Gottlieb Klopstock. Festveranstaltungen zum 250. Geburtstag
             am 2. Juli 1974 in Quedlinburg (Festheft). - [Quedlinburg: Rat der Stadt 1974.] 2 Bl.
             [Umschlagt.]</journal>
+        <type>Artikel</type>
         <places>
             <place>Quedlinburg</place>
         </places>
@@ -1520,8 +1567,9 @@
                 <givenName>Siegfried</givenName>
             </author>
         </people>
-        <title>Georg Friedrich Händels Triosonaten. (Kolloquium: Editionsfragen bei Händel.) - In:
-            Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+        <title>Georg Friedrich Händels Triosonaten. (Kolloquium: Editionsfragen bei Händel.)</title>
+        <journal>Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -1547,6 +1595,7 @@
         <title>Einige Probleme der Aneignung und Erschließung musikalischer Werke. (1.2.)</title>
         <extent>S. 342-346; (2) 10, S. 377-380.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1573,6 +1622,7 @@
         <title>Persönlichkeitsbildende Potenzen in der Arbeitsgemeinschaft Musik</title>
         <extent>S. 22 u. S. 29-30.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1598,6 +1648,7 @@
         <title>Neues Jugendgesetz und musikalische Bildung</title>
         <extent>S. 267-271.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1626,6 +1677,7 @@
             Schlaginstrumente.</title>
         <extent>S. 303-304.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1808,6 +1860,7 @@
             in Deutschland. (Zu Leben und Werk aus Anlaß seines 50. Todestages.)</title>
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -1833,6 +1886,7 @@
             didaktisch-methodische Arbeitsweise</title>
         <extent>S. 63-66 u. S. 71-72.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1859,6 +1913,7 @@
         <title>"Vorn ist das Licht" - Festivalgesang einer führenden Beatformation</title>
         <extent>S. 147-149.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1884,6 +1939,7 @@
             Liedsatzes im Rahmen der STE 7/Kl. 6</title>
         <extent>S. 253-256.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1909,6 +1965,7 @@
         <title>"über mich" - Analyse eines Beattitels der Gruppe Panta Rhei</title>
         <extent>S. 388-390.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1934,6 +1991,7 @@
             Erbse" (Joachim-Dietrich Link)</title>
         <extent>S. 23-25.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1961,6 +2019,7 @@
             Opernschaffen</title>
         <extent>S. 26-29.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2017,6 +2076,7 @@
             aus der Sicht eines Fachberaters</title>
         <extent>S. 150-153.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2066,7 +2126,9 @@
             </author>
         </people>
         <title>Von der Schallplatte auf die Bühne - Marschaks "Tierhäuschen" mit der Musik von
-            Joachim Thurm: In: Zur Musiktheaterarbeit für junge Zuschauer</title>
+            Joachim Thurm</title>
+        <journal>Zur Musiktheaterarbeit für junge Zuschauer</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 38. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -2093,6 +2155,7 @@
         <title>Die Analyse. Günter Kochan: Mendelssohn-Variationen für Klavier und Orchester</title>
         <extent>S. 86-90.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2118,6 +2181,7 @@
         <title>Kulturbund beriet über sowjetische Musik</title>
         <extent>S. 158-160.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2139,6 +2203,7 @@
             Orchester</title>
         <extent>S. 306-307.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2159,6 +2224,7 @@
             uraufgeführt</title>
         <extent>S. 538-539.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2177,6 +2243,7 @@
         <title>Wir stellen vor. Georg Katzer</title>
         <extent>S. 168-170.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2199,6 +2266,7 @@
         <title>Dmitri Kabalewski 70 Jahre</title>
         <extent>S. 497-499.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2222,6 +2290,7 @@
         <title>über die Rekonstruktion von Tonskalen bei mechanischen Instrumenten</title>
         <extent>S. 143-144.</extent>
         <journal>Neue Museumskunde</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2276,6 +2345,7 @@
             Schulanfängern</title>
         <extent>S. 104-110 u. 115.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2326,9 +2396,11 @@
                 <givenName>Harry</givenName>
             </author>
         </people>
-        <title>Musikverstehen als Postulat: In: Faltin, P. u. H. P. Reinecke (Hrsg.): Musik und
+        <title>Musikverstehen als Postulat</title>
+        <journal>Faltin, P. u. H. P. Reinecke (Hrsg.): Musik und
             Verstehen. Aufsätze zur semiotischen Theorie, Ästhetik und Soziologie der musikalischen
-            Rezeption</title>
+            Rezeption</journal>
+        <type>Artikel</type>
         <places>
             <place>Köln</place>
         </places>
@@ -2366,6 +2438,7 @@
         <title>Die Cavatina des Figaro. Eine semantische Analyse</title>
         <extent>S. 185-207.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2400,8 +2473,10 @@
                 <givenName>Harry</givenName>
             </author>
         </people>
-        <title>Welches war die ursprüngliche Reihenfolge in Schuberts Heine-Liedern: In: Deutsches
-            Jahrbuch der Musikwissenschaft für 1972. Jg 17</title>
+        <title>Welches war die ursprüngliche Reihenfolge in Schuberts Heine-Liedern</title>
+        <journal>Deutsches
+            Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2458,6 +2533,7 @@
             der DEFA</title>
         <extent>S. 613-621.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2507,6 +2583,7 @@
         <title>Der schwierige Jubilar. Zu Anton Bruckners 150. Geburtstag</title>
         <extent>S. 547-550.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2529,6 +2606,7 @@
         <title>Große, fast verschollene Musik. Zum 500. Todestag von Guillaume Dufay</title>
         <extent>S. 668-672.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2552,6 +2630,7 @@
         <title>Neue Werke unserer Komponisten. Ruth Zechlin: Kammersinfonie Nr. 2</title>
         <extent>S. 304-305.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2571,6 +2650,7 @@
             Chorbewegung</title>
         <extent>S. 13-14.</extent>
         <journal>Kultur und Freizeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2592,7 +2672,9 @@
                 <givenName>Peter</givenName>
             </author>
         </people>
-        <title>Das Libretto und die Musik: In: Musikbühne 74</title>
+        <title>Das Libretto und die Musik</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2679,6 +2761,7 @@
         <title>Das irdische Leben. Zum Weltbild des jungen Mahler</title>
         <extent>S. 25-30.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2703,6 +2786,7 @@
         <title>Jean Kurt Forest 65</title>
         <extent>S. 220-222.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2722,7 +2806,9 @@
                 <givenName>Joachim</givenName>
             </author>
         </people>
-        <title>Entwurf einer 'Rosenkavalier'-Inszenierung: In: Musikbühne 74</title>
+        <title>Entwurf einer 'Rosenkavalier'-Inszenierung</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2748,6 +2834,7 @@
         <extent>S. I-IX. </extent>
         <journal>Kretzschmar, Hermann: Gesammelte Aufsätze aus den Jahrbüchern der Musikbibliothek
             Peters. (Fotomechan. Nachdr. d. Orig.-Ausg. Leipzig 1911.)</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2782,6 +2869,7 @@
         <title>Gedanken zur Verbesserung der Singequalität in den Klassen 5 bis 10</title>
         <extent>S. 115-119.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2843,6 +2931,7 @@
             Mono und Stereo</title>
         <extent>S. 240-243.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2875,6 +2964,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 61-64. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -2899,6 +2989,7 @@
             9/10</title>
         <extent>S. 202 u. 207.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2948,7 +3039,9 @@
                 <givenName>Rudolf</givenName>
             </author>
         </people>
-        <title>Entwurf einer 'Rosenkavalier' - Inszenierung: In: Musikbühne 74</title>
+        <title>Entwurf einer 'Rosenkavalier' - Inszenierung</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2973,6 +3066,7 @@
             Luckenwalde</title>
         <extent>S. 354-358.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2993,8 +3087,10 @@
                 <givenName>Wolf</givenName>
             </author>
         </people>
-        <title>G. Ph. Telemann als Herausgeber: In: Telemann-Renaissance. Werk und
-            Wiedergabe</title>
+        <title>G. Ph. Telemann als Herausgeber</title>
+        <journal>Telemann-Renaissance. Werk und
+            Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -3022,6 +3118,7 @@
             Ein Bericht über Bibliotheksstudien in Leningrad</title>
         <extent>S. 263-267.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3046,6 +3143,7 @@
             Musikunterrichts</title>
         <extent>S. 98-103.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3067,6 +3165,7 @@
         <title>Zur Anwendung didaktischer Prinzipien im Musikunterricht</title>
         <extent>S. 279-284.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3093,6 +3192,7 @@
             Humboldt-Universität zu Berlin am 30. Oktober 1973</title>
         <extent>S. 127-129.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3113,6 +3213,7 @@
             Musikwerken. Praxisanalysen der Pädagogischen Hochschule Zwickau</title>
         <extent>S. 366-371.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3134,6 +3235,7 @@
         <title>Musikpädagogische Forschung - ein Mittel zur Hebung des wissenschaftlichen Niveaus
             der Musikerziehung in Theorie und Praxis. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3157,6 +3259,7 @@
         </people>
         <title>Einige Aspekte des Liedschaffens der Singebewegung. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3189,6 +3292,7 @@
             Singens und zur Lehrplanrealisierung</title>
         <extent>S. 499-502.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3211,8 +3315,10 @@
             </author>
         </people>
         <title>Probleme der Unterrichtsmethodik im Fach Gesang unter dem Aspekt der
-            Nachwuchsförderung: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+            Nachwuchsförderung</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -3267,7 +3373,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Christoph Fischer: In: Die Musik in Geschichte und Gegenwart. Bd 16</title>
+        <title>Christoph Fischer</title>
+        <journal>Die Musik in Geschichte und Gegenwart. Bd 16</journal>
+        <type>Artikel</type>
         <places>
             <place>Kassel</place>
             <place>Basel</place>
@@ -3298,6 +3406,7 @@
             Forschungsvorhaben "Schulkonzerte in der DDR"</title>
         <extent>S. 65-76</extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -3320,6 +3429,7 @@
         <title>Gespräch mit Joachim Herz</title>
         <extent>S. 825-846.</extent>
         <journal>Sinn und Form</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3359,6 +3469,7 @@
         <title>Sie nennen ihn "KS". Zum 65. Geburtstag von Kurt Schwaen</title>
         <extent>S. 228-235.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3436,6 +3547,7 @@
         <title>Spätwerk und Neubeginn: Kurt Schwaen zum 65. Geburtstag</title>
         <extent>S. 350-352.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3456,6 +3568,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 3-32. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -3503,6 +3616,7 @@
             Orchester</title>
         <extent>S. 427-428.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3544,6 +3658,7 @@
             Werktätige Karl-Marx-Stadt</title>
         <extent>S. 10-11.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -3569,6 +3684,7 @@
         <title>Neue Werke unserer Komponisten. Karl Ottmar Treibmann: Violinkonzert</title>
         <extent>S. 426-427.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3616,6 +3732,7 @@
         <title>Persönlichkeitsbildende Potenzen in der Arbeitsgemeinschaft Musik</title>
         <extent>S. 22 u. S. 29-30.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3690,6 +3807,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 519-530, mit Notenbeisp. </extent>
         <journal>Wissenschaftliche Zeitschrift der Friedrich-Schiller-Universität Jena</journal>
+        <type>Artikel</type>
         <places>
             <place>Jena</place>
         </places>
@@ -3778,6 +3896,7 @@
             Musikhören</title>
         <extent>S. 453-455, mit Tab.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3823,6 +3942,7 @@
         <title>Polnisch-deutsche Musikbeziehungen im 16. und 17. Jahrhundert</title>
         <extent>S. 223-234.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3847,6 +3967,7 @@
         <title>Zur Geschichte eines polnischeri Tanzes am Hofe István Bthorys (1533-1586)</title>
         <extent>S. 203-213.</extent>
         <journal>Studia Musicologica</journal>
+        <type>Artikel</type>
         <places>
             <place>Budapest</place>
         </places>
@@ -3874,6 +3995,7 @@
         <title>Polnische Tänze in schwedischen Handschriften des 16. und 17. Jahrhunderts</title>
         <extent>S. 1-16.</extent>
         <journal>Svenskt Musikhistoriskt Arkiv Bulletin</journal>
+        <type>Artikel</type>
         <places>
             <place>Stockholm</place>
         </places>
@@ -3901,6 +4023,7 @@
         <title>In memoriam Richard Petzoldt</title>
         <extent>S. 154 u. S. 167.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3994,6 +4117,7 @@
         <title>Tragfähige Konzeption. Zur Leipziger "Walküre"</title>
         <extent>S. 13-16.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4015,6 +4139,7 @@
         <title>Ein Komödiant reinsten Wassers. Der Sängerschauspieler Hanns Nocker</title>
         <extent>S. 31-33.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4058,6 +4183,7 @@
         <title>Geburtstagsgruß für Hans Pischner</title>
         <extent>S. 104-106.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4076,6 +4202,7 @@
         <title>Neue Werke unserer Komponisten. Manfred Schubert: "Canzoni amorosi"</title>
         <extent>S. 363-364.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4094,6 +4221,7 @@
         <title>Altmeister des Taktstocks. Zum 80. Geburtstag von Karl Böhm</title>
         <extent>S. 504-505.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4112,6 +4240,7 @@
         <title>"Ich bin ein Mensch des Theaters". Zum 5o. Todestag von Giaccomo Puccini</title>
         <extent>S. 672-674.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4130,6 +4259,7 @@
         <title>Feinsinniger Musikpoet. Vor 150 Jahren wurde Peter Cornelius geboren</title>
         <extent>S. 750-751.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4149,6 +4279,7 @@
         <title>Einstein. Uraufgeführt an der Deutschen Staatsoper Berlin; Musik: Paul Dessau,
             Libretto: Karl Mickel, Inszenierung: Ruth Berghaus</title>
         <journal>Sonntag</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4167,6 +4298,7 @@
         <title>Der Intendant am Cembalo. Hans Pischner zum 60. Geburtstag</title>
         <extent>S. 34.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4178,6 +4310,7 @@
             (2) 9, S. 6-15.</fullTitle>
         <title>Kritiken zur Saison. (1.2.)</title>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4200,8 +4333,10 @@
             </author>
         </people>
         <title>Zur didaktischen Konzeption des neuen Lehrplans für Blechblasinstrumente unter
-            Berücksichtigung der Unterrichtstätigkeit: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+            Berücksichtigung der Unterrichtstätigkeit</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4233,6 +4368,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 77-94. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -4263,6 +4399,7 @@
         <title>Eine Woche "Rote Lieder" in Berlin. IV. Festival des politischen Liedes</title>
         <extent>S. 205-209.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4312,6 +4449,7 @@
         <title>Arbeiterlied und Volkslied</title>
         <extent>S. 280-284.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4338,6 +4476,7 @@
             Musikbewegung</title>
         <extent>S. 7-9.</extent>
         <journal>Mitteilungen der Akademie der Künste der DDR</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4393,6 +4532,7 @@
             mehrstimmiger Lieder. Aufgaben und Beispiele aus dem Stoff der Klassen 5 bis 8. (1.2.) -
             In</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4418,6 +4558,7 @@
         <title>Zur Verwendung der Blasharmonika im Musikunterricht der unteren Klassen</title>
         <extent>S. 482-485.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4440,6 +4581,7 @@
             Meyer und Günther Deicke an der Deutschen Staatsoper Berlin</title>
         <extent>S. 6-10.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4460,6 +4602,7 @@
         <title>Ich lebe gern. Zur Uraufführung "Einstein" von Dessau/Mickel</title>
         <extent>S. 6-11.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4480,6 +4623,7 @@
         </people>
         <title>Im Gespräch. Musical in der Talsohle.</title>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4503,6 +4647,7 @@
             Fernsehelektronik Berlin</title>
         <extent>S. 22-25.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4526,6 +4671,7 @@
             73/74</title>
         <extent>S. 8-10.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4552,6 +4698,7 @@
         <title>Mitunter gar nicht heiter. Zwei DDR-Stücke mit Musik in vier Inszenierungen</title>
         <extent>S. 26-30.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4574,6 +4721,7 @@
         <title>Paul Dessau zum 80. Geburtstag</title>
         <extent>S. 8-9.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4594,6 +4742,7 @@
             heiteren Musiktheaters in der Sowjetunion</title>
         <extent>S. 40-41.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4615,6 +4764,7 @@
         <title>Wesen und Werk Bedrich Smetanas. Zum 150. Geburtstag des Komponisten</title>
         <extent>S. 149-152.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4638,6 +4788,7 @@
             Weltfestspiele</title>
         <extent>S. 2-5.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4663,6 +4814,7 @@
         <title>Blas lebt. Zur Uraufführung "Fiesta" von Robert Hanell in Weimar</title>
         <extent>S. 20-22.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4761,6 +4913,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 33-39. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -4787,6 +4940,7 @@
         <title>Die Widerspiegelung antikommunistischer Grundpositionen im Musikschulunterricht der
             B[undes] R[epublik] D[eutschland.]</title>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4815,6 +4969,7 @@
             Orchester</title>
         <extent>S. 40-41.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4886,6 +5041,7 @@
         <title>Bericht: Mendelssohn-Kolloquium in Leipzig</title>
         <extent>S. 213-215.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4912,6 +5068,7 @@
         <title>Die Schulung des gesanglichen Ausdrucksvermögens als bildende und erziehende Aufgabe
             des Singens in der Schule. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4940,6 +5097,7 @@
         <title>Unsere Musik - Bestandteil der sich ändernden Wirklichkeit</title>
         <extent>S. 1-6.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4962,6 +5120,7 @@
         <title>Schallplattenmosaik: Eisler-Edition auf Nova</title>
         <extent>S. 113 u. S. 116-118.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4980,6 +5139,7 @@
         <title>Neue Werke unserer Komponisten. Jean Kurt Forest: Violinkonzert</title>
         <extent>S. 169-170.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5085,6 +5245,7 @@
         <title>Über die musikalische Integration des Dokumentarischen</title>
         <extent>S. 167-172.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5192,6 +5353,7 @@
         <title>Zur Entwicklung des Musikschaffens in unserer Republik</title>
         <extent>S. 641-655.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5219,6 +5381,7 @@
             DDR</title>
         <extent>S. 577-583.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5250,6 +5413,7 @@
             Konferenz über Heinrich Schütz und seine Zeit am 6. Nov. 1972 in Dresden</title>
         <extent>S. 197-203.</extent>
         <journal>Bulletin des Musikrates der DDR</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5361,6 +5525,7 @@
             Entwicklung musikalischer Fähigkeiten in den ersten Lebensjahren, engl.)</title>
         <journal>Psychology of music - The yournal of the society for research in psychology of
             music and music education</journal>
+        <type>Artikel</type>
         <places>
             <place>London</place>
         </places>
@@ -5390,6 +5555,7 @@
         <title>Ergebnisse musikpsychologischer Forschungen über die Bedeutung der zeitgenössischen
             Musik für die Musikerziehung im Vorschulalter und jüngeren Schulalter</title>
         <journal>Musica Viva in Schola</journal>
+        <type>Artikel</type>
         <places>
             <place>Brno</place>
         </places>
@@ -5419,6 +5585,7 @@
         </people>
         <title>Grundfragen der musikalischen Begabungsdiagnostik. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5454,6 +5621,7 @@
             ihres Bestehens</title>
         <extent>S. 338-342.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5481,6 +5649,7 @@
         <title>X. Internationaler ISME-Kongreß in Australien</title>
         <extent>S. 683-684.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5503,6 +5672,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 128-138. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -5550,6 +5720,7 @@
         <title>Was ist nun eigentlich Beat</title>
         <extent>S. 10-16.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5574,6 +5745,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 95-100. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -5604,6 +5776,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 111-118. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -5634,6 +5807,7 @@
             Kochans und zu seiner III. Sinfonie</title>
         <extent>S. 596-603.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5661,6 +5835,7 @@
             Sekretär des Verbandes der Komponisten und Musikwissenschaftler der DDR</title>
         <extent>S. 321-325.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5685,6 +5860,7 @@
             Musikwissenschaftler der DDR. Bericht von der Diskussion</title>
         <extent>S. 655-657.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5708,6 +5884,7 @@
         <title>Schallplattenmosaik. Lieder, Songs und Kantaten</title>
         <extent>S. 118-121.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5728,6 +5905,7 @@
             Geburtstag</title>
         <extent>S. 284-285.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5746,6 +5924,7 @@
         <title>Als Mensch und Musiker unvergessen. Zum Tode von David Oistrach</title>
         <extent>S. 742-743.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5812,6 +5991,7 @@
         <title>Musiktheater für Kinder und Jugendliche. Hinweise auf geeignete Werke.</title>
         <sameAs>Material zum Theater. 38. [Umschlagt.]</sameAs>
         <journal>Zur Musiktheaterarbeit für junge Zuschauer.</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5866,6 +6046,7 @@
         <title>Macht des Gesanges. Zu Vorführungen der schwedischen Gruppe "Sangens Makt"</title>
         <extent>S. 28-30</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5920,6 +6101,7 @@
             Šostakoviče) ["... keinesfalls das Ende. Blick in die Zukunft..." (Bemerkungen zu den
             zwei letzten Sinfonien Schostakowitschs), tschech.]</title>
         <journal>Opus musicum</journal>
+        <type>Artikel</type>
         <places>
             <place>Brno</place>
         </places>
@@ -5941,6 +6123,7 @@
         <title>Methodische Aspekte der Vermittlung kulturpolitischer Einsichten im Rahmen
             musikalischer Werkbetrachtungen. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5990,6 +6173,7 @@
             Bibliographische Erschließung</title>
         <extent>S. 269-275.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6011,6 +6195,7 @@
         <title>Spielpläne und Repertoire an den Musikbühnen der DDR</title>
         <extent>S. 341-349.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6035,6 +6220,7 @@
         <title>Musiktheater. Hans J. Wenzels Oper "Geschichten vom alten Adam"</title>
         <extent>S. 109-111.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6054,6 +6240,7 @@
             Metropoltheater</title>
         <extent>S. 18-20.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6073,6 +6260,7 @@
         </people>
         <title>"PLX" - Nachtrag: Politkunst aus der B[undes] R[epublik] D[eutschland.]</title>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6126,6 +6314,7 @@
             Jahre 1955</title>
         <extent>S. 5-6.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6166,6 +6355,7 @@
         <title>Notizen zu Gesprächen mit Paul Dessau</title>
         <extent>S. 706-709.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6213,6 +6403,7 @@
         <title>Erfahrungen im Liedschaffen für die X. Weltfestspiele</title>
         <extent>S. 2-5.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6319,6 +6510,7 @@
             Tanzmusik</title>
         <extent>S. 12-20.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6348,6 +6540,7 @@
         <extent>S. 105-108. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule
             Erfurt/Mühlhausen</journal>
+        <type>Artikel</type>
         <places>
             <place>Erfurt</place>
             <place>Mühlhausen</place>
@@ -6408,6 +6601,7 @@
         <title>Erfahrungen im Liedschaffen für die X. Weltfestspiele</title>
         <extent>S. 2-5.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6598,6 +6792,7 @@
         <title>Mary Wigman</title>
         <extent>S. 27-28.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6616,8 +6811,10 @@
             </author>
         </people>
         <title>Die Musikschulen in der Deutschen Demokratischen Republik - musikalische
-            Bildungsstätten junger Sozialisten: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+            Bildungsstätten junger Sozialisten</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6712,6 +6909,7 @@
         <title>Reiter der Nacht - eine Volksoper. (In der Diskussion).</title>
         <extent>S. 6-17.</extent>
         <journal>Mitteilungen der Akademie der Künste der DDR</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6763,6 +6961,7 @@
         <title>Literatur zur Geschichte des Volksliedes. (Literaturbericht)</title>
         <extent>S. 281-297.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6839,6 +7038,7 @@
         <title>"Einstein" - analytische Bemerkungen zur Oper von Paul Dessau</title>
         <extent>S. 711-716.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6866,6 +7066,7 @@
         <title>Notizen zum Musical. Keine Verwischung funktioneller Grenzen</title>
         <extent>S. 31-32.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6917,6 +7118,7 @@
         </people>
         <title>Notizen zur Gattung Musiktheater</title>
         <journal>Weimarer Beiträge</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6946,6 +7148,7 @@
         <title>Gedanken zur Oper "Der letzte Schuß" von Siegfried Matthus</title>
         <extent>S. 60-63.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6974,6 +7177,7 @@
             Meyer</title>
         <extent>S. 525-530.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7020,6 +7224,7 @@
         <title>Reiner Kunad - Porträtskizze eines Theatermusikers</title>
         <extent>S. 15-18.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7047,6 +7252,7 @@
             Deutschen Staatsoper Berlin.)</title>
         <extent>S. 6-7.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7117,6 +7323,7 @@
             zur Kulturpolitik unserer Republik im 25. Jahr ihres Bestehens</title>
         <extent>S. 89-97.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7141,6 +7348,7 @@
             des Volkshelden bei Händel.)</title>
         <extent>S. 57-60.</extent>
         <journal>Händel-Jahrbuch</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7169,6 +7377,7 @@
         <title>Interessante Opernszene. Bemerkungen zum Musiktheaterschaffen in der DDR</title>
         <extent>S. 129-135.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7194,6 +7403,7 @@
         <title>Musiktheater. "Reiter der Nacht", Ernst Hermann Meyers erste Oper</title>
         <extent>S. 107-109.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7212,6 +7422,7 @@
         <title>Musiktheater. In Berlin: Paul Dessaus Oper "Einstein" uraufgeführt</title>
         <extent>S. 213-216.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7232,6 +7443,7 @@
             Spies</title>
         <extent>S. 353.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7249,6 +7461,7 @@
         </people>
         <title>Zum Tode Johanna Rudolphs. In</title>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7268,6 +7481,7 @@
         <title>Kunst im Klassenkampf. Zum 50. Geburtstag Luigi Nonos</title>
         <extent>S. 7-11.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7286,6 +7500,7 @@
         <title>Arnold Schönberg heute. Zum 100. Geburtstag des Komponisten</title>
         <extent>S. 543-546.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7304,6 +7519,7 @@
         <title>Der unbequeme Amerikaner. Zum 100. Geburtstag von Charles Ives</title>
         <extent>S. 629-631.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7340,6 +7556,7 @@
         <title>Pantscho Wladigerow 75</title>
         <extent>S. 153-155.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7363,8 +7580,10 @@
             </author>
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
-            Sebastian Bachs Partita E-Dur für Violine solo BWV 1006: In: Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</title>
+            Sebastian Bachs Partita E-Dur für Violine solo BWV 1006</title>
+<journal>Forum: Musik in der DDR.
+            Musikschule und Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7439,6 +7658,7 @@
         <title>Die Analyse. "Der zerbrochene Krug", Oper von Fritz Geißler</title>
         <extent>S. 11-18.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7460,6 +7680,7 @@
         <title>Die Analyse. Sinfonie für Orchester von Friedrich Goldmann</title>
         <extent>S. 143-149.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7481,6 +7702,7 @@
             E[isler]</title>
         <extent>S. 226-228.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7501,6 +7723,7 @@
             von Conny Odd</title>
         <extent>S. 33-35.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7529,6 +7752,7 @@
         <title>Die Analyse. 7. Sinfonie von Fritz Geißler</title>
         <extent>S. 199-203.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7553,6 +7777,7 @@
             Geißler</title>
         <extent>S. 346-351.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7573,6 +7798,7 @@
         <title>Betrachtungen zu Paul Dessaus Orchestermusik Nr. 4</title>
         <extent>S. 192-195.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7594,6 +7820,7 @@
             Oberstufe, Aus der Arbeit einer AG an der POS "Geschwister Scholl" Meuselwitz</title>
         <extent>S. 120-122.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7619,6 +7846,7 @@
         <title>Schaffenspsychologische Untersuchungen zur instrumentalen Improvisation</title>
         <extent>S. 235-251.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7651,6 +7879,7 @@
             Psychologische Aspekte</title>
         <extent>S. 111-127.</extent>
         <journal>Weimarer Beiträge</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7675,6 +7904,7 @@
         </people>
         <title>Bemerkungen zum Volkslied im Unterricht. (1.2.)</title>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7697,6 +7927,7 @@
             Schuljahr 1973</title>
         <extent>S. 4-9.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7746,6 +7977,7 @@
         <title>Neue Werke unserer Komponisten. Rudolf Wagner-Régeny: Drei Fontane-Lieder</title>
         <extent>S. 38-39.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7843,8 +8075,10 @@
                 <givenName>Kurt</givenName>
             </author>
         </people>
-        <title>Neue Musik für Kinder: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+        <title>Neue Musik für Kinder</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7901,6 +8135,7 @@
         <title>Neue Werke unserer Komponisten. Fred Lohse: Chorzyklus</title>
         <extent>S. 39-40.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8053,6 +8288,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 27-35. </extent>
         <journal>Wissenschaftliche Zeitschrift der Martin-Luther-Universität Halle</journal>
+        <type>Artikel</type>
         <places>
             <place>Halle</place>
         </places>
@@ -8079,6 +8315,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 5-34. </extent>
         <journal>Wissenschaftliche Zeitschrift der Martin-Luther-Universität Halle</journal>
+        <type>Artikel</type>
         <places>
             <place>Halle</place>
         </places>
@@ -8228,6 +8465,7 @@
             Aussage, Weiterwirkung</title>
         <extent>S. 298 u. 311-317.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8255,6 +8493,7 @@
             vom alten Adam" (Wenzel/Rähmer)</title>
         <extent>S. 7-9.</extent>
         <journal>Theater der Zeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8278,6 +8517,7 @@
         <title>Neue Werke unserer Komponisten. Hans-Jürgen Wenzel: Violinkonzert</title>
         <extent>S. 360-361.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8296,6 +8536,7 @@
         <title>XI. Musiktage in Halle</title>
         <extent>S. 19-22.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8354,6 +8595,7 @@
         <title>Rote Lieder. Zum 4. Festival des politischen Liedes</title>
         <extent>S. 2-8.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8378,6 +8620,7 @@
         <title>Begegnung mit Ernst Busch</title>
         <extent>S. 12-13.</extent>
         <journal>Musikforum</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8477,6 +8720,7 @@
         <title>Die Deutsche Sinfonie von Hanns Eisler im Musikunterricht</title>
         <extent>S. 290-297.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8543,6 +8787,7 @@
             Arnold Schönberg in unveröffentlichten Briefen</title>
         <extent>S. 401-405.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8573,6 +8818,7 @@
         <title>Probleme der Fernsehfilmmusik</title>
         <extent>S. 173-178.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8597,6 +8843,7 @@
         <title>Wie hört man Musik im Film</title>
         <extent>S. 193-198.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8627,6 +8874,7 @@
         <title>Musik in Film und Hörspiel</title>
         <extent>S. 609-612.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8651,6 +8899,7 @@
         <title>Neue Unterrichtsmittel für Musik</title>
         <extent>S. 351-353 u. S. 360.</extent>
         <journal>Musik in der Schule</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8670,6 +8919,7 @@
         <title>Das Tonalitätsproblem in Hindemiths "Unterweisung"</title>
         <extent>S. 179-183.</extent>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8740,8 +8990,10 @@
                 <givenName>Joachim</givenName>
             </author>
         </people>
-        <title>Orchesterarbeit in den Musikschulen: In: Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</title>
+        <title>Orchesterarbeit in den Musikschulen</title>
+<journal>Forum: Musik in der DDR. Musikschule und
+            Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8772,6 +9024,7 @@
         <title>Neues Jugendgesetz und musikalische Bildung</title>
         <extent>S. 267-271.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8833,6 +9086,7 @@
         </people>
         <title>Traditionslinien. Ein Beitrag zur DDR-Musikgeschichte.</title>
         <journal>Beiträge zur Musikwissenschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8861,6 +9115,7 @@
         <title>Ur- und Erstaufführungen an den Bühnen der DDR ab Spielzeit 1972/73.
             (Verzeichnis).</title>
         <journal>Musikbühne</journal>
+        <type>Artikel</type>
         <publisher>Henschelverlag</publisher>
         <publicationYear>1974</publicationYear>
         <extent>S. 250-253.</extent>
@@ -8886,6 +9141,7 @@
         <extent>S. 61-65. </extent>
         <journal>Wissenschaftliche Zeitschrift der Ernst-Moritz-Arndt-Universität
             Greifswald</journal>
+        <type>Artikel</type>
         <places>
             <place>Greifswald</place>
         </places>
@@ -8941,6 +9197,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <extent>S. 23-32. </extent>
         <journal>Wissenschaftliche Zeitschrift der Pädagogischen Hochschule Zwickau</journal>
+        <type>Artikel</type>
         <places>
             <place>Zwickau</place>
         </places>
@@ -8998,8 +9255,10 @@
             </author>
         </people>
         <title>Zur Klavieretüde als Mittel spieltechnischer Ausbildung unter dem Aspekt eines
-            einheitlichen Er-ziehungs- und Bildungsprozesses: In: Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</title>
+            einheitlichen Er-ziehungs- und Bildungsprozesses</title>
+<journal>Forum: Musik in der DDR.
+            Musikschule und Persönlichkeitsbildung</journal>
+<type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -9028,6 +9287,7 @@
         <title>Neue Werke unserer Komponisten. Wilhelm Neef: Violinkonzert</title>
         <extent>S. 170-171.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9046,6 +9306,7 @@
         <title>Neue Werke unserer Komponisten. Dieter Nowka: Sonate V</title>
         <extent>S. 428.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9132,7 +9393,7 @@
         <extent>S. 38-47.</extent>
         <places>
             <place>Velber</place>
-<place>Hannover</place>
+            <place>Hannover</place>
         </places>
         <abstract> Die opera buffa entwickelte sich in Italien seit 1750 und trat in Gegensatz zur
             opera seria, aber auch zur französischen opéra comique. Die Bedeutung des Mimischen war
@@ -9182,6 +9443,7 @@
         <extent>S. 81-82. </extent>
         <journal>Wissenschaftliche Zeitschrift der Ernst-Moritz-Arndt-Universität
             Greifswald</journal>
+        <type>Artikel</type>
         <places>
             <place>Greifswald</place>
         </places>
@@ -9229,6 +9491,7 @@
         <sameAs>Gesellschafts- u. sprachwissenschaftliche Reihe.</sameAs>
         <journal>Wissenschaftliche Zeitschrift der Ernst-Moritz-Arndt-Universität
             Greifswald</journal>
+        <type>Artikel</type>
         <places>
             <place>Greifswald</place>
         </places>
@@ -9247,6 +9510,7 @@
         <title>Zum ersten Mal: DDR-Musiktage in Berlin.</title>
         <extent>S. 657-667.</extent>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9260,6 +9524,7 @@
             Musik und Gesellschaft. 24 (1974), S. 584-595.</fullTitle>
         <title>Zum 25. Geburtstag unserer Republik. Erinnerungen und Erlebnisberichte</title>
         <journal>Musik und Gesellschaft</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9375,6 +9640,7 @@
         </people>
         <title>Das c-Moll-Trio BWV 585 - eine Orgeltranskription Johann Sebastian Bachs?</title>
         <journal>Deutsches Jahrbuch der Musikwissenschaft für 1971</journal>
+        <type>Artikel</type>
         <publisher>Edition Peters</publisher>
         <publicationYear>1974</publicationYear>
         <places>
@@ -9812,7 +10078,7 @@
         <startingYear>1974</startingYear>
         <finishingYear/>
         <finishedYear/>
-        
+
         <org/>
         <type>Forschungsauftrag</type>
         <places>
@@ -10723,7 +10989,7 @@
         <startingYear>1973</startingYear>
         <finishingYear>1975</finishingYear>
         <finishedYear/>
-        
+
         <org/>
         <type>Diss. B</type>
         <places>
@@ -10837,7 +11103,7 @@
         <startingYear>1972</startingYear>
         <finishingYear>1975</finishingYear>
         <finishedYear/>
-        
+
         <org/>
         <type>Diss. A</type>
         <places>
@@ -12565,7 +12831,7 @@
         <startingYear>1966</startingYear>
         <finishingYear>1975</finishingYear>
         <finishedYear/>
-        
+
         <org/>
         <type>Diss. A</type>
         <places>
