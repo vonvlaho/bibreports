@@ -23,7 +23,7 @@
             @endforeach
         </p>
     @endisset
-    <h5><strong>{{ $entry->entryNo }}</strong> @include('includes.title', ['entry' => $entry])</h5>
+    <h5><strong>{{ $entry->entryNo }}</strong> {{ $entry->fullTitle }}</h5>
     @isset( $entry->abstract )
         <p>{{ $entry->abstract }}</p>
     @endisset

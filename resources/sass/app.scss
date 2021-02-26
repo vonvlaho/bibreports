@@ -20,7 +20,9 @@ $content-heading-weight: 300;
 @import "../../node_modules/bulma/sass/helpers/_all.sass";
 @import "../../node_modules/bulma/sass/grid/_all.sass";
 @import "../../node_modules/bulma/sass/components/navbar.sass";
+@import "../../node_modules/bulma/sass/components/breadcrumb.sass";
 @import "../../node_modules/bulma/sass/components/pagination.sass";
+@import "../../node_modules/bulma/sass/components/tabs.sass";
 @import "../../node_modules/bulma/sass/layout/hero.sass";
 @import "../../node_modules/bulma/sass/layout/section.sass";
 
@@ -31,4 +33,7 @@ $content-heading-weight: 300;
             max-width: 90%;
         }
     }
+}
+.has-background-light .field.has-addons {
+    justify-content: center;
 }

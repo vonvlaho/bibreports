@@ -1,0 +1,214 @@
+# Anpassung von Autoren
+
+1966:
+    91
+        - Hillmann, Eva
+        + Hillmann, Eva-Maria
+    98
+        - Hoke, Hans-Gunter
+        + Hoke, Hans Gunter
+    100
+        - Irmer, Hans-Joachim
+        + Irmer, Hans Joachim
+    130
+        - Kraft, Günter
+        + Kraft, Günther
+    307
+        - Voigt, Hans
+        + Voigt, Hans-Hermann
+    F 7
+        - Donath, Paul
+        + Donath, Paul Wilhelm
+1967:
+    20
+        - Diekow, Reinhard
+        + Diekow, R.
+        - Frohberg, W.
+        + Frohberg, Wolfgang
+    23
+        - Kraft, Günter
+        + Kraft, Günther
+    109
+        - Kraft, Günter
+        + Kraft, Günther
+    110
+        - Kraft, Günter
+        + Kraft, Günther
+    204
+        - Plesske, Hans Martin
+        + Pleßke, Hans-Martin
+    F 13
+        - Breitkreuz, Dieter
+        + Breitkreutz, Dieter
+    F 15
+        - Busse, Burghard
+        + Busse, Burkhard
+    F 17
+        - Dietzel, Günther
+        + Diezel, Günther
+    F 18
+        - Donath, Paul
+        + Donath, Paul Wilhelm
+    F 44
+        - Hansen, Matthias
+        + Hanse, Mathias
+    F 61
+        - Kartomi, Margret
+        + Kartomi, Margaret
+    F 106
+        - Scharfenberg, Klaus Dieter
+        + Scharfenberg, Klaus-Dieter
+    F 125
+        - Voigt, Hans Hermann
+        + Voigt, Hans-Hermann
+1968:
+    86
+        - Klemm, Eberhard
+        + Klemm, Eberhardt
+    F 21
+        - Donath, Paul
+        + Donath, Paul Wilhelm
+    F 43
+        - Greß, Franz-Harald
+        + Greß, Frank-Harald
+    F 49
+        - Hellmund, Christof
+        + Hellmundt, Christoph
+1969:
+    55
+        - Jung, Hans-Rudolf
+        + Jung, Hans Rudolf
+    F 14
+        - Dietzel, Günther
+        + Diezel, Günther
+    F 40
+        - Greß, Franz-Harald
+        + Greß, Frank-Harald
+    F 80
+        - Mühlenberg, Lilo
+        + Mühlberg, Lilo
+1970:
+    16
+        - Meyer, Ernst H.
+        + Meyer, Ernst Hermann
+    41
+        - Busse, Burghard
+        + Busse, Burkhard
+    73
+        - Friebel, Karl Heinz
+        + Friebel, Karl-Heinz
+    120
+        - Hienzsch, Eberhard
+        + Hienzsch, Erhard
+    138
+        - Dramaturg. Abt. d. Kom. Oper Berlin
+        + Dramaturg. Abt. d. Komischen Oper Berlin
+    346
+        - Arbeitskreis "Georg Philipp Telemann" Magdeburg
+        + Arbeitskreis "Georg Philipp Telemann" Magdeburg im Kulturbund d. DDR
+    F 47
+        - Hienzisch, Erhard
+        + Hienzsch, Erhard
+1971
+    76
+        - Dramaturg. Abt. d. Kom. Oper Berlin
+        + Dramaturg. Abt. d. Komischen Oper Berlin
+    214
+        - Böttcher, Hermann
+        + Böttcher, Hermann F.
+    F 40
+        - Göring, Liselotte
+        + Göring, Lieselotte
+1972
+    119
+        - Klemm, Eberhard
+        + Klemm, Eberhardt
+    211
+        - Böhm, H.
+        + Böhm, Hans
+        - Kynaß, H.-J.
+        + Kynaß, Hans-Joachim
+        - Schaefer, Hj.
+        + Schaefer, Hansjürgen
+        - Schönfelder, G.
+        + Schönfelder, Gerd
+    340
+        - Strobach, Herrmann
+        + Strobach, Hermann
+    F 43
+        - Göring, Liselotte
+        + Göring, Lieselotte
+    F 66
+        - Hoke, Hans-Gunter
+        + Hoke, Hans Gunter
+    F 74
+        - Junghans, Gerd
+        + Junghanns, Bernd
+    F 84
+        - Kopcak, Rüdiger
+        + Kopczak, Rüdiger
+1973
+    52
+        - Donath, Paul W.
+        + Donath, Paul Wilhelm
+    53
+        - Donath, Paul W.
+        + Donath, Paul Wilhelm
+    96
+        - Edith Dörwald
+        + Edith Dörwaldt
+    152
+        - Klemm, Eberhard
+        + Klemm, Eberhardt
+    153
+        - Klemm, Eberhard
+        + Klemm, Eberhardt
+    F 22
+        - Donath, Paul
+        + Donath, Paul Wilhelm
+    F 44
+        - Göhring, Liselotte
+        + Göring, Lieselotte
+    F 66
+        - Hoke, Hans-Gunter
+        + Hoke, Hans Gunter
+    F 86
+        - Kopcak, Rüdiger
+        + Kopczak, Rüdiger
+1974
+    11
+        - Felix, W.
+        + Felix, Werner
+        - Hoffmann, W.
+        + Hoffmann, Winfried
+    12
+        - Felix, W.
+        + Felix, Werner
+        - Hoffmann, W.
+        + Hoffmann, Winfried
+        - Neumann, W.
+        + Neumann, Werner
+    13
+        - Felix, W.
+        + Felix, Werner
+        - Hoffmann, W.
+        + Hoffmann, Winfried
+    157
+        - Köhler, Hans Joachim
+        + Köhler, Hans-Joachim
+    196
+        - Loitsch, Hans Christian
+        + Loitsch, Hans-Christian
+    236
+        - Stompor, St.
+        + Stompor, Stephan
+    F 93
+        - Kopcak, Rüdiger
+        + Kopczak, Rüdiger
+    F 142
+        - Seidl, Helmuth
+        + Seidl, Helmut
+1975
+    F 74
+        - Kopcak, Rüdiger
+        + Kopczak, Rüdiger

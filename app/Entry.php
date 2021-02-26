@@ -3,22 +3,21 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use Laravel\Scout\Searchable;
+use PhpParser\Builder\Class_;
 
 class Entry extends Model
 {
-    use Searchable;
 
-    protected $fillable = ['entryNo', 'title', 'report_id', 'type', 'seriesTitle', 'issue',
+    protected $fillable = ['entryNo', 'fullTitle', 'title', 'report_id', 'type', 'seriesTitle', 'issue',
             'publicationYear', 'place', 'startingYear', 'finishingYear', 'finishedYear', 'abstract'];
 
     public  function report()
     {
         return $this->belongsTo(Report::Class);
     }
-    public function authors()
+    public function people()
     {
-        return $this->belongsToMany(Author::class);
+        return $this->belongsToMany(Person::class)->withPivot('role');
     }
     public function entries()
     {
@@ -27,5 +26,9 @@ class Entry extends Model
     public function keywords()
     {
         return $this->belongsToMany(Keyword::Class);
+    }
+    public function places()
+    {
+        return $this->belongsToMany(Place::Class);
     }
 }

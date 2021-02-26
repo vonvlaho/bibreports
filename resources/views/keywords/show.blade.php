@@ -12,7 +12,7 @@
             @foreach( $entries as $entry )
                 <li>
                     <a href="{{ route('entries.show', $entry) }}">
-                        @include('includes.title', ['entry' => $entry])
+                        {{ $entry->fullTitle }}
                     </a>
                 </li>
             @endforeach

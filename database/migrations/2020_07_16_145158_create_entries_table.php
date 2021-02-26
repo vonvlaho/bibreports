@@ -18,11 +18,11 @@ class CreateEntriesTable extends Migration
             $table->timestamps();
             $table->string('entryNo');
             $table->string('type')->nullable();
-            $table->text('title');
+            $table->text('fullTitle');
+            $table->text('title')->nullable();
             $table->string('seriesTitle')->nullable();
             $table->integer('issue')->nullable();
             $table->integer('publicationYear')->nullable();
-            $table->string('place')->nullable();
             $table->integer('startingYear')->nullable();
             $table->integer('finishingYear')->nullable();
             $table->integer('finishedYear')->nullable();

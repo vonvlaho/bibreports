@@ -8,11 +8,11 @@ $xml->addChild('report');
 
 $root = $xml->report;
 
-$title = $root->addChild('title', $rawData[0] ?? '');
+/*$title = $root->addChild('title', $rawData[0] ?? '');
 $year = $root->addChild('year', $rawData[1] ?? '');
 $publisher = $root->addChild('publisher', str_replace('Herausgegeben vom ', '', $rawData[3]) ?? '');
 $editor = $root->addChild('editor', $rawData[5] ?? '');
-$cover = $root->addChild('cover', 'BERICHT_' . $year . '.jpg' ?? '');
+$cover = $root->addChild('cover', 'BERICHT_' . $year . '.jpg' ?? '');*/
 
 $entry = [];
 $currentEntryNo = '';
@@ -21,19 +21,19 @@ $registerMode = false;
 foreach($rawData as $key => $value) {
     if (preg_match("/(###Register###)/", $value) > 0) {
         $registerMode = true;
-    } else if ($registerMode === true && preg_match("/(F\s\d*)/", $value) > 0) {
-        $keyword = $root->addChild('keyword');
-        $entryNos = $keyword->addChild('entryNos');
-
-        //extract entryNos
-        preg_match_all("/(F\s\d*)/", $value, $matches);
-        foreach ($matches[1] as $entryNo) {
-            $keyword->entryNos->addChild('entryNo', $entryNo);
-        }
+    } else if ($registerMode === true && preg_match("/(F\s\d+)|(\d+)/", $value) > 0) {
+        $keyword = $root->addChild('registerEntry');
+        // $entryNos = $keyword->addChild('entryNos');
 
         //extract entry name
-        preg_match("/(.*?)(\d+)|(.*?)(F\s\d+)/", $value, $matches);
-        $keyword->entryNos->addChild('name', $matches[1]);
+        preg_match("/(.*?)(\d++)(?!\.)/", $value, $matches);
+        $keyword->addChild('item', $matches[1]);
+
+        //extract entryNos
+        preg_match_all("/(F\s\d++)(?!\.)|(\d++)(?!\.)/", $value, $matches);
+        foreach ($matches[0] as $entryNo) {
+            $keyword->addChild('ref', $entryNo);
+        }
     } else if (preg_match("/(F\s\d+)\s/", $value) > 0) {
 
         $entry = $root->addChild('entry');

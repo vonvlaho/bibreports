@@ -1,0 +1,35 @@
+# Bascic XML Structure
+```xml
+<entry>
+    <entryNo></entryNo>
+    <fullTitle></fullTitle>
+    <people>
+        <author>
+            <familyName></familyName>
+            <givenName></givenName>
+        </author>
+        <editor>
+            <familyName></familyName>
+            <givenName></givenName>
+        </editor>
+        <contributor>
+            <familyName></familyName>
+            <givenName></givenName>
+        </contributor>
+    </people>
+    <title></title>
+    <type></type>
+    <journal></journal>
+    <publisher></publisher>
+    <startingYear></startingYear>
+    <finishingYear></finishingYear>
+    <finishedYear></finishedYear>
+    <publicationYear></publicationYear>
+    <sameAs></sameAs>
+    <org></org>
+    <type></type>
+    <place></place>
+    <extent></extent>
+    <abstract></abstract>
+</entry>
+```
