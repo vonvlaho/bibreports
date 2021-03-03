@@ -28,6 +28,7 @@ Route::get('/entries/{entry}', 'EntriesController@show')->name('entries.show');
 Route::get('/search/', 'SearchController@searchEntries')->name('search.search');
 
 Route::get('/keywords', 'KeywordsController@store')->name('keywords.store');
+Route::get('/keywords/data', 'KeywordsController@data')->name('keywords.data');
 Route::get('/keywords/download', 'KeywordsController@download')->name('keywords.download');
 Route::get('/keywords/{keyword}', 'KeywordsController@show')->name('keywords.show');
 

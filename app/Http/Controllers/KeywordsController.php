@@ -22,6 +22,40 @@ class KeywordsController extends Controller
         return view('keywords.store', ['keywords' => $keywords]);
     }
 
+    public function data() {
+
+        $keywords = [];
+
+        foreach (Keyword::all() as $keyword) {
+            $keywords[$keyword->id] = [
+                'id' => $keyword->id,
+                'name' => $keyword->name,
+                'count' => [
+                    'total' => 0,
+                    '1966' => 0,
+                    '1967' => 0,
+                    '1968' => 0,
+                    '1969' => 0,
+                    '1970' => 0,
+                    '1971' => 0,
+                    '1972' => 0,
+                    '1973' => 0,
+                    '1974' => 0,
+                    '1975' => 0
+                ]
+            ];
+            foreach ($keyword->entries as $entry) {
+                $keywords[$keyword->id]['count']['total']++;
+                $keywords[$keyword->id]['count'][$entry->report->year]++;
+            }
+        }
+        usort($keywords, function ($item1, $item2) {
+            return $item2['count']['total'] <=> $item1['count']['total'];
+        });
+
+        return view('keywords.data', ['keywords' => $keywords]);
+    }
+
     public function download() {
         $reports = Report::all();
         $filename = "keywords.csv";

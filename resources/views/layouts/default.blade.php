@@ -9,6 +9,7 @@
         Republik.</title>
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
 </head>
 <body>
 @include('includes.header')
@@ -16,20 +17,8 @@
     @yield('content')
 </main>
 @include('includes.footer')
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-        if ($navbarBurgers.length > 0) {
-            $navbarBurgers.forEach( el => {
-                el.addEventListener('click', () => {
-                    const target = el.dataset.target;
-                    const $target = document.getElementById(target);
-                    el.classList.toggle('is-active');
-                    $target.classList.toggle('is-active');
-                });
-            });
-        }
-    });
-</script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+<script src="/js/app.js"></script>
 </body>
 </html>

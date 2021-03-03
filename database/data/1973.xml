@@ -105,7 +105,7 @@
                 <givenName>Ingeborg</givenName>
             </author>
         </people>
-        <title>5. Telemann-Festtage in Magdeburg.- In</title>
+        <title>5. Telemann-Festtage in Magdeburg</title>
         <journal>Musik und Gesellschaft</journal>
         <type>Artikel</type>
         <places>
@@ -124,7 +124,9 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>Kantate - Melodram - Oratorium: In: Forum: Musik in der DDR. T. 2</title>
+        <title>Kantate - Melodram - Oratorium</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -806,7 +808,9 @@
                 <givenName>Dietrich</givenName>
             </author>
         </people>
-        <title>Sinfonik: In: Forum: Musik in der DDR. T. 2</title>
+        <title>Sinfonik</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -908,8 +912,9 @@
                 <givenName>Heinz Alfred</givenName>
             </editor>
         </people>
-        <title>Vorwort: In: Meyer, Ernst Hermann: Musik der Renaissance - Aufklärung -
-            Klassik</title>
+        <title>Vorwort</title>
+        <journal> Meyer, Ernst Hermann: Musik der Renaissance - Aufklärung - Klassik</journal>
+        <type>Artikel</type>
         <sameAs>Reclams Universal-Bibliothek. (Musik u. Musiktheater.) Bd 524.</sameAs>
         <extent>S. 5-20.</extent>
         <places>
@@ -959,8 +964,9 @@
                 <givenName>Heinz Alfred</givenName>
             </author>
         </people>
-        <title>Prinzipien der Musik des sozialistischen Realismus: In: Forum: Musik in der DDR. T.
-            1</title>
+        <title>Prinzipien der Musik des sozialistischen Realismus</title>
+        <journal> Forum: Musik in der DDR. T. 1</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -1132,8 +1138,9 @@
                 <givenName>Edith</givenName>
             </author>
         </people>
-        <title>Analytische Betrachtungen zu "Der Doppelgänger": In: Bühnentanz und sozialistische
-            Gegenwart</title>
+        <title>Analytische Betrachtungen zu "Der Doppelgänger"</title>
+        <journal> Bühnentanz und sozialistische Gegenwart</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 8. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -1163,8 +1170,9 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>"Frühling an der Seme", Ballett von Jean Kurt Forest: In: Der Realismus und die
-            Sprache des Tanzes</title>
+        <title>"Frühling an der Seme", Ballett von Jean Kurt Forest</title>
+        <journal> Der Realismus und die Sprache des Tanzes</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 11. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -1276,7 +1284,7 @@
             </author>
         </people>
         <title>Das Lied, im Kampf geboren. Gedanken zum Liedfestival "Politische Lieder zu den X.
-            Weltfestspielen" - In</title>
+            Weltfestspielen"</title>
         <journal>Musik in der Schule</journal>
         <type>Artikel</type>
         <places>
@@ -1329,7 +1337,9 @@
                 <givenName>Rudolf</givenName>
             </author>
         </people>
-        <title>Über Gestalt und Funktion des Themas bei Bartók: In: Meyer</title>
+        <title>Über Gestalt und Funktion des Themas bei Bartók</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -1384,7 +1394,9 @@
                 <givenName>Jürgen</givenName>
             </author>
         </people>
-        <title>Hanns Eisler in seinen verbalen Äußerungen: In: Meyer</title>
+        <title>Hanns Eisler in seinen verbalen Äußerungen</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -1406,7 +1418,9 @@
                 <givenName>Veit</givenName>
             </author>
         </people>
-        <title>Zum Begriff der Tonalität: In: Meyer</title>
+        <title>Zum Begriff der Tonalität</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2292,7 +2306,9 @@
                 <givenName>Harry</givenName>
             </author>
         </people>
-        <title>Das Violinkonzert von Ernst Hermann Meyer: In: Meyer</title>
+        <title>Das Violinkonzert von Ernst Hermann Meyer</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2609,7 +2625,9 @@
             </author>
         </people>
         <title>Über den Beitrag des Musikers zur Konzeption der Aufführung musikalischer
-            Bühnenwerke: In: Zur Erbeaneignung im Musiktheater</title>
+            Bühnenwerke</title>
+        <journal> Zur Erbeaneignung im Musiktheater</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 29. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -2631,7 +2649,7 @@
             </author>
         </people>
         <title>Janáček - Werk- und Realisierungsprobleme. Der Realismus des Komponierens bei
-            Janáček.- In</title>
+            Janáček</title>
         <journal>Theater der Zeit</journal>
         <type>Artikel</type>
         <places>
@@ -2921,7 +2939,9 @@
                 <givenName>Fritz</givenName>
             </author>
         </people>
-        <title>Streiflichter auf die Funktion des Liedes: In: Forum: Musik in der DDK. T. 2</title>
+        <title>Streiflichter auf die Funktion des Liedes</title>
+        <journal> Forum: Musik in der DDK. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -3241,8 +3261,9 @@
                 <givenName>Winfried</givenName>
             </author>
         </people>
-        <title>Fünfundzwanzig Jahre sozialistische Singebewegung: In: Forum: Musik in der DDR. T.
-            2</title>
+        <title>Fünfundzwanzig Jahre sozialistische Singebewegung</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -3291,8 +3312,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Crasselius (Crasselt), Bartholomäus: In: Die Musik in Geschichte und Gegenwart. Bd
-            15</title>
+        <title>Crasselius (Crasselt), Bartholomäus</title>
+        <journal> Die Musik in Geschichte und Gegenwart. Bd 15</journal>
+        <type>Artikel</type>
         <places>
             <place>Kassel</place>
             <place> Basel</place>
@@ -3313,7 +3335,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Familie Donati (Donat): In: Die Musik in Geschichte und Gegenwart. Bd 15</title>
+        <title>Familie Donati (Donat)</title>
+        <journal> Die Musik in Geschichte und Gegenwart. Bd 15</journal>
+        <type>Artikel</type>
         <places>
             <place>Kassel</place>
             <place> Basel</place>
@@ -3337,7 +3361,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Dehn (Dehne), Michael: In: Die Musik in Geschichte und Gegenwart. Bd 15</title>
+        <title>Dehn (Dehne), Michael</title>
+        <journal> Die Musik in Geschichte und Gegenwart. Bd 15</journal>
+        <type>Artikel</type>
         <places>
             <place>Kassel</place>
             <place> Basel</place>
@@ -4054,8 +4080,9 @@
             </author>
         </people>
         <title>Zu einigen Entwicklungstendenzen bei der Aneignung der sozialistischen Gegenwart
-            durch den Bühnentanz in unserer Republik: In: Bühnentanz und sozialistische
-            Gegenwart</title>
+            durch den Bühnentanz in unserer Republik</title>
+        <journal> Bühnentanz und sozialistische Gegenwart</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 8. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -4098,8 +4125,9 @@
                 <givenName>Helga</givenName>
             </author>
         </people>
-        <title>Analytische Betrachtungen zu "Frühling in Vietnam": In: Bühnentanz und sozialistische
-            Gegenwart</title>
+        <title>Analytische Betrachtungen zu "Frühling in Vietnam"</title>
+        <journal> Bühnentanz und sozialistische Gegenwart</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 8. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -4167,7 +4195,9 @@
                 <givenName>Ernst</givenName>
             </author>
         </people>
-        <title>Standpunkt und Aspekte: In: Deutsche Staatsoper Berlin</title>
+        <title>Standpunkt und Aspekte</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4301,7 +4331,9 @@
             </author>
         </people>
         <title>Die gesellschaftspolitische Relevanz der musikalischen Dramaturgie in "Figaros
-            Hochzeit" und "Don Giovanni": In: Mozart-Rezeption heute und hier</title>
+            Hochzeit" und "Don Giovanni"</title>
+        <journal> Mozart-Rezeption heute und hier</journal>
+        <type>Artikel</type>
         <sameAs>Marial zum Theater. 22. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -4373,7 +4405,9 @@
                 <givenName>Renate</givenName>
             </author>
         </people>
-        <title>Die Musik: In: Das Zeitalter der Empfindsamkeit</title>
+        <title>Die Musik</title>
+        <journal> Das Zeitalter der Empfindsamkeit</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4514,7 +4548,9 @@
                 <givenName>Inge</givenName>
             </author>
         </people>
-        <title>Traditionen des Arbeiterliedes: In: Forum: Musik in der DDR. T. 2</title>
+        <title>Traditionen des Arbeiterliedes</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4536,8 +4572,9 @@
             </author>
         </people>
         <title>Zur Musikrezeption durch die deutsche Arbeiterklasse - unter besonderer
-            Berücksichtigung der Werke Ludwig van Beethovens: In: Kultur und Lebensweise des
-            Proletariats</title>
+            Berücksichtigung der Werke Ludwig van Beethovens</title>
+        <journal> Kultur und Lebensweise des Proletariats</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4864,8 +4901,9 @@
                 <givenName>Jurij</givenName>
             </author>
         </people>
-        <title>M. J. Waldas Orgelbuch aus dem Jahre 1787: In: Letopis, Jahresschrift für sorbische
-            Volksforschung. R. C, Nr 16</title>
+        <title>M. J. Waldas Orgelbuch aus dem Jahre 1787</title>
+        <journal> Letopis, Jahresschrift für sorbische Volksforschung. R. C, Nr 16</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4928,7 +4966,9 @@
             </author>
         </people>
         <title>Entwicklungstendenzen in der Musik des XX. Jahrhunderts außerhalb des sozialistischen
-            Lagers: In: Form: Musik in der DDR. T. 1</title>
+            Lagers</title>
+        <journal> Form: Musik in der DDR. T. 1</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -5022,7 +5062,9 @@
                 <givenName>Liesel</givenName>
             </author>
         </people>
-        <title>Ernst Hermann Meyers 3. Streichquartett: In: Meyer</title>
+        <title>Ernst Hermann Meyers 3. Streichquartett</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5485,7 +5527,9 @@
                 <givenName>Paul</givenName>
             </author>
         </people>
-        <title>Zur Funktion des musikalischen Voraushörens (Antizipation): In: Meyer</title>
+        <title>Zur Funktion des musikalischen Voraushörens (Antizipation)</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5512,7 +5556,9 @@
             </author>
         </people>
         <title>Psychologische und methodische Grundfragen der Werkbetrachtung im Fach
-            Musikerziehung: In: Forum: Musik in der DDR. T. 1</title>
+            Musikerziehung</title>
+        <journal> Forum: Musik in der DDR. T. 1</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6189,7 +6235,9 @@
                 <givenName>Heinz</givenName>
             </author>
         </people>
-        <title>Kammermusik: In: Forum: Musik in der DDR. T. 2</title>
+        <title>Kammermusik</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6252,7 +6300,9 @@
                 <givenName>Siegfried</givenName>
             </author>
         </people>
-        <title>Johann Bach, der Stammvater der Erfurter Bache: In: Bach-Jahrbuch. Jg 59</title>
+        <title>Johann Bach, der Stammvater der Erfurter Bache</title>
+        <journal> Bach-Jahrbuch. Jg 59</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6312,7 +6362,9 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>Anmerkungen zur Operninterpretation: In: Deutsche Staatsoper Berlin</title>
+        <title>Anmerkungen zur Operninterpretation</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6402,8 +6454,7 @@
                 <givenName>Rainer</givenName>
             </author>
         </people>
-        <title>Unterrichtshilfen Musik 9. und 1o. Klasse zum Lehrplan 1972: Berlin: Volk und Wissen
-            1973</title>
+        <title>Unterrichtshilfen Musik 9. und 10. Klasse zum Lehrplan 1972</title>
         <places>
             <place>Berlin</place>
         </places>
@@ -6482,7 +6533,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Zum Geleit: In: Deutsche Staatsoper Berlin</title>
+        <title>Zum Geleit</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6500,7 +6553,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Prägen des Opernschaffens: In: Forum: Musik in der DDR. T. 2</title>
+        <title>Prägen des Opernschaffens</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6623,8 +6678,10 @@
             </author>
         </people>
         <title>Zum nationalen Charakter und zur musikalischen Bedeutung des Werkes von K. A. Kocor
-            (1822-1904): In: Letopis, Jahresschrift des Instituts für sorbische Volksforschung. R.
-            C, Nr. 16</title>
+            (1822-1904)</title>
+        <journal> Letopis, Jahresschrift des Instituts für sorbische Volksforschung. R. C, Nr.
+            16</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6665,7 +6722,9 @@
                 <givenName>Eberhard</givenName>
             </author>
         </people>
-        <title>Möglichkeiten des Balletts von heute: In: Deutsche Staatsoper Berlin</title>
+        <title>Möglichkeiten des Balletts von heute</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6712,7 +6771,7 @@
                 <givenName>Wolfgang</givenName>
             </author>
         </people>
-        <title>Peripherer Beitrag zur Bach-Forschung.-In</title>
+        <title>Peripherer Beitrag zur Bach-Forschung</title>
         <journal>Beiträge zur Musikwissenschaft</journal>
         <type>Artikel</type>
         <places>
@@ -6736,8 +6795,9 @@
                 <givenName>Horst</givenName>
             </author>
         </people>
-        <title>Die Staatskapelle Berlin - ein Blick auf ihre vierhundertjährige Geschichte: In:
-            Deutsche Staatsoper Berlin</title>
+        <title>Die Staatskapelle Berlin - ein Blick auf ihre vierhundertjährige Geschichte</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6808,8 +6868,9 @@
                 <givenName>Gerd</givenName>
             </author>
         </people>
-        <title>Bemerkungen zum Opernschaffen von Giacomo Meyerbeer: In: Zur Erbeaneignung im
-            Musiktheater</title>
+        <title>Bemerkungen zum Opernschaffen von Giacomo Meyerbeer</title>
+        <journal> Zur Erbeaneignung im Musiktheater</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 29. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -6873,8 +6934,9 @@
                 <givenName>Eginhard</givenName>
             </author>
         </people>
-        <title>("Frühling an der Seine", Ballett von Jean Kurt Forest.) Diskussionsbeitrag: In: Der
-            Realismus und die Sprache des Tanzes</title>
+        <title>("Frühling an der Seine", Ballett von Jean Kurt Forest.) Diskussionsbeitrag</title>
+        <journal> Der Realismus und die Sprache des Tanzes</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 11. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -6895,7 +6957,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Uraufführungen gestern und heute: In: Deutsche Staatsoper Berlin</title>
+        <title>Uraufführungen gestern und heute</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7091,7 +7155,9 @@
                 <givenName>Johanna</givenName>
             </author>
         </people>
-        <title>Zu Fragen des musikalischen Erbes: In: Forum: Musik in der DDR. T. 1</title>
+        <title>Zu Fragen des musikalischen Erbes</title>
+        <journal> Forum: Musik in der DDR. T. 1</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7113,8 +7179,9 @@
                 <givenName>Johanna</givenName>
             </author>
         </people>
-        <title>Zum Messias. Die soziale Verheißung von Händels "Messias": In:
-            Händelfestspiele</title>
+        <title>Zum Messias. Die soziale Verheißung von Händels "Messias"</title>
+        <journal> Händelfestspiele</journal>
+        <type>Artikel</type>
         <extent>22. Händelfestspiele der DDR, Halle (Saale) 1973 (Festheft). - Halle 1973. S.
             60-74.</extent>
         <places>
@@ -7243,7 +7310,9 @@
                 <givenName>Hansjürgen</givenName>
             </author>
         </people>
-        <title>Der klagende Gott und der adlige Saufbold: In: Deutsche Staatsoper Berlin</title>
+        <title>Der klagende Gott und der adlige Saufbold</title>
+        <journal> Deutsche Staatsoper Berlin</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7687,7 +7756,9 @@
             </author>
         </people>
         <title>Die Beziehungen des kompositorischen Schaffens in der Deutschen Demokratischen
-            Republik zur Sowjetunion: In: Forum: Musik in der DDR. T. 2</title>
+            Republik zur Sowjetunion</title>
+        <journal> Forum: Musik in der DDR. T. 2</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7809,8 +7880,9 @@
                 <givenName>Lothar</givenName>
             </author>
         </people>
-        <title>Musikerziehung an den allgemein-bildenden polytechnischen Oberschulen: In: Forum:
-            Musik in der DDR. T. 1</title>
+        <title>Musikerziehung an den allgemein-bildenden polytechnischen Oberschulen</title>
+        <journal> Forum: Musik in der DDR. T. 1</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 9.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7912,7 +7984,9 @@
                 <givenName>Hans-Joachim</givenName>
             </author>
         </people>
-        <title>Vorwort: In: Bach, Johann Sebastian: Violinkonzert a-Moll, BWV 1041</title>
+        <title>Vorwort</title>
+        <journal> Bach, Johann Sebastian: Violinkonzert a-Moll, BWV 1041</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7928,7 +8002,9 @@
                 <givenName>Hans-Joachim</givenName>
             </author>
         </people>
-        <title>Vorwort: In: Bach, Johann Sebastian: Violinkonzert E-Dur, BWV 1042</title>
+        <title>Vorwort</title>
+        <journal> Bach, Johann Sebastian: Violinkonzert E-Dur, BWV 1042</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8043,7 +8119,9 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Der Befreiungsgedanke in der Musik: In: Meyer</title>
+        <title>Der Befreiungsgedanke in der Musik</title>
+        <journal> Meyer</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8116,7 +8194,7 @@
             </author>
         </people>
         <title>Bericht über die Arbeit der Sektion II während des II. Musikkongresses in der DDR
-            (17.-19. November 1972 in Berlin.) - In</title>
+            (17.-19. November 1972 in Berlin.)</title>
         <journal>Musik in der Schule</journal>
         <type>Artikel</type>
         <places>
@@ -8482,8 +8560,9 @@
                 <givenName>Doris</givenName>
             </author>
         </people>
-        <title>Zur Arbeit der Study Group of Folk Music Systematization des IFMC: In: Analyse und
-            Klassifikation von Volksmelodien</title>
+        <title>Zur Arbeit der Study Group of Folk Music Systematization des IFMC</title>
+        <journal> Analyse und Klassifikation von Volksmelodien</journal>
+        <type>Artikel</type>
         <sameAs>Bericht über die 3. Arbeitstagung d. Study Group of Folk Music Systematization beim
             International Folk Music Council vom 24. bis 28. Okt. 1967 in Radziowice.</sameAs>
         <places>
@@ -8966,7 +9045,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>Händel und Frankreich: In: Göttinger Händel-Festspiele 1973 (Festheft)</title>
+        <title>Händel und Frankreich</title>
+        <journal> Göttinger Händel-Festspiele 1973 (Festheft)</journal>
+        <type>Artikel</type>
         <places>
             <place>Göttingen</place>
         </places>
@@ -9229,9 +9310,11 @@
                 <givenName>Frieder</givenName>
             </editor>
         </people>
-        <title>Nachwort: In: Altenburg, Johann Ernst: Versuch einer Anleitung zur
-            heroisch-musikalischen Trompeter- und Paukerkunst. Faks. d. Ausg. von 1795. Mit e.
-            Nachw. in dt. u. engl. von Frieder Zschoch</title>
+        <title>Nachwort</title>
+        <journal> Altenburg, Johann Ernst: Versuch einer Anleitung zur heroisch-musikalischen
+            Trompeter- und Paukerkunst. Faks. d. Ausg. von 1795. Mit e. Nachw. in dt. u. engl. von
+            Frieder Zschoch</journal>
+        <type>Artikel</type>
         <extent>S. 147-151, mit Notenbeisp.</extent>
         <places>
             <place>Leipzig</place>

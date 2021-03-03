@@ -18,7 +18,7 @@ class SearchController extends Controller
             ->join('entry_person', 'entry_person.entry_id', '=', 'entries.id')
             ->join('people', 'people.id', '=', 'entry_person.person_id')
             ->join('entry_keyword', 'entry_keyword.entry_id', '=', 'entries.id')
-            ->join('keywords', 'keywords.id', '=', 'entry_person.person_id')
+            ->join('keywords', 'keywords.id', '=', 'entry_keyword.keyword_id')
             ->where('fullTitle', 'LIKE', "%{$searchTerm}%")
             ->orWhere('abstract', 'LIKE', "%{$searchTerm}%")
             ->orWhere('places.name', 'LIKE', "%{$searchTerm}%")

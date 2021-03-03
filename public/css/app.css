@@ -9157,6 +9157,7 @@ a.navbar-item.is-active,
 .hero.is-fullheight-with-navbar {
   min-height: calc(100vh - 3.25rem);
 }
+
 .breadcrumb {
   font-size: 1rem;
   white-space: nowrap;
@@ -9247,6 +9248,7 @@ a.navbar-item.is-active,
 .breadcrumb.has-succeeds-separator li + li::before {
   content: "\227B";
 }
+
 .pagination {
   font-size: 1rem;
   margin: -0.25rem;
@@ -9417,6 +9419,7 @@ a.navbar-item.is-active,
     order: 3;
   }
 }
+
 .tabs {
   -webkit-overflow-scrolling: touch;
   align-items: stretch;
@@ -9581,6 +9584,7 @@ a.navbar-item.is-active,
 .tabs.is-large {
   font-size: 1.5rem;
 }
+
 .hero {
   align-items: stretch;
   display: flex;

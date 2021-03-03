@@ -12,10 +12,6 @@
     @endisset
 </section>
 <section class="section container content">
-    <nav class="pagination is-right" role="navigation" aria-label="pagination">
-        <a href="{{ route('entries.show', $previous) }}" class="pagination-previous">Previous</a>
-        <a href="{{ route('entries.show', $next) }}" class="pagination-next">Next page</a>
-    </nav>
     @isset( $entry->keywords )
         <p>
             @foreach( $entry->keywords as $keyword)

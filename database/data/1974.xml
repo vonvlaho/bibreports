@@ -494,9 +494,8 @@
         </people>
         <title>Zur gegenwärtigen Situation der musikalischen Bildung und Erziehung im Vorschulalter
             an den Musikschulen der DDR</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -940,9 +939,8 @@
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
             Sebastian Bachs Partita E-Dur für Violine solo BWV 1006</title>
-<journal>Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -1309,8 +1307,7 @@
             </author>
         </people>
         <title>Violinstudium und Persönlichkeit. (Interview.)</title>
-        <journal>Forum: Musik in der DDR.
-                    Musikschule und Persönlichkeitsbildung</journal>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
         <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
@@ -1478,7 +1475,8 @@
             </author>
         </people>
         <title>Das "Glockenspiel"-Motiv und seine Bedeutung - ein Beitrag zu Händels
-            Schaffensmethode und Menschenbild. (Kolloquium: Das Bild des Volkshelden bei Händel.)</title>
+            Schaffensmethode und Menschenbild. (Kolloquium: Das Bild des Volkshelden bei
+            Händel.)</title>
         <journal>Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
         <type>Artikel</type>
         <places>
@@ -1500,8 +1498,7 @@
             </author>
         </people>
         <title>Zum Konzertschaffen G. Ph. Telemanns</title>
-        <journal>Telemann-Renaissance. Werk und
-            Wiedergabe</journal>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
         <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
@@ -2397,9 +2394,8 @@
             </author>
         </people>
         <title>Musikverstehen als Postulat</title>
-        <journal>Faltin, P. u. H. P. Reinecke (Hrsg.): Musik und
-            Verstehen. Aufsätze zur semiotischen Theorie, Ästhetik und Soziologie der musikalischen
-            Rezeption</journal>
+        <journal>Faltin, P. u. H. P. Reinecke (Hrsg.): Musik und Verstehen. Aufsätze zur
+            semiotischen Theorie, Ästhetik und Soziologie der musikalischen Rezeption</journal>
         <type>Artikel</type>
         <places>
             <place>Köln</place>
@@ -2474,8 +2470,7 @@
             </author>
         </people>
         <title>Welches war die ursprüngliche Reihenfolge in Schuberts Heine-Liedern</title>
-        <journal>Deutsches
-            Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
         <type>Artikel</type>
         <places>
             <place>Leipzig</place>
@@ -3088,8 +3083,7 @@
             </author>
         </people>
         <title>G. Ph. Telemann als Herausgeber</title>
-        <journal>Telemann-Renaissance. Werk und
-            Wiedergabe</journal>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
         <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
@@ -3316,9 +3310,8 @@
         </people>
         <title>Probleme der Unterrichtsmethodik im Fach Gesang unter dem Aspekt der
             Nachwuchsförderung</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -3345,8 +3338,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Friedrich Christian Carl Eilhardt: In: Die Musik in Geschichte und Gegenwart. Bd
-            16</title>
+        <title>Friedrich Christian Carl Eilhardt</title>
+        <journal>Die Musik in Geschichte und Gegenwart. Bd 16</journal>
+        <type>Artikel</type>
         <places>
             <place>Kassel</place>
             <place>Basel</place>
@@ -3588,8 +3582,9 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>Ziele und Aufgaben des Laienmusizierens der Arbeiterklasse: In: Forum: Musik der DDR.
-            Arbeiterklasse und Musik</title>
+        <title>Ziele und Aufgaben des Laienmusizierens der Arbeiterklasse</title>
+        <journal>Forum: Musik der DDR. Arbeiterklasse und Musik</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -3632,8 +3627,9 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>Bedřich Smetana und Robert Schumann: In: Sbornik Pedagogické Fakulty v Plzni Uměni
-            X</title>
+        <title>Bedřich Smetana und Robert Schumann</title>
+        <journal>Sbornik Pedagogické Fakulty v Plzni Uměni X</journal>
+        <type>Artikel</type>
         <places>
             <place>Pilsen</place>
         </places>
@@ -3701,8 +3697,9 @@
                 <givenName>Eberhardt</givenName>
             </author>
         </people>
-        <title>Hanns Eisler an Bertolt Brecht 1933-1936. Briefexzerpte und Kommentare: In: Deutsches
-            Jahrbuch der Musikwissenschaft für 1972. Jg 17</title>
+        <title>Hanns Eisler an Bertolt Brecht 1933-1936. Briefexzerpte und Kommentare</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -3781,7 +3778,9 @@
             </author>
         </people>
         <title>Zu einigen Fragen der gesellschaftlichen Funktion der DDR-Sinfonik und des
-            Rezeptionsprozesses: In: Ästhetische Erziehung und sozialistische Universität</title>
+            Rezeptionsprozesses</title>
+        <journal>Ästhetische Erziehung und sozialistische Universität</journal>
+        <type>Artikel</type>
         <sameAs>Wissenschaftliche Beiträge der Friedrich-Schiller-Universität Jena 1974.</sameAs>
         <places>
             <place>Jena</place>
@@ -3851,8 +3850,11 @@
                 <givenName>Detlef</givenName>
             </author>
         </people>
-        <title>Lubina Hollan-Raupp (1927-1964). Zum 10. Todestag der verdienstvollen Künstlerin. In:
-            Letopis, Jahresschrift des Instituts für sorbische Volksforschung. R. C, Nr. 17</title>
+        <title>Lubina Hollan-Raupp (1927-1964). Zum 10. Todestag der verdienstvollen
+            Künstlerin</title>
+        <journal>Letopis, Jahresschrift des Instituts für sorbische Volksforschung. R. C, Nr.
+            17</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3915,8 +3917,9 @@
                 <givenName>Ewald</givenName>
             </author>
         </people>
-        <title>Konzeptionelle Fragen der Bläserausbildung: In: Forum: Musik in der DDR. Musikschule
-            und Persönlichkeitsbildung</title>
+        <title>Konzeptionelle Fragen der Bläserausbildung</title>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4062,8 +4065,9 @@
                 <givenName>Karl-Heinz</givenName>
             </author>
         </people>
-        <title>Max Reger - Größe und Vermächtnis als Problem für unsere Zeit: In: Weimarer Tage für
-            Musikbibliothekare 1974</title>
+        <title>Max Reger - Größe und Vermächtnis als Problem für unsere Zeit</title>
+        <journal>Weimarer Tage für Musikbibliothekare 1974</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4157,7 +4161,9 @@
             </author>
         </people>
         <title>Rebellion und Dialektik. Paul Dessaus Musiktheater-Werke. Zum 80. Geburtstag des
-            Komponisten: In: Musikbühne 74</title>
+            Komponisten</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4237,7 +4243,7 @@
                 <givenName>Ernst</givenName>
             </author>
         </people>
-        <title>"Ich bin ein Mensch des Theaters". Zum 5o. Todestag von Giaccomo Puccini</title>
+        <title>"Ich bin ein Mensch des Theaters". Zum 50. Todestag von Giaccomo Puccini</title>
         <extent>S. 672-674.</extent>
         <journal>Musik und Gesellschaft</journal>
         <type>Artikel</type>
@@ -4334,9 +4340,8 @@
         </people>
         <title>Zur didaktischen Konzeption des neuen Lehrplans für Blechblasinstrumente unter
             Berücksichtigung der Unterrichtstätigkeit</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4421,8 +4426,9 @@
                 <givenName>Inge</givenName>
             </author>
         </people>
-        <title>Politisches Lied und Volkslied in der Gesangspraxis der Arbeiterklasse: In: Forum:
-            Musik in der DDR. Arbeiterklasse und Musik</title>
+        <title>Politisches Lied und Volkslied in der Gesangspraxis der Arbeiterklasse</title>
+        <journal>Forum: Musik in der DDR. Arbeiterklasse und Musik</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4501,7 +4507,9 @@
             </author>
         </people>
         <title>Zur Bläserproblematik aus medizinischer Sicht unter besonderer Berücksichtigung des
-            Nachwuchses: In: Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</title>
+            Nachwuchses</title>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -4839,8 +4847,9 @@
             </author>
         </people>
         <title>Das Kunstwerk als Ausgangspunkt der Kunstwirkung und Instrument der
-            künstlerisch-ästhetischen Erziehung: In: Ästhetische Erziehung und sozialistische
-            Universität</title>
+            künstlerisch-ästhetischen Erziehung</title>
+        <journal>Ästhetische Erziehung und sozialistische Universität</journal>
+        <type>Artikel</type>
         <sameAs>Wissenschaftliche Beiträge der Friedrich-Schiller-Universität Jena 1974.</sameAs>
         <places>
             <place>Jena</place>
@@ -4861,8 +4870,9 @@
                 <givenName>Eberhard</givenName>
             </author>
         </people>
-        <title>Ästhetische Ansprüche der Arbeiterklasse und sozialistische Musikentwicklung: In:
-            Arbeiterklasse und kulturelles Lebensniveau</title>
+        <title>Ästhetische Ansprüche der Arbeiterklasse und sozialistische Musikentwicklung </title>
+        <journal>Arbeiterklasse und kulturelles Lebensniveau</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4986,8 +4996,10 @@
                 <givenName>Willi</givenName>
             </author>
         </people>
-        <title>Georg Philipp Telemann und seine Interpreten Margaretha Susanna und Johann Kayser:
-            In: Telemann-Renaissance. Werk und Wiedergabe</title>
+        <title>Georg Philipp Telemann und seine Interpreten Margaretha Susanna und Johann
+            Kayser</title>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -5008,8 +5020,9 @@
                 <givenName>Jürgen</givenName>
             </author>
         </people>
-        <title>Zur Vorstellung von musikalischer Tradition am Beginn unseres Jahrhunderts: In:
-            Deutsches Jahrbuch der Musikwissenschaft, für 1972. Jg 17</title>
+        <title>Zur Vorstellung von musikalischer Tradition am Beginn unseres Jahrhunderts</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft, für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5157,8 +5170,9 @@
                 <givenName>Hansjörg</givenName>
             </author>
         </people>
-        <title>Brandenburger Erfahrungen in der Musiktheaterarbeit für Kinder: In: Zur
-            Musiktheaterarbeit für junge Zuschauer</title>
+        <title>Brandenburger Erfahrungen in der Musiktheaterarbeit für Kinder</title>
+        <journal>Zur Musiktheaterarbeit für junge Zuschauer</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 38. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -5203,8 +5217,10 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>Historischer Materialstand. Zu Hanns Eislers Konzeption einer Dialektik der Musik:
-            In: Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</title>
+        <title>Historischer Materialstand. Zu Hanns Eislers Konzeption einer Dialektik der
+            Musik</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5434,7 +5450,9 @@
             </author>
         </people>
         <title>Die Verwirklichung der ästhetischen Erziehung im Musikunterricht der sozialistischen
-            Schule: In: Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</title>
+            Schule</title>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -5488,9 +5506,10 @@
         </people>
         <title>On physical and psychological acceleration. Effects on the musical development during
             childhood and adolescence (Über physische und psychische Akzeleration. Die Auswirkungen
-            auf die musikalische Entwicklung im Kindes- und Jugendalter, engl.) - In: New patterns
-            of musical behaviour of the young generation in industrial societies. Ed.: Irmgard
-            Bontinck</title>
+            auf die musikalische Entwicklung im Kindes- und Jugendalter, engl.)</title>
+        <journal>New patterns of musical behaviour of the young generation in industrial societies.
+            Ed.: Irmgard Bontinck</journal>
+        <type>Artikel</type>
         <sameAs>Universal-Edition. No. 26 246.</sameAs>
         <places>
             <place>Wien</place>
@@ -6070,9 +6089,10 @@
             </author>
         </people>
         <title>Mass media - new ways of approach to music and new patterns of musical behaviour.
-            (Massenmedien und neue Zugangs- und Verhaltensweisen zur Musik, engl.) -In: New patterns
-            of musical behaviour of the young generation in industrial societies. Ed.: Irmgard
-            Bontinck</title>
+            (Massenmedien und neue Zugangs- und Verhaltensweisen zur Musik, engl.)</title>
+        <journal>New patterns of musical behaviour of the young generation in industrial societies.
+            Ed.: Irmgard Bontinck</journal>
+        <type>Artikel</type>
         <sameAs>Universal-Edition. No. 26 246.</sameAs>
         <places>
             <place>Wien</place>
@@ -6284,7 +6304,9 @@
                 <givenName>Werner</givenName>
             </author>
         </people>
-        <title>Die Oper und ihr Zeitgenosse: In: Musikbühne 74</title>
+        <title>Die Oper und ihr Zeitgenosse</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6568,7 +6590,9 @@
             </author>
         </people>
         <title>Die Gestalt des Herakles bei Händel. (Kolloquium: Das Bild des Volkshelden bei
-            Händel.) - In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6653,8 +6677,10 @@
                 <givenName>Jan</givenName>
             </author>
         </people>
-        <title>Kurt Karnauke (1866-1944) im Blickfeld der sorbischen Kulturgeschichte: In: Lertopis,
-            Jahresschrift des Instituts für sorbische Volksforschung. R. C, Nr. 17</title>
+        <title>Kurt Karnauke (1866-1944) im Blickfeld der sorbischen Kulturgeschichte</title>
+        <journal>Lertopis, Jahresschrift des Instituts für sorbische Volksforschung. R. C, Nr.
+            17</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6764,8 +6790,9 @@
                 <givenName>Eberhard</givenName>
             </author>
         </people>
-        <title>Die Aneignung des musikalischen Erbes und seine Interpretation: In: Forum: Musik in
-            der DDR. Musikschule und Persönlichkeitsbildung</title>
+        <title>Die Aneignung des musikalischen Erbes und seine Interpretation</title>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6812,9 +6839,8 @@
         </people>
         <title>Die Musikschulen in der Deutschen Demokratischen Republik - musikalische
             Bildungsstätten junger Sozialisten</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -6936,8 +6962,9 @@
                 <givenName>Lukas</givenName>
             </author>
         </people>
-        <title>Das Musikfragment aus dem Euripideischen 'Orestes': In: Deutsches Jahrbuch der
-            Musikwissenschaft für 1971. Jg 16</title>
+        <title>Das Musikfragment aus dem Euripideischen 'Orestes'</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1971. Jg 16</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -6983,8 +7010,9 @@
             </author>
         </people>
         <title>Zur Dialektik musikdramaturgischer Gestaltung. Analytische Notate zum zwölften Bild
-            der Oper "Lanzelot" von Paul Dessau: In: Deutsches Jahrbuch der Musikwissenschaft für
-            1972. Jg 17</title>
+            der Oper "Lanzelot" von Paul Dessau</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7010,8 +7038,9 @@
             </author>
         </people>
         <title>Brecht und die Kritik. Bemerkungen zur kritischen Aneignung der Oper "Die
-            Verurteilung des Lukullus" von Brecht/Dessau: In: Brecht 73. Brecht-Woche d. DDR 9.-15.
-            Februar 1973. Dokumentation</title>
+            Verurteilung des Lukullus" von Brecht/Dessau</title>
+        <journal>Brecht 73. Brecht-Woche d. DDR 9.-15. Februar 1973. Dokumentation</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7088,7 +7117,9 @@
                 <givenName>Gerd</givenName>
             </author>
         </people>
-        <title>Musizieren im Theater und neue Musikentwicklung: In: Musikbühne 74</title>
+        <title>Musizieren im Theater und neue Musikentwicklung</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7200,8 +7231,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Neues Opernschaffen in der DDR - Versuch einer kurzen Bilanz: In: Opernschaffen der
-            DDR im Gespräch</title>
+        <title>Neues Opernschaffen in der DDR - Versuch einer kurzen Bilanz</title>
+        <journal>Opernschaffen der DDR im Gespräch</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 43. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -7274,7 +7306,9 @@
             </author>
         </people>
         <title>Das Bild des Volkshelden bei Händel. (Kolloquium: Das Bild des Volkshelden bei
-            Händel.) - In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7295,8 +7329,9 @@
                 <givenName>Johanna</givenName>
             </author>
         </people>
-        <title>Unsere Beziehung zum musikalischen Erbe: In: Weimarer Tage für Musikbibliothekare
-            1973</title>
+        <title>Unsere Beziehung zum musikalischen Erbe</title>
+        <journal>Weimarer Tage für Musikbibliothekare 1973</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7581,9 +7616,8 @@
         </people>
         <title>Zum Problem der Werkbesprechung im Instrumentalunterricht. Ein Gespräch über Johann
             Sebastian Bachs Partita E-Dur für Violine solo BWV 1006</title>
-<journal>Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -7607,8 +7641,9 @@
                 <givenName>Eberhard</givenName>
             </author>
         </people>
-        <title>Notizen zu 'Moses und Aron'. Zum 100. Geburtstag Arnold Schönbergs: In: Musikbühne
-            74</title>
+        <title>Notizen zu 'Moses und Aron'. Zum 100. Geburtstag Arnold Schönbergs</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7630,8 +7665,9 @@
                 <givenName>Anneliese</givenName>
             </author>
         </people>
-        <title>Literarische Einflüsse auf Robert Schumanns ästhetische Anschauungen: In: Deutsches
-            Jahrbuch der Musikwissenschaft für 1972. Jg 17</title>
+        <title>Literarische Einflüsse auf Robert Schumanns ästhetische Anschauungen</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1972. Jg 17</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7951,8 +7987,9 @@
                 <givenName>Heinz</givenName>
             </author>
         </people>
-        <title>Zur musikalischen Bildung und Erziehung der Arbeiterjugend: In: Forum: Musik in der
-            DDR</title>
+        <title>Zur musikalischen Bildung und Erziehung der Arbeiterjugend</title>
+        <journal>Forum: Musik in der DDR</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -8022,7 +8059,9 @@
             </author>
         </people>
         <title>Zur Musikentwicklung in der DDR und Fragen der kulturell-ästhetischen Bildung und
-            Erziehung der Jugend: In: Weimarer Tage für Musikbibliothekare 1973</title>
+            Erziehung der Jugend</title>
+        <journal>Weimarer Tage für Musikbibliothekare 1973</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8050,8 +8089,10 @@
                 <givenName>Herbert</givenName>
             </author>
         </people>
-        <title>Geschichte und Gegenwart der Musikpflege in Frankfurt (Oder): In: Bachfest - 49.
-            Bachfest der Neuen Bachgesellschaft Frankfurt (Oder) 1974 (Festheft)</title>
+        <title>Geschichte und Gegenwart der Musikpflege in Frankfurt (Oder)</title>
+        <journal>Bachfest - 49. Bachfest der Neuen Bachgesellschaft Frankfurt (Oder) 1974
+            (Festheft)</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8076,9 +8117,8 @@
             </author>
         </people>
         <title>Neue Musik für Kinder</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -8105,8 +8145,9 @@
                 <givenName>Horst</givenName>
             </author>
         </people>
-        <title>Schweriner Erfahrungen in der Musiktheaterarbeit für junge Zuschauer: In:
-            Musiktheaterarbeit für junge Zuschauer</title>
+        <title>Schweriner Erfahrungen in der Musiktheaterarbeit für junge Zuschauer</title>
+        <journal> Musiktheaterarbeit für junge Zuschauer</journal>
+        <type>Artikel</type>
         <sameAs>Material zum Theater. 38. [Umschlagt.]</sameAs>
         <places>
             <place>Berlin</place>
@@ -8180,7 +8221,9 @@
                 <givenName>Horst</givenName>
             </author>
         </people>
-        <title>Figaro und Tamino. Ein Vorwort: In: Musikbühne 74</title>
+        <title>Figaro und Tamino. Ein Vorwort</title>
+        <journal>Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8206,7 +8249,9 @@
             </author>
         </people>
         <title>Die Samson-Gestalt bei Milton und Händel. (Kolloquium: Das Bild des Volkshelden bei
-            Händel.) - In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8231,7 +8276,9 @@
             </author>
         </people>
         <title>Die musikalische Charakterisierung des Volkshelden bei Händel. (Kolloquium: Das Bild
-            des Volkshelden bei Händel.) - In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            des Volkshelden bei Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8257,7 +8304,9 @@
             </author>
         </people>
         <title>Prinzipien einer musikalischen Klassikerausgabe am Beispiel Georg Friedrich Händels.
-            (Kolloquium: Editionsfragen bei Händel.)-In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            (Kolloquium: Editionsfragen bei Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8341,8 +8390,7 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Überblick über die europäische Musikentwicklung des 19. Jahrhunderts. (Als Ms. gedr.)
-            - Halle</title>
+        <title>Überblick über die europäische Musikentwicklung des 19. Jahrhunderts. (Als Ms. gedr.)</title>
         <sameAs>Lehrbriefe für das Fernstudium der Musikerziehung. R. A, H. 6.</sameAs>
         <places>
             <place>Halle</place>
@@ -8367,8 +8415,10 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Referat: In: Materialien der Musikkonferenz des Bezirkes Halle vom 17. April 1974 im
-            Klubhaus des VEB Leuna-Werke "Walter Ulbricht"</title>
+        <title>Referat</title>
+        <journal>Materialien der Musikkonferenz des Bezirkes Halle vom 17. April 1974 im Klubhaus
+            des VEB Leuna-Werke "Walter Ulbricht"</journal>
+        <type>Artikel</type>
         <extent>S. 4-23.</extent>
         <places>
             <place>Halle</place>
@@ -8390,8 +8440,9 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Gedanken zur Telemann-Forschung und Telemann-Pflege: In: Telemann-Renaissance. Werk
-            und Wiedergabe</title>
+        <title>Gedanken zur Telemann-Forschung und Telemann-Pflege</title>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -8417,7 +8468,9 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Klopstock-Vertonungen: In: Klopstock</title>
+        <title>Klopstock-Vertonungen</title>
+        <journal>Klopstock</journal>
+        <type>Artikel</type>
         <places>
             <place>Quedlinburg</place>
         </places>
@@ -8439,8 +8492,9 @@
             </author>
         </people>
         <title>Rechenschaftsbericht vor der Mitgliederversammlung der
-            Georg-Friedrich-Händel-Gesellschaft (12. Juni 1971): In: Händel-Jahrbuch 1972/1973. Jg
-            18/19</title>
+            Georg-Friedrich-Händel-Gesellschaft (12. Juni 1971)</title>
+        <journal>Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8637,8 +8691,10 @@
                 <givenName>Stephan</givenName>
             </author>
         </people>
-        <title>Ein Opernhaus und seine Gattung. Aus der Geschichte der Opéra-Comique in Paris: In:
-            Musikbühne 74</title>
+        <title>Ein Opernhaus und seine Gattung. Aus der Geschichte der Opéra-Comique in
+            Paris</title>
+        <journal> Musikbühne 74</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8943,8 +8999,9 @@
                 <givenName>Eitelfriedrich</givenName>
             </author>
         </people>
-        <title>Die Oboe d'amore in Telemanns Werken: In: Telemann-Renaissance. Werk und
-            Wiedergabe</title>
+        <title>Die Oboe d'amore in Telemanns Werken</title>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -8991,9 +9048,8 @@
             </author>
         </people>
         <title>Orchesterarbeit in den Musikschulen</title>
-<journal>Forum: Musik in der DDR. Musikschule und
-            Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9053,8 +9109,9 @@
                 <givenName>Lothar</givenName>
             </author>
         </people>
-        <title>Zur musikalischen Bildung und Erziehung der Arbeiterjugend: In: Forum: Musik in der
-            DDR. Arbeiterklasse und Musik</title>
+        <title>Zur musikalischen Bildung und Erziehung der Arbeiterjugend</title>
+        <journal>Forum: Musik in der DDR. Arbeiterklasse und Musik</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 15.</sameAs>
         <places>
             <place>Berlin</place>
@@ -9161,8 +9218,9 @@
                 <givenName>Martin</givenName>
             </author>
         </people>
-        <title>Mendelssohns Traditionsbewußtsein und dessen Widerschein im Werk: In: Deutsches
-            Jahrbuch der Musikwissenschaft für 1971. Jg 16</title>
+        <title>Mendelssohns Traditionsbewußtsein und dessen Widerschein im Werk</title>
+        <journal>Deutsches Jahrbuch der Musikwissenschaft für 1971. Jg 16</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9256,9 +9314,8 @@
         </people>
         <title>Zur Klavieretüde als Mittel spieltechnischer Ausbildung unter dem Aspekt eines
             einheitlichen Er-ziehungs- und Bildungsprozesses</title>
-<journal>Forum: Musik in der DDR.
-            Musikschule und Persönlichkeitsbildung</journal>
-<type>Artikel</type>
+        <journal>Forum: Musik in der DDR. Musikschule und Persönlichkeitsbildung</journal>
+        <type>Artikel</type>
         <sameAs>Arbeitshefte. 14.</sameAs>
         <places>
             <place>Berlin</place>
@@ -9322,7 +9379,9 @@
                 <givenName>Helmuth</givenName>
             </author>
         </people>
-        <title>Festrede: In: Telemann-Renaissance. Werk und Wiedergabe</title>
+        <title>Festrede</title>
+        <journal>Telemann-Renaissance. Werk und Wiedergabe</journal>
+        <type>Artikel</type>
         <sameAs>Magdeburger Telemann-Studien. 4.</sameAs>
         <places>
             <place>Magdeburg</place>
@@ -9344,7 +9403,9 @@
             </author>
         </people>
         <title>Zur Gestaltung des Volkshelden in der Literatur des 18. Jahrhunderts. (Kolloquium:
-            Das Bild des Volkshelden bei Händel.) - In: Händel-Jahrbuch 1972/1973. Jg 18/19</title>
+            Das Bild des Volkshelden bei Händel.)</title>
+        <journal> Händel-Jahrbuch 1972/1973. Jg 18/19</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9366,8 +9427,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>Das Bühnenbild um die Mitte des 19. Jahrhunderts: In: Festschrift für Herbert A.
-            Frenzel. Bühnenformen - Bühnendekorationen</title>
+        <title>Das Bühnenbild um die Mitte des 19. Jahrhunderts</title>
+        <journal>Festschrift für Herbert A. Frenzel. Bühnenformen - Bühnendekorationen</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9388,8 +9450,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>Die italienische Buffo-Oper in der zweiten Hälfte des 18. Jahrhunderts: In: Oper
-            1974. Chronik und Bilanz des Opernjahres</title>
+        <title>Die italienische Buffo-Oper in der zweiten Hälfte des 18. Jahrhunderts</title>
+        <journal>Oper 1974. Chronik und Bilanz des Opernjahres</journal>
+        <type>Artikel</type>
         <extent>S. 38-47.</extent>
         <places>
             <place>Velber</place>
@@ -9413,8 +9476,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>Ovids Metamorphosen und die frühe Oper: In: Festschrift für Federico Ghisi, Bd
-            2</title>
+        <title>Ovids Metamorphosen und die frühe Oper</title>
+        <journal>Festschrift für Federico Ghisi, Bd 2</journal>
+        <type>Artikel</type>
         <extent>S. 89-107.</extent>
         <places>
             <place>Bologna</place>

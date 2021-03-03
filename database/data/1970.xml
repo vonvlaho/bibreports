@@ -39,8 +39,9 @@
             </author>
         </people>
         <title>"... weil ich die Möglichkeiten der Tonalität noch nicht für erschöpft halte" - Kurt
-            Hessenberg: In: Credo musicale. Festgabe zum 80. Geburtstag von Rudolf
-            Mauersberger</title>
+            Hessenberg</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -63,8 +64,9 @@
                 <givenName>Hans-Heinrich</givenName>
             </author>
         </people>
-        <title>Bekenntnis zur Einheit des Glaubens - Günter Raphael: In: Credo musicale. Festgabe
-            zum 80. Geburtstag von Rudolf Mauersberger</title>
+        <title>Bekenntnis zur Einheit des Glaubens - Günter Raphael</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -291,8 +293,9 @@
                 <givenName>Lothar</givenName>
             </author>
         </people>
-        <title>Lebendige Aussage - Ernst Pepping: In: Credo musicale. Festgabe zum 80. Geburtstag
-            von Rudolf Mauersberger</title>
+        <title>Lebendige Aussage - Ernst Pepping</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -565,8 +568,9 @@
                 <givenName>Heinrich</givenName>
             </author>
         </people>
-        <title>Der Ausdruck der Individualität in der Musik: In: Musa-Mens-Musici. Im Gedenken an
-            Walther Vetter</title>
+        <title>Der Ausdruck der Individualität in der Musik</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -798,8 +802,9 @@
                 <givenName>Volker</givenName>
             </author>
         </people>
-        <title>In der Tradition zum Aufbruch - Siegfried Reda: In: Credo musicale. Festgabe zum 80.
-            Geburtstag von Rudolf Mauersberger</title>
+        <title>In der Tradition zum Aufbruch - Siegfried Reda</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1038,8 +1043,9 @@
             </author>
         </people>
         <title>Probleme der Realismustheorie. Arbeitsmaterial zur Diskussion über aktuelle Probleme
-            d. Theorie d. Sozialist. Realismus auf d. Gebiete d. Musik: In: Probleme der
-            Realismustheorie</title>
+            d. Theorie d. Sozialist. Realismus auf d. Gebiete d. Musik</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1225,8 +1231,9 @@
                 <givenName>Herbert</givenName>
             </author>
         </people>
-        <title>Blüh auf, gefrorner Christ! - Joseph Haas: In: Credo musicale. Festgabe zum 80.
-            Geburtstag von Rudolf Mauersberger</title>
+        <title>Blüh auf, gefrorner Christ! - Joseph Haas</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1342,8 +1349,9 @@
                 <givenName>Max</givenName>
             </author>
         </people>
-        <title>Mythos-Melos-Musica. Betrachtungen zu einem Buchtitel: In: Musa - Mens - Musici. Im
-            Gedenken an Walther Vetter</title>
+        <title>Mythos-Melos-Musica. Betrachtungen zu einem Buchtitel</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -1499,8 +1507,10 @@
                 <givenName>Jürgen</givenName>
             </author>
         </people>
-        <title>Einiges zur Entwicklung Hanns Eislers in den 20er Jahren: In: Sammelbände zur
-            Musikgeschichte der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Einiges zur Entwicklung Hanns Eislers in den 20er Jahren</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -1961,8 +1971,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Johann Sebastian Bach und die deutsche Dichtung: In: Musa - Mens - Musici. Im
-            Gedenken an Walther Vetter</title>
+        <title>Johann Sebastian Bach und die deutsche Dichtung</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2232,8 +2243,9 @@
                 <givenName>Caroline</givenName>
             </author>
         </people>
-        <title>Zum Problem des sozialistischen Realismus im Schlager: In: Probleme der
-            Realismustheorie</title>
+        <title>Zum Problem des sozialistischen Realismus im Schlager</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2293,8 +2305,9 @@
                 <givenName>Ernst-Otto</givenName>
             </author>
         </people>
-        <title>Schein, ein hoher Mann, Schein, ein hoher Nam'!- Johann Hermann Schein: In: Credo
-            musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</title>
+        <title>Schein, ein hoher Mann, Schein, ein hoher Nam'!- Johann Hermann Schein</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2434,8 +2447,10 @@
                 <givenName>Manfred</givenName>
             </author>
         </people>
-        <title>Film- und Bühnenmusik im sinfonischen Werk Hanns Eislers: In: Sammelbände zur
-            Musikgeschichte der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Film- und Bühnenmusik im sinfonischen Werk Hanns Eislers</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2462,7 +2477,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Thomas Mann musiziert: In: Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+        <title>Thomas Mann musiziert</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2920,8 +2937,10 @@
                 <givenName>Dieter</givenName>
             </author>
         </people>
-        <title>Fidelio F. Finke - Entwicklung seines Schaffens: In: Sammelbände zur Musikgeschichte
-            der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Fidelio F. Finke - Entwicklung seines Schaffens</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -2996,7 +3015,9 @@
                 <givenName>Wolfram</givenName>
             </author>
         </people>
-        <title>Zum Problem der Verständlichkeit: In: Probleme der Realismustheorie</title>
+        <title>Zum Problem der Verständlichkeit</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3097,8 +3118,10 @@
                 <givenName>Fritz</givenName>
             </author>
         </people>
-        <title>Paul Dessaus politische Chorkantaten 1944-1968: In: Sammelbände zur Musikgeschichte
-            der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Paul Dessaus politische Chorkantaten 1944-1968</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3509,8 +3532,10 @@
                 <givenName>Winfried</givenName>
             </author>
         </people>
-        <title>Untersuchungen zur Singebewegung: In: Sammelbände zur Musikgeschichte der Deutschen
-            Demokratischen Republik. Bd 1</title>
+        <title>Untersuchungen zur Singebewegung</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -3866,8 +3891,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Die griechische Musikerziehuna während des Hellenismus und der Kaiserzeit: In:
-            Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+        <title>Die griechische Musikerziehuna während des Hellenismus und der Kaiserzeit</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -3889,7 +3915,9 @@
             </author>
         </people>
         <title>Formerfassung und Atmung beim Klavierspiel. Erläutert an der c-Moll-Phantasie von
-            Bach: In: Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+            Bach</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4257,8 +4285,9 @@
                 <givenName>Georg</givenName>
             </author>
         </people>
-        <title>Über Wechselbeziehungen der Künste in der Massenkommunikation: In: Probleme der
-            Realismustheorie</title>
+        <title>Über Wechselbeziehungen der Künste in der Massenkommunikation</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4384,8 +4413,9 @@
                 <givenName>Karl-Heinz</givenName>
             </author>
         </people>
-        <title>Musikbibliothek - Musikwissenschaft. Ein Grundriß ihrer Beziehungen: In: Musa - Mens
-            - Musici. Im Gedenken an Walther Vetter</title>
+        <title>Musikbibliothek - Musikwissenschaft. Ein Grundriß ihrer Beziehungen</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4505,8 +4535,9 @@
                 <givenName>Günther</givenName>
             </author>
         </people>
-        <title>Das mittelthüringische SiedlungsZentrum der Familien Bach und Wölcken: In:
-            Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+        <title>Das mittelthüringische SiedlungsZentrum der Familien Bach und Wölcken</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4567,7 +4598,9 @@
                 <givenName>Peter</givenName>
             </author>
         </people>
-        <title>Ein unbekanntes Zeugnis Johann Sebastian Bachs: In: Bach-Jahrbuch. Jg 56</title>
+        <title>Ein unbekanntes Zeugnis Johann Sebastian Bachs</title>
+        <journal> Bach-Jahrbuch. Jg 56</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4664,8 +4697,9 @@
                 <givenName>Alfred</givenName>
             </author>
         </people>
-        <title>Wegbereiter der katholischen Kirchenmusik - Giovanni Pierluigi da Palestrina: In:
-            Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</title>
+        <title>Wegbereiter der katholischen Kirchenmusik - Giovanni Pierluigi da Palestrina</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4688,8 +4722,9 @@
                 <givenName>Rainer</givenName>
             </author>
         </people>
-        <title>Realismusproblem in der zeitgenössischen Oper: In: Probleme der
-            Realismustheorie</title>
+        <title>Realismusproblem in der zeitgenössischen Oper</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -4910,8 +4945,9 @@
                 <givenName>Karl</givenName>
             </author>
         </people>
-        <title>Wesen und Wandel des philharmonischen Gedankens: In: Musa-Mens-Musici. Im Gedenken an
-            Walther Vetter</title>
+        <title>Wesen und Wandel des philharmonischen Gedankens</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -4991,8 +5027,9 @@
                 <givenName>Dieter</givenName>
             </author>
         </people>
-        <title>Der Initiator der Volksliedsammlung Pratsch Nikolai Alexandrowitsch Lwow: In:
-            Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+        <title>Der Initiator der Volksliedsammlung Pratsch Nikolai Alexandrowitsch Lwow</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5046,8 +5083,9 @@
                 <givenName>Eberhard</givenName>
             </author>
         </people>
-        <title>Zur komplexen Gestaltung des neuen Gegenstandes im Ensemble der Künste: In: Probleme
-            der Realismustheorie</title>
+        <title>Zur komplexen Gestaltung des neuen Gegenstandes im Ensemble der Künste</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5188,8 +5226,9 @@
                 <givenName>Jürgen</givenName>
             </author>
         </people>
-        <title>Frühe Analysen zweier Stücke aus dem Wohltemperierten Klavier: In: Musa-Mens-Musici.
-            Im Gedenken an Walther Vetter</title>
+        <title>Frühe Analysen zweier Stücke aus dem Wohltemperierten Klavier</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5427,8 +5466,10 @@
                 <givenName>Günter</givenName>
             </author>
         </people>
-        <title>Neue Musik - Neue Aspekte der Analyse: In: Sammelbände zur Musikgeschichte der
-            Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Neue Musik - Neue Aspekte der Analyse</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -5618,8 +5659,9 @@
                 <givenName>Ernst Hermann</givenName>
             </author>
         </people>
-        <title>Musa Mens Musici. Im Gedenken an Walther Vetter: In: Musa-Mens-Musici. Im Gedenken an
-            Walther Vetter</title>
+        <title>Musa Mens Musici. Im Gedenken an Walther Vetter</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -5712,7 +5754,9 @@
                 <givenName>Paul</givenName>
             </author>
         </people>
-        <title>Komponist und Hörer: In: Probleme der Realismustheorie</title>
+        <title>Komponist und Hörer</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6329,8 +6373,10 @@
                 <givenName>Ludwig</givenName>
             </author>
         </people>
-        <title>Kurt Schwaen - Ein biographischer Abriß: In: Sammelbände zur Musikgeschichte der
-            Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Kurt Schwaen - Ein biographischer Abriß</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6351,7 +6397,9 @@
                 <givenName>Tilo</givenName>
             </author>
         </people>
-        <title>Musik und Geräusch im Hörspiel: In: Probleme der Realismustheorie</title>
+        <title>Musik und Geräusch im Hörspiel</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6632,8 +6680,10 @@
                 <givenName>Konrad</givenName>
             </author>
         </people>
-        <title>Soziologische Analyse der Musikgespräche 1966: In: Sammelbände zur Musikgeschichte
-            der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Soziologische Analyse der Musikgespräche 1966</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6717,8 +6767,9 @@
                 <givenName>Dieter</givenName>
             </author>
         </people>
-        <title>Einige Gedanken zu Fragen des Heiteren in unserer Neuen Musik: In: Probleme der
-            Realismustheorie</title>
+        <title>Einige Gedanken zu Fragen des Heiteren in unserer Neuen Musik</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6818,8 +6869,9 @@
                 <givenName>Heinz-Georg</givenName>
             </author>
         </people>
-        <title>Kirchenmusik und Jazz-Heinz Werner Zimmermann: In: Credo musicale, Festgabe zum 80.
-            Geburtstag von Rudolf Mauersberger</title>
+        <title>Kirchenmusik und Jazz-Heinz Werner Zimmermann</title>
+        <journal> Credo musicale, Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -6950,8 +7002,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Sein Weg zum Thomaskantor - Johann Sebastian Bach: In: Credo musicale. Festgabe zum
-            80. Geburtstag von Rudolf Mauersberger</title>
+        <title>Sein Weg zum Thomaskantor - Johann Sebastian Bach</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7226,8 +7279,9 @@
                 <givenName>Hans</givenName>
             </author>
         </people>
-        <title>Zur Interpretation Bachscher Werke auf dem Cembalo: In: Musa - Mens - Musici. Im
-            Gedenken an Walther Vetter</title>
+        <title>Zur Interpretation Bachscher Werke auf dem Cembalo</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -7298,7 +7352,9 @@
             </author>
         </people>
         <title>Zu einigen philosophisch-weltanschaulichen Grundfragen der Theorie des
-            sozialistischen Realismus: In: Probleme der Realismustheorie</title>
+            sozialistischen Realismus</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -7622,8 +7678,9 @@
                 <givenName>Gerd</givenName>
             </author>
         </people>
-        <title>Probleme der Gestaltungsweise in der Sinfonie in B von Ernst Hermann Meyer: In:
-            Probleme der Realismustheorie</title>
+        <title>Probleme der Gestaltungsweise in der Sinfonie in B von Ernst Hermann Meyer</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8303,7 +8360,9 @@
             </author>
         </people>
         <title>Johann Sebastian Bachs "Actus tragicus" (BWV 106). Ein Beitrag zu seiner
-            Entstehungsgeschichte: In: Bach-Jahrbuch. Jg 56</title>
+            Entstehungsgeschichte</title>
+        <journal> Bach-Jahrbuch. Jg 56</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8329,8 +8388,9 @@
                 <givenName>Erich</givenName>
             </author>
         </people>
-        <title>"Ahnung einer neuen Weltordnung" - Willy Burkhard: In: Credo musicale, Festgabe zum
-            80. Geburtstag von Rudolf Mauersberger</title>
+        <title>"Ahnung einer neuen Weltordnung" - Willy Burkhard</title>
+        <journal> Credo musicale, Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8423,8 +8483,10 @@
                 <givenName>Frank</givenName>
             </author>
         </people>
-        <title>Günter Kochan - Zweite Sinfonie (1968) - Analyse: In: Sammelbände zur Musikgeschichte
-            der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Günter Kochan - Zweite Sinfonie (1968) - Analyse</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8450,8 +8512,9 @@
                 <givenName>Frank</givenName>
             </author>
         </people>
-        <title>Günter Kochans Zweite Sinfonie - Fragen des Widerspiegelungsgehaltes: In: Probleme
-            der Realismustheorie</title>
+        <title>Günter Kochans Zweite Sinfonie - Fragen des Widerspiegelungsgehaltes</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8609,7 +8672,9 @@
                 <givenName>Gerd</givenName>
             </author>
         </people>
-        <title>Zu einigen Fragen der Musikrezeption: In: Probleme der Realismustheorie</title>
+        <title>Zu einigen Fragen der Musikrezeption</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8657,8 +8722,9 @@
                 <givenName>Walter</givenName>
             </author>
         </people>
-        <title>Romantik in der Kirche? Johannes Brahms: In: Credo musicale. Festgabe zum 80.
-            Geburtstag von Rudolf Mauersberger</title>
+        <title>Romantik in der Kirche? Johannes Brahms</title>
+        <journal> Credo musicale. Festgabe zum 80. Geburtstag von Rudolf Mauersberger</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8878,7 +8944,7 @@
             </author>
         </people>
         <title>Antwort an Ernesto Grassi. (Zum "Entwurf eines Systems d. Wissenschaft vom
-            musizierenden Theater".) - In</title>
+            musizierenden Theater".)</title>
         <journal>Jahrbuch der Komischen Oper X. Spielzeit 1969/70</journal>
         <type>Artikel</type>
         <places>
@@ -8901,8 +8967,10 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Das sinfonische Schaffen Ernst Hermann Meyers: In: Sammelbände zur Musikgeschichte
-            der Deutschen Demokratischen Republik. Bd 1</title>
+        <title>Das sinfonische Schaffen Ernst Hermann Meyers</title>
+        <journal> Sammelbände zur Musikgeschichte der Deutschen Demokratischen Republik. Bd
+            1</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -8951,8 +9019,9 @@
                 <givenName>Walther</givenName>
             </author>
         </people>
-        <title>Zu Fragen des sozialistischen Realismus in der Instrumentalmusik: In: Probleme der
-            Realismustheorie</title>
+        <title>Zu Fragen des sozialistischen Realismus in der Instrumentalmusik</title>
+        <journal> Probleme der Realismustheorie</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
@@ -9102,8 +9171,9 @@
                 <givenName>Wolfgang</givenName>
             </author>
         </people>
-        <title>Woher stammt die Melodie zu “Als die Römer frech geworden": In: Musa - Mens - Musici.
-            Im Gedenken an Walther Vetter</title>
+        <title>Woher stammt die Melodie zu “Als die Römer frech geworden"</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9244,8 +9314,9 @@
                 <givenName>Doris</givenName>
             </author>
         </people>
-        <title>Wandlungen des deutschen Volksgesanges vom 19. Jahrhundert bis zur Gegenwart: In:
-            Musa - Mens - Musici, Im Gedenken an Walther Vetter</title>
+        <title>Wandlungen des deutschen Volksgesanges vom 19. Jahrhundert bis zur Gegenwart</title>
+        <journal> Musa - Mens - Musici, Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9596,8 +9667,9 @@
                 <givenName>Heinz</givenName>
             </author>
         </people>
-        <title>Armin Knab und Wilhelm Weismann in ihrem Briefwechsel (geschr. 1961): In:
-            Musa-Mens-Musici. Im Gedenken an Walther Vetter</title>
+        <title>Armin Knab und Wilhelm Weismann in ihrem Briefwechsel (geschr. 1961)</title>
+        <journal> Musa-Mens-Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9806,8 +9878,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>Das Mendelssohn-Bild in Vergangenheit und Gegenwart: In: Musa - Mens - Musici. Im
-            Gedenken an Walther Vetter</title>
+        <title>Das Mendelssohn-Bild in Vergangenheit und Gegenwart</title>
+        <journal> Musa - Mens - Musici. Im Gedenken an Walther Vetter</journal>
+        <type>Artikel</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -9882,8 +9955,9 @@
                 <givenName>Hellmuth Christian</givenName>
             </author>
         </people>
-        <title>The Fairy-Tale of the Neapolitan Opera: In: Studies in Eighteenth-Century Music. Karl
-            Geiringer-Festschrift</title>
+        <title>The Fairy-Tale of the Neapolitan Opera</title>
+        <journal> Studies in Eighteenth-Century Music. Karl Geiringer-Festschrift</journal>
+        <type>Artikel</type>
         <places>
             <place>London</place>
         </places>
@@ -9906,8 +9980,9 @@
                 <givenName>Dieter</givenName>
             </author>
         </people>
-        <title>Zur Interpretation der Beethovenschen Klaviersonaten: In: Beethoven, - Ludwig van
-            Beethoven 1770-1827</title>
+        <title>Zur Interpretation der Beethovenschen Klaviersonaten</title>
+        <journal> Beethoven, - Ludwig van Beethoven 1770-1827</journal>
+        <type>Artikel</type>
         <places>
             <place>Berlin</place>
         </places>
