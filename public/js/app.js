@@ -97,9 +97,90 @@
 // view 1 = graph
 var view = 0;
 
+__webpack_require__(/*! ./jquery.sortElements.js */ "./resources/js/jquery.sortElements.js");
+
 __webpack_require__(/*! ./nav.js */ "./resources/js/nav.js");
 
-__webpack_require__(/*! ./tables.js */ "./resources/js/tables.js");
+__webpack_require__(/*! ./filterTable */ "./resources/js/filterTable.js");
+
+__webpack_require__(/*! ./sortTable.js */ "./resources/js/sortTable.js");
+
+/***/ }),
+
+/***/ "./resources/js/filterTable.js":
+/*!*************************************!*\
+  !*** ./resources/js/filterTable.js ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+$('<input id="dataReducer" class="input mb-4" style="max-width:600px" type="text" placeholder="Suchbegriff">').insertBefore('#dataTable');
+$('#dataReducer').on('keyup', function () {
+  var value = $(this).val().toLowerCase();
+  $('#dataTable tr').filter(function () {
+    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+  });
+});
+
+/***/ }),
+
+/***/ "./resources/js/jquery.sortElements.js":
+/*!*********************************************!*\
+  !*** ./resources/js/jquery.sortElements.js ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+/**
+ * jQuery.fn.sortElements
+ * --------------
+ * @param Function comparator:
+ *   Exactly the same behaviour as [1,2,3].sort(comparator)
+ *
+ * @param Function getSortable
+ *   A function that should return the element that is
+ *   to be sorted. The comparator will run on the
+ *   current collection, but you may want the actual
+ *   resulting sort to occur on a parent or another
+ *   associated element.
+ *
+ *   E.g. $('td').sortElements(comparator, function(){
+ *      return this.parentNode;
+ *   })
+ *
+ *   The <td>'s parent (<tr>) will be sorted instead
+ *   of the <td> itself.
+ */
+jQuery.fn.sortElements = function () {
+  var sort = [].sort;
+  return function (comparator, getSortable) {
+    getSortable = getSortable || function () {
+      return this;
+    };
+
+    var placements = this.map(function () {
+      var sortElement = getSortable.call(this),
+          parentNode = sortElement.parentNode,
+          // Since the element itself will change position, we have
+      // to have some way of storing its original position in
+      // the DOM. The easiest way is to have a 'flag' node:
+      nextSibling = parentNode.insertBefore(document.createTextNode(''), sortElement.nextSibling);
+      return function () {
+        if (parentNode === this) {
+          throw new Error("You can't sort elements if any one is a descendant of another.");
+        } // Insert before flag:
+
+
+        parentNode.insertBefore(this, nextSibling); // Remove flag:
+
+        parentNode.removeChild(nextSibling);
+      };
+    });
+    return sort.call(this, comparator).each(function (i) {
+      placements[i].call(getSortable.call(this));
+    });
+  };
+}();
 
 /***/ }),
 
@@ -127,16 +208,30 @@ document.addEventListener('DOMContentLoaded', function () {
 
 /***/ }),
 
-/***/ "./resources/js/tables.js":
-/*!********************************!*\
-  !*** ./resources/js/tables.js ***!
-  \********************************/
+/***/ "./resources/js/sortTable.js":
+/*!***********************************!*\
+  !*** ./resources/js/sortTable.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-$(document).ready(function () {
-  $('#dataTable').dataTable({
-    "order": [[11, 'desc']]
+var table = $('#dataTable');
+$('#dataTable th').append('<i class="fas fa-sort" style="display:inline;margin-left:5px"></i>').css('cursor', 'pointer').each(function () {
+  var th = $(this),
+      thIndex = th.index(),
+      inverse = false;
+  th.click(function () {
+    table.find('td').filter(function () {
+      return $(this).index() === thIndex;
+    }).sortElements(function (a, b) {
+      a = $(a).text();
+      b = $(b).text();
+      return (isNaN(a) || isNaN(b) ? a > b : +a > +b) ? inverse ? -1 : 1 : inverse ? 1 : -1;
+    }, function () {
+      // parentNode is the element we want to move
+      return this.parentNode;
+    });
+    inverse = !inverse;
   });
 });
 

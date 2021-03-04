@@ -2,5 +2,9 @@
 // view 1 = graph
 const view = 0;
 
+require('./jquery.sortElements.js')
+
 require('./nav.js');
-require('./tables.js');
+
+require('./filterTable')
+require('./sortTable.js');

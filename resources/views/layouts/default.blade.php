@@ -9,7 +9,7 @@
         Republik.</title>
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="/fontawesome/css/all.min.css">
 </head>
 <body>
 @include('includes.header')
@@ -18,7 +18,6 @@
 </main>
 @include('includes.footer')
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
 <script src="/js/app.js"></script>
 </body>
 </html>
