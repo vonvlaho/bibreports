@@ -93,17 +93,28 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-// view 0 = table
-// view 1 = graph
-var view = 0;
+__webpack_require__(/*! ./nav */ "./resources/js/nav.js");
 
-__webpack_require__(/*! ./jquery.sortElements.js */ "./resources/js/jquery.sortElements.js");
+__webpack_require__(/*! ./view */ "./resources/js/view.js");
 
-__webpack_require__(/*! ./nav.js */ "./resources/js/nav.js");
+__webpack_require__(/*! ./jquery.sortElements */ "./resources/js/jquery.sortElements.js");
+
+__webpack_require__(/*! ./sortTable */ "./resources/js/sortTable.js");
 
 __webpack_require__(/*! ./filterTable */ "./resources/js/filterTable.js");
 
-__webpack_require__(/*! ./sortTable.js */ "./resources/js/sortTable.js");
+__webpack_require__(/*! ./chart */ "./resources/js/chart.js");
+
+/***/ }),
+
+/***/ "./resources/js/chart.js":
+/*!*******************************!*\
+  !*** ./resources/js/chart.js ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
 
 /***/ }),
 
@@ -114,7 +125,8 @@ __webpack_require__(/*! ./sortTable.js */ "./resources/js/sortTable.js");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-$('<input id="dataReducer" class="input mb-4" style="max-width:600px" type="text" placeholder="Suchbegriff">').insertBefore('#dataTable');
+// insert searchbar
+$('<input id="dataReducer" class="input mb-4" style="max-width:600px" type="text" placeholder="Suchbegriff">').insertBefore('#dataTable table');
 $('#dataReducer').on('keyup', function () {
   var value = $(this).val().toLowerCase();
   $('#dataTable tr').filter(function () {
@@ -215,8 +227,8 @@ document.addEventListener('DOMContentLoaded', function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-var table = $('#dataTable');
-$('#dataTable th').append('<i class="fas fa-sort" style="display:inline;margin-left:5px"></i>').css('cursor', 'pointer').each(function () {
+var table = $('#dataTable table');
+$('#dataTable table th').append('<i class="fas fa-sort" style="display:inline;margin-left:5px"></i>').css('cursor', 'pointer').each(function () {
   var th = $(this),
       thIndex = th.index(),
       inverse = false;
@@ -233,6 +245,31 @@ $('#dataTable th').append('<i class="fas fa-sort" style="display:inline;margin-l
     });
     inverse = !inverse;
   });
+});
+
+/***/ }),
+
+/***/ "./resources/js/view.js":
+/*!******************************!*\
+  !*** ./resources/js/view.js ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// insert view switch buttons
+$('<div class="buttons has-addons is-centered mt-6">\n' + '  <button id="tableButton" class="button is-info is-selected">Tabelle</button>\n' + '  <button id="diagramButton" class="button">Diagramm</button>\n' + '</div>').insertBefore('#dataTable');
+$('#dataChart').hide();
+$('#tableButton').click(function () {
+  $('#dataChart').hide();
+  $('#diagramButton').removeClass("is-info is-selected");
+  $('#tableButton').addClass("is-info is-selected");
+  $('#dataTable').show();
+});
+$('#diagramButton').click(function () {
+  $('#dataTable').hide();
+  $('#tableButton').removeClass("is-info is-selected");
+  $('#diagramButton').addClass("is-info is-selected");
+  $('#dataChart').show();
 });
 
 /***/ }),

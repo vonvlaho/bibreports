@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
-    <section class="section">
-        <table id="dataTable" class="table is-striped is-fullwidth">
+    <section class="section" id="dataTable">
+        <table class="table is-striped is-fullwidth">
             <tr>
                 <th>Schlagwort</th>
                 <th>1966</th>
@@ -33,5 +33,8 @@
                 </tr>
             @endforeach
         </table>
+    </section>
+    <section class="section" id="dataChart">
+
     </section>
 @stop

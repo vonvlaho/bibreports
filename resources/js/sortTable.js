@@ -1,6 +1,6 @@
-var table = $('#dataTable');
+var table = $('#dataTable table');
 
-$('#dataTable th')
+$('#dataTable table th')
     .append('<i class="fas fa-sort" style="display:inline;margin-left:5px"></i>')
     .css('cursor', 'pointer')
     .each(function(){

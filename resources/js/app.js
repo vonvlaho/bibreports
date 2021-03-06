@@ -1,10 +1,8 @@
-// view 0 = table
-// view 1 = graph
-const view = 0;
+require('./nav');
+require('./view')
 
-require('./jquery.sortElements.js')
-
-require('./nav.js');
-
+require('./jquery.sortElements')
+require('./sortTable');
 require('./filterTable')
-require('./sortTable.js');
+
+require('./chart')

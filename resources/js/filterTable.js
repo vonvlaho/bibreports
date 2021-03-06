@@ -1,5 +1,6 @@
+// insert searchbar
 $('<input id="dataReducer" class="input mb-4" style="max-width:600px" type="text" placeholder="Suchbegriff">')
-    .insertBefore('#dataTable');
+    .insertBefore('#dataTable table');
 
 $('#dataReducer')
     .on('keyup', function() {
