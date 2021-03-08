@@ -114,7 +114,68 @@ __webpack_require__(/*! ./chart */ "./resources/js/chart.js");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
+var height = 600,
+    width = 960;
+var margin = {
+  top: 10,
+  right: 10,
+  bottom: 150,
+  left: 40
+};
+var svg = d3.select("#dataChart").append("svg").attr("viewBox", [0, 0, width, height]);
+data = data.slice(0, 19);
+var columns = [];
 
+for (var key in data[0]) {
+  if (data[0].hasOwnProperty(key) && key !== 'id' && key !== 'total') {
+    columns.push(key);
+  }
+}
+
+var series = d3.stack().keys(columns)(data).map(function (d) {
+  return d.forEach(function (v) {
+    return v.key = d.key;
+  }), d;
+});
+var x = d3.scaleBand().domain(data.map(function (d) {
+  return d.name;
+})).range([margin.left, width - margin.right]).padding(0.1);
+var y = d3.scaleLinear().domain([0, d3.max(series, function (d) {
+  return d3.max(d, function (d) {
+    return d[1];
+  });
+})]).rangeRound([height - margin.bottom, margin.top]);
+var color = d3.scaleOrdinal().domain(series.map(function (d) {
+  return d.key;
+})).range(d3.schemeSpectral[11]).unknown("#ccc");
+
+var xAxis = function xAxis(g) {
+  return g.attr("transform", "translate(0,".concat(height - margin.bottom, ")")).call(d3.axisBottom(x).tickSizeOuter(0)).call(function (g) {
+    return g.selectAll(".domain").remove();
+  });
+};
+
+var yAxis = function yAxis(g) {
+  return g.attr("transform", "translate(".concat(margin.left, ",0)")).call(d3.axisLeft(y).ticks(null, "s")).call(function (g) {
+    return g.selectAll(".domain").remove();
+  });
+};
+
+svg.append("g").selectAll("g").data(series).join("g").attr("fill", function (d) {
+  return color(d.key);
+}).selectAll("rect").data(function (d) {
+  return d;
+}).join("rect").attr("x", function (d, i) {
+  return x(d.data.name);
+}).attr("y", function (d) {
+  return y(d[1]);
+}).attr("height", function (d) {
+  return y(d[0]) - y(d[1]);
+}).attr("width", x.bandwidth()).append("title").text(function (d) {
+  return "".concat(d.key);
+});
+svg.append("g").call(xAxis).selectAll("text").style("text-anchor", "end").attr("dx", "-.8em").attr("dy", ".15em").attr("transform", "rotate(-65)");
+svg.append("g").call(yAxis);
 
 /***/ }),
 
@@ -258,19 +319,21 @@ $('#dataTable table th').append('<i class="fas fa-sort" style="display:inline;ma
 
 // insert view switch buttons
 $('<div class="buttons has-addons is-centered mt-6">\n' + '  <button id="tableButton" class="button is-info is-selected">Tabelle</button>\n' + '  <button id="diagramButton" class="button">Diagramm</button>\n' + '</div>').insertBefore('#dataTable');
-$('#dataChart').hide();
-$('#tableButton').click(function () {
-  $('#dataChart').hide();
-  $('#diagramButton').removeClass("is-info is-selected");
-  $('#tableButton').addClass("is-info is-selected");
-  $('#dataTable').show();
+$('#dataTable').hide();
+/*$('#tableButton').click(function() {
+    $('#dataChart').hide();
+    $('#diagramButton').removeClass("is-info is-selected");
+    $('#tableButton').addClass("is-info is-selected");
+    $('#dataTable').show();
 });
-$('#diagramButton').click(function () {
-  $('#dataTable').hide();
-  $('#tableButton').removeClass("is-info is-selected");
-  $('#diagramButton').addClass("is-info is-selected");
-  $('#dataChart').show();
+
+$('#diagramButton').click(function() {
+    $('#dataTable').hide();
+    $('#tableButton').removeClass("is-info is-selected");
+    $('#diagramButton').addClass("is-info is-selected");
+    $('#dataChart').show();
 });
+*/
 
 /***/ }),
 

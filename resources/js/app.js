@@ -2,7 +2,7 @@ require('./nav');
 require('./view')
 
 require('./jquery.sortElements')
-require('./sortTable');
+require('./sortTable')
 require('./filterTable')
 
 require('./chart')
