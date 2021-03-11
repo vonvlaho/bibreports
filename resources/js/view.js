@@ -5,9 +5,9 @@ $('<div class="buttons has-addons is-centered mt-6">\n' +
     '</div>')
     .insertBefore('#dataTable');
 
-$('#dataTable').hide();
+$('#dataChart').hide();
 
-/*$('#tableButton').click(function() {
+$('#tableButton').click(function() {
     $('#dataChart').hide();
     $('#diagramButton').removeClass("is-info is-selected");
     $('#tableButton').addClass("is-info is-selected");
@@ -20,4 +20,3 @@ $('#diagramButton').click(function() {
     $('#diagramButton').addClass("is-info is-selected");
     $('#dataChart').show();
 });
-*/
