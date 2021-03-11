@@ -26,40 +26,30 @@ class KeywordsController extends Controller
     public function data() {
 
         $keywords = Keyword::withCount([
-            'entries',
-            'entries as y1966' => function(Builder $query) {
-                $query->where('report_id', '1');
-            },
-            'entries as y1967' => function(Builder $query) {
-                $query->where('report_id', '2');
-            },
-            'entries as y1968' => function(Builder $query) {
-                $query->where('report_id', '3');
-            },
-            'entries as y1969' => function(Builder $query) {
-                $query->where('report_id', '4');
-            },
-            'entries as y1970' => function(Builder $query) {
-                $query->where('report_id', '5');
-            },
-            'entries as y1971' => function(Builder $query) {
-                $query->where('report_id', '6');
-            },
-            'entries as y1972' => function(Builder $query) {
-                $query->where('report_id', '7');
-            },
-            'entries as y1973' => function(Builder $query) {
-                $query->where('report_id', '8');
-            },
-            'entries as y1974' => function(Builder $query) {
-                $query->where('report_id', '9');
-            },
-            'entries as y1975' => function(Builder $query) {
-                $query->where('report_id', '10');
-            }
-        ])->get();
+            'entries as total'
+        ])->orderBy('total', 'desc')->get();
 
-        return view('keywords.data', ['keywords' => $keywords]);
+        $keywordsByCount = [];
+
+        foreach ($keywords as $keyword) {
+            $keywordsByCount[] = [
+                'id' => $keyword->id,
+                'name' => $keyword->name,
+                'total' => $keyword->total,
+                '1966' => $keyword->entries->where('report_id', '1')->count(),
+                '1967' => $keyword->entries->where('report_id', '2')->count(),
+                '1968' => $keyword->entries->where('report_id', '3')->count(),
+                '1969' => $keyword->entries->where('report_id', '4')->count(),
+                '1970' => $keyword->entries->where('report_id', '5')->count(),
+                '1971' => $keyword->entries->where('report_id', '6')->count(),
+                '1972' => $keyword->entries->where('report_id', '7')->count(),
+                '1973' => $keyword->entries->where('report_id', '8')->count(),
+                '1974' => $keyword->entries->where('report_id', '9')->count(),
+                '1975' => $keyword->entries->where('report_id', '10')->count()
+            ];
+        }
+
+        return view('keywords.data', ['keywords' => $keywordsByCount]);
     }
 
     public function download() {
