@@ -127,7 +127,7 @@ data = data.slice(0, 19);
 var columns = [];
 
 for (var key in data[0]) {
-  if (data[0].hasOwnProperty(key) && key !== 'id' && key !== 'total') {
+  if (data[0].hasOwnProperty(key) && key !== 'id' && key !== 'total' && key !== 'name') {
     columns.push(key);
   }
 }
@@ -172,10 +172,57 @@ svg.append("g").selectAll("g").data(series).join("g").attr("fill", function (d) 
 }).attr("height", function (d) {
   return y(d[0]) - y(d[1]);
 }).attr("width", x.bandwidth()).append("title").text(function (d) {
-  return "".concat(d.key);
+  return "".concat(d.key, " : ").concat(d[1] - d[0]);
 });
 svg.append("g").call(xAxis).selectAll("text").style("text-anchor", "end").attr("dx", "-.8em").attr("dy", ".15em").attr("transform", "rotate(-65)");
 svg.append("g").call(yAxis);
+legend({
+  color: d3.scaleOrdinal(columns, d3.schemeSpectral[11]),
+  title: "Jahre"
+});
+
+function legend() {
+  var _ref = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {},
+      color = _ref.color,
+      title = _ref.title,
+      _ref$tickSize = _ref.tickSize,
+      tickSize = _ref$tickSize === void 0 ? 6 : _ref$tickSize,
+      _ref$width = _ref.width,
+      width = _ref$width === void 0 ? 320 : _ref$width,
+      _ref$height = _ref.height,
+      height = _ref$height === void 0 ? 44 + tickSize : _ref$height,
+      _ref$marginTop = _ref.marginTop,
+      marginTop = _ref$marginTop === void 0 ? 18 : _ref$marginTop,
+      _ref$marginRight = _ref.marginRight,
+      marginRight = _ref$marginRight === void 0 ? 0 : _ref$marginRight,
+      _ref$marginBottom = _ref.marginBottom,
+      marginBottom = _ref$marginBottom === void 0 ? 16 + tickSize : _ref$marginBottom,
+      _ref$marginLeft = _ref.marginLeft,
+      marginLeft = _ref$marginLeft === void 0 ? 0 : _ref$marginLeft,
+      _ref$ticks = _ref.ticks,
+      ticks = _ref$ticks === void 0 ? width / 64 : _ref$ticks,
+      tickFormat = _ref.tickFormat,
+      tickValues = _ref.tickValues;
+
+  var svg = d3.select("#dataChart").append("svg").attr("width", width).attr("height", height).attr("viewBox", [0, 0, width, height]).style("overflow", "visible").style("display", "block");
+
+  var tickAdjust = function tickAdjust(g) {
+    return g.selectAll(".tick line").attr("y1", marginTop + marginBottom - height);
+  };
+
+  var x;
+  x = d3.scaleBand().domain(color.domain()).rangeRound([marginLeft, width - marginRight]);
+  svg.append("g").selectAll("rect").data(color.domain()).join("rect").attr("x", x).attr("y", marginTop).attr("width", Math.max(0, x.bandwidth() - 1)).attr("height", height - marginTop - marginBottom).attr("fill", color);
+
+  tickAdjust = function tickAdjust() {};
+
+  svg.append("g").attr("transform", "translate(0,".concat(height - marginBottom, ")")).call(d3.axisBottom(x).ticks(ticks, typeof tickFormat === "string" ? tickFormat : undefined).tickFormat(typeof tickFormat === "function" ? tickFormat : undefined).tickSize(tickSize).tickValues(tickValues)).call(tickAdjust).call(function (g) {
+    return g.select(".domain").remove();
+  }).call(function (g) {
+    return g.append("text").attr("x", marginLeft).attr("y", marginTop + marginBottom - height - 6).attr("fill", "currentColor").attr("text-anchor", "start").attr("font-weight", "bold").attr("class", "title").text(title);
+  });
+  return svg;
+}
 
 /***/ }),
 

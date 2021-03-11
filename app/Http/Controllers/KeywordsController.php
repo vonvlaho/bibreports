@@ -6,6 +6,7 @@ use App\Keyword;
 use App\Report;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Response;
+use Illuminate\Database\Eloquent\Builder;
 
 class KeywordsController extends Controller
 {
@@ -24,34 +25,31 @@ class KeywordsController extends Controller
 
     public function data() {
 
-        $keywords = [];
+        $keywords = Keyword::withCount([
+            'entries as total'
+        ])->orderBy('total', 'desc')->get();
 
-        foreach (Keyword::all() as $keyword) {
-            $keywords[$keyword->id] = [
+        $keywordsByCount = [];
+
+        foreach ($keywords as $keyword) {
+            $keywordsByCount[] = [
                 'id' => $keyword->id,
                 'name' => $keyword->name,
-                'total' => 0,
-                '1966' => 0,
-                '1967' => 0,
-                '1968' => 0,
-                '1969' => 0,
-                '1970' => 0,
-                '1971' => 0,
-                '1972' => 0,
-                '1973' => 0,
-                '1974' => 0,
-                '1975' => 0
+                'total' => $keyword->total,
+                '1966' => $keyword->entries->where('report_id', '1')->count(),
+                '1967' => $keyword->entries->where('report_id', '2')->count(),
+                '1968' => $keyword->entries->where('report_id', '3')->count(),
+                '1969' => $keyword->entries->where('report_id', '4')->count(),
+                '1970' => $keyword->entries->where('report_id', '5')->count(),
+                '1971' => $keyword->entries->where('report_id', '6')->count(),
+                '1972' => $keyword->entries->where('report_id', '7')->count(),
+                '1973' => $keyword->entries->where('report_id', '8')->count(),
+                '1974' => $keyword->entries->where('report_id', '9')->count(),
+                '1975' => $keyword->entries->where('report_id', '10')->count()
             ];
-            foreach ($keyword->entries as $entry) {
-                $keywords[$keyword->id]['total']++;
-                $keywords[$keyword->id][$entry->report->year]++;
-            }
         }
-        usort($keywords, function ($item1, $item2) {
-            return $item2['total'] <=> $item1['total'];
-        });
 
-        return view('keywords.data', ['keywords' => $keywords]);
+        return view('keywords.data', ['keywords' => $keywordsByCount]);
     }
 
     public function download() {

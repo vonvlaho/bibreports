@@ -34,7 +34,7 @@
             @endforeach
         </table>
     </section>
-    <section class="section" id="dataChart">
+    <section class="section container" id="dataChart">
         <script id="jsonData">var data={!! json_encode($keywords) !!}</script>
     </section>
 @stop
