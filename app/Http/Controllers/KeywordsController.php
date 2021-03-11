@@ -35,7 +35,7 @@ class KeywordsController extends Controller
             $keywordsByCount[] = [
                 'id' => $keyword->id,
                 'name' => $keyword->name,
-                'total' => $keyword->total,
+                'total' => $keyword->total/*,
                 '1966' => $keyword->entries->where('report_id', '1')->count(),
                 '1967' => $keyword->entries->where('report_id', '2')->count(),
                 '1968' => $keyword->entries->where('report_id', '3')->count(),
@@ -45,7 +45,7 @@ class KeywordsController extends Controller
                 '1972' => $keyword->entries->where('report_id', '7')->count(),
                 '1973' => $keyword->entries->where('report_id', '8')->count(),
                 '1974' => $keyword->entries->where('report_id', '9')->count(),
-                '1975' => $keyword->entries->where('report_id', '10')->count()
+                '1975' => $keyword->entries->where('report_id', '10')->count()*/
             ];
         }
 
