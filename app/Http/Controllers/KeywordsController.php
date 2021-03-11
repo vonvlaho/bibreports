@@ -26,30 +26,20 @@ class KeywordsController extends Controller
     public function data() {
 
         $keywords = Keyword::withCount([
-            'entries as total'
-        ])->orderBy('total', 'desc')->get();
-
-        $keywordsByCount = [];
-
-        foreach ($keywords as $keyword) {
-            $keywordsByCount[] = [
-                'id' => $keyword->id,
-                'name' => $keyword->name,
-                'total' => $keyword->total/*,
-                '1966' => $keyword->entries->where('report_id', '1')->count(),
-                '1967' => $keyword->entries->where('report_id', '2')->count(),
-                '1968' => $keyword->entries->where('report_id', '3')->count(),
-                '1969' => $keyword->entries->where('report_id', '4')->count(),
-                '1970' => $keyword->entries->where('report_id', '5')->count(),
-                '1971' => $keyword->entries->where('report_id', '6')->count(),
-                '1972' => $keyword->entries->where('report_id', '7')->count(),
-                '1973' => $keyword->entries->where('report_id', '8')->count(),
-                '1974' => $keyword->entries->where('report_id', '9')->count(),
-                '1975' => $keyword->entries->where('report_id', '10')->count()*/
-            ];
-        }
-
-        return view('keywords.data', ['keywords' => $keywordsByCount]);
+            'entries as total',
+            'entries as year1966' => function (Builder $query){$query->where('report_id', '1');},
+            'entries as year1967' => function (Builder $query){$query->where('report_id', '2');},
+            'entries as year1968' => function (Builder $query){$query->where('report_id', '3');},
+            'entries as year1969' => function (Builder $query){$query->where('report_id', '4');},
+            'entries as year1970' => function (Builder $query){$query->where('report_id', '5');},
+            'entries as year1971' => function (Builder $query){$query->where('report_id', '6');},
+            'entries as year1972' => function (Builder $query){$query->where('report_id', '7');},
+            'entries as year1973' => function (Builder $query){$query->where('report_id', '8');},
+            'entries as year1974' => function (Builder $query){$query->where('report_id', '9');},
+            'entries as year1975' => function (Builder $query){$query->where('report_id', '10');}
+        ])->orderBy('total', 'desc')->get()->toArray();
+        
+        return view('keywords.data', ['keywords' => $keywords]);
     }
 
     public function download() {
