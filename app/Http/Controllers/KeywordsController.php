@@ -6,6 +6,7 @@ use App\Keyword;
 use App\Report;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Response;
+use Illuminate\Database\Eloquent\Builder;
 
 class KeywordsController extends Controller
 {
@@ -24,32 +25,39 @@ class KeywordsController extends Controller
 
     public function data() {
 
-        $keywords = [];
-
-        foreach (Keyword::all() as $keyword) {
-            $keywords[$keyword->id] = [
-                'id' => $keyword->id,
-                'name' => $keyword->name,
-                'total' => 0,
-                '1966' => 0,
-                '1967' => 0,
-                '1968' => 0,
-                '1969' => 0,
-                '1970' => 0,
-                '1971' => 0,
-                '1972' => 0,
-                '1973' => 0,
-                '1974' => 0,
-                '1975' => 0
-            ];
-            foreach ($keyword->entries as $entry) {
-                $keywords[$keyword->id]['total']++;
-                $keywords[$keyword->id][$entry->report->year]++;
+        $keywords = Keyword::withCount([
+            'entries',
+            'entries as y1966' => function(Builder $query) {
+                $query->where('report_id', '1');
+            },
+            'entries as y1967' => function(Builder $query) {
+                $query->where('report_id', '2');
+            },
+            'entries as y1968' => function(Builder $query) {
+                $query->where('report_id', '3');
+            },
+            'entries as y1969' => function(Builder $query) {
+                $query->where('report_id', '4');
+            },
+            'entries as y1970' => function(Builder $query) {
+                $query->where('report_id', '5');
+            },
+            'entries as y1971' => function(Builder $query) {
+                $query->where('report_id', '6');
+            },
+            'entries as y1972' => function(Builder $query) {
+                $query->where('report_id', '7');
+            },
+            'entries as y1973' => function(Builder $query) {
+                $query->where('report_id', '8');
+            },
+            'entries as y1974' => function(Builder $query) {
+                $query->where('report_id', '9');
+            },
+            'entries as y1975' => function(Builder $query) {
+                $query->where('report_id', '10');
             }
-        }
-        usort($keywords, function ($item1, $item2) {
-            return $item2['total'] <=> $item1['total'];
-        });
+        ])->get();
 
         return view('keywords.data', ['keywords' => $keywords]);
     }

@@ -10,11 +10,11 @@ const columns = []
 for (var key in data[0]) {
     if (data[0].hasOwnProperty(key)
         && key !== 'id'
-        && key !== 'total') {
+        && key !== 'total'
+        && key !== 'name') {
         columns.push(key);
     }
 }
-
 const series = d3.stack()
     .keys(columns)
     (data)
@@ -57,7 +57,7 @@ svg.append("g")
     .attr("height", d => y(d[0]) - y(d[1]))
     .attr("width", x.bandwidth())
     .append("title")
-    .text(d => `${d.key}`)
+    .text(d => `${d.key} : ${d[1] - d[0]}`)
 
 svg.append("g")
     .call(xAxis)
@@ -69,3 +69,70 @@ svg.append("g")
 
 svg.append("g")
     .call(yAxis)
+
+legend({
+    color: d3.scaleOrdinal(columns, d3.schemeSpectral[11]),
+    title: "Jahre"
+})
+
+function legend({
+                    color,
+                    title,
+                    tickSize = 6,
+                    width = 320,
+                    height = 44 + tickSize,
+                    marginTop = 18,
+                    marginRight = 0,
+                    marginBottom = 16 + tickSize,
+                    marginLeft = 0,
+                    ticks = width / 64,
+                    tickFormat,
+                    tickValues
+                } = {}) {
+
+    const svg = d3.select("#dataChart").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("viewBox", [0, 0, width, height])
+        .style("overflow", "visible")
+        .style("display", "block");
+
+    let tickAdjust = g => g.selectAll(".tick line").attr("y1", marginTop + marginBottom - height);
+    let x;
+
+    x = d3.scaleBand()
+        .domain(color.domain())
+        .rangeRound([marginLeft, width - marginRight]);
+
+    svg.append("g")
+        .selectAll("rect")
+        .data(color.domain())
+        .join("rect")
+        .attr("x", x)
+        .attr("y", marginTop)
+        .attr("width", Math.max(0, x.bandwidth() - 1))
+        .attr("height", height - marginTop - marginBottom)
+        .attr("fill", color);
+
+    tickAdjust = () => {};
+
+    svg.append("g")
+        .attr("transform", `translate(0,${height - marginBottom})`)
+        .call(d3.axisBottom(x)
+            .ticks(ticks, typeof tickFormat === "string" ? tickFormat : undefined)
+            .tickFormat(typeof tickFormat === "function" ? tickFormat : undefined)
+            .tickSize(tickSize)
+            .tickValues(tickValues))
+        .call(tickAdjust)
+        .call(g => g.select(".domain").remove())
+        .call(g => g.append("text")
+            .attr("x", marginLeft)
+            .attr("y", marginTop + marginBottom - height - 6)
+            .attr("fill", "currentColor")
+            .attr("text-anchor", "start")
+            .attr("font-weight", "bold")
+            .attr("class", "title")
+            .text(title));
+
+    return svg;
+}

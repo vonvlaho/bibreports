@@ -18,23 +18,23 @@
             </tr>
             @foreach($keywords as $keyword)
                 <tr>
-                    <td>{{ $keyword['name'] }}</td>
-                    <td>{{ $keyword['1966'] }}</td>
-                    <td>{{ $keyword['1967'] }}</td>
-                    <td>{{ $keyword['1968'] }}</td>
-                    <td>{{ $keyword['1969'] }}</td>
-                    <td>{{ $keyword['1970'] }}</td>
-                    <td>{{ $keyword['1971'] }}</td>
-                    <td>{{ $keyword['1972'] }}</td>
-                    <td>{{ $keyword['1973'] }}</td>
-                    <td>{{ $keyword['1974'] }}</td>
-                    <td>{{ $keyword['1975'] }}</td>
-                    <td>{{ $keyword['total'] }}</td>
+                    <td>{{ $keyword->name }}</td>
+                    <td>{{ $keyword->y1966 }}</td>
+                    <td>{{ $keyword->y1967 }}</td>
+                    <td>{{ $keyword->y1968 }}</td>
+                    <td>{{ $keyword->y1969 }}</td>
+                    <td>{{ $keyword->y1970 }}</td>
+                    <td>{{ $keyword->y1971 }}</td>
+                    <td>{{ $keyword->y1972 }}</td>
+                    <td>{{ $keyword->y1973 }}</td>
+                    <td>{{ $keyword->y1974 }}</td>
+                    <td>{{ $keyword->y1975 }}</td>
+                    <td>{{ $keyword->entries_count }}</td>
                 </tr>
             @endforeach
         </table>
     </section>
-    <section class="section" id="dataChart">
+    <section class="section container" id="dataChart">
         <script id="jsonData">var data={!! json_encode($keywords) !!}</script>
     </section>
 @stop
