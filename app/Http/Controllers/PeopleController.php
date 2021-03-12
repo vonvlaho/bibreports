@@ -15,7 +15,7 @@ class PeopleController extends Controller
     }
     public function data() {
 
-        $people = Person::select(DB::raw("givenName || ' ' || familyName AS name"))->withCount([
+        $people = Person::select(DB::raw("CONCAT ('givenName', ' ', 'familyName') AS name"))->withCount([
             'entries as total',
             'entries as Y-1966' => function (Builder $query){$query->where('report_id', '1');},
             'entries as Y-1967' => function (Builder $query){$query->where('report_id', '2');},
