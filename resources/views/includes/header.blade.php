@@ -40,6 +40,11 @@
                 </a>
             </div>
             <div class="navbar-item">
+                <a href="{{ route('analytics') }}" class="is-family-monospace">
+                    Analyse
+                </a>
+            </div>
+            <div class="navbar-item">
                 <a href="{{ route('index') . '#Hintergrund' }}" class="is-family-monospace">
                     Hintergrund
                 </a>

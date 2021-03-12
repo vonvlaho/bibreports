@@ -172,12 +172,12 @@ svg.append("g").selectAll("g").data(series).join("g").attr("fill", function (d) 
 }).attr("height", function (d) {
   return y(d[0]) - y(d[1]);
 }).attr("width", x.bandwidth()).append("title").text(function (d) {
-  return "".concat(d.key, " : ").concat(d[1] - d[0]);
+  return "".concat(d[1] - d[0]);
 });
 svg.append("g").call(xAxis).selectAll("text").style("text-anchor", "end").attr("dx", "-.8em").attr("dy", ".15em").attr("transform", "rotate(-65)");
 svg.append("g").call(yAxis);
 legend({
-  color: d3.scaleOrdinal(columns, d3.schemeSpectral[11]),
+  color: d3.scaleOrdinal(['1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975'], d3.schemeSpectral[11]),
   title: "Jahre"
 });
 
@@ -400,8 +400,8 @@ $('#diagramButton').click(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/vlahovits/VM/workspace/gitlab.rlp.net/frvonvla/bibreports/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/vlahovits/VM/workspace/gitlab.rlp.net/frvonvla/bibreports/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/vlahovits/VM/workspace/github.com/vonvlaho/bibreports/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/vlahovits/VM/workspace/github.com/vonvlaho/bibreports/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

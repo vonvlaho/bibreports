@@ -19,16 +19,16 @@
             @foreach($keywords as $keyword)
                 <tr>
                     <td>{{ $keyword['name'] }}</td>
-                    <td>{{ $keyword['year1966'] }}</td>
-                    <td>{{ $keyword['year1967'] }}</td>
-                    <td>{{ $keyword['year1968'] }}</td>
-                    <td>{{ $keyword['year1969'] }}</td>
-                    <td>{{ $keyword['year1970'] }}</td>
-                    <td>{{ $keyword['year1971'] }}</td>
-                    <td>{{ $keyword['year1972'] }}</td>
-                    <td>{{ $keyword['year1973'] }}</td>
-                    <td>{{ $keyword['year1974'] }}</td>
-                    <td>{{ $keyword['year1975'] }}</td>
+                    <td>{{ $keyword['Y-1966'] }}</td>
+                    <td>{{ $keyword['Y-1967'] }}</td>
+                    <td>{{ $keyword['Y-1968'] }}</td>
+                    <td>{{ $keyword['Y-1969'] }}</td>
+                    <td>{{ $keyword['Y-1970'] }}</td>
+                    <td>{{ $keyword['Y-1971'] }}</td>
+                    <td>{{ $keyword['Y-1972'] }}</td>
+                    <td>{{ $keyword['Y-1973'] }}</td>
+                    <td>{{ $keyword['Y-1974'] }}</td>
+                    <td>{{ $keyword['Y-1975'] }}</td>
                     <td>{{ $keyword['total'] }}</td>
                 </tr>
             @endforeach

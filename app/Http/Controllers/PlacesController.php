@@ -4,12 +4,31 @@ namespace App\Http\Controllers;
 
 use App\Place;
 use App\Report;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Facades\Response;
 
 class PlacesController extends Controller
 {
     public function store() {
         return view('places.store', ['places' => Place::orderBy('name')->get()]);
+    }
+    public function data() {
+
+        $places = Place::select('name')->withCount([
+            'entries as total',
+            'entries as Y-1966' => function (Builder $query){$query->where('report_id', '1');},
+            'entries as Y-1967' => function (Builder $query){$query->where('report_id', '2');},
+            'entries as Y-1968' => function (Builder $query){$query->where('report_id', '3');},
+            'entries as Y-1969' => function (Builder $query){$query->where('report_id', '4');},
+            'entries as Y-1970' => function (Builder $query){$query->where('report_id', '5');},
+            'entries as Y-1971' => function (Builder $query){$query->where('report_id', '6');},
+            'entries as Y-1972' => function (Builder $query){$query->where('report_id', '7');},
+            'entries as Y-1973' => function (Builder $query){$query->where('report_id', '8');},
+            'entries as Y-1974' => function (Builder $query){$query->where('report_id', '9');},
+            'entries as Y-1975' => function (Builder $query){$query->where('report_id', '10');}
+        ])->orderBy('total', 'desc')->get()->toArray();
+
+        return view('places.data', ['places' => $places]);
     }
     public function download() {
         $reports = Report::all();

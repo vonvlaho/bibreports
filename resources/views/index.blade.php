@@ -19,8 +19,8 @@
                     </a>
                 </li>
                 <li>
-                    <a href="{{ route('people.store') }}" class="is-family-monospace">
-                        Personenverzeichnis
+                    <a href="{{ route('analytics') }}" class="is-family-monospace">
+                        Analyse
                     </a>
                 </li>
             </ul>

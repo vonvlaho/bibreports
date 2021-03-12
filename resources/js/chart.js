@@ -57,7 +57,7 @@ svg.append("g")
     .attr("height", d => y(d[0]) - y(d[1]))
     .attr("width", x.bandwidth())
     .append("title")
-    .text(d => `${d.key} : ${d[1] - d[0]}`)
+    .text(d => `${d[1] - d[0]}`)
 
 svg.append("g")
     .call(xAxis)
@@ -71,7 +71,7 @@ svg.append("g")
     .call(yAxis)
 
 legend({
-    color: d3.scaleOrdinal(columns, d3.schemeSpectral[11]),
+    color: d3.scaleOrdinal(['1966','1967','1968','1969','1970','1971','1972','1973','1974','1975'], d3.schemeSpectral[11]),
     title: "Jahre"
 })
 
