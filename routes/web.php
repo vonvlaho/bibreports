@@ -45,3 +45,4 @@ Route::get('/places', 'PlacesController@store')->name('places.store');
 Route::get('/places/data', 'PlacesController@data')->name('places.data');
 Route::get('/places/download', 'PlacesController@download')->name('places.download');
 Route::get('/places/{places}', 'PlacesController@show')->name('places.show');
+Route::get('/places/{places}/keywords', 'PlacesController@keywords')->name('places.keywords');
