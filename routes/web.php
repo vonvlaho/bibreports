@@ -41,11 +41,14 @@ Route::get('/people/{people}', 'PeopleController@show')->name('people.show');
 
 Route::get('/places', 'PlacesController@store')->name('places.store');
 Route::get('/places/download', 'PlacesController@download')->name('places.download');
-Route::get('/places/{places}', 'PlacesController@show')->name('places.show');
+Route::get('/places/{place}', 'PlacesController@show')->name('places.show');
 
 Route::get('/data/keywords', 'DataController@keywords')->name('data.keywords');
 Route::get('/data/places', 'DataController@places')->name('data.places');
 Route::get('/data/people', 'DataController@people')->name('data.people');
-Route::get('/data/keywordsInPlace/{places}', 'DataController@keywordsInPlace')->name('data.keywordsInPlace');
-
-
+Route::get('/data/keywords-in-place/{place}', 'DataController@keywordsInPlace')->name('data.keywordsInPlace');
+Route::get('/data/people-in-place/{place}', 'DataController@peopleInPlace')->name('data.peopleInPlace');
+Route::get('/data/places-in-keyword/{keyword}', 'DataController@placesInKeyword')->name('data.placesInKeyword');
+Route::get('/data/people-in-keyword/{keyword}', 'DataController@peopleInKeyword')->name('data.peopleInKeyword');
+Route::get('/data/places-in-person/{keyword}', 'DataController@placesInPerson')->name('data.placesInPerson');
+Route::get('/data/keywords-in-person/{keyword}', 'DataController@keywordsInPerson')->name('data.keywordsInPerson');

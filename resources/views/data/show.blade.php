@@ -1,9 +1,10 @@
 @extends('layouts.default')
 @section('content')
+    <h2 class="title">{{ $title }}</h2>
     <section class="section" id="dataTable">
         <table class="table is-striped is-fullwidth">
             <tr>
-                <th>{{ $title }}</th>
+                <th>{{ $dataTitle }}</th>
                 <th>1966</th>
                 <th>1967</th>
                 <th>1968</th>
