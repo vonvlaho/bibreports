@@ -31,15 +31,17 @@ const y = d3.scaleLinear()
 
 const color = d3.scaleOrdinal()
     .domain(series.map(d => d.key))
-    .range(d3.schemeSpectral[11])
+    .range(d3.schemeTableau10)
     .unknown("#ccc")
 
 const xAxis = g => g
+    .style("font-size", "1em")
     .attr("transform", `translate(0,${height - margin.bottom})`)
     .call(d3.axisBottom(x).tickSizeOuter(0))
     .call(g => g.selectAll(".domain").remove())
 
 const yAxis = g => g
+    .style("font-size", "1em")
     .attr("transform", `translate(${margin.left},0)`)
     .call(d3.axisLeft(y).ticks(null, "s"))
     .call(g => g.selectAll(".domain").remove())
@@ -71,7 +73,7 @@ svg.append("g")
     .call(yAxis)
 
 legend({
-    color: d3.scaleOrdinal(['1966','1967','1968','1969','1970','1971','1972','1973','1974','1975'], d3.schemeSpectral[11]),
+    color: d3.scaleOrdinal(['1966','1967','1968','1969','1970','1971','1972','1973','1974','1975'], d3.schemeTableau10),
     title: "Jahre"
 })
 

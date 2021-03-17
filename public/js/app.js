@@ -147,16 +147,16 @@ var y = d3.scaleLinear().domain([0, d3.max(series, function (d) {
 })]).rangeRound([height - margin.bottom, margin.top]);
 var color = d3.scaleOrdinal().domain(series.map(function (d) {
   return d.key;
-})).range(d3.schemeSpectral[11]).unknown("#ccc");
+})).range(d3.schemeTableau10).unknown("#ccc");
 
 var xAxis = function xAxis(g) {
-  return g.attr("transform", "translate(0,".concat(height - margin.bottom, ")")).call(d3.axisBottom(x).tickSizeOuter(0)).call(function (g) {
+  return g.style("font-size", "1em").attr("transform", "translate(0,".concat(height - margin.bottom, ")")).call(d3.axisBottom(x).tickSizeOuter(0)).call(function (g) {
     return g.selectAll(".domain").remove();
   });
 };
 
 var yAxis = function yAxis(g) {
-  return g.attr("transform", "translate(".concat(margin.left, ",0)")).call(d3.axisLeft(y).ticks(null, "s")).call(function (g) {
+  return g.style("font-size", "1em").attr("transform", "translate(".concat(margin.left, ",0)")).call(d3.axisLeft(y).ticks(null, "s")).call(function (g) {
     return g.selectAll(".domain").remove();
   });
 };
@@ -177,7 +177,7 @@ svg.append("g").selectAll("g").data(series).join("g").attr("fill", function (d) 
 svg.append("g").call(xAxis).selectAll("text").style("text-anchor", "end").attr("dx", "-.8em").attr("dy", ".15em").attr("transform", "rotate(-65)");
 svg.append("g").call(yAxis);
 legend({
-  color: d3.scaleOrdinal(['1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975'], d3.schemeSpectral[11]),
+  color: d3.scaleOrdinal(['1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975'], d3.schemeTableau10),
   title: "Jahre"
 });
 
