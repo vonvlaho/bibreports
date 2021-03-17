@@ -147,16 +147,16 @@ var y = d3.scaleLinear().domain([0, d3.max(series, function (d) {
 })]).rangeRound([height - margin.bottom, margin.top]);
 var color = d3.scaleOrdinal().domain(series.map(function (d) {
   return d.key;
-})).range(d3.schemeSpectral[11]).unknown("#ccc");
+})).range(d3.schemeTableau10).unknown("#ccc");
 
 var xAxis = function xAxis(g) {
-  return g.attr("transform", "translate(0,".concat(height - margin.bottom, ")")).call(d3.axisBottom(x).tickSizeOuter(0)).call(function (g) {
+  return g.style("font-size", "1em").attr("transform", "translate(0,".concat(height - margin.bottom, ")")).call(d3.axisBottom(x).tickSizeOuter(0)).call(function (g) {
     return g.selectAll(".domain").remove();
   });
 };
 
 var yAxis = function yAxis(g) {
-  return g.attr("transform", "translate(".concat(margin.left, ",0)")).call(d3.axisLeft(y).ticks(null, "s")).call(function (g) {
+  return g.style("font-size", "1em").attr("transform", "translate(".concat(margin.left, ",0)")).call(d3.axisLeft(y).ticks(null, "s")).call(function (g) {
     return g.selectAll(".domain").remove();
   });
 };
@@ -176,53 +176,18 @@ svg.append("g").selectAll("g").data(series).join("g").attr("fill", function (d) 
 });
 svg.append("g").call(xAxis).selectAll("text").style("text-anchor", "end").attr("dx", "-.8em").attr("dy", ".15em").attr("transform", "rotate(-65)");
 svg.append("g").call(yAxis);
-legend({
-  color: d3.scaleOrdinal(['1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975'], d3.schemeSpectral[11]),
-  title: "Jahre"
-});
 
-function legend() {
-  var _ref = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {},
-      color = _ref.color,
-      title = _ref.title,
-      _ref$tickSize = _ref.tickSize,
-      tickSize = _ref$tickSize === void 0 ? 6 : _ref$tickSize,
-      _ref$width = _ref.width,
-      width = _ref$width === void 0 ? 320 : _ref$width,
-      _ref$height = _ref.height,
-      height = _ref$height === void 0 ? 44 + tickSize : _ref$height,
-      _ref$marginTop = _ref.marginTop,
-      marginTop = _ref$marginTop === void 0 ? 18 : _ref$marginTop,
-      _ref$marginRight = _ref.marginRight,
-      marginRight = _ref$marginRight === void 0 ? 0 : _ref$marginRight,
-      _ref$marginBottom = _ref.marginBottom,
-      marginBottom = _ref$marginBottom === void 0 ? 16 + tickSize : _ref$marginBottom,
-      _ref$marginLeft = _ref.marginLeft,
-      marginLeft = _ref$marginLeft === void 0 ? 0 : _ref$marginLeft,
-      _ref$ticks = _ref.ticks,
-      ticks = _ref$ticks === void 0 ? width / 64 : _ref$ticks,
-      tickFormat = _ref.tickFormat,
-      tickValues = _ref.tickValues;
-
-  var svg = d3.select("#dataChart").append("svg").attr("width", width).attr("height", height).attr("viewBox", [0, 0, width, height]).style("overflow", "visible").style("display", "block");
-
-  var tickAdjust = function tickAdjust(g) {
-    return g.selectAll(".tick line").attr("y1", marginTop + marginBottom - height);
-  };
-
-  var x;
-  x = d3.scaleBand().domain(color.domain()).rangeRound([marginLeft, width - marginRight]);
-  svg.append("g").selectAll("rect").data(color.domain()).join("rect").attr("x", x).attr("y", marginTop).attr("width", Math.max(0, x.bandwidth() - 1)).attr("height", height - marginTop - marginBottom).attr("fill", color);
-
-  tickAdjust = function tickAdjust() {};
-
-  svg.append("g").attr("transform", "translate(0,".concat(height - marginBottom, ")")).call(d3.axisBottom(x).ticks(ticks, typeof tickFormat === "string" ? tickFormat : undefined).tickFormat(typeof tickFormat === "function" ? tickFormat : undefined).tickSize(tickSize).tickValues(tickValues)).call(tickAdjust).call(function (g) {
-    return g.select(".domain").remove();
-  }).call(function (g) {
-    return g.append("text").attr("x", marginLeft).attr("y", marginTop + marginBottom - height - 6).attr("fill", "currentColor").attr("text-anchor", "start").attr("font-weight", "bold").attr("class", "title").text(title);
+legend = function legend(svg) {
+  var g = svg.attr("transform", "translate(".concat(width, ",0)")).attr("text-anchor", "end").style("font-size", "1em").selectAll("g").data(color.domain().slice().reverse()).join("g").attr("transform", function (d, i) {
+    return "translate(0,".concat(i * 20, ")");
   });
-  return svg;
-}
+  g.append("rect").attr("x", -19).attr("width", 19).attr("height", 19).attr("fill", color);
+  g.append("text").attr("x", -24).attr("y", 9.5).attr("dy", "0.35em").text(function (d) {
+    return d.substring(2);
+  });
+};
+
+svg.append("g").call(legend);
 
 /***/ }),
 
