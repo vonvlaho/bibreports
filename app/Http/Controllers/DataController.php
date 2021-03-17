@@ -28,7 +28,7 @@ class DataController extends Controller
             ->orderBy('total', 'desc')
             ->get()
             ->toArray();
-        return view('data.show', ['items' => $keywords, 'dataTitle' => 'Schlagworte']);
+        return view('data.show', ['items' => $keywords, 'dataTitle' => 'Schlagworte', 'title' => 'Schlagworte']);
     }
 
     public function places()
@@ -49,7 +49,7 @@ class DataController extends Controller
             ->orderBy('total', 'desc')
             ->get()
             ->toArray();
-        return view('data.show', ['items' => $places, 'dataTitle' => 'Orte']);
+        return view('data.show', ['items' => $places, 'dataTitle' => 'Orte', 'title' => 'Orte']);
     }
     public function people()
     {
@@ -66,7 +66,7 @@ class DataController extends Controller
             'entries as Y-1974' => function (Builder $query){$query->where('report_id', '9');},
             'entries as Y-1975' => function (Builder $query){$query->where('report_id', '10');}
         ])->orderBy('total', 'desc')->get()->toArray();
-        return view('data.show', ['items' => $people, 'dataTitle' => 'Personen']);
+        return view('data.show', ['items' => $people, 'dataTitle' => 'Personen', 'title' => 'Personen']);
     }
 
     public function keywordsInPlace($id)
