@@ -1,6 +1,12 @@
 @extends('layouts.default')
 @section('content')
-    <h2 class="title">{{ $title }}</h2>
+    <section class="hero">
+        <div class="hero-body">
+            <p class="title has-text-centered">
+                {{ $title }}
+            </p>
+        </div>
+    </section>
     <section class="section" id="dataTable">
         <table class="table is-striped is-fullwidth">
             <tr>

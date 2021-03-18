@@ -119,7 +119,7 @@ var height = 600,
 var margin = {
   top: 10,
   right: 10,
-  bottom: 150,
+  bottom: 200,
   left: 40
 };
 var svg = d3.select("#dataChart").append("svg").attr("viewBox", [0, 0, width, height]);
