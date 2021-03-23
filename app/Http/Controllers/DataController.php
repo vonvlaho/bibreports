@@ -12,7 +12,7 @@ class DataController extends Controller
 {
     public function keywords()
     {
-        $keywords = Keyword::select('name')
+        $keywords = Keyword::select('id','name')
             ->withCount([
                 'entries as total',
                 'entries as Y-1966' => function (Builder $query){$query->where('report_id', '1');},
@@ -28,12 +28,12 @@ class DataController extends Controller
             ->orderBy('total', 'desc')
             ->get()
             ->toArray();
-        return view('data.show', ['items' => $keywords, 'dataTitle' => 'Schlagworte', 'title' => 'Schlagworte']);
+        return view('data.store', ['items' => $keywords, 'title' => 'Schlagworte']);
     }
 
     public function places()
     {
-        $places = Place::select('name')
+        $places = Place::select('id','name')
             ->withCount([
                 'entries as total',
                 'entries as Y-1966' => function (Builder $query){$query->where('report_id', '1');},
@@ -49,11 +49,11 @@ class DataController extends Controller
             ->orderBy('total', 'desc')
             ->get()
             ->toArray();
-        return view('data.show', ['items' => $places, 'dataTitle' => 'Orte', 'title' => 'Orte']);
+        return view('data.store', ['items' => $places, 'title' => 'Orte']);
     }
     public function people()
     {
-        $people = Person::select(DB::raw("CONCAT(givenName, ' ', familyName) AS name"))->withCount([
+        $people = Person::select(DB::raw("id, CONCAT(givenName, ' ', familyName) AS name"))->withCount([
             'entries as total',
             'entries as Y-1966' => function (Builder $query){$query->where('report_id', '1');},
             'entries as Y-1967' => function (Builder $query){$query->where('report_id', '2');},
@@ -66,10 +66,10 @@ class DataController extends Controller
             'entries as Y-1974' => function (Builder $query){$query->where('report_id', '9');},
             'entries as Y-1975' => function (Builder $query){$query->where('report_id', '10');}
         ])->orderBy('total', 'desc')->get()->toArray();
-        return view('data.show', ['items' => $people, 'dataTitle' => 'Personen', 'title' => 'Personen']);
+        return view('data.store', ['items' => $people, 'title' => 'Personen']);
     }
 
-    public function keywordsInPlace($id)
+    public function itemsInPlace($id)
     {
         $keywords = Keyword::select('name')
             ->whereHas('entries.places', function (Builder $query) use ($id) {
@@ -132,13 +132,6 @@ class DataController extends Controller
                     })->where('report_id', '10');
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
-
-        $title = Place::findOrFail($id)->name;
-
-        return view('data.show', ['items' => $keywords, 'dataTitle' => 'Schlagworte', 'title' => $title]);
-    }
-    public function peopleInPlace($id)
-    {
 
         $people = Person::select(DB::raw("CONCAT(givenName, ' ', familyName) AS name"))
             ->whereHas('entries.places', function (Builder $query) use ($id) {
@@ -204,9 +197,9 @@ class DataController extends Controller
 
         $title = Place::findOrFail($id)->name;
 
-        return view('data.show', ['items' => $people, 'dataTitle' => 'Personen', 'title' => $title]);
+        return view('data.show', ['items' => [$people, $keywords], 'dataTitle' => 'Personen', 'title' => $title]);
     }
-    public function placesInKeyword($id)
+    public function itemsInKeyword($id)
     {
 
         $places = Place::select('name')
@@ -270,13 +263,6 @@ class DataController extends Controller
                     })->where('report_id', '10');
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
-
-        $title = Keyword::findOrFail($id)->name;
-
-        return view('data.show', ['items' => $places, 'dataTitle' => 'Orte', 'title' => $title]);
-    }
-    public function peopleInKeyword($id)
-    {
 
         $people = Person::select(DB::raw("CONCAT(givenName, ' ', familyName) AS name"))
             ->whereHas('entries.keywords', function (Builder $query) use ($id) {
@@ -342,9 +328,9 @@ class DataController extends Controller
 
         $title = Keyword::findOrFail($id)->name;
 
-        return view('data.show', ['items' => $people, 'dataTitle' => 'Personen', 'title' => $title]);
+        return view('data.show', ['items' => [$people, $places], 'dataTitle' => 'Personen', 'title' => $title]);
     }
-    public function placesInPerson($id)
+    public function itemsInPerson($id)
     {
 
         $places = Place::select('name')
@@ -409,13 +395,6 @@ class DataController extends Controller
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
 
-        $person = Person::findOrFail($id);
-        $title = $person->givenName . ' ' . $person->familyName;
-
-        return view('data.show', ['items' => $places, 'dataTitle' => 'Orte', 'title' => $title]);
-    }
-    public function keywordsInPerson($id)
-    {
         $keywords = Keyword::select('name')
             ->whereHas('entries.people', function (Builder $query) use ($id) {
                 $query->where('people.id', '=', $id);
@@ -481,6 +460,6 @@ class DataController extends Controller
         $person = Person::findOrFail($id);
         $title = $person->givenName . ' ' . $person->familyName;
 
-        return view('data.show', ['items' => $keywords, 'dataTitle' => 'Schlagworte', 'title' => $title]);
+        return view('data.show', ['items' => [$keywords, $places], 'dataTitle' => 'Schlagworte', 'title' => $title]);
     }
 }
