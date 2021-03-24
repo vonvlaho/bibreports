@@ -197,7 +197,7 @@ class DataController extends Controller
 
         $title = Place::findOrFail($id)->name;
 
-        return view('data.show', ['items' => [$people, $keywords], 'dataTitle' => 'Personen', 'title' => $title]);
+        return view('data.show', ['itemGroup' => ['Schlagworte' => $keywords, 'Personen' => $people], 'title' => $title]);
     }
     public function itemsInKeyword($id)
     {
@@ -328,7 +328,7 @@ class DataController extends Controller
 
         $title = Keyword::findOrFail($id)->name;
 
-        return view('data.show', ['items' => [$people, $places], 'dataTitle' => 'Personen', 'title' => $title]);
+        return view('data.show', ['itemGroup' => ['Orte' => $places, 'Personen' => $people], 'title' => $title]);
     }
     public function itemsInPerson($id)
     {
@@ -460,6 +460,6 @@ class DataController extends Controller
         $person = Person::findOrFail($id);
         $title = $person->givenName . ' ' . $person->familyName;
 
-        return view('data.show', ['items' => [$keywords, $places], 'dataTitle' => 'Schlagworte', 'title' => $title]);
+        return view('data.show', ['itemGroup' => ['Schlagworte' => $keywords, 'Orte' => $places], 'title' => $title]);
     }
 }
