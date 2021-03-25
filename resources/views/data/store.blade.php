@@ -30,7 +30,7 @@
                     @elseif($title === 'Schlagworte')
                         <td><a href="{{ route('data.keywords.show', $item['id']) }}">{{ $item['name'] }}</a></td>
                     @elseif($title === 'Personen')
-                        <td><a href="{{ route('data.keywords.show', $item['id']) }}">{{ $item['name'] }}</a></td>
+                        <td><a href="{{ route('data.people.show', $item['id']) }}">{{ $item['name'] }}</a></td>
                     @endif
                     <td>{{ $item['Y-1966'] }}</td>
                     <td>{{ $item['Y-1967'] }}</td>

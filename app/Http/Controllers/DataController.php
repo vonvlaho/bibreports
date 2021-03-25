@@ -71,7 +71,7 @@ class DataController extends Controller
 
     public function itemsInPlace($id)
     {
-        $keywords = Keyword::select('name')
+        $keywords = Keyword::select('id','name')
             ->whereHas('entries.places', function (Builder $query) use ($id) {
                 $query->where('places.id', '=', $id);
             })
@@ -133,7 +133,7 @@ class DataController extends Controller
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
 
-        $people = Person::select(DB::raw("CONCAT(givenName, ' ', familyName) AS name"))
+        $people = Person::select(DB::raw("id, CONCAT(givenName, ' ', familyName) AS name"))
             ->whereHas('entries.places', function (Builder $query) use ($id) {
                 $query->where('places.id', '=', $id);
             })
@@ -202,7 +202,7 @@ class DataController extends Controller
     public function itemsInKeyword($id)
     {
 
-        $places = Place::select('name')
+        $places = Place::select('id','name')
             ->whereHas('entries.keywords', function (Builder $query) use ($id) {
                 $query->where('keywords.id', '=', $id);
             })
@@ -264,7 +264,7 @@ class DataController extends Controller
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
 
-        $people = Person::select(DB::raw("CONCAT(givenName, ' ', familyName) AS name"))
+        $people = Person::select(DB::raw("id, CONCAT(givenName, ' ', familyName) AS name"))
             ->whereHas('entries.keywords', function (Builder $query) use ($id) {
                 $query->where('keywords.id', '=', $id);
             })
@@ -333,7 +333,7 @@ class DataController extends Controller
     public function itemsInPerson($id)
     {
 
-        $places = Place::select('name')
+        $places = Place::select('id','name')
             ->whereHas('entries.people', function (Builder $query) use ($id) {
                 $query->where('people.id', '=', $id);
             })
@@ -395,7 +395,7 @@ class DataController extends Controller
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
 
-        $keywords = Keyword::select('name')
+        $keywords = Keyword::select('id','name')
             ->whereHas('entries.people', function (Builder $query) use ($id) {
                 $query->where('people.id', '=', $id);
             })
