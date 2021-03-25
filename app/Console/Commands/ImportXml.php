@@ -141,7 +141,7 @@ class ImportXml extends Command
         $person = Person::updateOrCreate(
             [
                 'familyName' => $sourcePerson['familyName'],
-                'givenName' => $sourcePerson['givenName'] ?? NULL
+                'givenName' => $sourcePerson['givenName'] ?? ''
             ],
             ['gender' => $sourcePerson['gender'] ?? NULL]
         );

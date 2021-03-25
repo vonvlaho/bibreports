@@ -1,5 +1,5 @@
 const height = 600, width = 960;
-const margin = ({top: 10, right: 10, bottom: 150, left: 40})
+const margin = ({top: 10, right: 10, bottom: 200, left: 40})
 
 const svg = d3.select("#dataChart").append("svg")
     .attr("viewBox", [0, 0, width, height]);
