@@ -19,7 +19,7 @@
             <dl class="mt-4">
                 @foreach( $keywords as $keyword )
                     @isset( $keyword->entries )
-                        <dt><strong>{{ $keyword->name }}</strong></dt>
+                        <dt><strong><a href="{{ route('keywords.show', $keyword) }}">{{ $keyword->name }}</strong></dt>
                         <dd>
                         @foreach( $keyword->entries->groupBy('report.year') as $year => $entryCollection )
                             <dd>{{ $year }}:
