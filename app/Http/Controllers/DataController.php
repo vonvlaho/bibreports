@@ -326,9 +326,71 @@ class DataController extends Controller
                 }
             ])->orderBy('total', 'desc')->get()->toArray();
 
+        $keywords = Keyword::select('id','name')
+            ->whereHas('entries.keywords', function (Builder $query) use ($id) {
+                $query->where('keywords.id', '=', $id);
+            })
+            ->withCount([
+                'entries as total' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    });
+                },
+                'entries as Y-1966' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '1');
+                },
+                'entries as Y-1967' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '2');
+                },
+                'entries as Y-1968' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '3');
+                },
+                'entries as Y-1969' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '4');
+                },
+                'entries as Y-1970' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '5');
+                },
+                'entries as Y-1971' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '6');
+                },
+                'entries as Y-1972' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '7');
+                },
+                'entries as Y-1973' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '8');
+                },
+                'entries as Y-1974' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '9');
+                },
+                'entries as Y-1975' => function (Builder $query) use ($id) {
+                    $query->whereHas('keywords', function (Builder $query) use ($id) {
+                        $query->where('keywords.id', '=', $id);
+                    })->where('report_id', '10');
+                }
+            ])->orderBy('total', 'desc')->get()->toArray();
+
         $title = Keyword::findOrFail($id)->name;
 
-        return view('data.show', ['itemGroup' => ['Orte' => $places, 'Personen' => $people], 'title' => $title]);
+        return view('data.show', ['itemGroup' => ['Orte' => $places, 'Personen' => $people, 'Schlagworte' => $keywords], 'title' => $title]);
     }
     public function itemsInPerson($id)
     {
