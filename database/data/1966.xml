@@ -22,7 +22,7 @@
         <publisher>Breitkopf &amp; Härtel</publisher>
         <publicationYear>1966</publicationYear>
         <extent>208 S., 97 Abb</extent>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Diese musikinstrumentenkundllche Arbeit untersucht Ursprung und Herkunft des
             Streichbogens sowie die Entwicklung des Streichinstrumentenspiels und der
             Streichinstrumente von den Anfängen bis gegen 1200. Auf der Grundlage einer
@@ -1452,7 +1452,7 @@
             </author>
         </people>
         <title>Harmonielehre und Kontrapunkt</title>
-        <type>Monograhpie</type>
+        <type>Selbständig</type>
         <extent>71 S.</extent>
         <abstract> In knapper Form werden die elementartheoretischen Themen behandelt. Daran
             schließt sich die praktische Satzlehre ad der die Ton- und Klangverwandtschaften folgen.
@@ -1937,7 +1937,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <type>Schallplatteneinführung</type>
+        <type>Schallplattentext</type>
         <publisher>Dt. Schallplatten</publisher>
         <publicationYear>1967</publicationYear>
         <abstract> Würdigung Luthers als Liedschöpfer sowie seiner wichtigsten Lieder in vokalen und
@@ -1982,7 +1982,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <type>Schallplatteneinführung</type>
+        <type>Schallplattentext</type>
         <publisher>Dt. Schallplatten</publisher>
         <publicationYear>1967</publicationYear>
         <extent>Erscheint in der Reihe 'Unsere neue Musik.'</extent>
@@ -2189,7 +2189,7 @@
             </author>
         </people>
         <title>Antonin Dvořák. Leben und Werk</title>
-        <type>Monograhpie</type>
+        <type>Selbständig</type>
         <places>
             <place>Leipzig</place>
         </places>
@@ -2268,7 +2268,7 @@
         </places>
         <title>Das Massenlied. Studien zu seiner Entwicklung und Bedeutung in der Deutschen
             Demokratisch Republik</title>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Versuch einer wissenschaftlichen Klärung des Begriffes "Massenlied", seiner
             Entstehung, Entwicklung und heutigen Erscheinungsform, verbunden mit einem neuen
             Definitionsentwurf. An dieses erste Kapitel schließt sich ein historischer von 1945-1964
@@ -2700,7 +2700,7 @@
         <places>
             <place>Leipzig</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publisher>Breitkopf &amp; Härtel</publisher>
         <publicationYear>1966</publicationYear>
         <extent>176 S.</extent>
@@ -2971,7 +2971,7 @@
             <place>Leipzig</place>
         </places>
         <publicationYear>1965</publicationYear>
-        <type>Diss. phil.</type>
+        <type>Diss.</type>
         <abstract> Versuch dieser Arbeit ist, das dodekaphonische System als ein geschlossenes,
             widerspruchsfreies und algebraischer (gruppentheoretischer) Formulierung zugängliches
             System zu interpretieren. Die zwölf verschiedenen Notennamen einer beliebigen
@@ -3124,7 +3124,7 @@
         <places>
             <place>Reclam</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publicationYear>1966</publicationYear>
         <extent>285 S.</extent>
         <abstract> In dieser Biographie wird der Versuch unternommen, die neuesten
@@ -3306,7 +3306,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publisher>Henschel</publisher>
         <publicationYear>1966</publicationYear>
         <extent>251 S.</extent>
@@ -3609,7 +3609,7 @@
             <place>Leipzig</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <extent>317 S.</extent>
         <abstract> Weber-Biographie aufgrund der gänzlich erschlossenen Tagebücher, zugleich
             Vorarbeit für eine größere, in Arbeit befindliche Weber-Biographie (Deutscher Verlag für
@@ -4452,7 +4452,7 @@
         <places>
             <place>Prag</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publisher>Staatsverl. f. Musik.</publisher>
         <publicationYear>1965</publicationYear>
         <extent>158 S.</extent>
@@ -5374,7 +5374,7 @@
         <places>
             <place>Bautzen</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publisher>Domowina</publisher>
         <publicationYear>1966</publicationYear>
         <extent>121 S.</extent>
@@ -5405,7 +5405,7 @@
         </places>
         <publisher>Henschel</publisher>
         <publicationYear>1966</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <extent>504 S.</extent>
         <abstract> Nachschlagewerk über im Repertoire der DDR-Theater befindliche Ballette,
             historisch wichtige ältere, bedeutende neuere Ballete des Auslands mit Angaben über
@@ -5428,7 +5428,7 @@
         <publisher>Musyka</publisher>
         <publicationYear>1966</publicationYear>
         <extent>(russisch)</extent>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Ballettlexikon. </abstract>
     </entry>
     <entry>
@@ -5770,7 +5770,7 @@
             <place>Berlin</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Diss. phil.</type>
+        <type>Diss.</type>
         <extent>283 S.</extent>
         <abstract> Einleitung - Zum Verhältnis von Wort - Ton, Musik und Dichtung. Kapitel: Händel
             als ein Vorläufer des Sturm und Drang. "Meine Seele hört im Sehen ..."; Largo - Die
@@ -5859,7 +5859,7 @@
             <place>Halle</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Enthält das Schrifttum zu Georg Friedrich Händel bis einschließlich 1965.
         </abstract>
     </entry>
@@ -5879,7 +5879,7 @@
             <place>Halle</place>
         </places>
         <publicationYear>1965</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <extent>292 S.</extent>
         <abstract> Katalog zu den Sammlungen des Händel-Hauses in Halle. 5. Teil:
             Musikinstrumentensamnilung. Besaitete Tasteninstrumente. Enthält ferner Literatur- und
@@ -6372,7 +6372,7 @@
             </author>
         </people>
         <title>Händels Oper und ihre heutige Darbietung</title>
-        <type>Vortrag</type>
+        <type>Referat</type>
         <abstract> Der wissenschaftliche Vortrag gibt eine ausführliche Darstellung der Geschichte
             der Aufführungspraxis der Opern Händels. Der Vortrag gipfelt in Thesen über die
             realistische Operninterpretation. </abstract>
@@ -6421,7 +6421,7 @@
             </author>
         </people>
         <title>Der spezifische Ausdruckscharakter der Musik</title>
-        <type>Vortrag</type>
+        <type>Referat</type>
         <abstract> In dem öffentlichen Vortrag setzt sich der Referent ausführlich mit den
             wichtigsten Problemen der Musikästhetik in unserer Republik auseinander und versucht
             darüber hinaus, den besonderen Ausdruckscharakter der Musik gegenüber anderen Künsten
@@ -6471,7 +6471,7 @@
             </author>
         </people>
         <title>Unser marxistisches Bach-Bild</title>
-        <type>Vortrag</type>
+        <type>Referat</type>
         <abstract> Es handelt, sich um einen dreistündigen Vortrag vor den Lehrkräften der Leipziger
             Musikhochschule über unser heutiges Bach-Bild vom Standpunkt des Marxismus-Leninismus.
             Es wurde dabei eine Gegenüberstellung der Bachschen und Händelschen Musik einbezogen.
@@ -6488,7 +6488,7 @@
             </author>
         </people>
         <title>Georg Friedrich Händel</title>
-        <type>Vortrag</type>
+        <type>Referat</type>
         <extent>20 S.</extent>
         <abstract> Der Vortrag wurde anläßlich der Eröffnung einer Händel-Ausstellung und eines
             Händel-Wettbewerbs im Theater der oberitalienischen Stadt Reggio nell'Emilia gehalten.
@@ -6582,7 +6582,7 @@
             <place>Leipzig</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Vortrag</type>
+        <type>Referat</type>
         <extent>Erscheint im Kongreßbericht</extent>
         <abstract> Es wurde versucht, eine zusammenfassende Darlegung einer marxistischen
             Einschätzung der Beziehung von Musikwerk und Hörer zu geben, und das in deutlicher
@@ -6647,7 +6647,7 @@
         <places>
             <place>Halle</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publicationYear>1966</publicationYear>
         <abstract> Sammelband von Vorträgen innerhalb eines von Prof. Siegmund-Schultze geleiteten
             Kolloquiums an der Philosophischen Fakultät Halle über den großen jugoslawischen
@@ -6730,7 +6730,7 @@
         <places>
             <place>Halle</place>
         </places>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publicationYear>1966</publicationYear>
         <title>15. Händelfestspieie Halle (Saale) 1966. Halle 1966.</title>
     </entry>
@@ -6769,7 +6769,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <type>Einführungstext</type>
+        <type>Schallplattentext</type>
         <publisher>VEB Deutsche Schallplatten</publisher>
         <publicationYear>1966</publicationYear>
         <abstract> Versuch einer Neueinschätzung der Concerti grossi op. 6 unter Berücksichtigung
@@ -6811,7 +6811,7 @@
         </places>
         <publisher>VEB Dt. Verl. f. Musik</publisher>
         <publicationYear>1966</publicationYear>
-        <type>Monograhpie</type>
+        <type>Selbständig</type>
         <abstract> Versuch einer marxistischen Einschätzung und Einordnung des Brahmsschen
             Lebensweges und Schaffens. Alle wichtigen Werke wurden kurz besprochen, wobei besonderer
             Wert auf die Einschätzung des Charakters der Brahmsschen Melodik und auf die
@@ -6859,7 +6859,7 @@
         </people>
         <title>Kulturelle und ästhetische Grundfragen der sozialistischen Unterhaltung, Entspannung
             und Geselligkeit. In Arbeit.</title>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Unterhaltung, Entspannung und Geselligkeit in Sicht der bürgerlichen
             Kulturtheorie; Funktion der Unterhaltung, Entspannung und Geselligkeit im
             sozialistischen leben; Komponente der Unterhaltung und deren Wechselbeziehung zur
@@ -6892,7 +6892,7 @@
             <place>Leipzig</place>
         </places>
         <publisher>Fak. f. Journalistin an d. Karl-Marx-Univ.</publisher>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publicationYear>1966</publicationYear>
         <extent>95 S.</extent>
         <abstract> Das Lehrmaterial umfaßt folgende Bereiche: a) Die kulturell-erzieherische und
@@ -7111,7 +7111,7 @@
             <place>Prag</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <extent>Institute for Ethnography and Folklore of the Czechoslovak Akademy of Sciences in
             Cooperation with the International Folk Music Council</extent>
         <abstract> Diese Auswahlbibliographie für die Volksmusik Europas ist gegliedert nach Ländern
@@ -7127,7 +7127,7 @@
             </author>
         </people>
         <title>Aram Chatschaturjan - Leben u. Werk</title>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <abstract> Diese erste deutschsprachige Biograpnie Chatschaturjans gibt Einblick in
             Persönlichkeit, nationalen Ursprung und das durch Aufnahmen der Folklore des
             Transkaukasus, der russischen Tradition und der Klanglichkeit des musikalischen
@@ -7191,7 +7191,7 @@
             <place>Leipzig</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Diss. phil.</type>
+        <type>Diss.</type>
         <extent>204 S.</extent>
         <abstract> Die Arbeit behandelt Entstehung, Ziel und Wesen der Finkensteiner Bewegung. Sie
             stellt die Finkensteiner in den Zusammenhang mit den völkischen Bestrebungen der
@@ -7277,7 +7277,7 @@
         <places>
             <place>Berlin</place>
         </places>
-        <type>Schallplatteneinführung</type>
+        <type>Schallplattentext</type>
         <publisher>Dt. Schallplatten</publisher>
         <publicationYear>1965</publicationYear>
         <abstract> Die kirchlichen Glaubenssätze werden von Beethovens Wesen durchtränkt; Beethoven
@@ -7305,7 +7305,7 @@
             <place>Berlin</place>
         </places>
         <publisher>Henschel</publisher>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <publicationYear>1966</publicationYear>
         <extent>157 S.</extent>
         <abstract> Neue Ausgabe von Forkels Bachbiographie (1802). Erläuterungen. Nachwort.
@@ -7335,7 +7335,7 @@
             <place>Greifswald</place>
         </places>
         <publicationYear>1966</publicationYear>
-        <type>Diss. phil.</type>
+        <type>Diss.</type>
         <extent>309 S.</extent>
         <abstract> Analysen von Instrumentalwerken werden kritisch gewertet und es wird versucht,
             sie in gesellschaftliche Zusammenhänge einzuordnen. Dabei zeigt sich, daß die
@@ -7542,7 +7542,7 @@
         </places>
         <publisher>Allgem. Dt. Blindenverband</publisher>
         <publicationYear>1966</publicationYear>
-        <type>Monographie</type>
+        <type>Selbständig</type>
         <extent>(Blindenschrift)</extent>
         <abstract> Die erste deutsche Gesangslehre für Blinde. </abstract>
     </entry>
@@ -7715,7 +7715,7 @@
         </people>
         <title>Methoden der Melodie-Analyse und soziologische Untersuchungen bei der Rezeption von
             Tanz-Unterhaltungsmusik</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Halle</org>
         <places>
             <place>Halle</place>
@@ -7826,7 +7826,7 @@
             </author>
         </people>
         <title>Untersuchungen über die musikalische Entwicklung von Unterstufenkindern</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Ins. f. Musikwiss.</org>
         <places>
             <place>Rostock</place>
@@ -7955,7 +7955,7 @@
         </people>
         <title>Steigerung der Schülerleistung im Teilgebiet 'Musiklehre' des
             Musikunterrichts</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Päd. Inst. Zwickau u. Inst. f. Musikwiss. Leipzig</org>
         <places>
             <place>Zwickau</place>
@@ -7983,7 +7983,7 @@
         </people>
         <title>Untersuchungen am Liedgut der in der DDR verwendeten Schulliederbücher betreffs
             seiner Eignung zur Vorbereitung der Rezeption zeitgenössischer Vokalwerke</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Greifswald</org>
         <startingYear>1966</startingYear>
         <places>
@@ -8012,7 +8012,7 @@
             </author>
         </people>
         <title>Rezeptionskundliche Untersuchungen der Sinfonik bei Schostakowitsch</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Halle</org>
         <places>
             <place>Halle</place>
@@ -8096,7 +8096,7 @@
         </people>
         <title>Die Darstellung von leben und Werk zeitgenössischer Komponisten in Lichtbildreihen am
             Beispiel einiger Komponisten der Deutschen Demokratischen Republik</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Leipzig</org>
         <startingYear>1966</startingYear>
         <places>
@@ -8161,7 +8161,7 @@
         <title>Faktorenanalytische Typenbestimmung an einstimmigen Volksliedern (Versuch einer
             typologischen Systematisierung altmärkischer Volkslieder - Sammlungen Stockmann,
             Parisius u.a</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Berlin</org>
         <places>
             <place>Berlin</place>
@@ -8191,7 +8191,7 @@
         </people>
         <title>Bela Bartóks pädagogisches Klavierewrk 'Mikrokosmos' als Weg zum Hören neuer
             Musik</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Leipzig</org>
         <places>
             <place>Leipzig</place>
@@ -8220,7 +8220,7 @@
         </people>
         <title>Die italienische Gesellschaftsmusik des 16. Jahrhunderts unter dem Aspekt der
             Rezeption</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Halle</org>
         <places>
             <place>Halle</place>
@@ -8241,7 +8241,7 @@
             </author>
         </people>
         <title>Instrumentenintonation</title>
-        <type>Forschungarbeit</type>
+        <type>Forschungsarbeit</type>
         <org>Inst. f. Musikwiss. Halle</org>
         <places>
             <place>Halle</place>
@@ -8298,7 +8298,7 @@
         </people>
         <title>Soziologische und experimentelle Methoden zur Untersuchung des Musikniveaus. Ein
             Beitrag zur Soziologie des musikalischen Hörens</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Berlin</org>
         <startingYear>1966</startingYear>
         <places>
@@ -8359,7 +8359,7 @@
         </people>
         <title>Neue Klaviermusik als Wegbereiter der Werkbetrachtung in der erweiterten
             Oberschule</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Halle</org>
         <places>
             <place>Halle</place>
@@ -8382,7 +8382,7 @@
         <places>
             <place>Jena</place>
         </places>
-        <type>Forschungsarbeit u. Habilschrift</type>
+        <type>Forschungsarbeit und Habilschrift</type>
         <org>Inst. f. Musikwiss. Jena</org>
         <startingYear>1966</startingYear>
         <abstract> 1. Ziel: Die Darstellung der Tätigkeit des Deutschen Sängerbundes als
@@ -8468,8 +8468,8 @@
         </people>
         <title>Die öffentliche Musikpflege der Stadt Tauchs seit 1622 unter besonderer
             Berücksichtigung der Entwicklung des Arbeitermusikwesens</title>
-        <type>Forschungsarbeit u</type>
-        <org>Dissertation am Inst. f. Musikwiss. Leipzig, 1966</org>
+        <type>Forschungsarbeit und Dissertation</type>
+        <org>Inst. f. Musikwiss. Leipzig, 1966</org>
         <places>
             <place>Leipzig</place>
         </places>
@@ -8529,7 +8529,7 @@
         </people>
         <title>Untersuchungen von Interessen und Neigungen für die Förderung und Entwicklung von
             außerunterrichtlichen Arbeitsgemeinschaften</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikerziehung Berlin</org>
         <places>
             <place>Berlin</place>
@@ -8589,7 +8589,7 @@
                 <givenName>Ottomar</givenName>
             </author>
         </people>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Leipzig</org>
         <startingYear>1966</startingYear>
         <places>
@@ -8623,7 +8623,7 @@
         </people>
         <title>Anteil und Funktion vokaler und instrumentaler Stücke aus dem klassischen Erbe in den
             deutschen Musikschulwerken von 1918-1965</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Greifswald</org>
         <places>
             <place>Greifswald</place>
@@ -8650,7 +8650,7 @@
         </people>
         <title>Das Leipziger Konzertwesen u. die Entwicklung des Orchesters außerhalb des
             Gewandhausorchesters in der zweiten Hälfte des 19. Jahrhunderts</title>
-        <type>Forschungsarbeit u. Dissertation</type>
+        <type>Forschungsarbeit und Dissertation</type>
         <org>Inst. f. Musikwiss. Leipzig</org>
         <places>
             <place>Leipzig</place>
