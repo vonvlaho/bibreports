@@ -8,8 +8,8 @@ type Props = {
 };
 
 const {
-  title = 'Musikwissenschaftliche Forschung in der DDR 1966-1975',
-  description = 'Digitale Reproduktion der Berichte ueber die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
+  title = 'Musikwissenschaftliche Forschung in der DDR 1966–1975',
+  description = 'Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
   isHome = false,
 } = Astro.props;
 
@@ -32,16 +32,16 @@ const pageTitle = isHome ? title : `${title} | Bibreports`;
       {
         isHome ? (
           <div class="hero">
-            <h1>Musikwissenschaftliche Forschung in der DDR 1966-1975</h1>
+            <h1>Musikwissenschaftliche Forschung in der DDR 1966–1975</h1>
             <p>
-              Digitale Reproduktion der Berichte ueber die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.
+              Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.
             </p>
           </div>
         ) : (
           <nav class="nav" aria-label="Hauptnavigation">
-            <a class="brand" href="/">Musikwissenschaftliche Forschung in der DDR 1966-1975</a>
+            <a class="brand" href="/">Musikwissenschaftliche Forschung in der DDR 1966–1975</a>
             <div class="nav-links">
-              <a href="/reports/">Uebersicht</a>
+              <a href="/reports/">Übersicht</a>
               <a href="/keywords/">Register</a>
               <a href="/places/">Publikationsorte</a>
               <a href="/people/">Personenverzeichnis</a>

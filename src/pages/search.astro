@@ -59,7 +59,7 @@ const query = Astro.url.searchParams.get('search') ?? '';
         hydratedResults.forEach((data) => fragment.append(renderResult(data)));
         results.append(fragment);
       } catch (error) {
-        status.textContent = 'Die Suche ist erst nach dem Produktionsbuild verfuegbar.';
+        status.textContent = 'Die Suche ist erst nach dem Produktionsbuild verfügbar.';
       }
     };
 
