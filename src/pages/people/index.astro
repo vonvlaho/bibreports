@@ -5,13 +5,13 @@ import { people } from '../../lib/data';
 ---
 
 <BaseLayout title="Personenverzeichnis">
-  <section class="container section panel">
+  <section class="container section search-panel compact">
     <h1>Personenverzeichnis</h1>
     <SearchForm placeholder="Personen durchsuchen" />
     <p class="muted">{people.length} Personen</p>
   </section>
   <section class="container section">
-    <ul class="list">
+    <ul class="index-list">
       {people.map((person) => <li><a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a> <span class="muted">{person.entries.length}</span></li>)}
     </ul>
   </section>

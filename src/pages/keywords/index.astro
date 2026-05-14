@@ -5,13 +5,13 @@ import { keywords } from '../../lib/data';
 ---
 
 <BaseLayout title="Register">
-  <section class="container section panel">
+  <section class="container section search-panel compact">
     <h1>Register</h1>
     <SearchForm placeholder="Register durchsuchen" />
     <p class="muted">{keywords.length} Begriffe</p>
   </section>
   <section class="container section">
-    <ul class="list">
+    <ul class="index-list">
       {keywords.map((keyword) => <li><a href={`/keywords/${keyword.id}/`}>{keyword.name}</a> <span class="muted">{keyword.entryIds.length}</span></li>)}
     </ul>
   </section>

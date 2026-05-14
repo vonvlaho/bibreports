@@ -5,28 +5,29 @@ import { entries, keywords, people, places, reports } from '../lib/data';
 ---
 
 <BaseLayout isHome>
-  <section class="container section panel">
-    <nav class="nav-links" aria-label="Startnavigation">
+  <section class="container section search-panel">
+    <h2>Recherche</h2>
+    <SearchForm placeholder="Suchanfrage" />
+  </section>
+
+  <section class="container section">
+    <nav class="quick-links" aria-label="Startnavigation">
       <a href="/reports/">Berichte</a>
       <a href="/keywords/">Register</a>
       <a href="/places/">Publikationsorte</a>
       <a href="/people/">Personenverzeichnis</a>
       <a href="/analytics/">Analyse</a>
     </nav>
-    <div style="margin-top: 28px">
-      <SearchForm />
-    </div>
+    <dl class="metrics" aria-label="Bestand">
+      <div><dt>Berichte</dt><dd>{reports.length}</dd></div>
+      <div><dt>Eintraege</dt><dd>{entries.length}</dd></div>
+      <div><dt>Registerbegriffe</dt><dd>{keywords.length}</dd></div>
+      <div><dt>Personen</dt><dd>{people.length}</dd></div>
+      <div><dt>Publikationsorte</dt><dd>{places.length}</dd></div>
+    </dl>
   </section>
 
-  <section class="container section grid" aria-label="Bestand">
-    <a class="card" href="/reports/"><strong>{reports.length}</strong><br />Berichte</a>
-    <a class="card" href="/entries/1/"><strong>{entries.length}</strong><br />Eintraege</a>
-    <a class="card" href="/keywords/"><strong>{keywords.length}</strong><br />Registerbegriffe</a>
-    <a class="card" href="/people/"><strong>{people.length}</strong><br />Personen</a>
-    <a class="card" href="/places/"><strong>{places.length}</strong><br />Publikationsorte</a>
-  </section>
-
-  <section class="container section panel">
+  <section class="container section prose">
     <h2 id="Hintergrund">Hintergrund</h2>
     <p>
       Eine offizielle Bibliographie der musikwissenschaftlichen Schriften der DDR erschien als selbstaendige Publikation erstmals

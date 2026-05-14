@@ -6,11 +6,11 @@ const query = Astro.url.searchParams.get('search') ?? '';
 ---
 
 <BaseLayout title="Suche">
-  <section class="container section panel">
+  <section class="container section search-panel">
     <h1>Suche</h1>
     <SearchForm placeholder="Neue Suchanfrage" value={query} />
   </section>
-  <section class="container section panel">
+  <section class="container section search-results-section">
     <div id="search-status" class="muted">{query ? 'Suche wird geladen ...' : 'Bitte geben Sie eine Suchanfrage ein.'}</div>
     <div id="search-results"></div>
   </section>
@@ -22,7 +22,7 @@ const query = Astro.url.searchParams.get('search') ?? '';
 
     const renderResult = (data) => {
       const article = document.createElement('article');
-      article.className = 'section';
+      article.className = 'search-result';
 
       const title = document.createElement('h2');
       const link = document.createElement('a');

@@ -3,13 +3,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Analyse">
-  <section class="container section panel">
+  <section class="container section">
     <h1>Analyse</h1>
     <p class="muted">Jahresbezogene Auswertungen der Registerbegriffe, Personen und Publikationsorte.</p>
   </section>
-  <section class="container section grid">
-    <a class="card" href="/data/keywords/"><strong>Schlagworte</strong><br /><span class="muted">Haeufigkeiten pro Jahr</span></a>
-    <a class="card" href="/data/people/"><strong>Personen</strong><br /><span class="muted">Haeufigkeiten pro Jahr</span></a>
-    <a class="card" href="/data/places/"><strong>Orte</strong><br /><span class="muted">Haeufigkeiten pro Jahr</span></a>
+  <section class="container section link-list">
+    <a href="/data/keywords/"><strong>Schlagworte</strong><span class="muted">Haeufigkeiten pro Jahr</span></a>
+    <a href="/data/people/"><strong>Personen</strong><span class="muted">Haeufigkeiten pro Jahr</span></a>
+    <a href="/data/places/"><strong>Orte</strong><span class="muted">Haeufigkeiten pro Jahr</span></a>
   </section>
 </BaseLayout>

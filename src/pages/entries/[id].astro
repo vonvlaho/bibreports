@@ -14,7 +14,7 @@ const places = getEntryPlaces(entry);
 ---
 
 <BaseLayout title={entry.title || entry.fullTitle}>
-  <section class="container section panel">
+  <section class="container section entry-context">
     {report && <h1>{report.title} {report.year}</h1>}
     <div class="meta">
       <span>Eintrag {entry.entryNo}</span>
@@ -23,7 +23,7 @@ const places = getEntryPlaces(entry);
     </div>
   </section>
 
-  <section class="container section panel">
+  <article class="container section reading">
     {keywords.length > 0 && (
       <ul class="tag-list">
         {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}/`}>{keyword.name}</a></li>)}
@@ -47,5 +47,5 @@ const places = getEntryPlaces(entry);
         </ul>
       </>
     )}
-  </section>
+  </article>
 </BaseLayout>
