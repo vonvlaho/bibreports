@@ -1,0 +1,59 @@
+---
+import '../styles/global.css';
+
+type Props = {
+  title?: string;
+  description?: string;
+  isHome?: boolean;
+};
+
+const {
+  title = 'Musikwissenschaftliche Forschung in der DDR 1966-1975',
+  description = 'Digitale Reproduktion der Berichte ueber die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
+  isHome = false,
+} = Astro.props;
+
+const pageTitle = isHome ? title : `${title} | Bibreports`;
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header class:list={['site-header', { home: isHome }]}>
+      {
+        isHome ? (
+          <div class="hero">
+            <h1>Musikwissenschaftliche Forschung in der DDR 1966-1975</h1>
+            <p>
+              Digitale Reproduktion der Berichte ueber die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.
+            </p>
+          </div>
+        ) : (
+          <nav class="nav" aria-label="Hauptnavigation">
+            <a class="brand" href="/">Musikwissenschaftliche Forschung in der DDR 1966-1975</a>
+            <div class="nav-links">
+              <a href="/reports/">Uebersicht</a>
+              <a href="/keywords/">Register</a>
+              <a href="/places/">Publikationsorte</a>
+              <a href="/people/">Personenverzeichnis</a>
+              <a href="/analytics/">Analyse</a>
+              <a href="/#Hintergrund">Hintergrund</a>
+            </div>
+          </nav>
+        )
+      }
+    </header>
+    <main data-pagefind-body>
+      <slot />
+    </main>
+  </body>
+</html>

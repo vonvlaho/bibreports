@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getEntryPeople, getReportEntries, reports } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
+}
+
+const { report } = Astro.props;
+const people = new Map();
+for (const entry of getReportEntries(report)) {
+  for (const person of getEntryPeople(entry)) {
+    people.set(person.id, person);
+  }
+}
+const rows = [...people.values()].sort((a, b) => a.familyName.localeCompare(b.familyName, 'de'));
+---
+
+<BaseLayout title={`Personen ${report.year}`}>
+  <section class="container section panel">
+    <h1>Personen fuer {report.title} {report.year}</h1>
+  </section>
+  <section class="container section">
+    <ul class="list">
+      {rows.map((person) => <li><a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a></li>)}
+    </ul>
+  </section>
+</BaseLayout>

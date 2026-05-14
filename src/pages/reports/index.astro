@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { reports } from '../../lib/data';
+---
+
+<BaseLayout title="Berichte">
+  <section class="container section">
+    <h1>Berichte</h1>
+    <div class="grid">
+      {
+        reports.map((report) => (
+          <a class="card" href={`/reports/${report.id}/`}>
+            {report.cover && <img src={`/img/${report.cover}`} alt="" style="max-width: 100%; height: auto; margin-bottom: 12px" />}
+            <strong>{report.title} {report.year}</strong>
+            <p class="muted">{report.entryIds.length} Eintraege</p>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

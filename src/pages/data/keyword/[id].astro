@@ -1,0 +1,21 @@
+---
+import AnalyticsTable from '../../../components/AnalyticsTable.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { keywords, relatedRowsForEntries } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return keywords.map((keyword) => ({ params: { id: String(keyword.id) }, props: { keyword } }));
+}
+
+const { keyword } = Astro.props;
+---
+
+<BaseLayout title={`Analyse ${keyword.name}`}>
+  <div class="container">
+    <section class="section panel">
+      <h1>{keyword.name}</h1>
+    </section>
+    <AnalyticsTable title="Orte" rows={relatedRowsForEntries(keyword.entryIds, 'places')} />
+    <AnalyticsTable title="Personen" rows={relatedRowsForEntries(keyword.entryIds, 'people')} />
+  </div>
+</BaseLayout>

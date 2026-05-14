@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchForm from '../components/SearchForm.astro';
+import { entries, keywords, people, places, reports } from '../lib/data';
+---
+
+<BaseLayout isHome>
+  <section class="container section panel">
+    <nav class="nav-links" aria-label="Startnavigation">
+      <a href="/reports/">Berichte</a>
+      <a href="/keywords/">Register</a>
+      <a href="/places/">Publikationsorte</a>
+      <a href="/people/">Personenverzeichnis</a>
+      <a href="/analytics/">Analyse</a>
+    </nav>
+    <div style="margin-top: 28px">
+      <SearchForm />
+    </div>
+  </section>
+
+  <section class="container section grid" aria-label="Bestand">
+    <a class="card" href="/reports/"><strong>{reports.length}</strong><br />Berichte</a>
+    <a class="card" href="/entries/1/"><strong>{entries.length}</strong><br />Eintraege</a>
+    <a class="card" href="/keywords/"><strong>{keywords.length}</strong><br />Registerbegriffe</a>
+    <a class="card" href="/people/"><strong>{people.length}</strong><br />Personen</a>
+    <a class="card" href="/places/"><strong>{places.length}</strong><br />Publikationsorte</a>
+  </section>
+
+  <section class="container section panel">
+    <h2 id="Hintergrund">Hintergrund</h2>
+    <p>
+      Eine offizielle Bibliographie der musikwissenschaftlichen Schriften der DDR erschien als selbstaendige Publikation erstmals
+      oeffentlich mit dem Bericht ueber die Musikwissenschaftlichen Arbeiten der Deutschen Demokratischen Republik 1966. Seit Anfang
+      der 1960er Jahre arbeitete man am Zentralinstitut bereits an einer Lochkartei zur systematischen Erfassung dieser
+      Bibliographie seit 1945. Mit dem Bericht ueber die musikwissenschaftlichen Arbeiten erschien jedoch erstmals ein Verzeichnis
+      der aktuellsten Publikationen.
+    </p>
+  </section>
+</BaseLayout>

@@ -1,0 +1,23 @@
+---
+import AnalyticsTable from '../../../components/AnalyticsTable.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { people, relatedRowsForEntries } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return people.map((person) => ({ params: { id: String(person.id) }, props: { person } }));
+}
+
+const { person } = Astro.props;
+const entryIds = person.entries.map((entry) => entry.entryId);
+const name = [person.givenName, person.familyName].filter(Boolean).join(' ');
+---
+
+<BaseLayout title={`Analyse ${name}`}>
+  <div class="container">
+    <section class="section panel">
+      <h1>{name}</h1>
+    </section>
+    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} />
+    <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} />
+  </div>
+</BaseLayout>

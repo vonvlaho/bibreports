@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchForm from '../components/SearchForm.astro';
+
+const query = Astro.url.searchParams.get('search') ?? '';
+---
+
+<BaseLayout title="Suche">
+  <section class="container section panel">
+    <h1>Suche</h1>
+    <SearchForm placeholder="Neue Suchanfrage" value={query} />
+  </section>
+  <section class="container section panel">
+    <div id="search-status" class="muted">{query ? 'Suche wird geladen ...' : 'Bitte geben Sie eine Suchanfrage ein.'}</div>
+    <div id="search-results"></div>
+  </section>
+
+  <script is:inline>
+    const query = new URLSearchParams(window.location.search).get('search') || '';
+    const status = document.querySelector('#search-status');
+    const results = document.querySelector('#search-results');
+
+    const renderResult = (data) => {
+      const article = document.createElement('article');
+      article.className = 'section';
+
+      const title = document.createElement('h2');
+      const link = document.createElement('a');
+      link.href = data.url;
+      link.textContent = data.meta?.title || data.url;
+      title.append(link);
+
+      const excerpt = document.createElement('p');
+      excerpt.className = 'muted';
+      excerpt.innerHTML = data.excerpt || '';
+
+      article.append(title, excerpt);
+      return article;
+    };
+
+    const runSearch = async () => {
+      if (!query) {
+        return;
+      }
+
+      try {
+        const pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.options({ excerptLength: 30 });
+        const search = await pagefind.search(query);
+
+        if (!search.results.length) {
+          status.textContent = 'Ihre Suche lieferte keine Treffer.';
+          return;
+        }
+
+        status.textContent = `${search.results.length} Treffer`;
+        const fragment = document.createDocumentFragment();
+        const hydratedResults = await Promise.all(search.results.slice(0, 50).map((result) => result.data()));
+        hydratedResults.forEach((data) => fragment.append(renderResult(data)));
+        results.append(fragment);
+      } catch (error) {
+        status.textContent = 'Die Suche ist erst nach dem Produktionsbuild verfuegbar.';
+      }
+    };
+
+    runSearch();
+  </script>
+</BaseLayout>

@@ -1,0 +1,21 @@
+---
+import AnalyticsTable from '../../../components/AnalyticsTable.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { places, relatedRowsForEntries } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return places.map((place) => ({ params: { id: String(place.id) }, props: { place } }));
+}
+
+const { place } = Astro.props;
+---
+
+<BaseLayout title={`Analyse ${place.name}`}>
+  <div class="container">
+    <section class="section panel">
+      <h1>{place.name}</h1>
+    </section>
+    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} />
+    <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} />
+  </div>
+</BaseLayout>

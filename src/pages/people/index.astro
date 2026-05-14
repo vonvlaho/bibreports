@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchForm from '../../components/SearchForm.astro';
+import { people } from '../../lib/data';
+---
+
+<BaseLayout title="Personenverzeichnis">
+  <section class="container section panel">
+    <h1>Personenverzeichnis</h1>
+    <SearchForm placeholder="Personen durchsuchen" />
+    <p class="muted">{people.length} Personen</p>
+  </section>
+  <section class="container section">
+    <ul class="list">
+      {people.map((person) => <li><a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a> <span class="muted">{person.entries.length}</span></li>)}
+    </ul>
+  </section>
+</BaseLayout>

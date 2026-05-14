@@ -1,0 +1,11 @@
+---
+import AnalyticsTable from '../../components/AnalyticsTable.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { personRows } from '../../lib/data';
+---
+
+<BaseLayout title="Personen">
+  <div class="container">
+    <AnalyticsTable title="Personen" rows={personRows()} basePath="/data/person" />
+  </div>
+</BaseLayout>

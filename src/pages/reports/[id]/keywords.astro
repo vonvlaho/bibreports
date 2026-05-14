@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getEntries, getReportEntries, getEntryKeywords, reports } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
+}
+
+const { report } = Astro.props;
+const grouped = new Map();
+for (const entry of getReportEntries(report)) {
+  for (const keyword of getEntryKeywords(entry)) {
+    grouped.set(keyword.id, { keyword, entryIds: [...(grouped.get(keyword.id)?.entryIds ?? []), entry.id] });
+  }
+}
+const rows = [...grouped.values()].sort((a, b) => a.keyword.name.localeCompare(b.keyword.name, 'de'));
+---
+
+<BaseLayout title={`Register ${report.year}`}>
+  <section class="container section panel">
+    <h1>Register fuer {report.title} {report.year}</h1>
+  </section>
+  <section class="container section">
+    <dl>
+      {
+        rows.map(({ keyword, entryIds }) => (
+          <>
+            <dt><strong>{keyword.name}</strong></dt>
+            <dd>
+              {getEntries(entryIds).map((entry, index) => (
+                <>
+                  <a href={`/entries/${entry.id}/`}>{entry.entryNo}</a>{index < entryIds.length - 1 ? ', ' : '.'}
+                </>
+              ))}
+            </dd>
+          </>
+        ))
+      }
+    </dl>
+  </section>
+</BaseLayout>

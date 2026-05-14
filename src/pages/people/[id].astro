@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { groupPersonEntriesByRole, people } from '../../lib/data';
+
+export function getStaticPaths() {
+  return people.map((person) => ({ params: { id: String(person.id) }, props: { person } }));
+}
+
+const { person } = Astro.props;
+const groups = groupPersonEntriesByRole(person);
+const name = `${person.familyName}${person.givenName ? `, ${person.givenName}` : ''}`;
+---
+
+<BaseLayout title={name}>
+  <section class="container section panel">
+    <h1>{name}</h1>
+    <p class="muted">{person.entries.length} verknuepfte Eintraege</p>
+  </section>
+  <section class="container section">
+    {groups.map((group) => (
+      <section class="section">
+        <h2>{group.roleLabel}</h2>
+        <ul class="list">
+          {group.entries.map((entry) => <li><a href={`/entries/${entry.id}/`}>{entry.fullTitle}</a></li>)}
+        </ul>
+      </section>
+    ))}
+  </section>
+</BaseLayout>

@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchForm from '../../components/SearchForm.astro';
+import { keywords } from '../../lib/data';
+---
+
+<BaseLayout title="Register">
+  <section class="container section panel">
+    <h1>Register</h1>
+    <SearchForm placeholder="Register durchsuchen" />
+    <p class="muted">{keywords.length} Begriffe</p>
+  </section>
+  <section class="container section">
+    <ul class="list">
+      {keywords.map((keyword) => <li><a href={`/keywords/${keyword.id}/`}>{keyword.name}</a> <span class="muted">{keyword.entryIds.length}</span></li>)}
+    </ul>
+  </section>
+</BaseLayout>

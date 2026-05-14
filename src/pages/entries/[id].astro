@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { entries, findReport, getEntryKeywords, getEntryPeople, getEntryPlaces } from '../../lib/data';
+
+export function getStaticPaths() {
+  return entries.map((entry) => ({ params: { id: String(entry.id) }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const report = findReport(entry.reportId);
+const keywords = getEntryKeywords(entry);
+const people = getEntryPeople(entry);
+const places = getEntryPlaces(entry);
+---
+
+<BaseLayout title={entry.title || entry.fullTitle}>
+  <section class="container section panel">
+    {report && <h1>{report.title} {report.year}</h1>}
+    <div class="meta">
+      <span>Eintrag {entry.entryNo}</span>
+      {entry.type && <span>{entry.type}</span>}
+      {entry.publicationYear && <span>{entry.publicationYear}</span>}
+    </div>
+  </section>
+
+  <section class="container section panel">
+    {keywords.length > 0 && (
+      <ul class="tag-list">
+        {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}/`}>{keyword.name}</a></li>)}
+      </ul>
+    )}
+    <h2><strong>{entry.entryNo}</strong> {entry.fullTitle}</h2>
+    {entry.abstract && <p>{entry.abstract}</p>}
+    {people.length > 0 && (
+      <>
+        <h3>Personen</h3>
+        <ul>
+          {people.map((person) => <li><a href={`/people/${person.id}/`}>{person.givenName} {person.familyName}</a> <span class="muted">{person.roleLabel}</span></li>)}
+        </ul>
+      </>
+    )}
+    {places.length > 0 && (
+      <>
+        <h3>Orte</h3>
+        <ul>
+          {places.map((place) => <li><a href={`/places/${place.id}/`}>{place.name}</a></li>)}
+        </ul>
+      </>
+    )}
+  </section>
+</BaseLayout>

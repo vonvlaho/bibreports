@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getReportEntries, reports } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
+}
+
+const { report } = Astro.props;
+const entries = getReportEntries(report);
+---
+
+<BaseLayout title={`${report.title} ${report.year}`}>
+  <section class="container section panel">
+    <nav class="nav-links" aria-label="Berichtsregister">
+      <a href={`/reports/${report.id}/keywords/`}>Register</a>
+      <a href={`/reports/${report.id}/people/`}>Personen</a>
+      <a href={`/reports/${report.id}/places/`}>Orte</a>
+    </nav>
+    <h1>{report.title} {report.year}</h1>
+    <div class="meta">
+      {report.editor && <span>Herausgegeben vom {report.editor}</span>}
+      {report.publisher && <span>{report.publisher}</span>}
+      <span>{entries.length} Eintraege</span>
+    </div>
+  </section>
+  <section class="container section">
+    <ol class="list">
+      {
+        entries.map((entry) => (
+          <li>
+            <a href={`/entries/${entry.id}/`}><strong>{entry.entryNo}</strong> {entry.fullTitle}</a>
+          </li>
+        ))
+      }
+    </ol>
+  </section>
+</BaseLayout>

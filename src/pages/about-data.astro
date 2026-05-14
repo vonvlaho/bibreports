@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { entries, keywords, people, places, reports } from '../lib/data';
+---
+
+<BaseLayout title="Daten">
+  <section class="container section panel">
+    <h1>Daten</h1>
+    <p>
+      Die statische Version erzeugt alle Seiten aus den XML-Dateien in <code>database/data</code>. CSV-Dateien bleiben als
+      Download-Artefakte im oeffentlichen Build erhalten.
+    </p>
+  </section>
+  <section class="container section grid">
+    <div class="card"><strong>{reports.length}</strong><br />Berichte</div>
+    <div class="card"><strong>{entries.length}</strong><br />Eintraege</div>
+    <div class="card"><strong>{keywords.length}</strong><br />Registerbegriffe</div>
+    <div class="card"><strong>{people.length}</strong><br />Personen</div>
+    <div class="card"><strong>{places.length}</strong><br />Orte</div>
+  </section>
+</BaseLayout>

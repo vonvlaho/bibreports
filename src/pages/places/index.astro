@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchForm from '../../components/SearchForm.astro';
+import { places } from '../../lib/data';
+---
+
+<BaseLayout title="Publikationsorte">
+  <section class="container section panel">
+    <h1>Publikationsorte</h1>
+    <SearchForm placeholder="Orte durchsuchen" />
+    <p class="muted">{places.length} Orte</p>
+  </section>
+  <section class="container section">
+    <ul class="list">
+      {places.map((place) => <li><a href={`/places/${place.id}/`}>{place.name}</a> <span class="muted">{place.entryIds.length}</span></li>)}
+    </ul>
+  </section>
+</BaseLayout>

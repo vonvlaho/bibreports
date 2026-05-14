@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getEntryPlaces, getEntries, getReportEntries, reports } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
+}
+
+const { report } = Astro.props;
+const places = new Map();
+for (const entry of getReportEntries(report)) {
+  for (const place of getEntryPlaces(entry)) {
+    places.set(place.id, { place, entryIds: [...(places.get(place.id)?.entryIds ?? []), entry.id] });
+  }
+}
+const rows = [...places.values()].sort((a, b) => a.place.name.localeCompare(b.place.name, 'de'));
+---
+
+<BaseLayout title={`Orte ${report.year}`}>
+  <section class="container section panel">
+    <h1>Orte fuer {report.title} {report.year}</h1>
+  </section>
+  <section class="container section">
+    <dl>
+      {
+        rows.map(({ place, entryIds }) => (
+          <>
+            <dt><strong>{place.name}</strong></dt>
+            <dd>
+              {getEntries(entryIds).map((entry, index) => (
+                <>
+                  <a href={`/entries/${entry.id}/`}>{entry.entryNo}</a>{index < entryIds.length - 1 ? ', ' : '.'}
+                </>
+              ))}
+            </dd>
+          </>
+        ))
+      }
+    </dl>
+  </section>
+</BaseLayout>
