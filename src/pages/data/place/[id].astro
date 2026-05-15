@@ -10,12 +10,12 @@ export function getStaticPaths() {
 const { place } = Astro.props;
 ---
 
-<BaseLayout title={`Analyse ${place.name}`}>
+<BaseLayout title={`Analyse ${place.name}`} searchable={false}>
   <div class="container">
     <section class="section panel">
       <h1>{place.name}</h1>
     </section>
-    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} />
-    <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} />
+    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} headingLevel="h2" />
+    <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} headingLevel="h2" />
   </div>
 </BaseLayout>

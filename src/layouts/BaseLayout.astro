@@ -5,12 +5,14 @@ type Props = {
   title?: string;
   description?: string;
   isHome?: boolean;
+  searchable?: boolean;
 };
 
 const {
   title = 'Musikwissenschaftliche Forschung in der DDR 1966–1975',
   description = 'Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
   isHome = false,
+  searchable = true,
 } = Astro.props;
 
 const pageTitle = isHome ? title : `${title} | Bibreports`;
@@ -52,7 +54,7 @@ const pageTitle = isHome ? title : `${title} | Bibreports`;
         )
       }
     </header>
-    <main data-pagefind-body>
+    <main data-pagefind-body={searchable ? true : undefined}>
       <slot />
     </main>
   </body>

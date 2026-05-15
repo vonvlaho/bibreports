@@ -6,13 +6,15 @@ type Props = {
   title: string;
   rows: AnalyticsRow[];
   basePath?: string;
+  headingLevel?: 'h1' | 'h2';
 };
 
-const { title, rows, basePath } = Astro.props;
+const { title, rows, basePath, headingLevel = 'h1' } = Astro.props;
+const Heading = headingLevel;
 ---
 
 <section class="section">
-  <h1>{title}</h1>
+  <Heading>{title}</Heading>
   <div class="table-wrap">
     <table>
       <thead>

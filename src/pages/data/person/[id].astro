@@ -12,12 +12,12 @@ const entryIds = person.entries.map((entry) => entry.entryId);
 const name = [person.givenName, person.familyName].filter(Boolean).join(' ');
 ---
 
-<BaseLayout title={`Analyse ${name}`}>
+<BaseLayout title={`Analyse ${name}`} searchable={false}>
   <div class="container">
     <section class="section panel">
       <h1>{name}</h1>
     </section>
-    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} />
-    <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} />
+    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} headingLevel="h2" />
+    <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} headingLevel="h2" />
   </div>
 </BaseLayout>

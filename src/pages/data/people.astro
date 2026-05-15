@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { personRows } from '../../lib/data';
 ---
 
-<BaseLayout title="Personen">
+<BaseLayout title="Personen" searchable={false}>
   <div class="container">
     <AnalyticsTable title="Personen" rows={personRows()} basePath="/data/person" />
   </div>

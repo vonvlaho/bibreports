@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { keywordRows } from '../../lib/data';
 ---
 
-<BaseLayout title="Schlagworte">
+<BaseLayout title="Schlagworte" searchable={false}>
   <div class="container">
     <AnalyticsTable title="Schlagworte" rows={keywordRows()} basePath="/data/keyword" />
   </div>

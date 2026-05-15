@@ -8,7 +8,7 @@ const query = Astro.url.searchParams.get('search') ?? '';
 <BaseLayout title="Suche">
   <section class="container section search-panel">
     <h1>Suche</h1>
-    <SearchForm placeholder="Neue Suchanfrage" value={query} />
+    <SearchForm label="Website durchsuchen" placeholder="Neue Suchanfrage" value={query} />
   </section>
   <section class="container section search-results-section">
     <div id="search-status" class="muted">{query ? 'Suche wird geladen ...' : 'Bitte geben Sie eine Suchanfrage ein.'}</div>
@@ -16,53 +16,96 @@ const query = Astro.url.searchParams.get('search') ?? '';
   </section>
 
   <script is:inline>
-    const query = new URLSearchParams(window.location.search).get('search') || '';
-    const status = document.querySelector('#search-status');
-    const results = document.querySelector('#search-results');
+    (() => {
+      const query = new URLSearchParams(window.location.search).get('search') || '';
+      const status = document.querySelector('#search-status');
+      const results = document.querySelector('#search-results');
+      const input = document.querySelector('#site-search');
+      const pageSize = 50;
+      let hydratedResults = [];
+      let renderedCount = 0;
 
-    const renderResult = (data) => {
-      const article = document.createElement('article');
-      article.className = 'search-result';
-
-      const title = document.createElement('h2');
-      const link = document.createElement('a');
-      link.href = data.url;
-      link.textContent = data.meta?.title || data.url;
-      title.append(link);
-
-      const excerpt = document.createElement('p');
-      excerpt.className = 'muted';
-      excerpt.innerHTML = data.excerpt || '';
-
-      article.append(title, excerpt);
-      return article;
-    };
-
-    const runSearch = async () => {
-      if (!query) {
-        return;
+      if (input) {
+        input.value = query;
       }
 
-      try {
-        const pagefind = await import('/pagefind/pagefind.js');
-        await pagefind.options({ excerptLength: 30 });
-        const search = await pagefind.search(query);
+      const renderResult = (data) => {
+        const article = document.createElement('article');
+        article.className = 'search-result';
 
-        if (!search.results.length) {
-          status.textContent = 'Ihre Suche lieferte keine Treffer.';
+        const title = document.createElement('h2');
+        const link = document.createElement('a');
+        link.href = data.url;
+        link.textContent = data.meta?.title || data.url;
+        title.append(link);
+
+        const excerpt = document.createElement('p');
+        excerpt.className = 'muted';
+        excerpt.innerHTML = data.excerpt || '';
+
+        article.append(title, excerpt);
+        return article;
+      };
+
+      const renderNextResults = () => {
+        const nextResults = hydratedResults.slice(renderedCount, renderedCount + pageSize);
+        const fragment = document.createDocumentFragment();
+        nextResults.forEach((data) => fragment.append(renderResult(data)));
+        results.append(fragment);
+        renderedCount += nextResults.length;
+
+        status.textContent =
+          renderedCount === hydratedResults.length
+            ? `${hydratedResults.length} Treffer`
+            : `${hydratedResults.length} Treffer. ${renderedCount} angezeigt.`;
+
+        document.querySelector('#load-more-results')?.remove();
+        if (renderedCount < hydratedResults.length) {
+          const button = document.createElement('button');
+          button.id = 'load-more-results';
+          button.className = 'button load-more';
+          button.type = 'button';
+          button.textContent = 'Weitere Treffer anzeigen';
+          button.addEventListener('click', renderNextResults);
+          results.after(button);
+        }
+      };
+
+      const runSearch = async () => {
+        if (!query) {
+          status.textContent = 'Bitte geben Sie eine Suchanfrage ein.';
           return;
         }
 
-        status.textContent = `${search.results.length} Treffer`;
-        const fragment = document.createDocumentFragment();
-        const hydratedResults = await Promise.all(search.results.slice(0, 50).map((result) => result.data()));
-        hydratedResults.forEach((data) => fragment.append(renderResult(data)));
-        results.append(fragment);
-      } catch (error) {
-        status.textContent = 'Die Suche ist erst nach dem Produktionsbuild verfügbar.';
-      }
-    };
+        status.textContent = 'Suche wird geladen ...';
 
-    runSearch();
+        try {
+          if (typeof window.fetch !== 'function') {
+            throw new Error('Fetch API is required for Pagefind search.');
+          }
+
+          const pagefind = await Promise.race([
+            import('/pagefind/pagefind.js'),
+            new Promise((_, reject) => {
+              window.setTimeout(() => reject(new Error('Pagefind loading timed out.')), 10000);
+            }),
+          ]);
+          await pagefind.options({ excerptLength: 30 });
+          const search = await pagefind.search(query);
+
+          if (!search.results.length) {
+            status.textContent = 'Ihre Suche lieferte keine Treffer.';
+            return;
+          }
+
+          hydratedResults = await Promise.all(search.results.map((result) => result.data()));
+          renderNextResults();
+        } catch (error) {
+          status.textContent = 'Der Suchindex konnte nicht geladen werden.';
+        }
+      };
+
+      runSearch();
+    })();
   </script>
 </BaseLayout>

@@ -18,6 +18,18 @@
   box-sizing: border-box;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 body {
   margin: 0;
   background: var(--bg);
@@ -271,6 +283,10 @@ p {
   background: #e7e3d9;
 }
 
+.load-more {
+  margin-top: 16px;
+}
+
 .metrics {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
@@ -361,6 +377,15 @@ p {
 .reading p,
 .reading li {
   max-width: 78ch;
+}
+
+.entry-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 32px;
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
 }
 
 .search-results-section {

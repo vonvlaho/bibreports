@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { entries, findReport, getEntryKeywords, getEntryPeople, getEntryPlaces } from '../../lib/data';
+import { entries, findReport, getEntryKeywords, getEntryPeople, getEntryPlaces, getReportEntries } from '../../lib/data';
 
 export function getStaticPaths() {
   return entries.map((entry) => ({ params: { id: String(entry.id) }, props: { entry } }));
@@ -11,6 +11,10 @@ const report = findReport(entry.reportId);
 const keywords = getEntryKeywords(entry);
 const people = getEntryPeople(entry);
 const places = getEntryPlaces(entry);
+const reportEntries = report ? getReportEntries(report) : [];
+const entryIndex = reportEntries.findIndex((reportEntry) => reportEntry.id === entry.id);
+const previousEntry = entryIndex > 0 ? reportEntries[entryIndex - 1] : undefined;
+const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? reportEntries[entryIndex + 1] : undefined;
 ---
 
 <BaseLayout title={entry.title || entry.fullTitle}>
@@ -20,6 +24,7 @@ const places = getEntryPlaces(entry);
       <span>Eintrag {entry.entryNo}</span>
       {entry.type && <span>{entry.type}</span>}
       {entry.publicationYear && <span>{entry.publicationYear}</span>}
+      {report && <a href={`/reports/${report.id}/`}>Zum Bericht {report.year}</a>}
     </div>
   </section>
 
@@ -46,6 +51,12 @@ const places = getEntryPlaces(entry);
           {places.map((place) => <li><a href={`/places/${place.id}/`}>{place.name}</a></li>)}
         </ul>
       </>
+    )}
+    {(previousEntry || nextEntry) && (
+      <nav class="entry-nav" aria-label="Eintragsnavigation">
+        {previousEntry ? <a href={`/entries/${previousEntry.id}/`}>Vorheriger Eintrag</a> : <span />}
+        {nextEntry ? <a href={`/entries/${nextEntry.id}/`}>Nächster Eintrag</a> : <span />}
+      </nav>
     )}
   </article>
 </BaseLayout>

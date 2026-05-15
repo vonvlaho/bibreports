@@ -18,4 +18,13 @@ import { entries, keywords, people, places, reports } from '../lib/data';
     <div class="card"><strong>{people.length}</strong><br />Personen</div>
     <div class="card"><strong>{places.length}</strong><br />Orte</div>
   </section>
+  <section class="container section">
+    <h2>CSV-Exporte</h2>
+    <div class="link-list">
+      <a href="/berichte.csv"><strong>Bibliographie</strong><span class="muted">Alle Einträge</span></a>
+      <a href="/keywords.csv"><strong>Registerbegriffe</strong><span class="muted">Einträge und Schlagworte</span></a>
+      <a href="/people.csv"><strong>Personen</strong><span class="muted">Einträge, Personen und Rollen</span></a>
+      <a href="/places.csv"><strong>Publikationsorte</strong><span class="muted">Einträge und Orte</span></a>
+    </div>
+  </section>
 </BaseLayout>
