@@ -1,5 +1,8 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AlphabetNav from '../../../components/AlphabetNav.astro';
+import PageHeader from '../../../components/PageHeader.astro';
+import RegisterFilter from '../../../components/RegisterFilter.astro';
 import { getEntryPeople, getReportEntries, reports } from '../../../lib/data';
 
 export function getStaticPaths() {
@@ -14,15 +17,42 @@ for (const entry of getReportEntries(report)) {
   }
 }
 const rows = [...people.values()].sort((a, b) => a.familyName.localeCompare(b.familyName, 'de'));
+const displayName = (person: (typeof rows)[number]) => `${person.familyName} ${person.givenName}`.trim();
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `report-people-${initial}`;
+};
 ---
 
 <BaseLayout title={`Personen ${report.year}`}>
-  <section class="container section panel">
-    <h1>Personen für {report.title} {report.year}</h1>
-  </section>
-  <section class="container section">
-    <ul class="list">
-      {rows.map((person) => <li><a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a></li>)}
+  <PageHeader
+    title={`Personen ${report.year}`}
+    eyebrow={`Bericht ${report.year}`}
+    description={report.title}
+    className="register-tools"
+  >
+    <RegisterFilter label="Personenverzeichnis durchsuchen" placeholder="Person" countLabel="Personen" />
+    <AlphabetNav items={rows} getLabel={(item: any) => displayName(item)} targetPrefix="report-people" />
+  </PageHeader>
+  <section class="container section content">
+    <ul class="index-list">
+      {
+        rows.map((person) => (
+          <li id={anchorFor(displayName(person))} data-register-row data-register-text={`${person.familyName} ${person.givenName}`}>
+            <a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a>
+          </li>
+        ))
+      }
     </ul>
   </section>
 </BaseLayout>

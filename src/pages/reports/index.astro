@@ -1,18 +1,24 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
 import { reports } from '../../lib/data';
 ---
 
 <BaseLayout title="Berichte">
-  <section class="container section">
-    <h1>Berichte</h1>
-    <div class="report-list">
+  <PageHeader
+    title="Berichte"
+    eyebrow="Bestand"
+    description="Jahresbände der bibliographischen Berichte mit direktem Zugriff auf Einträge und Register."
+  />
+  <section class="container section content">
+    <div class="report-grid">
       {
         reports.map((report) => (
-          <a class="report-row" href={`/reports/${report.id}/`}>
+          <a class="report-card" href={`/reports/${report.id}/`}>
             {report.cover && <img src={`/img/${report.cover}`} alt="" loading="lazy" />}
             <span>
-              <strong>{report.title} {report.year}</strong>
+              <strong>Bericht {report.year}</strong>
+              <span class="report-card-title">{report.title}</span>
               <span class="muted">{report.entryIds.length} Einträge</span>
             </span>
           </a>

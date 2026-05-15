@@ -1,18 +1,45 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import SearchForm from '../../components/SearchForm.astro';
+import AlphabetNav from '../../components/AlphabetNav.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import RegisterFilter from '../../components/RegisterFilter.astro';
 import { places } from '../../lib/data';
+
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `places-${initial}`;
+};
 ---
 
 <BaseLayout title="Publikationsorte">
-  <section class="container section search-panel compact">
-    <h1>Publikationsorte</h1>
-    <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
-    <p class="muted">{places.length} Orte</p>
-  </section>
-  <section class="container section">
+  <PageHeader
+    title="Publikationsorte"
+    eyebrow="Register"
+    description="Publikationsorte aus den bibliographischen Einträgen. Einzelne Ortszuweisungen können aus der Quelldatenlage erklärungsbedürftig sein."
+    className="register-tools"
+  >
+    <RegisterFilter label="Publikationsorte durchsuchen" placeholder="Ort" countLabel="Orte" />
+    <AlphabetNav items={places} getLabel={(item: any) => item.name} targetPrefix="places" />
+  </PageHeader>
+  <section class="container section content">
     <ul class="index-list">
-      {places.map((place) => <li><a href={`/places/${place.id}/`}>{place.name}</a> <span class="muted">{place.entryIds.length}</span></li>)}
+      {
+        places.map((place) => (
+          <li id={anchorFor(place.name)} data-register-row data-register-text={place.name}>
+            <a href={`/places/${place.id}/`}>{place.name}</a> <span class="muted">{place.entryIds.length}</span>
+          </li>
+        ))
+      }
     </ul>
   </section>
 </BaseLayout>

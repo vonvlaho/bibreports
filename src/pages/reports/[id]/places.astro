@@ -1,5 +1,8 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AlphabetNav from '../../../components/AlphabetNav.astro';
+import PageHeader from '../../../components/PageHeader.astro';
+import RegisterFilter from '../../../components/RegisterFilter.astro';
 import { getEntryPlaces, getEntries, getReportEntries, reports } from '../../../lib/data';
 
 export function getStaticPaths() {
@@ -14,17 +17,37 @@ for (const entry of getReportEntries(report)) {
   }
 }
 const rows = [...places.values()].sort((a, b) => a.place.name.localeCompare(b.place.name, 'de'));
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `report-places-${initial}`;
+};
 ---
 
 <BaseLayout title={`Orte ${report.year}`}>
-  <section class="container section panel">
-    <h1>Orte für {report.title} {report.year}</h1>
-  </section>
-  <section class="container section">
-    <dl>
+  <PageHeader
+    title={`Orte ${report.year}`}
+    eyebrow={`Bericht ${report.year}`}
+    description={report.title}
+    className="register-tools"
+  >
+    <RegisterFilter label="Publikationsorte durchsuchen" placeholder="Ort" countLabel="Orte" />
+    <AlphabetNav items={rows} getLabel={(item: any) => item.place.name} targetPrefix="report-places" />
+  </PageHeader>
+  <section class="container section content">
+    <dl class="register-list">
       {
         rows.map(({ place, entryIds }) => (
-          <>
+          <div id={anchorFor(place.name)} data-register-row data-register-text={place.name}>
             <dt><strong>{place.name}</strong></dt>
             <dd>
               {getEntries(entryIds).map((entry, index) => (
@@ -33,7 +56,7 @@ const rows = [...places.values()].sort((a, b) => a.place.name.localeCompare(b.pl
                 </>
               ))}
             </dd>
-          </>
+          </div>
         ))
       }
     </dl>

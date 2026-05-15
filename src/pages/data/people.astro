@@ -5,7 +5,10 @@ import { personRows } from '../../lib/data';
 ---
 
 <BaseLayout title="Personen" searchable={false}>
-  <div class="container">
-    <AnalyticsTable title="Personen" rows={personRows()} basePath="/data/person" />
-  </div>
+  <AnalyticsTable
+    title="Personen"
+    description="Häufigkeiten verknüpfter Personen und Körperschaften nach Berichtsjahr."
+    rows={personRows()}
+    basePath="/data/person"
+  />
 </BaseLayout>

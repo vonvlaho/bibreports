@@ -15,7 +15,8 @@ const {
   searchable = true,
 } = Astro.props;
 
-const pageTitle = isHome ? title : `${title} | Bibreports`;
+const appName = 'Musikwissenschaft in der DDR';
+const pageTitle = isHome ? title : `${title} | ${appName}`;
 ---
 
 <!doctype html>
@@ -34,14 +35,18 @@ const pageTitle = isHome ? title : `${title} | Bibreports`;
       {
         isHome ? (
           <div class="hero">
+            <p class="app-label">{appName}</p>
             <h1>Musikwissenschaftliche Forschung in der DDR 1966–1975</h1>
             <p>
-              Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.
+              Digitale Reproduktion der <a href="/reports/"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.
             </p>
           </div>
         ) : (
           <nav class="nav" aria-label="Hauptnavigation">
-            <a class="brand" href="/">Musikwissenschaftliche Forschung in der DDR 1966–1975</a>
+            <a class="brand" href="/">
+              <span>{appName}</span>
+              <small>1966–1975</small>
+            </a>
             <div class="nav-links">
               <a href="/reports/">Übersicht</a>
               <a href="/keywords/">Register</a>

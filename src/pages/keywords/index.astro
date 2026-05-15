@@ -1,18 +1,57 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import SearchForm from '../../components/SearchForm.astro';
-import { keywords } from '../../lib/data';
+import AlphabetNav from '../../components/AlphabetNav.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import RegisterFilter from '../../components/RegisterFilter.astro';
+import { groupEntriesByYear, keywords } from '../../lib/data';
+
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `register-${initial}`;
+};
 ---
 
 <BaseLayout title="Register">
-  <section class="container section search-panel compact">
-    <h1>Register</h1>
-    <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
-    <p class="muted">{keywords.length} Begriffe</p>
-  </section>
-  <section class="container section">
-    <ul class="index-list">
-      {keywords.map((keyword) => <li><a href={`/keywords/${keyword.id}/`}>{keyword.name}</a> <span class="muted">{keyword.entryIds.length}</span></li>)}
-    </ul>
+  <PageHeader
+    title="Gesamtregister"
+    eyebrow="Register"
+    description="Registerbegriffe mit jahresbezogenen Verweisen auf die bibliographischen Einträge."
+    className="register-tools"
+  >
+    <RegisterFilter label="Register durchsuchen" placeholder="Registereintrag" countLabel="Registerbegriffe" />
+    <AlphabetNav items={keywords} getLabel={(item: any) => item.name} targetPrefix="register" />
+  </PageHeader>
+  <section class="container section content">
+    <dl class="register-list">
+      {
+        keywords.map((keyword) => (
+          <div id={anchorFor(keyword.name)} data-register-row data-register-text={keyword.name}>
+            <dt>
+              <strong><a href={`/keywords/${keyword.id}/`}>{keyword.name}</a></strong>
+            </dt>
+            {groupEntriesByYear(keyword.entryIds).map((group) => (
+              <dd>
+                {group.year}:{' '}
+                {group.entries.map((entry, index) => (
+                  <>
+                    <a href={`/entries/${entry.id}/`}>{entry.entryNo}</a>{index < group.entries.length - 1 ? ', ' : '.'}
+                  </>
+                ))}
+              </dd>
+            ))}
+          </div>
+        ))
+      }
+    </dl>
   </section>
 </BaseLayout>

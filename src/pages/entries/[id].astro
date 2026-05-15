@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
 import { entries, findReport, getEntryKeywords, getEntryPeople, getEntryPlaces, getReportEntries } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -18,15 +19,15 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
 ---
 
 <BaseLayout title={entry.title || entry.fullTitle}>
-  <section class="container section entry-context">
-    {report && <h1>{report.title} {report.year}</h1>}
-    <div class="meta">
-      <span>Eintrag {entry.entryNo}</span>
-      {entry.type && <span>{entry.type}</span>}
-      {entry.publicationYear && <span>{entry.publicationYear}</span>}
-      {report && <a href={`/reports/${report.id}/`}>Zum Bericht {report.year}</a>}
-    </div>
-  </section>
+  <PageHeader
+    title={`Eintrag ${entry.entryNo}`}
+    eyebrow={report ? `Bericht ${report.year}` : undefined}
+    description={report ? report.title : undefined}
+    meta={[entry.type, entry.publicationYear].filter(Boolean)}
+    className="entry-context"
+  >
+    {report && <a class="context-link" href={`/reports/${report.id}/`}>Zum Bericht {report.year}</a>}
+  </PageHeader>
 
   <article class="container section reading">
     {keywords.length > 0 && (
@@ -34,7 +35,7 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
         {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}/`}>{keyword.name}</a></li>)}
       </ul>
     )}
-    <h2><strong>{entry.entryNo}</strong> {entry.fullTitle}</h2>
+    <h2>{entry.fullTitle}</h2>
     {entry.abstract && <p>{entry.abstract}</p>}
     {people.length > 0 && (
       <>

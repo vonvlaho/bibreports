@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
 import { groupPersonEntriesByRole, people } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -12,13 +13,10 @@ const name = `${person.familyName}${person.givenName ? `, ${person.givenName}` :
 ---
 
 <BaseLayout title={name}>
-  <section class="container section panel">
-    <h1>{name}</h1>
-    <p class="muted">{person.entries.length} verknüpfte Einträge</p>
-  </section>
+  <PageHeader title={name} eyebrow="Personenverzeichnis" meta={[`${person.entries.length} verknüpfte Einträge`]} />
   <section class="container section">
     {groups.map((group) => (
-      <section class="section">
+      <section class="year-group">
         <h2>{group.roleLabel}</h2>
         <ul class="list">
           {group.entries.map((entry) => <li><a href={`/entries/${entry.id}/`}>{entry.fullTitle}</a></li>)}

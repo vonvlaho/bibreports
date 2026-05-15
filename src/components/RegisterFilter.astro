@@ -1,0 +1,77 @@
+---
+type Props = {
+  label: string;
+  placeholder: string;
+  countLabel: string;
+};
+
+const { label, placeholder, countLabel } = Astro.props;
+---
+
+<form class="register-filter" data-register-filter data-count-label={countLabel}>
+  <label for="register-filter">{label}</label>
+  <div class="search">
+    <input id="register-filter" type="search" placeholder={placeholder} autocomplete="off" />
+    <button class="button" type="button" data-register-reset>Zurücksetzen</button>
+  </div>
+  <p class="muted" data-register-count></p>
+</form>
+
+<script is:inline>
+  (() => {
+    const normalize = (value) => value.toLocaleLowerCase('de').normalize('NFC').trim();
+
+    const initialize = () => {
+      document.querySelectorAll('[data-register-filter]').forEach((form) => {
+        if (form.dataset.registerReady === 'true') {
+          return;
+        }
+
+        const input = form.querySelector('input');
+        const reset = form.querySelector('[data-register-reset]');
+        const status = form.querySelector('[data-register-count]');
+        const container = form.closest('main') || document;
+        const countLabel = form.dataset.countLabel || 'Einträge';
+
+        if (!input || !reset || !status) {
+          return;
+        }
+
+        const getRows = () => [...container.querySelectorAll('[data-register-row]')];
+
+        const update = () => {
+          const rows = getRows();
+          const query = normalize(input.value);
+          let visible = 0;
+
+          rows.forEach((row) => {
+            const haystack = normalize(row.dataset.registerText || row.textContent || '');
+            const matches = !query || haystack.includes(query);
+            row.hidden = !matches;
+            if (matches) {
+              visible += 1;
+            }
+          });
+
+          status.textContent = query ? `${visible} ${countLabel} angezeigt` : `${rows.length} ${countLabel}`;
+        };
+
+        input.addEventListener('input', update);
+        reset.addEventListener('click', () => {
+          input.value = '';
+          input.focus();
+          update();
+        });
+        form.addEventListener('submit', (event) => event.preventDefault());
+        form.dataset.registerReady = 'true';
+        update();
+      });
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initialize, { once: true });
+    } else {
+      initialize();
+    }
+  })();
+</script>

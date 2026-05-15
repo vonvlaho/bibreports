@@ -5,7 +5,10 @@ import { keywordRows } from '../../lib/data';
 ---
 
 <BaseLayout title="Schlagworte" searchable={false}>
-  <div class="container">
-    <AnalyticsTable title="Schlagworte" rows={keywordRows()} basePath="/data/keyword" />
-  </div>
+  <AnalyticsTable
+    title="Schlagworte"
+    description="Häufigkeiten der Registerbegriffe nach Berichtsjahr, sortiert nach Gesamtzahl."
+    rows={keywordRows()}
+    basePath="/data/keyword"
+  />
 </BaseLayout>

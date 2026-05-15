@@ -1,33 +1,38 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import MetricGrid from '../components/MetricGrid.astro';
 import SearchForm from '../components/SearchForm.astro';
 import { entries, keywords, people, places, reports } from '../lib/data';
+
+const metrics = [
+  { label: 'Berichte', value: reports.length },
+  { label: 'Einträge', value: entries.length },
+  { label: 'Registerbegriffe', value: keywords.length },
+  { label: 'Personen', value: people.length },
+  { label: 'Publikationsorte', value: places.length },
+];
 ---
 
 <BaseLayout isHome>
-  <section class="container section search-panel">
-    <h2>Recherche</h2>
+  <section class="container section home-workbench">
+    <div class="home-workbench-header">
+      <div>
+        <p class="eyebrow">Recherche</p>
+        <h2>Bestand durchsuchen</h2>
+      </div>
+      <nav class="quick-links home-links" aria-label="Startnavigation">
+        <a href="/reports/">Berichte</a>
+        <a href="/keywords/">Register</a>
+        <a href="/places/">Publikationsorte</a>
+        <a href="/people/">Personenverzeichnis</a>
+        <a href="/analytics/">Analyse</a>
+      </nav>
+    </div>
     <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
+    <MetricGrid metrics={metrics} />
   </section>
 
-  <section class="container section">
-    <nav class="quick-links" aria-label="Startnavigation">
-      <a href="/reports/">Berichte</a>
-      <a href="/keywords/">Register</a>
-      <a href="/places/">Publikationsorte</a>
-      <a href="/people/">Personenverzeichnis</a>
-      <a href="/analytics/">Analyse</a>
-    </nav>
-    <dl class="metrics" aria-label="Bestand">
-      <div><dt>Berichte</dt><dd>{reports.length}</dd></div>
-      <div><dt>Einträge</dt><dd>{entries.length}</dd></div>
-      <div><dt>Registerbegriffe</dt><dd>{keywords.length}</dd></div>
-      <div><dt>Personen</dt><dd>{people.length}</dd></div>
-      <div><dt>Publikationsorte</dt><dd>{places.length}</dd></div>
-    </dl>
-  </section>
-
-  <section class="container section prose">
+  <section class="container section prose home-background">
     <h2 id="Hintergrund">Hintergrund</h2>
     <p>
       Eine offizielle Bibliographie der musikwissenschaftlichen Schriften der DDR erschien als selbständige Publikation erstmals

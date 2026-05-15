@@ -1,0 +1,25 @@
+---
+type Props = {
+  title: string;
+  eyebrow?: string;
+  description?: string;
+  meta?: string[];
+  className?: string;
+};
+
+const { title, eyebrow, description, meta = [], className = '' } = Astro.props;
+---
+
+<section class:list={['container', 'section', 'page-header', className]}>
+  {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+  <h1>{title}</h1>
+  {description && <p class="lede">{description}</p>}
+  {
+    meta.length > 0 && (
+      <div class="meta">
+        {meta.map((item) => <span>{item}</span>)}
+      </div>
+    )
+  }
+  <slot />
+</section>

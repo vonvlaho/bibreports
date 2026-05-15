@@ -1,20 +1,22 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
 ---
 
 <BaseLayout title="Analyse">
-  <section class="container section">
-    <h1>Analyse</h1>
-    <p class="muted">Jahresbezogene Auswertungen der Registerbegriffe, Personen und Publikationsorte.</p>
-  </section>
-  <section class="container section link-list">
+  <PageHeader
+    title="Analyse"
+    eyebrow="Auswertung"
+    description="Jahresbezogene Auswertungen der Registerbegriffe, Personen und Publikationsorte."
+  />
+  <section class="container section link-list analysis-links">
     <a href="/data/keywords/"><strong>Schlagworte</strong><span class="muted">Häufigkeiten pro Jahr</span></a>
     <a href="/data/people/"><strong>Personen</strong><span class="muted">Häufigkeiten pro Jahr</span></a>
     <a href="/data/places/"><strong>Orte</strong><span class="muted">Häufigkeiten pro Jahr</span></a>
   </section>
   <section class="container section">
     <h2>Datenexporte</h2>
-    <div class="link-list">
+    <div class="link-list export-list">
       <a href="/berichte.csv"><strong>Bibliographie</strong><span class="muted">Alle Einträge als CSV</span></a>
       <a href="/keywords.csv"><strong>Registerbegriffe</strong><span class="muted">Einträge und Schlagworte als CSV</span></a>
       <a href="/people.csv"><strong>Personen</strong><span class="muted">Einträge, Personen und Rollen als CSV</span></a>

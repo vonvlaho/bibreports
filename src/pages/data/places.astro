@@ -5,7 +5,10 @@ import { placeRows } from '../../lib/data';
 ---
 
 <BaseLayout title="Orte" searchable={false}>
-  <div class="container">
-    <AnalyticsTable title="Orte" rows={placeRows()} basePath="/data/place" />
-  </div>
+  <AnalyticsTable
+    title="Orte"
+    description="Häufigkeiten der Publikationsorte nach Berichtsjahr."
+    rows={placeRows()}
+    basePath="/data/place"
+  />
 </BaseLayout>

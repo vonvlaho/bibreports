@@ -1,5 +1,6 @@
 ---
 import AnalyticsTable from '../../../components/AnalyticsTable.astro';
+import PageHeader from '../../../components/PageHeader.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { people, relatedRowsForEntries } from '../../../lib/data';
 
@@ -13,11 +14,12 @@ const name = [person.givenName, person.familyName].filter(Boolean).join(' ');
 ---
 
 <BaseLayout title={`Analyse ${name}`} searchable={false}>
-  <div class="container">
-    <section class="section panel">
-      <h1>{name}</h1>
-    </section>
-    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} headingLevel="h2" />
-    <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} headingLevel="h2" />
-  </div>
+  <PageHeader
+    title={name}
+    eyebrow="Analyse"
+    description="Kombinationen dieser Person mit Registerbegriffen und Ortsverweisen nach Jahr."
+    meta={[`${entryIds.length} verknüpfte Einträge`]}
+  />
+  <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} headingLevel="h2" />
+  <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} headingLevel="h2" />
 </BaseLayout>

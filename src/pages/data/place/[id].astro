@@ -1,5 +1,6 @@
 ---
 import AnalyticsTable from '../../../components/AnalyticsTable.astro';
+import PageHeader from '../../../components/PageHeader.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { places, relatedRowsForEntries } from '../../../lib/data';
 
@@ -11,11 +12,12 @@ const { place } = Astro.props;
 ---
 
 <BaseLayout title={`Analyse ${place.name}`} searchable={false}>
-  <div class="container">
-    <section class="section panel">
-      <h1>{place.name}</h1>
-    </section>
-    <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} headingLevel="h2" />
-    <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} headingLevel="h2" />
-  </div>
+  <PageHeader
+    title={place.name}
+    eyebrow="Analyse"
+    description="Kombinationen dieses Ortsverweises mit Registerbegriffen und Personen nach Jahr."
+    meta={[`${place.entryIds.length} verknüpfte Einträge`]}
+  />
+  <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} headingLevel="h2" />
+  <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} headingLevel="h2" />
 </BaseLayout>

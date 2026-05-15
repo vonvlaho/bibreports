@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
 import { groupEntriesByYear, places } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -11,13 +12,10 @@ const groups = groupEntriesByYear(place.entryIds);
 ---
 
 <BaseLayout title={place.name}>
-  <section class="container section panel">
-    <h1>{place.name}</h1>
-    <p class="muted">{place.entryIds.length} verknüpfte Einträge</p>
-  </section>
+  <PageHeader title={place.name} eyebrow="Publikationsort" meta={[`${place.entryIds.length} verknüpfte Einträge`]} />
   <section class="container section">
     {groups.map((group) => (
-      <section class="section">
+      <section class="year-group">
         <h2>{group.year}</h2>
         <ul class="list">
           {group.entries.map((entry) => <li><a href={`/entries/${entry.id}/`}>{entry.fullTitle}</a></li>)}

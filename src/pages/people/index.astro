@@ -1,18 +1,47 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import SearchForm from '../../components/SearchForm.astro';
+import AlphabetNav from '../../components/AlphabetNav.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import RegisterFilter from '../../components/RegisterFilter.astro';
 import { people } from '../../lib/data';
+
+const displayName = (person: (typeof people)[number]) => `${person.familyName} ${person.givenName}`.trim();
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `people-${initial}`;
+};
 ---
 
 <BaseLayout title="Personenverzeichnis">
-  <section class="container section search-panel compact">
-    <h1>Personenverzeichnis</h1>
-    <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
-    <p class="muted">{people.length} Personen</p>
-  </section>
-  <section class="container section">
+  <PageHeader
+    title="Personenverzeichnis"
+    eyebrow="Register"
+    description="Personen und Körperschaften mit verknüpften bibliographischen Einträgen."
+    className="register-tools"
+  >
+    <RegisterFilter label="Personenverzeichnis durchsuchen" placeholder="Person" countLabel="Personen" />
+    <AlphabetNav items={people} getLabel={(item: any) => displayName(item)} targetPrefix="people" />
+  </PageHeader>
+  <section class="container section content">
     <ul class="index-list">
-      {people.map((person) => <li><a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a> <span class="muted">{person.entries.length}</span></li>)}
+      {
+        people.map((person) => (
+          <li id={anchorFor(displayName(person))} data-register-row data-register-text={`${person.familyName} ${person.givenName}`}>
+            <a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a>
+            <span class="muted">{person.entries.length}</span>
+          </li>
+        ))
+      }
     </ul>
   </section>
 </BaseLayout>

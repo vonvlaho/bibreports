@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PageHeader from '../../../components/PageHeader.astro';
 import { getReportEntries, reports } from '../../../lib/data';
 
 export function getStaticPaths() {
@@ -11,21 +12,25 @@ const entries = getReportEntries(report);
 ---
 
 <BaseLayout title={`${report.title} ${report.year}`}>
-  <section class="container section report-header">
+  <PageHeader
+    title={`Bericht ${report.year}`}
+    eyebrow="Jahresband"
+    description={report.title}
+    meta={[
+      report.editor ? `Herausgegeben vom ${report.editor}` : '',
+      report.publisher,
+      `${entries.length} Einträge`,
+    ].filter(Boolean)}
+    className="report-header"
+  >
     <nav class="nav-links" aria-label="Berichtsregister">
       <a href={`/reports/${report.id}/keywords/`}>Register</a>
       <a href={`/reports/${report.id}/people/`}>Personen</a>
       <a href={`/reports/${report.id}/places/`}>Orte</a>
     </nav>
-    <h1>{report.title} {report.year}</h1>
-    <div class="meta">
-      {report.editor && <span>Herausgegeben vom {report.editor}</span>}
-      {report.publisher && <span>{report.publisher}</span>}
-      <span>{entries.length} Einträge</span>
-    </div>
-  </section>
+  </PageHeader>
   <section class="container section">
-    <ol class="list">
+    <ol class="entry-list">
       {
         entries.map((entry) => (
           <li>

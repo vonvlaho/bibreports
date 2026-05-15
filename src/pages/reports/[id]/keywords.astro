@@ -1,5 +1,8 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AlphabetNav from '../../../components/AlphabetNav.astro';
+import PageHeader from '../../../components/PageHeader.astro';
+import RegisterFilter from '../../../components/RegisterFilter.astro';
 import { getEntries, getReportEntries, getEntryKeywords, reports } from '../../../lib/data';
 
 export function getStaticPaths() {
@@ -14,17 +17,37 @@ for (const entry of getReportEntries(report)) {
   }
 }
 const rows = [...grouped.values()].sort((a, b) => a.keyword.name.localeCompare(b.keyword.name, 'de'));
+const initialFor = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
+  return replacements[initial] ?? initial;
+};
+const seenInitials = new Set<string>();
+const anchorFor = (value: string): string | undefined => {
+  const initial = initialFor(value);
+  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
+    return undefined;
+  }
+  seenInitials.add(initial);
+  return `report-register-${initial}`;
+};
 ---
 
 <BaseLayout title={`Register ${report.year}`}>
-  <section class="container section panel">
-    <h1>Register für {report.title} {report.year}</h1>
-  </section>
-  <section class="container section">
-    <dl>
+  <PageHeader
+    title={`Register ${report.year}`}
+    eyebrow={`Bericht ${report.year}`}
+    description={report.title}
+    className="register-tools"
+  >
+    <RegisterFilter label="Register durchsuchen" placeholder="Registereintrag" countLabel="Registerbegriffe" />
+    <AlphabetNav items={rows} getLabel={(item: any) => item.keyword.name} targetPrefix="report-register" />
+  </PageHeader>
+  <section class="container section content">
+    <dl class="register-list">
       {
         rows.map(({ keyword, entryIds }) => (
-          <>
+          <div id={anchorFor(keyword.name)} data-register-row data-register-text={keyword.name}>
             <dt><strong>{keyword.name}</strong></dt>
             <dd>
               {getEntries(entryIds).map((entry, index) => (
@@ -33,7 +56,7 @@ const rows = [...grouped.values()].sort((a, b) => a.keyword.name.localeCompare(b
                 </>
               ))}
             </dd>
-          </>
+          </div>
         ))
       }
     </dl>

@@ -1,4 +1,5 @@
 ---
+import PageHeader from './PageHeader.astro';
 import type { AnalyticsRow } from '../lib/data';
 import { years } from '../lib/data';
 
@@ -6,17 +7,32 @@ type Props = {
   title: string;
   rows: AnalyticsRow[];
   basePath?: string;
+  description?: string;
   headingLevel?: 'h1' | 'h2';
 };
 
-const { title, rows, basePath, headingLevel = 'h1' } = Astro.props;
-const Heading = headingLevel;
+const { title, rows, basePath, description, headingLevel = 'h1' } = Astro.props;
+const isPrimary = headingLevel === 'h1';
 ---
 
-<section class="section">
-  <Heading>{title}</Heading>
+{
+  isPrimary && (
+    <PageHeader title={title} eyebrow="Analyse" description={description} meta={[`${rows.length} Zeilen`]} />
+  )
+}
+
+<section class="container section analytics-table-section">
+  {
+    !isPrimary && (
+      <div class="table-heading">
+        <h2>{title}</h2>
+        {description && <p class="muted">{description}</p>}
+        <p class="muted">{rows.length} Zeilen</p>
+      </div>
+    )
+  }
   <div class="table-wrap">
-    <table>
+    <table class="analytics-table">
       <thead>
         <tr>
           <th>{title}</th>
@@ -30,7 +46,7 @@ const Heading = headingLevel;
             <tr>
               <td>{basePath ? <a href={`${basePath}/${row.id}/`}>{row.name}</a> : row.name}</td>
               {years.map((year) => <td>{row.years[year] ?? 0}</td>)}
-              <td>{row.total}</td>
+              <td class="sum">{row.total}</td>
             </tr>
           ))
         }

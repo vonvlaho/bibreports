@@ -1,0 +1,44 @@
+---
+type Props = {
+  items: unknown[];
+  getLabel?: (item: unknown) => string;
+  targetPrefix?: string;
+  label?: string;
+};
+
+const {
+  items,
+  getLabel = (item: unknown) => String(item),
+  targetPrefix = 'letter',
+  label = 'Alphabetische Navigation',
+} = Astro.props;
+
+const normalizeInitial = (value: string): string => {
+  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
+  const replacements: Record<string, string> = {
+    Ä: 'A',
+    Ö: 'O',
+    Ü: 'U',
+  };
+
+  return replacements[initial] ?? initial;
+};
+
+const letters = [
+  ...new Set(
+    items
+      .map((item) => normalizeInitial(getLabel(item)))
+      .filter((letter) => /^[A-Z]$/.test(letter)),
+  ),
+].sort((a, b) => a.localeCompare(b, 'de'));
+---
+
+{
+  letters.length > 1 && (
+    <nav class="alphabet-nav" aria-label={label}>
+      {letters.map((letter) => (
+        <a href={`#${targetPrefix}-${letter}`}>{letter}</a>
+      ))}
+    </nav>
+  )
+}
