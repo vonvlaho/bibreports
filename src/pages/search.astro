@@ -35,13 +35,27 @@ const query = Astro.url.searchParams.get('search') ?? '';
         input.value = query;
       }
 
+      const normalizeResultUrl = (url) => {
+        try {
+          const parsed = new URL(url, window.location.origin);
+          if (parsed.origin !== window.location.origin) {
+            return url;
+          }
+
+          const pathname = parsed.pathname === '/' ? '/' : parsed.pathname.replace(/\/+$/, '');
+          return `${pathname}${parsed.search}${parsed.hash}`;
+        } catch (error) {
+          return url;
+        }
+      };
+
       const renderResult = (data) => {
         const article = document.createElement('article');
         article.className = 'search-result';
 
         const title = document.createElement('h2');
         const link = document.createElement('a');
-        link.href = data.url;
+        link.href = normalizeResultUrl(data.url);
         link.textContent = data.meta?.title || data.url;
         title.append(link);
 

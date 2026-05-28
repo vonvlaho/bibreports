@@ -11,9 +11,27 @@ const metrics = [
   { label: 'Personen', value: people.length },
   { label: 'Publikationsorte', value: places.length },
 ];
+
+const websiteStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Musikwissenschaft in der DDR',
+  url: 'https://musikwissenschaft-ddr.de',
+  description:
+    'Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
+  creator: {
+    '@type': 'Person',
+    name: 'Frederic von Vlahovits',
+  },
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://musikwissenschaft-ddr.de/search?search={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
 ---
 
-<BaseLayout isHome>
+<BaseLayout isHome structuredData={websiteStructuredData}>
   <section class="container section home-workbench">
     <div class="home-workbench-header">
       <div>
@@ -26,6 +44,7 @@ const metrics = [
         <a href="/places">Publikationsorte</a>
         <a href="/people">Personenverzeichnis</a>
         <a href="/analytics">Analyse</a>
+        <a href="/about-data">Daten</a>
       </nav>
     </div>
     <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />

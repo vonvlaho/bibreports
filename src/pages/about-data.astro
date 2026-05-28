@@ -1,30 +1,115 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { entries, keywords, people, places, reports } from '../lib/data';
+
+const datasetStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Musikwissenschaft in der DDR',
+  description:
+    'Bibliographische Forschungsdaten aus den Berichten über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik, 1966-1975.',
+  url: 'https://musikwissenschaft-ddr.de/about-data',
+  creator: {
+    '@type': 'Person',
+    name: 'Frederic von Vlahovits',
+  },
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  version: '1.0.0',
+  datePublished: '2026-05-28',
+  distribution: [
+    {
+      '@type': 'DataDownload',
+      name: 'Bibliographie',
+      encodingFormat: 'text/csv',
+      contentUrl: 'https://musikwissenschaft-ddr.de/berichte.csv',
+    },
+    {
+      '@type': 'DataDownload',
+      name: 'Registerbegriffe',
+      encodingFormat: 'text/csv',
+      contentUrl: 'https://musikwissenschaft-ddr.de/keywords.csv',
+    },
+    {
+      '@type': 'DataDownload',
+      name: 'Personen',
+      encodingFormat: 'text/csv',
+      contentUrl: 'https://musikwissenschaft-ddr.de/people.csv',
+    },
+    {
+      '@type': 'DataDownload',
+      name: 'Publikationsorte',
+      encodingFormat: 'text/csv',
+      contentUrl: 'https://musikwissenschaft-ddr.de/places.csv',
+    },
+  ],
+};
 ---
 
-<BaseLayout title="Daten">
-  <section class="container section panel">
-    <h1>Daten</h1>
-    <p>
-      Die statische Version erzeugt alle Seiten aus den XML-Dateien in <code>database/data</code>. CSV-Dateien bleiben als
-      Download-Artefakte im öffentlichen Build erhalten.
+<BaseLayout
+  title="Daten und Zitation"
+  description="Provenienz, Lizenzen, Zitation und Exporte der Forschungsdaten von Musikwissenschaft in der DDR."
+  structuredData={datasetStructuredData}
+>
+  <section class="container section page-header">
+    <p class="eyebrow">Forschungsdaten</p>
+    <h1>Daten und Zitation</h1>
+    <p class="lede">
+      Die Website stellt eine statisch generierte Forschungsdatenpublikation zu den
+      <em>Berichten über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em>
+      bereit.
     </p>
   </section>
+
   <section class="container section grid">
     <div class="card"><strong>{reports.length}</strong><br />Berichte</div>
     <div class="card"><strong>{entries.length}</strong><br />Einträge</div>
     <div class="card"><strong>{keywords.length}</strong><br />Registerbegriffe</div>
     <div class="card"><strong>{people.length}</strong><br />Personen</div>
-    <div class="card"><strong>{places.length}</strong><br />Orte</div>
+    <div class="card"><strong>{places.length}</strong><br />Publikationsorte</div>
   </section>
+
+  <section class="container section prose">
+    <h2>Provenienz</h2>
+    <p>
+      Grundlage sind die gedruckten Berichte der Jahre 1966 bis 1975. Die Vorlagen wurden retrodigitalisiert, mit
+      Tesseract teilautomatisiert in Text überführt und anschließend manuell nachkorrigiert. Die Daten sind keine
+      diplomatische Transkription der Drucke, sondern eine pragmatische Repräsentation der Bibliographie.
+    </p>
+    <p>
+      Das Datenmodell folgt den Berichten selbst: bibliographische Einträge, Berichtsjahre, Personen mit Rollen,
+      Publikationsorte und Registerbegriffe. Die XML-Dateien in <code>database/data</code> sind die kanonische
+      maschinenlesbare Quelle, aus der Seiten, Suchindex und CSV-Exporte erzeugt werden.
+    </p>
+  </section>
+
   <section class="container section">
     <h2>CSV-Exporte</h2>
     <div class="link-list">
-      <a href="/berichte.csv"><strong>Bibliographie</strong><span class="muted">Alle Einträge</span></a>
-      <a href="/keywords.csv"><strong>Registerbegriffe</strong><span class="muted">Einträge und Schlagworte</span></a>
-      <a href="/people.csv"><strong>Personen</strong><span class="muted">Einträge, Personen und Rollen</span></a>
-      <a href="/places.csv"><strong>Publikationsorte</strong><span class="muted">Einträge und Orte</span></a>
+      <a href="/berichte.csv"><strong>Bibliographie</strong><span class="muted">Alle Einträge als CSV</span></a>
+      <a href="/keywords.csv"><strong>Registerbegriffe</strong><span class="muted">Einträge und Schlagworte als CSV</span></a>
+      <a href="/people.csv"><strong>Personen</strong><span class="muted">Einträge, Personen und Rollen als CSV</span></a>
+      <a href="/places.csv"><strong>Publikationsorte</strong><span class="muted">Einträge und Orte als CSV</span></a>
     </div>
+  </section>
+
+  <section class="container section prose">
+    <h2>Nachnutzung</h2>
+    <p>
+      Der Quellcode ist unter der MIT-Lizenz veröffentlicht. Die bibliographischen Daten, XML-Dateien, CSV-Exporte
+      und Website-Inhalte stehen, soweit nicht anders angegeben, unter Creative Commons Attribution 4.0 International
+      (CC BY 4.0).
+    </p>
+    <p>
+      Empfohlene Zitation: Frederic von Vlahovits, „Musikwissenschaft in der DDR“, Version v1.0.0, 2026,
+      <a href="https://musikwissenschaft-ddr.de">https://musikwissenschaft-ddr.de</a>.
+    </p>
+  </section>
+
+  <section class="container section prose">
+    <h2>Hinweise zur Datenqualität</h2>
+    <p>
+      Einzelne OCR-, Normalisierungs- und Taxonomiefehler können enthalten sein. Korrekturen sollen gegen die Scans
+      oder die gedruckten Vorlagen geprüft und nachvollziehbar im XML-Datenbestand dokumentiert werden.
+    </p>
   </section>
 </BaseLayout>

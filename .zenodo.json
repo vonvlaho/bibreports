@@ -1,0 +1,27 @@
+{
+  "title": "Musikwissenschaft in der DDR",
+  "upload_type": "software",
+  "publication_date": "2026-05-28",
+  "description": "Static research application and reusable bibliographic data from the reports on musicological work in the GDR, 1966-1975.",
+  "creators": [
+    {
+      "name": "von Vlahovits, Frederic"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "keywords": [
+    "musicology",
+    "GDR",
+    "bibliography",
+    "digital humanities",
+    "research data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://musikwissenschaft-ddr.de",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other"
+    }
+  ]
+}

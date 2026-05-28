@@ -1,0 +1,28 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Musikwissenschaft in der DDR",
+  "description": "Static research application for bibliographic data from the reports on musicological work in the GDR, 1966-1975.",
+  "version": "1.0.0",
+  "datePublished": "2026-05-28",
+  "codeRepository": "https://github.com/vonvlaho/bibreports",
+  "url": "https://musikwissenschaft-ddr.de",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": ["TypeScript", "Astro"],
+  "runtimePlatform": "Static web",
+  "applicationCategory": "Digital humanities research application",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Frederic",
+      "familyName": "von Vlahovits"
+    }
+  ],
+  "keywords": [
+    "musicology",
+    "GDR",
+    "bibliography",
+    "digital humanities",
+    "research data"
+  ]
+}

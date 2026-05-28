@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research application or its data, please cite it as below."
+title: "Musikwissenschaft in der DDR"
+version: "1.0.0"
+date-released: "2026-05-28"
+url: "https://musikwissenschaft-ddr.de"
+repository-code: "https://github.com/vonvlaho/bibreports"
+license: "MIT"
+authors:
+  - family-names: "von Vlahovits"
+    given-names: "Frederic"
+preferred-citation:
+  type: software
+  title: "Musikwissenschaft in der DDR"
+  authors:
+    - family-names: "von Vlahovits"
+      given-names: "Frederic"
+  version: "1.0.0"
+  date-released: "2026-05-28"
+  url: "https://musikwissenschaft-ddr.de"

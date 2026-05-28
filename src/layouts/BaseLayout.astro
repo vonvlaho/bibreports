@@ -6,6 +6,7 @@ type Props = {
   description?: string;
   isHome?: boolean;
   searchable?: boolean;
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
 };
 
 const {
@@ -13,10 +14,15 @@ const {
   description = 'Digitale Reproduktion der Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik.',
   isHome = false,
   searchable = true,
+  structuredData,
 } = Astro.props;
 
 const appName = 'Musikwissenschaft in der DDR';
 const pageTitle = isHome ? title : `${title} | ${appName}`;
+const siteUrl = 'https://musikwissenschaft-ddr.de';
+const normalizePath = (pathname: string) => (pathname === '/' ? '/' : pathname.replace(/\/+$/, ''));
+const canonicalUrl = new URL(normalizePath(Astro.url.pathname), siteUrl).toString();
+const structuredDataItems = structuredData ? (Array.isArray(structuredData) ? structuredData : [structuredData]) : [];
 ---
 
 <!doctype html>
@@ -25,10 +31,13 @@ const pageTitle = isHome ? title : `${title} | ${appName}`;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
     <title>{pageTitle}</title>
+    {structuredDataItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}
   </head>
   <body>
     <header class:list={['site-header', { home: isHome }]}>
@@ -53,6 +62,7 @@ const pageTitle = isHome ? title : `${title} | ${appName}`;
               <a href="/places">Publikationsorte</a>
               <a href="/people">Personenverzeichnis</a>
               <a href="/analytics">Analyse</a>
+              <a href="/about-data">Daten</a>
               <a href="/#Hintergrund">Hintergrund</a>
             </div>
           </nav>
