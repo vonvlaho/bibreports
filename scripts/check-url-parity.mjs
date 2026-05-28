@@ -20,6 +20,20 @@ if (!existsSync(distDir)) {
   fail('Missing dist directory. Run npm run build before npm run check:urls.');
 }
 
+const forbiddenBuildArtifacts = [
+  'index.php',
+  '.htaccess',
+  '_headers',
+  '_redirects',
+  'mix-manifest.json',
+  'js/app.js',
+  'css/app.css',
+];
+const presentForbiddenArtifacts = forbiddenBuildArtifacts.filter((artifact) => existsSync(path.join(distDir, artifact)));
+if (presentForbiddenArtifacts.length > 0) {
+  fail('Static build contains obsolete Laravel deployment artifacts.', presentForbiddenArtifacts);
+}
+
 const vercelConfig = JSON.parse(readFileSync(vercelConfigPath, 'utf8'));
 const requiredRedirects = new Map([
   ['/keywords/download', '/keywords.csv'],
@@ -78,6 +92,7 @@ const expectedUrls = new Set([
   '/',
   '/reports',
   '/analytics',
+  '/about-data',
   '/keywords',
   '/people',
   '/places',
