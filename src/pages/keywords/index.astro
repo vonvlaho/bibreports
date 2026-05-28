@@ -37,14 +37,14 @@ const anchorFor = (value: string): string | undefined => {
         keywords.map((keyword) => (
           <div id={anchorFor(keyword.name)} data-register-row data-register-text={keyword.name}>
             <dt>
-              <strong><a href={`/keywords/${keyword.id}/`}>{keyword.name}</a></strong>
+              <strong><a href={`/keywords/${keyword.id}`}>{keyword.name}</a></strong>
             </dt>
             {groupEntriesByYear(keyword.entryIds).map((group) => (
               <dd>
                 {group.year}:{' '}
                 {group.entries.map((entry, index) => (
                   <>
-                    <a href={`/entries/${entry.id}/`}>{entry.entryNo}</a>{index < group.entries.length - 1 ? ', ' : '.'}
+                    <a href={`/entries/${entry.id}`}>{entry.entryNo}</a>{index < group.entries.length - 1 ? ', ' : '.'}
                   </>
                 ))}
               </dd>

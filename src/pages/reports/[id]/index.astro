@@ -24,9 +24,9 @@ const entries = getReportEntries(report);
     className="report-header"
   >
     <nav class="nav-links" aria-label="Berichtsregister">
-      <a href={`/reports/${report.id}/keywords/`}>Register</a>
-      <a href={`/reports/${report.id}/people/`}>Personen</a>
-      <a href={`/reports/${report.id}/places/`}>Orte</a>
+      <a href={`/reports/${report.id}/keywords`}>Register</a>
+      <a href={`/reports/${report.id}/people`}>Personen</a>
+      <a href={`/reports/${report.id}/places`}>Orte</a>
     </nav>
   </PageHeader>
   <section class="container section">
@@ -34,7 +34,7 @@ const entries = getReportEntries(report);
       {
         entries.map((entry) => (
           <li>
-            <a href={`/entries/${entry.id}/`}><strong>{entry.entryNo}</strong> {entry.fullTitle}</a>
+            <a href={`/entries/${entry.id}`}><strong>{entry.entryNo}</strong> {entry.fullTitle}</a>
           </li>
         ))
       }

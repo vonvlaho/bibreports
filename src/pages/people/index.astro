@@ -37,7 +37,7 @@ const anchorFor = (value: string): string | undefined => {
       {
         people.map((person) => (
           <li id={anchorFor(displayName(person))} data-register-row data-register-text={`${person.familyName} ${person.givenName}`}>
-            <a href={`/people/${person.id}/`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a>
+            <a href={`/people/${person.id}`}>{person.familyName}{person.givenName && `, ${person.givenName}`}</a>
             <span class="muted">{person.entries.length}</span>
           </li>
         ))

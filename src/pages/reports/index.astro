@@ -14,7 +14,7 @@ import { reports } from '../../lib/data';
     <div class="report-grid">
       {
         reports.map((report) => (
-          <a class="report-card" href={`/reports/${report.id}/`}>
+          <a class="report-card" href={`/reports/${report.id}`}>
             {report.cover && <img src={`/img/${report.cover}`} alt="" loading="lazy" />}
             <span>
               <strong>Bericht {report.year}</strong>

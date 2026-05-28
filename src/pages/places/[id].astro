@@ -18,7 +18,7 @@ const groups = groupEntriesByYear(place.entryIds);
       <section class="year-group">
         <h2>{group.year}</h2>
         <ul class="list">
-          {group.entries.map((entry) => <li><a href={`/entries/${entry.id}/`}>{entry.fullTitle}</a></li>)}
+          {group.entries.map((entry) => <li><a href={`/entries/${entry.id}`}>{entry.fullTitle}</a></li>)}
         </ul>
       </section>
     ))}

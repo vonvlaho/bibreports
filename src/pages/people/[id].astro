@@ -19,7 +19,7 @@ const name = `${person.familyName}${person.givenName ? `, ${person.givenName}` :
       <section class="year-group">
         <h2>{group.roleLabel}</h2>
         <ul class="list">
-          {group.entries.map((entry) => <li><a href={`/entries/${entry.id}/`}>{entry.fullTitle}</a></li>)}
+          {group.entries.map((entry) => <li><a href={`/entries/${entry.id}`}>{entry.fullTitle}</a></li>)}
         </ul>
       </section>
     ))}

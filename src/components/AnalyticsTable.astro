@@ -44,7 +44,7 @@ const isPrimary = headingLevel === 'h1';
         {
           rows.map((row) => (
             <tr>
-              <td>{basePath ? <a href={`${basePath}/${row.id}/`}>{row.name}</a> : row.name}</td>
+              <td>{basePath ? <a href={`${basePath}/${row.id}`}>{row.name}</a> : row.name}</td>
               {years.map((year) => <td>{row.years[year] ?? 0}</td>)}
               <td class="sum">{row.total}</td>
             </tr>

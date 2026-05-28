@@ -26,13 +26,13 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
     meta={[entry.type, entry.publicationYear].filter(Boolean)}
     className="entry-context"
   >
-    {report && <a class="context-link" href={`/reports/${report.id}/`}>Zum Bericht {report.year}</a>}
+    {report && <a class="context-link" href={`/reports/${report.id}`}>Zum Bericht {report.year}</a>}
   </PageHeader>
 
   <article class="container section reading">
     {keywords.length > 0 && (
       <ul class="tag-list">
-        {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}/`}>{keyword.name}</a></li>)}
+        {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}`}>{keyword.name}</a></li>)}
       </ul>
     )}
     <h2>{entry.fullTitle}</h2>
@@ -41,7 +41,7 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
       <>
         <h3>Personen</h3>
         <ul>
-          {people.map((person) => <li><a href={`/people/${person.id}/`}>{person.givenName} {person.familyName}</a> <span class="muted">{person.roleLabel}</span></li>)}
+          {people.map((person) => <li><a href={`/people/${person.id}`}>{person.givenName} {person.familyName}</a> <span class="muted">{person.roleLabel}</span></li>)}
         </ul>
       </>
     )}
@@ -49,14 +49,14 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
       <>
         <h3>Orte</h3>
         <ul>
-          {places.map((place) => <li><a href={`/places/${place.id}/`}>{place.name}</a></li>)}
+          {places.map((place) => <li><a href={`/places/${place.id}`}>{place.name}</a></li>)}
         </ul>
       </>
     )}
     {(previousEntry || nextEntry) && (
       <nav class="entry-nav" aria-label="Eintragsnavigation">
-        {previousEntry ? <a href={`/entries/${previousEntry.id}/`}>Vorheriger Eintrag</a> : <span />}
-        {nextEntry ? <a href={`/entries/${nextEntry.id}/`}>Nächster Eintrag</a> : <span />}
+        {previousEntry ? <a href={`/entries/${previousEntry.id}`}>Vorheriger Eintrag</a> : <span />}
+        {nextEntry ? <a href={`/entries/${nextEntry.id}`}>Nächster Eintrag</a> : <span />}
       </nav>
     )}
   </article>

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/keywords/download",
+      "destination": "/keywords.csv",
+      "permanent": true
+    },
+    {
+      "source": "/people/download",
+      "destination": "/people.csv",
+      "permanent": true
+    },
+    {
+      "source": "/places/download",
+      "destination": "/places.csv",
+      "permanent": true
+    }
+  ]
+}

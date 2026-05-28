@@ -52,7 +52,7 @@ const anchorFor = (value: string): string | undefined => {
             <dd>
               {getEntries(entryIds).map((entry, index) => (
                 <>
-                  <a href={`/entries/${entry.id}/`}>{entry.entryNo}</a>{index < entryIds.length - 1 ? ', ' : '.'}
+                  <a href={`/entries/${entry.id}`}>{entry.entryNo}</a>{index < entryIds.length - 1 ? ', ' : '.'}
                 </>
               ))}
             </dd>

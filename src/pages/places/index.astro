@@ -36,7 +36,7 @@ const anchorFor = (value: string): string | undefined => {
       {
         places.map((place) => (
           <li id={anchorFor(place.name)} data-register-row data-register-text={place.name}>
-            <a href={`/places/${place.id}/`}>{place.name}</a> <span class="muted">{place.entryIds.length}</span>
+            <a href={`/places/${place.id}`}>{place.name}</a> <span class="muted">{place.entryIds.length}</span>
           </li>
         ))
       }

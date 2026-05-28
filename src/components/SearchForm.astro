@@ -8,7 +8,7 @@ type Props = {
 const { label = 'Suchanfrage', placeholder = 'Suchanfrage', value = '' } = Astro.props;
 ---
 
-<form class="search" action="/search/" method="get">
+<form class="search" action="/search" method="get">
   <label class="sr-only" for="site-search">{label}</label>
   <input id="site-search" type="search" name="search" value={value} placeholder={placeholder} />
   <button class="button" type="submit">Suchen</button>
