@@ -16,6 +16,14 @@ const reportEntries = report ? getReportEntries(report) : [];
 const entryIndex = reportEntries.findIndex((reportEntry) => reportEntry.id === entry.id);
 const previousEntry = entryIndex > 0 ? reportEntries[entryIndex - 1] : undefined;
 const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? reportEntries[entryIndex + 1] : undefined;
+const duration = [entry.startingYear, entry.finishingYear].filter(Boolean).join('–');
+const details = [
+  { label: 'Zeitschrift', value: entry.journal },
+  { label: 'Verlag', value: entry.publisher },
+  { label: 'Umfang', value: entry.extent },
+  { label: 'Institution', value: entry.org },
+  { label: 'Laufzeit', value: duration },
+].filter((detail) => detail.value);
 ---
 
 <BaseLayout title={entry.title || entry.fullTitle}>
@@ -30,13 +38,23 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
   </PageHeader>
 
   <article class="container section reading">
+    <h2>{entry.fullTitle}</h2>
     {keywords.length > 0 && (
       <ul class="tag-list">
         {keywords.map((keyword) => <li><a class="tag" href={`/keywords/${keyword.id}`}>{keyword.name}</a></li>)}
       </ul>
     )}
-    <h2>{entry.fullTitle}</h2>
     {entry.abstract && <p>{entry.abstract}</p>}
+    {details.length > 0 && (
+      <dl class="entry-meta">
+        {details.map((detail) => (
+          <>
+            <dt>{detail.label}</dt>
+            <dd>{detail.value}</dd>
+          </>
+        ))}
+      </dl>
+    )}
     {people.length > 0 && (
       <>
         <h3>Personen</h3>
@@ -47,7 +65,7 @@ const nextEntry = entryIndex >= 0 && entryIndex < reportEntries.length - 1 ? rep
     )}
     {places.length > 0 && (
       <>
-        <h3>Orte</h3>
+        <h3>Publikationsorte</h3>
         <ul>
           {places.map((place) => <li><a href={`/places/${place.id}`}>{place.name}</a></li>)}
         </ul>
