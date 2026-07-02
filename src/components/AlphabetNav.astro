@@ -6,23 +6,14 @@ type Props = {
   label?: string;
 };
 
+import { normalizeInitial } from '../lib/register';
+
 const {
   items,
   getLabel = (item: unknown) => String(item),
   targetPrefix = 'letter',
   label = 'Alphabetische Navigation',
 } = Astro.props;
-
-const normalizeInitial = (value: string): string => {
-  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
-  const replacements: Record<string, string> = {
-    Ä: 'A',
-    Ö: 'O',
-    Ü: 'U',
-  };
-
-  return replacements[initial] ?? initial;
-};
 
 const letters = [
   ...new Set(

@@ -4,6 +4,7 @@ import AlphabetNav from '../../../components/AlphabetNav.astro';
 import PageHeader from '../../../components/PageHeader.astro';
 import RegisterFilter from '../../../components/RegisterFilter.astro';
 import { getEntryPlaces, getEntries, getReportEntries, reports } from '../../../lib/data';
+import { createAnchorFactory } from '../../../lib/register';
 
 export function getStaticPaths() {
   return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
@@ -17,25 +18,12 @@ for (const entry of getReportEntries(report)) {
   }
 }
 const rows = [...places.values()].sort((a, b) => a.place.name.localeCompare(b.place.name, 'de'));
-const initialFor = (value: string): string => {
-  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
-  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
-  return replacements[initial] ?? initial;
-};
-const seenInitials = new Set<string>();
-const anchorFor = (value: string): string | undefined => {
-  const initial = initialFor(value);
-  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
-    return undefined;
-  }
-  seenInitials.add(initial);
-  return `report-places-${initial}`;
-};
+const anchorFor = createAnchorFactory('report-places');
 ---
 
-<BaseLayout title={`Orte ${report.year}`}>
+<BaseLayout title={`Publikationsorte ${report.year}`}>
   <PageHeader
-    title={`Orte ${report.year}`}
+    title={`Publikationsorte ${report.year}`}
     eyebrow={`Bericht ${report.year}`}
     description={report.title}
     className="register-tools"
