@@ -57,13 +57,12 @@ const structuredDataItems = structuredData ? (Array.isArray(structuredData) ? st
               <small>1966–1975</small>
             </a>
             <div class="nav-links">
-              <a href="/reports">Übersicht</a>
+              <a href="/reports">Berichte</a>
               <a href="/keywords">Register</a>
               <a href="/places">Publikationsorte</a>
               <a href="/people">Personenverzeichnis</a>
               <a href="/analytics">Analyse</a>
               <a href="/about-data">Daten</a>
-              <a href="/#Hintergrund">Hintergrund</a>
             </div>
           </nav>
         )
@@ -72,5 +71,13 @@ const structuredDataItems = structuredData ? (Array.isArray(structuredData) ? st
     <main data-pagefind-body={searchable ? true : undefined}>
       <slot />
     </main>
+    <footer class="site-footer">
+      <div class="container">
+        <span>Frederic von Vlahovits, {appName}, 1966–1975</span>
+        <span>Daten <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, Code MIT</span>
+        <a href="/about-data">Daten und Zitation</a>
+        <a href="https://github.com/vonvlaho/bibreports">GitHub</a>
+      </div>
+    </footer>
   </body>
 </html>

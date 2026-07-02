@@ -18,6 +18,6 @@ const { keyword } = Astro.props;
     description="Kombinationen dieses Registerbegriffs mit Orts- und Personenverweisen nach Jahr."
     meta={[`${keyword.entryIds.length} verknüpfte Einträge`]}
   />
-  <AnalyticsTable title="Orte" rows={relatedRowsForEntries(keyword.entryIds, 'places')} headingLevel="h2" />
+  <AnalyticsTable title="Publikationsorte" rows={relatedRowsForEntries(keyword.entryIds, 'places')} headingLevel="h2" />
   <AnalyticsTable title="Personen" rows={relatedRowsForEntries(keyword.entryIds, 'people')} headingLevel="h2" />
 </BaseLayout>

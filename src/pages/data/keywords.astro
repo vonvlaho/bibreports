@@ -4,9 +4,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { keywordRows } from '../../lib/data';
 ---
 
-<BaseLayout title="Schlagworte" searchable={false}>
+<BaseLayout title="Registerbegriffe" searchable={false}>
   <AnalyticsTable
-    title="Schlagworte"
+    title="Registerbegriffe"
     description="Häufigkeiten der Registerbegriffe nach Berichtsjahr, sortiert nach Gesamtzahl."
     rows={keywordRows()}
     basePath="/data/keyword"
