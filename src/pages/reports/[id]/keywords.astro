@@ -22,12 +22,8 @@ const anchorFor = createAnchorFactory('report-register');
 ---
 
 <BaseLayout title={`Register ${report.year}`}>
-  <PageHeader
-    title={`Register ${report.year}`}
-    eyebrow={`Bericht ${report.year}`}
-    description={report.title}
-    className="register-tools"
-  >
+  <PageHeader title={`Register ${report.year}`} className="register-tools">
+    <a class="context-link" href={`/reports/${report.id}`}>Zum Bericht {report.year}</a>
     <RegisterFilter label="Register durchsuchen" placeholder="Registereintrag" countLabel="Registerbegriffe" />
     <AlphabetNav items={rows} getLabel={(item: any) => item.keyword.name} targetPrefix="report-register" />
   </PageHeader>

@@ -29,8 +29,6 @@ const details = [
 <BaseLayout title={entry.title || entry.fullTitle}>
   <PageHeader
     title={`Eintrag ${entry.entryNo}`}
-    eyebrow={report ? `Bericht ${report.year}` : undefined}
-    description={report ? report.title : undefined}
     meta={[entry.type, entry.publicationYear].filter(Boolean)}
     className="entry-context"
   >

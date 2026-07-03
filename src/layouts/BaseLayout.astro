@@ -40,33 +40,21 @@ const structuredDataItems = structuredData ? (Array.isArray(structuredData) ? st
     {structuredDataItems.map((item) => <script is:inline type="application/ld+json" set:html={JSON.stringify(item)} />)}
   </head>
   <body>
-    <header class:list={['site-header', { home: isHome }]}>
-      {
-        isHome ? (
-          <div class="hero">
-            <p class="app-label">{appName}</p>
-            <h1>Musikwissenschaftliche Forschung in der DDR 1966–1975</h1>
-            <p>
-              Digitale Reproduktion der <a href="/reports"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.
-            </p>
-          </div>
-        ) : (
-          <nav class="nav" aria-label="Hauptnavigation">
-            <a class="brand" href="/">
-              <span>{appName}</span>
-              <small>1966–1975</small>
-            </a>
-            <div class="nav-links">
-              <a href="/reports">Berichte</a>
-              <a href="/keywords">Register</a>
-              <a href="/places">Publikationsorte</a>
-              <a href="/people">Personenverzeichnis</a>
-              <a href="/analytics">Analyse</a>
-              <a href="/about-data">Daten</a>
-            </div>
-          </nav>
-        )
-      }
+    <header class="site-header">
+      <nav class="nav" aria-label="Hauptnavigation">
+        <a class="brand" href="/">
+          <span>{appName}</span>
+          <small>1966–1975</small>
+        </a>
+        <div class="nav-links">
+          <a href="/reports">Berichte</a>
+          <a href="/keywords">Register</a>
+          <a href="/places">Publikationsorte</a>
+          <a href="/people">Personenverzeichnis</a>
+          <a href="/analytics">Analyse</a>
+          <a href="/about-data">Daten</a>
+        </div>
+      </nav>
     </header>
     <main data-pagefind-body={searchable ? true : undefined}>
       <slot />

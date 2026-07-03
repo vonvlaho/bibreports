@@ -9,11 +9,8 @@ const { label, placeholder, countLabel } = Astro.props;
 ---
 
 <form class="register-filter" data-register-filter data-count-label={countLabel}>
-  <label for="register-filter">{label}</label>
-  <div class="search">
-    <input id="register-filter" type="search" placeholder={placeholder} autocomplete="off" />
-    <button class="button" type="button" data-register-reset>Zurücksetzen</button>
-  </div>
+  <label class="sr-only" for="register-filter">{label}</label>
+  <input id="register-filter" type="search" placeholder={placeholder} autocomplete="off" />
   <p class="muted" data-register-count></p>
 </form>
 
@@ -28,12 +25,11 @@ const { label, placeholder, countLabel } = Astro.props;
         }
 
         const input = form.querySelector('input');
-        const reset = form.querySelector('[data-register-reset]');
         const status = form.querySelector('[data-register-count]');
         const container = form.closest('main') || document;
         const countLabel = form.dataset.countLabel || 'Einträge';
 
-        if (!input || !reset || !status) {
+        if (!input || !status) {
           return;
         }
 
@@ -57,11 +53,6 @@ const { label, placeholder, countLabel } = Astro.props;
         };
 
         input.addEventListener('input', update);
-        reset.addEventListener('click', () => {
-          input.value = '';
-          input.focus();
-          update();
-        });
         form.addEventListener('submit', (event) => event.preventDefault());
         form.dataset.registerReady = 'true';
         update();

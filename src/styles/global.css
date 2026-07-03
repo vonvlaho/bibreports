@@ -64,10 +64,6 @@ input:focus-visible {
   background: var(--surface);
 }
 
-.site-header.home {
-  background: var(--bg);
-}
-
 .nav,
 .hero,
 .container {
@@ -117,10 +113,9 @@ input:focus-visible {
 }
 
 .hero {
-  padding: 32px 0 28px;
+  padding: 14px 0 0;
 }
 
-.app-label,
 .eyebrow {
   margin: 0 0 9px;
   color: var(--muted);
@@ -183,8 +178,8 @@ p {
   max-width: 76ch;
 }
 
-.prose {
-  max-width: 800px;
+.prose > * {
+  max-width: 76ch;
 }
 
 .muted {
@@ -234,22 +229,6 @@ p {
   margin-bottom: 0;
 }
 
-.search-panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  padding: 18px;
-}
-
-.search-panel h1,
-.search-panel h2 {
-  margin-top: 0;
-}
-
-.page-header.search-panel {
-  max-width: 820px;
-}
-
 .search {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
@@ -257,7 +236,8 @@ p {
   width: min(100%, 720px);
 }
 
-.search input {
+.search input,
+.register-filter input {
   min-width: 0;
   border: 1px solid var(--border-strong);
   border-radius: 3px;
@@ -290,17 +270,6 @@ p {
   border-top: 1px solid var(--border);
 }
 
-.home-workbench-header {
-  display: grid;
-  grid-template-columns: minmax(220px, 0.7fr) minmax(0, 1fr);
-  gap: 20px;
-  align-items: end;
-}
-
-.home-workbench .eyebrow {
-  margin-bottom: 5px;
-}
-
 .home-workbench h2 {
   margin: 0;
 }
@@ -311,11 +280,6 @@ p {
 
 .quick-links {
   margin-bottom: 18px;
-}
-
-.home-links {
-  justify-content: flex-end;
-  margin-bottom: 0;
 }
 
 .metrics {
@@ -367,18 +331,10 @@ p {
 
 .register-filter {
   display: grid;
-  grid-template-columns: minmax(150px, 0.32fr) minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 8px 12px;
   align-items: center;
   margin: 6px 0 0;
-}
-
-.register-filter label {
-  font-weight: 720;
-}
-
-.register-filter .search {
-  width: 100%;
 }
 
 .register-filter [data-register-count] {
@@ -611,10 +567,6 @@ p {
   margin-top: 4px;
 }
 
-.reading {
-  max-width: 860px;
-}
-
 .reading h2 {
   max-width: 76ch;
   margin-top: 0;
@@ -658,10 +610,6 @@ p {
   margin-top: 32px;
   border-top: 1px solid var(--border);
   padding-top: 14px;
-}
-
-.search-results-section {
-  max-width: 860px;
 }
 
 #search-status {
@@ -787,10 +735,6 @@ tr:last-child td {
     padding: 14px 0;
   }
 
-  .hero {
-    padding-top: 28px;
-  }
-
   .hero h1 {
     font-size: clamp(1.85rem, 9vw, 2.4rem);
   }
@@ -799,24 +743,10 @@ tr:last-child td {
     padding-top: 18px;
   }
 
-  .search-panel {
-    padding: 14px;
-  }
-
   .home-workbench {
     gap: 14px;
     margin-top: 20px;
     padding-top: 16px;
-  }
-
-  .home-workbench-header {
-    grid-template-columns: 1fr;
-    gap: 10px;
-    align-items: start;
-  }
-
-  .home-links {
-    justify-content: flex-start;
   }
 
   .page-header {
