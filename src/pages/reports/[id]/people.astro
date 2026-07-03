@@ -4,6 +4,7 @@ import AlphabetNav from '../../../components/AlphabetNav.astro';
 import PageHeader from '../../../components/PageHeader.astro';
 import RegisterFilter from '../../../components/RegisterFilter.astro';
 import { getEntryPeople, getReportEntries, reports } from '../../../lib/data';
+import { createAnchorFactory, personDisplayName as displayName } from '../../../lib/register';
 
 export function getStaticPaths() {
   return reports.map((report) => ({ params: { id: String(report.id) }, props: { report } }));
@@ -17,30 +18,12 @@ for (const entry of getReportEntries(report)) {
   }
 }
 const rows = [...people.values()].sort((a, b) => a.familyName.localeCompare(b.familyName, 'de'));
-const displayName = (person: (typeof rows)[number]) => `${person.familyName} ${person.givenName}`.trim();
-const initialFor = (value: string): string => {
-  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
-  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
-  return replacements[initial] ?? initial;
-};
-const seenInitials = new Set<string>();
-const anchorFor = (value: string): string | undefined => {
-  const initial = initialFor(value);
-  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
-    return undefined;
-  }
-  seenInitials.add(initial);
-  return `report-people-${initial}`;
-};
+const anchorFor = createAnchorFactory('report-people');
 ---
 
 <BaseLayout title={`Personen ${report.year}`}>
-  <PageHeader
-    title={`Personen ${report.year}`}
-    eyebrow={`Bericht ${report.year}`}
-    description={report.title}
-    className="register-tools"
-  >
+  <PageHeader title={`Personen ${report.year}`} className="register-tools">
+    <a class="context-link" href={`/reports/${report.id}`}>Zum Bericht {report.year}</a>
     <RegisterFilter label="Personenverzeichnis durchsuchen" placeholder="Person" countLabel="Personen" />
     <AlphabetNav items={rows} getLabel={(item: any) => displayName(item)} targetPrefix="report-people" />
   </PageHeader>

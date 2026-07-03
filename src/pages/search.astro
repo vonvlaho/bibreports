@@ -2,21 +2,17 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
 import SearchForm from '../components/SearchForm.astro';
-
-const query = Astro.url.searchParams.get('search') ?? '';
 ---
 
 <BaseLayout title="Suche">
   <PageHeader
     title="Suche"
-    eyebrow="Recherche"
     description="Durchsucht Einträge, Registerbegriffe, Personen und Ortsseiten im statischen Bestand."
-    className="search-panel"
   >
-    <SearchForm label="Website durchsuchen" placeholder="Neue Suchanfrage" value={query} />
+    <SearchForm label="Website durchsuchen" placeholder="Neue Suchanfrage" />
   </PageHeader>
   <section class="container section search-results-section">
-    <div id="search-status" class="muted">{query ? 'Suchindex wird geladen ...' : 'Bitte geben Sie eine Suchanfrage ein.'}</div>
+    <div id="search-status" class="muted">Bitte geben Sie eine Suchanfrage ein.</div>
     <div id="search-results"></div>
   </section>
 
@@ -101,7 +97,7 @@ const query = Astro.url.searchParams.get('search') ?? '';
         if (renderedCount < resultRefs.length) {
           const button = document.createElement('button');
           button.id = 'load-more-results';
-          button.className = 'button load-more';
+          button.className = 'button';
           button.type = 'button';
           button.textContent = 'Weitere Treffer anzeigen';
           button.addEventListener('click', renderNextResults);

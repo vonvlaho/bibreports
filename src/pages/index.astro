@@ -32,21 +32,14 @@ const websiteStructuredData = {
 ---
 
 <BaseLayout isHome structuredData={websiteStructuredData}>
+  <section class="hero">
+    <h1>Musikwissenschaftliche Forschung in der DDR 1966–1975</h1>
+    <p>
+      Digitale Reproduktion der <a href="/reports"><em>Berichte über die musikwissenschaftlichen Arbeiten in der Deutschen Demokratischen Republik</em></a>.
+    </p>
+  </section>
   <section class="container section home-workbench">
-    <div class="home-workbench-header">
-      <div>
-        <p class="eyebrow">Recherche</p>
-        <h2>Bestand durchsuchen</h2>
-      </div>
-      <nav class="quick-links home-links" aria-label="Startnavigation">
-        <a href="/reports">Berichte</a>
-        <a href="/keywords">Register</a>
-        <a href="/places">Publikationsorte</a>
-        <a href="/people">Personenverzeichnis</a>
-        <a href="/analytics">Analyse</a>
-        <a href="/about-data">Daten</a>
-      </nav>
-    </div>
+    <h2>Bestand durchsuchen</h2>
     <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
     <MetricGrid metrics={metrics} />
   </section>

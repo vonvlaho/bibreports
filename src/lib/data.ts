@@ -25,8 +25,12 @@ export type Entry = {
   fullTitle: string;
   title: string;
   type: string;
-  seriesTitle: string;
-  issue: string;
+  journal: string;
+  publisher: string;
+  extent: string;
+  org: string;
+  startingYear: string;
+  finishingYear: string;
   publicationYear: string;
   abstract: string;
   people: EntryPerson[];
@@ -44,7 +48,6 @@ export type Person = {
   id: number;
   familyName: string;
   givenName: string;
-  gender: string;
   entries: EntryPersonReference[];
 };
 
@@ -56,8 +59,6 @@ export type EntryPersonReference = {
 export type Place = {
   id: number;
   name: string;
-  latitude: string;
-  longitude: string;
   entryIds: number[];
 };
 
@@ -137,7 +138,6 @@ const getPerson = (sourcePerson: Record<string, unknown>): Person | null => {
     id: nextPersonId++,
     familyName,
     givenName,
-    gender: clean(sourcePerson.gender),
     entries: [],
   };
 
@@ -160,8 +160,6 @@ const getPlace = (name: string): Place | null => {
   const place: Place = {
     id: nextPlaceId++,
     name: placeName,
-    latitude: '',
-    longitude: '',
     entryIds: [],
   };
 
@@ -222,10 +220,18 @@ for (const file of sourceFiles) {
       reportYear,
       fullTitle: clean(sourceEntry.fullTitle),
       title: clean(sourceEntry.title),
-      type: clean(sourceEntry.type),
-      seriesTitle: clean(sourceEntry.seriesTitle),
-      issue: clean(sourceEntry.issue),
-      publicationYear: clean(sourceEntry.publicationYear),
+      // Tag-Tippfehler in den XML-Quellen (tyoe, publicationYaer, finshedYear,
+      // inishedYear, finishedYear) werden hier abgefangen; siehe docs/research-qa.md.
+      type: clean(sourceEntry.type ?? sourceEntry.tyoe),
+      journal: clean(sourceEntry.journal),
+      publisher: clean(sourceEntry.publisher),
+      extent: clean(sourceEntry.extent),
+      org: clean(sourceEntry.org),
+      startingYear: clean(sourceEntry.startingYear),
+      finishingYear: clean(
+        sourceEntry.finishingYear ?? sourceEntry.finishedYear ?? sourceEntry.finshedYear ?? sourceEntry.inishedYear,
+      ),
+      publicationYear: clean(sourceEntry.publicationYear ?? sourceEntry.publicationYaer),
       abstract: clean(sourceEntry.abstract),
       people: [],
       placeIds: [],

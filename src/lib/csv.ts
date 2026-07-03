@@ -18,13 +18,25 @@ export const csvResponse = (body: string): Response =>
 
 export const bibliographyCsv = (): string =>
   rowsToCsv([
-    ['Bericht', 'Eintrag', 'Titel', 'Typ', 'Publikationsjahr'],
-    ...entries.map((entry) => [entry.reportYear, entry.entryNo, entry.fullTitle, entry.type, entry.publicationYear]),
+    ['Bericht', 'Eintrag', 'Titel', 'Typ', 'Publikationsjahr', 'Zeitschrift', 'Verlag', 'Umfang', 'Institution', 'Beginn', 'Ende'],
+    ...entries.map((entry) => [
+      entry.reportYear,
+      entry.entryNo,
+      entry.fullTitle,
+      entry.type,
+      entry.publicationYear,
+      entry.journal,
+      entry.publisher,
+      entry.extent,
+      entry.org,
+      entry.startingYear,
+      entry.finishingYear,
+    ]),
   ]);
 
 export const keywordCsv = (): string =>
   rowsToCsv([
-    ['Bericht', 'Eintrag', 'Titel', 'Keyword'],
+    ['Bericht', 'Eintrag', 'Titel', 'Registerbegriff'],
     ...entries.flatMap((entry) => getEntryKeywords(entry).map((keyword) => [entry.reportYear, entry.entryNo, entry.fullTitle, keyword.name])),
   ]);
 

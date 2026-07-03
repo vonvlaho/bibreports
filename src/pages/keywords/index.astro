@@ -4,27 +4,14 @@ import AlphabetNav from '../../components/AlphabetNav.astro';
 import PageHeader from '../../components/PageHeader.astro';
 import RegisterFilter from '../../components/RegisterFilter.astro';
 import { groupEntriesByYear, keywords } from '../../lib/data';
+import { createAnchorFactory } from '../../lib/register';
 
-const initialFor = (value: string): string => {
-  const initial = value.trim().charAt(0).toLocaleUpperCase('de');
-  const replacements: Record<string, string> = { Ä: 'A', Ö: 'O', Ü: 'U' };
-  return replacements[initial] ?? initial;
-};
-const seenInitials = new Set<string>();
-const anchorFor = (value: string): string | undefined => {
-  const initial = initialFor(value);
-  if (!/^[A-Z]$/.test(initial) || seenInitials.has(initial)) {
-    return undefined;
-  }
-  seenInitials.add(initial);
-  return `register-${initial}`;
-};
+const anchorFor = createAnchorFactory('register');
 ---
 
 <BaseLayout title="Register">
   <PageHeader
     title="Gesamtregister"
-    eyebrow="Register"
     description="Registerbegriffe mit jahresbezogenen Verweisen auf die bibliographischen Einträge."
     className="register-tools"
   >

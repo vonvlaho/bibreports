@@ -1,6 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import CsvExports from '../components/CsvExports.astro';
+import MetricGrid from '../components/MetricGrid.astro';
 import { entries, keywords, people, places, reports } from '../lib/data';
+
+const metrics = [
+  { label: 'Berichte', value: reports.length },
+  { label: 'Einträge', value: entries.length },
+  { label: 'Registerbegriffe', value: keywords.length },
+  { label: 'Personen', value: people.length },
+  { label: 'Publikationsorte', value: places.length },
+];
 
 const datasetStructuredData = {
   '@context': 'https://schema.org',
@@ -51,7 +61,6 @@ const datasetStructuredData = {
   structuredData={datasetStructuredData}
 >
   <section class="container section page-header">
-    <p class="eyebrow">Forschungsdaten</p>
     <h1>Daten und Zitation</h1>
     <p class="lede">
       Die Website stellt eine statisch generierte Forschungsdatenpublikation zu den
@@ -60,12 +69,8 @@ const datasetStructuredData = {
     </p>
   </section>
 
-  <section class="container section grid">
-    <div class="card"><strong>{reports.length}</strong><br />Berichte</div>
-    <div class="card"><strong>{entries.length}</strong><br />Einträge</div>
-    <div class="card"><strong>{keywords.length}</strong><br />Registerbegriffe</div>
-    <div class="card"><strong>{people.length}</strong><br />Personen</div>
-    <div class="card"><strong>{places.length}</strong><br />Publikationsorte</div>
+  <section class="container section">
+    <MetricGrid metrics={metrics} />
   </section>
 
   <section class="container section prose">
@@ -84,12 +89,7 @@ const datasetStructuredData = {
 
   <section class="container section">
     <h2>CSV-Exporte</h2>
-    <div class="link-list">
-      <a href="/berichte.csv"><strong>Bibliographie</strong><span class="muted">Alle Einträge als CSV</span></a>
-      <a href="/keywords.csv"><strong>Registerbegriffe</strong><span class="muted">Einträge und Schlagworte als CSV</span></a>
-      <a href="/people.csv"><strong>Personen</strong><span class="muted">Einträge, Personen und Rollen als CSV</span></a>
-      <a href="/places.csv"><strong>Publikationsorte</strong><span class="muted">Einträge und Orte als CSV</span></a>
-    </div>
+    <CsvExports />
   </section>
 
   <section class="container section prose">

@@ -20,6 +20,6 @@ const name = [person.givenName, person.familyName].filter(Boolean).join(' ');
     description="Kombinationen dieser Person mit Registerbegriffen und Ortsverweisen nach Jahr."
     meta={[`${entryIds.length} verknüpfte Einträge`]}
   />
-  <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(entryIds, 'keywords')} headingLevel="h2" />
-  <AnalyticsTable title="Orte" rows={relatedRowsForEntries(entryIds, 'places')} headingLevel="h2" />
+  <AnalyticsTable title="Registerbegriffe" rows={relatedRowsForEntries(entryIds, 'keywords')} headingLevel="h2" />
+  <AnalyticsTable title="Publikationsorte" rows={relatedRowsForEntries(entryIds, 'places')} headingLevel="h2" />
 </BaseLayout>

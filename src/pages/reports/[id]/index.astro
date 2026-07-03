@@ -14,19 +14,17 @@ const entries = getReportEntries(report);
 <BaseLayout title={`${report.title} ${report.year}`}>
   <PageHeader
     title={`Bericht ${report.year}`}
-    eyebrow="Jahresband"
     description={report.title}
     meta={[
       report.editor ? `Herausgegeben vom ${report.editor}` : '',
       report.publisher,
       `${entries.length} Einträge`,
     ].filter(Boolean)}
-    className="report-header"
   >
     <nav class="nav-links" aria-label="Berichtsregister">
       <a href={`/reports/${report.id}/keywords`}>Register</a>
       <a href={`/reports/${report.id}/people`}>Personen</a>
-      <a href={`/reports/${report.id}/places`}>Orte</a>
+      <a href={`/reports/${report.id}/places`}>Publikationsorte</a>
     </nav>
   </PageHeader>
   <section class="container section">

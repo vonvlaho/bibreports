@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import SearchForm from '../components/SearchForm.astro';
+---
+
+<BaseLayout title="Seite nicht gefunden" searchable={false}>
+  <PageHeader
+    title="Seite nicht gefunden"
+    description="Die aufgerufene Adresse existiert nicht oder nicht mehr."
+  />
+  <section class="container section">
+    <SearchForm label="Website durchsuchen" placeholder="Website durchsuchen" />
+    <nav class="quick-links content" aria-label="Einstiege">
+      <a href="/">Startseite</a>
+      <a href="/reports">Berichte</a>
+      <a href="/keywords">Register</a>
+      <a href="/places">Publikationsorte</a>
+      <a href="/people">Personenverzeichnis</a>
+    </nav>
+  </section>
+</BaseLayout>

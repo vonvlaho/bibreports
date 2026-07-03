@@ -4,9 +4,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { placeRows } from '../../lib/data';
 ---
 
-<BaseLayout title="Orte" searchable={false}>
+<BaseLayout title="Publikationsorte" searchable={false}>
   <AnalyticsTable
-    title="Orte"
+    title="Publikationsorte"
     description="Häufigkeiten der Publikationsorte nach Berichtsjahr."
     rows={placeRows()}
     basePath="/data/place"

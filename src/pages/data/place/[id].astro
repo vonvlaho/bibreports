@@ -18,6 +18,6 @@ const { place } = Astro.props;
     description="Kombinationen dieses Ortsverweises mit Registerbegriffen und Personen nach Jahr."
     meta={[`${place.entryIds.length} verknüpfte Einträge`]}
   />
-  <AnalyticsTable title="Schlagworte" rows={relatedRowsForEntries(place.entryIds, 'keywords')} headingLevel="h2" />
+  <AnalyticsTable title="Registerbegriffe" rows={relatedRowsForEntries(place.entryIds, 'keywords')} headingLevel="h2" />
   <AnalyticsTable title="Personen" rows={relatedRowsForEntries(place.entryIds, 'people')} headingLevel="h2" />
 </BaseLayout>
