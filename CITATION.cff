@@ -6,6 +6,14 @@ date-released: "2026-05-28"
 url: "https://musikwissenschaft-ddr.de"
 repository-code: "https://github.com/vonvlaho/bibreports"
 license: "MIT"
+doi: "10.5281/zenodo.21743989"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21743989"
+    description: "Concept DOI resolving to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.21743990"
+    description: "DOI of version 1.0.0"
 authors:
   - family-names: "von Vlahovits"
     given-names: "Frederic"
@@ -17,4 +25,22 @@ preferred-citation:
       given-names: "Frederic"
   version: "1.0.0"
   date-released: "2026-05-28"
+  doi: "10.5281/zenodo.21743990"
   url: "https://musikwissenschaft-ddr.de"
+references:
+  - type: book
+    title: "Apparat Musikwissenschaft. Eine Geschichte der Musikforschung in der DDR"
+    authors:
+      - family-names: "von Vlahovits"
+        given-names: "Frederic"
+    collection-title: "Methodology of Music Research"
+    volume: 14
+    publisher:
+      name: "Peter Lang"
+      city: "Berlin"
+    year: 2026
+    doi: "10.3726/b23614"
+    isbn: "978-3-631-94863-7"
+    license: "CC-BY-4.0"
+    url: "https://doi.org/10.3726/b23614"
+    notes: "Related publication. This repository is the research application used to index the source corpus of the book."

@@ -5,10 +5,15 @@
   "description": "Static research application for bibliographic data from the reports on musicological work in the GDR, 1966-1975.",
   "version": "1.0.0",
   "datePublished": "2026-05-28",
+  "identifier": "https://doi.org/10.5281/zenodo.21743990",
+  "sameAs": "https://doi.org/10.5281/zenodo.21743989",
   "codeRepository": "https://github.com/vonvlaho/bibreports",
   "url": "https://musikwissenschaft-ddr.de",
   "license": "https://spdx.org/licenses/MIT",
-  "programmingLanguage": ["TypeScript", "Astro"],
+  "programmingLanguage": [
+    "TypeScript",
+    "Astro"
+  ],
   "runtimePlatform": "Static web",
   "applicationCategory": "Digital humanities research application",
   "author": [
@@ -24,5 +29,25 @@
     "bibliography",
     "digital humanities",
     "research data"
-  ]
+  ],
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "Apparat Musikwissenschaft. Eine Geschichte der Musikforschung in der DDR",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Frederic",
+        "familyName": "von Vlahovits"
+      }
+    ],
+    "identifier": "https://doi.org/10.3726/b23614",
+    "url": "https://doi.org/10.3726/b23614",
+    "datePublished": "2026",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Peter Lang"
+    },
+    "isbn": "978-3-631-94863-7",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  }
 }
