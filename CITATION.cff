@@ -12,6 +12,9 @@ identifiers:
     value: "10.5281/zenodo.21743989"
     description: "Concept DOI resolving to the latest version"
   - type: doi
+    value: "10.5281/zenodo.22296464"
+    description: "DOI of version 1.1.0"
+  - type: doi
     value: "10.5281/zenodo.21743990"
     description: "DOI of version 1.0.0"
 authors:
@@ -23,9 +26,9 @@ preferred-citation:
   authors:
     - family-names: "von Vlahovits"
       given-names: "Frederic"
-  version: "1.0.0"
-  date-released: "2026-05-28"
-  doi: "10.5281/zenodo.21743990"
+  version: "1.1.0"
+  date-released: "2026-09-04"
+  doi: "10.5281/zenodo.22296464"
   url: "https://musikwissenschaft-ddr.de"
 references:
   - type: book
