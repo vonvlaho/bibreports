@@ -69,16 +69,19 @@ The former Laravel application is preserved in the Git branch
 
 Recommended citation:
 
-Frederic von Vlahovits, "Musikwissenschaft in der DDR", version v1.0.0, 2026,
-https://musikwissenschaft-ddr.de, https://doi.org/10.5281/zenodo.21743990.
+Frederic von Vlahovits, "Musikwissenschaft in der DDR", version v1.1.0, 2026,
+https://musikwissenschaft-ddr.de, https://doi.org/10.5281/zenodo.22296464.
 
 Each release is archived on Zenodo. Cite the version DOI
-`10.5281/zenodo.21743990` for version v1.0.0, or the concept DOI
-`10.5281/zenodo.21743989` to always resolve to the latest version.
+`10.5281/zenodo.22296464` for version v1.1.0 or `10.5281/zenodo.21743990` for
+version v1.0.0, or the concept DOI `10.5281/zenodo.21743989` to always resolve
+to the latest version.
 
 The related book cites this edition as its research tool; this repository in
 turn cites the book via `CITATION.cff` (`references`) and `.zenodo.json`
-(`related_identifiers`, `isSupplementTo` 10.3726/b23614).
+(`related_identifiers`, `isSupplementTo` 10.3726/b23614). Book, code and data
+thus reference each other: 10.3726/b23614 for the book,
+10.5281/zenodo.22296464 for this version of the code and data.
 
 Machine-readable citation metadata is available in `CITATION.cff`.
 
