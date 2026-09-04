@@ -1,9 +1,24 @@
 # Musikwissenschaft in der DDR
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21743989.svg)](https://doi.org/10.5281/zenodo.21743989)
+
 Static research application for bibliographic data from the reports on
 musicological work in the GDR, 1966-1975.
 
 The public site is available at https://musikwissenschaft-ddr.de.
+
+## Related publication
+
+This edition was built as the research tool for a doctoral dissertation. It is
+the instrument with which the source corpus for that book was indexed and made
+searchable.
+
+Frederic von Vlahovits, *Apparat Musikwissenschaft. Eine Geschichte der
+Musikforschung in der DDR* (Methodology of Music Research 14), Berlin: Peter
+Lang 2026, 398 pp. ISBN 978-3-631-94863-7 (hardcover), 978-3-631-94864-4
+(ePDF), 978-3-631-94865-1 (ePUB). https://doi.org/10.3726/b23614
+
+The book is published Open Access under CC BY 4.0.
 
 ## Data and Method
 
@@ -55,7 +70,15 @@ The former Laravel application is preserved in the Git branch
 Recommended citation:
 
 Frederic von Vlahovits, "Musikwissenschaft in der DDR", version v1.0.0, 2026,
-https://musikwissenschaft-ddr.de.
+https://musikwissenschaft-ddr.de, https://doi.org/10.5281/zenodo.21743990.
+
+Each release is archived on Zenodo. Cite the version DOI
+`10.5281/zenodo.21743990` for version v1.0.0, or the concept DOI
+`10.5281/zenodo.21743989` to always resolve to the latest version.
+
+The related book cites this edition as its research tool; this repository in
+turn cites the book via `CITATION.cff` (`references`) and `.zenodo.json`
+(`related_identifiers`, `isSupplementTo` 10.3726/b23614).
 
 Machine-readable citation metadata is available in `CITATION.cff`.
 
